@@ -2,6 +2,9 @@
   "iai_name": "ImmaterialAI",
   "iai_headline": "Welcome to the new you",
 
+  "appbar_search_all": "Search through data & content",
+  "appbar_search_data": "Search through data",
+
 
   "tutorial_health_page1_headline": "Tutorial",
   "tutorial_health_page1_title": "Welcome to ImmaterialAI",
@@ -96,6 +99,8 @@
   "settings_clear_user_library":"Clear user library",
   "settings_hide_future_locked_content_on":"Show all locked features",
   "settings_hide_future_locked_content_off":"Hide future locked features",
+  "settings_language": "Change language",
+  "settings_language_remove": "Remove custom language",
   "settings_exit":"Exit platform",
 
   "box_library":"Library",
@@ -149,6 +154,8 @@
   "box_dependency_tree":"Dependency graph",
   "box_dependency_tree_sub_title":"AI function relying on 'depends on' links, in node details",
   "box_rich_text":"Rich text",
+  "box_check_for_link":"Check for link",
+  "box_check_for_link_sub_title":"between any 2 nodes",
   "box_rich_text_sub_title":"Format your nodes' descriptions with Markdown",
   "box_clusters":"Clusters",
   "box_clusters_sub_title":"How your mind is structured",
@@ -205,7 +212,7 @@
   "default_lt_tasks": "Tasks",
   "default_lt_tasks_src_text": "is in task list",
 
-  "default_lt_public_data": "Pulbic data On/Off",
+  "default_lt_public_data": "Public data On/Off",
   "default_lt_public_data_src_text": "is public data",
   "default_lt_public_data_tar_text": "-",
 
@@ -438,20 +445,7 @@
       }
     }
   },
-  "helloWorld": "Welcome to ImmaterialAI 3",
-  "@helloWorld": {
-    "description": "Some description about the link"
-  },
-  "hello": "Hello {userName}",
-  "@hello": {
-    "description": "A message with a single parameter",
-    "placeholders": {
-      "userName": {
-        "type": "String",
-        "example": "World"
-      }
-    }
-  },
+
   "ur_unravel_save": "Save",
   "ur_unravel_restart": "Restart",
   "ur_unravel_back_home": "Back",
