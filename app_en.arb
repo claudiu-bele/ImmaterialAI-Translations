@@ -1,0 +1,686 @@
+{
+  "iai_name": "ImmaterialAI",
+  "iai_headline": "Welcome to the new you",
+
+
+  "tutorial_health_page1_headline": "Tutorial",
+  "tutorial_health_page1_title": "Welcome to ImmaterialAI",
+  "tutorial_health_page1_description": "Overcome everything negative today",
+  "tutorial_health_page1_more": "no tracking, data never leaves your device, all AI logic runs locally",
+
+  "tutorial_health_page2_headline": "Nodes",
+  "tutorial_health_page2_title": "Track what affects you",
+  "tutorial_health_page2_description": "Map memories, beliefs, feelings, thoughts, expectations, fears and more to individual nodes",
+  "tutorial_health_page2_more": "create new classifications by making your own node types",
+
+  "tutorial_health_page3_headline": "Links",
+  "tutorial_health_page3_title": "Track what affects you",
+  "tutorial_health_page3_description": "Map memories, beliefs, feelings, thoughts, expectations, fears and more to individual nodes",
+  "tutorial_health_page3_more": "implement new semantics by making your own types of links with their own rules",
+
+  "tutorial_health_page4_headline": "AI",
+  "tutorial_health_page4_title": "Change the story",
+  "tutorial_health_page4_description": "Assumptions and appearances dissappear in the light of truth",
+  "tutorial_health_page4_more": "our AIs and tools leverage your nodes and links in different ways to help you gain life-changing insights on multiple levels",
+
+  "tutorial_health_page5_headline": "Home page",
+  "tutorial_health_page5_title": "Find everything in one place",
+  "tutorial_health_page5_description": "Unlock more advanced features in your path as you use the platform",
+  "tutorial_health_page5_more": "we support portrait and landscape, try it out!",
+
+
+  "steam_free_live_on_plus": "ImmaterialAI Plus\nlive on Steam",
+  "steam_free_soon_on_plus": "Soon on ImmaterialAI Plus\nlive on Steam",
+  "app_free_live_on_plus": "ImmaterialAI Plus\nonly",
+  "app_free_soon_on_plus": "Coming soon to\nImmaterialAI Plus",
+
+  "home_old_me_disabled":"No 'New'/'Old' me filtering",
+  "home_old_me_new": "'New me' library",
+  "home_old_me_old": "'Old me' library",
+  "home_old_me_all": "Full library",
+
+  "path_title": "ImmaterialAI fits many gloves",
+  "path_sub_title": "choose your main use",
+
+  "path_overcome_name":"Overcome",
+  "path_overcome_sub_title":"understand and transcend",
+  "path_overcome_description_header":"Overcome mental issues",
+  "path_overcome_description":"From an early age we are taught how we should act and react to different situations or what feelings and states are valid. It starts in childhood with positive and negative reinforcement, and the glossary of presuppositions keeps growing, be it from observing life around us, our community, partners, media, ads, you name it. In all cases one event or idea does not have to lead to a negative state, and that's what Overcome is here to help you understand.\n\nThis includes traumatic events, mental illnesses, overthinking, worries, fear and more.\n\nDecluttering of those implied cause and effect chains, and in general, of the idea that any one thing must lead to a specific another, provides a previously-unknown level of control over negative or limiting thoughts. You might even catch yourself going through the same cycles after processing them, the story now being different - thoughts arise, now within the awareness that the damaging thoughts were a negative path of assumptions you previously followed that since changed. With repetition the new conclusions strengthen and there will be no inner battle over where you stand on a topic.",
+  "path_overcome_quote":"There is nothing good or bad but thinking makes it so",
+  "path_overcome_quote_author":"William Shakespeare",
+
+  "path_beyond_name":"Beyond",
+  "path_beyond_sub_title":"understand and transcend",
+  "path_beyond_description_header":"Go beyond old perception",
+  "path_beyond_description":"Beyond emphasizes how quick we can be at assigning ourselves to symbolic concepts, concepts that carry with them ambiguity, strengths and weaknesses, certainties and impossibilities. Detaching ourselves from ideas - vague or concrete - allows us to see the world and ourselves clearer every time.\n\nMany sources would gladly tell you who they think you are or what they think you need, with Beyond you can easily see beyond the noise and implied truths so you can live your best life.\n\nBased on ancient and state of the art new teachings, Beyond enables you to peer into the world beyond concepts, effectively helping you easily shed the unwanted by exposing its true nature.",
+  "path_beyond_quote":"You don't want a million answers as much as you want a few forever questions. The questions are diamonds you hold in the light. Study a lifetime and you see different colors from the same jewel. The same questions, asked again, bring you just the answers you need just the minute you need them",
+  "path_beyond_quote_author":"Richard Bach",
+
+  "path_breakthrough_name":"Breakthrough",
+  "path_breakthrough_sub_title":"deconstruct reality and systems",
+  "path_breakthrough_description_header":"Reality under a microscope",
+  "path_breakthrough_description":"Many ideas prevalent in popular culture are mere aggregates of ideas wrapped in often incomplete stories. Breakthrough rekindles the wondering flame of \"why\" and \"why not\" in order to demistify what are fundamentally incomplete theories touted as facts, clearly apparent once we look beyond their initial layers of reasoning.\n\nBreakthrough asks us to look beyond the stories of the concepts we hold onto in order to see them in a new clearer light. On first notice, many concepts about the self or the world are brutal, unforgiving, yet dig deeper and the story changes.\n\nYou'll be surprised at the real validity of your previous knowledge. Many old truths will show up as really unknowns, untruths or logical fallacies, enabling you to consciously get rid of them and find new possibilities and alternatives",
+  "path_breakthrough_quote":"Follow your bliss and the universe will open doors where there were only walls.",
+  "path_breakthrough_quote_author":"Joseph Campbell",
+
+  "path_create_name":"Create",
+  "path_create_sub_title":"map data in over infinite dimensions",
+  "path_create_description_header":"Create universes of concepts",
+  "path_create_description":"Unlike any other user data tools which organize data in lists, tables or documents, your ImmaterialAI data organically resembles the structure of the brain and the universe, allowing you to map data in more than infinite dimensions.\n\nIn ImmaterialAI each node of information works like a neuron, while links between them like synapses. Connect them and see how deeply they directly and indirectly connect with eachother.",
+  "path_create_quote":"The real voyage of discovery consists not in seeking new landscapes, but in having new eyes.",
+  "path_create_quote_author":"Marcel Proust",
+
+
+
+  "settings_cat_graphics_performance":"Graphics & Performance",
+  "settings_full_screen":"Full screen",
+  "settings_page_mode":"Page mode",
+  "settings_skin":"Select skin",
+  "settings_skin_default":"Default",
+  "settings_skin_inverse":"Inverse",
+  "settings_background":"Select background image",
+  "settings_background_remove":"Remove",
+  "settings_background_select":"Select image",
+  "settings_high_quality_transitions":"High quality transitions",
+  "settings_change_menu_left_right":"Change menu from left to right",
+
+  "settings_cat_other":"Other",
+  "settings_see_licenses":"See licenses",
+
+  "settings_cat_general":"General",
+  "settings_animations":"Animations",
+  "settings_change_ui_mode":"Change UI mode",
+  "settings_performance_mode":"Performance mode",
+  "settings_different_user_path":"Select different user path",
+  "settings_restart_tutorial":"Restart tutorial",
+  "settings_clear_user_library":"Clear user library",
+  "settings_hide_future_locked_content_on":"Show all locked features",
+  "settings_hide_future_locked_content_off":"Hide future locked features",
+  "settings_exit":"Exit platform",
+
+  "box_library":"Library",
+  "box_settings":"Settings",
+  "box_add_n":"New node",
+  "box_add_n_sub_title":"Anything you can name",
+  "box_add_nt":"New node type",
+  "box_add_nt_sub_title":"Concept groups e.g. 'Entities', 'Events'",
+  "box_add_l":"New link",
+  "box_add_l_sub_title":"Connect any two concepts",
+  "box_add_lt":"New link type",
+  "box_add_lt_sub_title":"Types of links e.g. 'Parent/Child'",
+
+
+  "box_student":"Student",
+  "box_student_sub_title":"Unlock Absolute Origin, Bundles, Focus and Node Ancestry",
+  "box_teacher":"Teacher",
+  "box_teacher_sub_title":"Unlock Favorites, New/Old me, Big Picture, Find link and Is It Real?",
+  "box_800_teachers":"800 teachers",
+  "box_800_teachers_sub_title":"Unlock Tasks, Meta Models, All AI Flows, Clusters, intuition training, and more",
+  "box_return_to_bliss":"Return to Bliss",
+  "box_return_to_bliss_sub_title":"Main quest with challenges, tiered progress, bonus unlocks, timed exclusives & more",
+
+
+  "box_direct_links":"Direct links",
+  "box_direct_links_sub_title":"Easily link two nodes from inside any node",
+
+  "box_tasks":"Task board",
+  "box_tasks_sub_title":"Keep track of what needs to be done",
+  "box_tasks_filter":"Task filter",
+  "box_tasks_filter_sub_title":"Filter tasks from your home page",
+
+  "box_absolute_origin":"Absolute origin",
+  "box_absolute_origin_sub_title":"AI function relying on 'proof' links, in node details",
+  "box_bundles":"Bundles",
+  "box_bundles_sub_title":"Keep track of what needs to be done",
+  "box_backups":"Backups",
+  "box_backups_sub_title":"Import / Export",
+  "box_backups_import":"Import file",
+  "box_backups_import_sub_title":"Restore ImmaterialAI 2 & 3 files",
+  "box_backups_import_text":"Import text",
+  "box_backups_import_text_sub_title":"Paste text here",
+  "box_backups_export":"Export file",
+  "box_backups_export_sub_title":"Save all your data to a file",
+  "box_backups_export_text":"Export text",
+  "box_backups_export_text_sub_title":"Copy the resulting text and store it wherever you want",
+  "box_big_picture":"Big picture",
+  "box_big_picture_sub_title":"Explore universes of concepts",
+  "box_is_it_real":"It it real?",
+  "box_is_it_real_sub_title":"AI function relying on 'proof' links, in node details",
+  "box_dependency_tree":"Dependency graph",
+  "box_dependency_tree_sub_title":"AI function relying on 'depends on' links, in node details",
+  "box_rich_text":"Rich text",
+  "box_rich_text_sub_title":"Format your nodes' descriptions with Markdown",
+  "box_clusters":"Clusters",
+  "box_clusters_sub_title":"How your mind is structured",
+  "box_sanity_check":"Sanity check",
+  "box_sanity_check_sub_title":"Check for issues in your library",
+  "box_quantum_field":"Quantum field",
+  "box_quantum_field_sub_title":"See the whole",
+  "box_train_intuition":"Train your intuition",
+  "box_train_intuition_sub_title":"Precognition & more!",
+
+  "box_presentation_mode":"Presentation mode",
+  "box_presentation_mode_sub_title":"Hide personal data when using the platform",
+  "box_quantum_noise":"Quantum noise",
+  "box_sugar_pills":"Sugar pills",
+  "box_sugar_pills_sub_title":"Induce placebos willingly",
+
+  "box_focus":"Focus",
+  "box_focus_sub_title":"Access focused concepts from home",
+  "box_node_ancestry":"Node ancestry",
+  "box_node_ancestry_sub_title":"AI function relying on 'parent' links, in node details",
+  "box_favorites":"Favorites",
+  "box_fav_sub_title":"In node details",
+  "box_old_me":"New/Old me",
+
+
+  "default_nt_internal_all": "All",
+  "default_nt_internal_journey": "Path",
+  "default_nt_internal_system": "Internal",
+  "default_nt_concept": "Concept",
+  "default_nt_system": "System",
+  "default_nt_feeling": "Feeling",
+  "default_nt_thought": "Thought",
+  "default_nt_effect": "Effect",
+  "default_nt_event": "Event",
+  "default_nt_quote": "Quote",
+  "default_nt_entity": "Entity",
+  "default_nt_study": "Study",
+  "default_nt_note": "Note",
+  "default_nt_insight": "Insight",
+
+  "default_n_nothing": "Nothing",
+  "default_n_dont_know": "Don't know",
+  "default_n_everything": "Currently unknown",
+
+  "default_lt_favorite": "Favorite",
+  "default_lt_favorite_src_text": "is marked favorite",
+
+  "default_lt_focus": "Focus",
+  "default_lt_focus_src_text": "is marked as focused",
+
+  "default_lt_old_me": "Old me",
+  "default_lt_old_me_src_text": "is marked as 'old me'",
+
+  "default_lt_tasks": "Tasks",
+  "default_lt_tasks_src_text": "is in task list",
+
+  "default_lt_public_data": "Pulbic data On/Off",
+  "default_lt_public_data_src_text": "is public data",
+  "default_lt_public_data_tar_text": "-",
+
+  "default_lt_parent": "Parent/Child",
+  "default_lt_parent_src_text": "is parent of",
+  "default_lt_parent_tar_text": "is child of",
+
+  "default_lt_proof": "Proof",
+  "default_lt_proof_src_text": "is proven by",
+  "default_lt_proof_tar_text": "proves",
+
+  "default_lt_source": "Source",
+  "default_lt_source_src_text": "is source of",
+  "default_lt_source_tar_text": "has source",
+
+  "default_lt_cause_effect": "Cause/Effect",
+  "default_lt_cause_effect_src_text": "causes",
+  "default_lt_cause_effect_tar_text": "caused by",
+
+  "default_lt_related": "Related to",
+  "default_lt_related_src_tar_text": "related to",
+
+  "default_lt_equality": "Is",
+  "default_lt_equality_src_tar_text": "is",
+
+  "default_lt_parallel": "Parallel",
+  "default_lt_parallel_src_tar_text": "has parallel",
+
+  "default_lt_analog": "Analog",
+  "default_lt_analog_desc": "Something that bears an analogy to something else",
+  "default_lt_analog_src_tar_text": "is analogous to",
+
+  "default_lt_dependency": "Dependencies",
+  "default_lt_dependency_src_text": "is dependency of",
+  "default_lt_dependency_tar_text": "depends on",
+
+  "n_tab_details": "Details",
+  "n_tab_ai": "AI",
+  "n_tab_big_picture": "Big Picture",
+
+  "n_hint_name":"Name",
+  "n_hint_subtitle":"Subtitle",
+  "n_hint_desc":"Description",
+  "n_hint_plus_view":"View",
+  "n_hint_plus_edit":"Edit",
+  "n_deleting": "Deleting node",
+
+  "n_focus_general":"Focus",
+  "n_focus_off":"Add focus",
+  "n_focus_on":"Focused",
+
+  "home_tasks_disabled": "Tap to show tasks",
+  "tasks_general": "Tasks",
+  "tasks_create_task": "Create task",
+  "tasks_todo": "To do",
+  "tasks_in_progress": "In progress",
+  "tasks_done": "Done",
+  "tasks_all": "ALl tasks",
+
+  "n_public_general": "Public data",
+  "n_public_data_on": "Public data",
+  "n_public_data_off": "Private data",
+
+  "n_favorite_general":"Favorites",
+  "n_favorite_off":"Add favorite",
+  "n_favorite_on":"Favorite",
+
+  "n_old_me_general":"Old/New me",
+  "n_old_me_off":"New me",
+  "n_old_me_on":"Old me",
+
+  "n_ancestry_src": "Direct children",
+  "n_ancestry_tar": "Direct parents",
+  "n_dependency_title": "Dependencies",
+  "n_dependency_desc": "items on the right are dependent on items on the left",
+  "n_dependency_src": "Directly depended on by",
+  "n_dependency_tar": "Directly depends on",
+  "n_is_it_real_no_hierarcy": "Inconclusive\nconcept missing 'proof' link",
+  "n_is_it_real_self_ref": "Currently unknown\nfound self-referencing concepts",
+  "n_is_it_real_nothing": "Not real\nfound proof \n'Nothing\n'",
+  "n_is_it_real_known_unknown": "Known unknown\nFound proof 'Currently unknown'",
+  "n_is_it_real_incomplete": "Inconclusive\nconnected concepts missing 'proof' link",
+
+  "general_types": "Types",
+  "general_copy_to_clipboard" : "Copy to clipboard",
+  "general_export" : "Export",
+
+  "general_yes": "Yes",
+  "general_no": "No",
+  "general_button_on": "ON",
+  "general_button_off": "OFF",
+  "general_button_next": "NEXT",
+  "general_button_done": "DONE",
+  "general_button_prev": "PREV",
+  "general_button_back": "BACK",
+  "general_button_start": "START",
+  "general_button_more": "SEE MORE",
+  "general_coming_soon": "COMING SOON",
+  "general_coming_soon_plus": "SOON, Plus only",
+  "general_coming_soon_plus_alt": "COMING SOON TO PLUS",
+  "general_unlocks_at_level_plus": "PLUS ONLY, LEVEL ${level}",
+  "@general_unlocks_at_level_plus": {
+    "description": "level",
+    "placeholders": {
+      "level": {
+        "type": "int",
+        "example": "2"
+      }
+    }
+  },
+  "general_plus_only": "Plus only",
+  "general_are_you_sure": "Are you sure?",
+  "general_unlocks_at_level": "Unlocks at level {level}",
+  "@general_unlocks_at_level": {
+    "description": "level",
+    "placeholders": {
+      "level": {
+        "type": "int",
+        "example": "2"
+      }
+    }
+  },
+  "general_unlocks_at_level_short": "Unlocks at {level}",
+  "@general_unlocks_at_level_short": {
+    "description": "level",
+    "placeholders": {
+      "level": {
+        "type": "int",
+        "example": "2"
+      }
+    }
+  },
+  "general_unlocks_at_level_2line": "Unlocks at\nlevel {level}",
+  "@general_unlocks_at_level_2line": {
+    "description": "level",
+    "placeholders": {
+      "level": {
+        "type": "int",
+        "example": "2"
+      }
+    }
+  },
+  "general_level": "Level {level}",
+  "@general_level": {
+    "description": "level",
+    "placeholders": {
+      "level": {
+        "type": "int",
+        "example": "2"
+      }
+    }
+  },
+  "general_time_created": "created",
+  "general_time_updated": "updated",
+  "general_moments_ago": "moments ago",
+  "general__time__one_second": "1 second ago",
+  "general__time__seconds": "{seconds} seconds ago",
+  "@general__time__seconds": {
+    "description": "Distance in seconds",
+    "placeholders": {
+      "seconds": {
+        "type": "int",
+        "example": "2"
+      }
+    }
+  },
+  "general__time__one_minute": "1 minute ago",
+  "general__time__minute": "{minutes} minutes ago",
+  "@general__time__minute": {
+    "description": "Distance in minutes",
+    "placeholders": {
+      "minutes": {
+        "type": "int",
+        "example": "2"
+      }
+    }
+  },
+  "general__time__one_hour": "1 hour ago",
+  "general__time__hour": "{hours} hours ago",
+  "@general__time__hour": {
+    "description": "Distance in hours",
+    "placeholders": {
+      "hours": {
+        "type": "int",
+        "example": "2"
+      }
+    }
+  },
+  "general__time__one_day": "1 day ago",
+  "general__time__day": "{days} days ago",
+  "@general__time__day": {
+    "description": "Distance in days",
+    "placeholders": {
+      "days": {
+        "type": "int",
+        "example": "2"
+      }
+    }
+  },
+  "general__time__one_week": "1 week ago",
+  "general__time__week": "{weeks} weeks ago",
+  "@general__time__week": {
+    "description": "Distance in weeks",
+    "placeholders": {
+      "weeks": {
+        "type": "int",
+        "example": "2"
+      }
+    }
+  },
+  "general__time__one_month": "1 month ago",
+  "general__time__month": "{months} months ago",
+  "@general__time__month": {
+    "description": "Distance in months",
+    "placeholders": {
+      "months": {
+        "type": "int",
+        "example": "2"
+      }
+    }
+  },
+  "general__time__one_year": "1 year ago",
+  "general__time__year": "{years} years ago",
+  "@general__time__year": {
+    "description": "Distance in years",
+    "placeholders": {
+      "years": {
+        "type": "int",
+        "example": "2"
+      }
+    }
+  },
+  "helloWorld": "Welcome to ImmaterialAI 3",
+  "@helloWorld": {
+    "description": "Some description about the link"
+  },
+  "hello": "Hello {userName}",
+  "@hello": {
+    "description": "A message with a single parameter",
+    "placeholders": {
+      "userName": {
+        "type": "String",
+        "example": "World"
+      }
+    }
+  },
+  "ur_unravel_save": "Save",
+  "ur_unravel_restart": "Restart",
+  "ur_unravel_back_home": "Back",
+  "ur_unravel_restart_first_item": "From first item",
+  "ur_unravel_answer_selected": "Selected \"{item}\"",
+  "@ur_unravel_answer_selected": {
+    "placeholders": {
+      "item": {
+        "type": "String",
+        "example": "idea"
+      }
+    }
+  },
+  "ur_deconstruct_card_title": "Deconstruct",
+  "ur_deconstruct_card_sub": "Deconstruct concepts",
+  "ur_deconstruct_card_desc": "Navigate sources and origins",
+  "ur_reshape_card_title": "Reshape",
+  "ur_reshape_card_sub": "Reshape emotional responses",
+  "ur_reshape_card_desc": "Change your reaction",
+  "ur_iam_card_title": "I Am …",
+  "ur_iam_card_sub": "Who does your mind say you are?",
+  "ur_iam_card_desc": "See beyond concepts",
+  "ur_deconstruct_title": "What do you want to deconstruct?",
+  "ur_deconstruct_desc": "Search for the node or enter new node name",
+  "ur_deconstruct_cont_title": "What's the source of it/ what makes it real?",
+  "ur_deconstruct_cont_desc": "Is it just a story? Can it change?",
+  "ur_deconstruct_action_select": "Select",
+  "ur_deconstruct_action_existing": "Existing",
+  "ur_deconstruct_action_existing_pattern": "({item})",
+  "@ur_deconstruct_action_existing_pattern": {
+    "placeholders": {
+      "item": {
+        "type": "String",
+        "example": "idea"
+      }
+    }
+  },
+  "ur_deconstruct_action_nothing": "Nothing",
+  "ur_deconstruct_action_dontknow": "Unknown",
+  "ur_deconstruct_answer_dontknow": "Uncertain of the source",
+  "ur_deconstruct_answer_nothing": "No source of existence",
+  "ur_deconstruct_answer_circular": "Circular dependency",
+  "ur_deconstruct_answer_selfref": "Self reference",
+  "ur_reshape_action_next_select": "Select",
+  "ur_reshape_action_next_end": "End",
+  "ur_reshape_start_title": "What current negative feeling do you want to overcome?",
+  "ur_reshape_start_description": "Search for an existing feeling or enter name for a new one",
+  "ur_reshape_cause_title": "What makes you feel \"{feeling}\"?",
+  "@ur_reshape_cause_title": {
+    "placeholders": {
+      "feeling": {
+        "type": "String",
+        "example": "feels"
+      }
+    }
+  },
+  "ur_reshape_cause_description": "A situation, a memory, an event that brought that feeling to mind",
+  "ur_reshape_new_effect_title": "That shouldn’t necessarily make you feel \"{feeling}\", don't do that to yourself. Any better ways you can look at it?",
+  "@ur_reshape_new_effect_title": {
+    "placeholders": {
+      "feeling": {
+        "type": "String",
+        "example": "Feels"
+      }
+    }
+  },
+  "ur_reshape_new_effect_description": "Look at the situation from a brighter place. Search or create the feeling",
+  "ur_reshape_new_effect_dialog": "What's a better way to feel about \"{situation}\"?",
+  "@ur_reshape_new_effect_dialog": {
+    "placeholders": {
+      "situation": {
+        "type": "String",
+        "example": "Feels"
+      }
+    }
+  },
+  "ur_reshape_new_effect_cause_title": "What makes you feel \"{feeling}\" about it?",
+  "@ur_reshape_new_effect_cause_title": {
+    "placeholders": {
+      "feeling": {
+        "type": "String",
+        "example": "Feels"
+      }
+    }
+  },
+  "ur_reshape_new_effect_cause_description": "Describe the angle on \"{situation}\" that brought you to \"{feeling}\"",
+  "@ur_reshape_new_effect_cause_description": {
+    "placeholders": {
+      "situation": {
+        "type": "String",
+        "example": "Some event"
+      },
+      "feeling": {
+        "type": "String",
+        "example": "feels"
+      }
+    }
+  },
+  "ur_reshape_end_title": "You have changed how you feel about \"{situation}\"!",
+  "@ur_reshape_end_title": {
+    "placeholders": {
+      "situation": {
+        "type": "String",
+        "example": "Some event"
+      }
+    }
+  },
+  "ur_reshape_end_subtitle": "{feel1} -> {feel2}",
+  "@ur_reshape_end_subtitle": {
+    "placeholders": {
+      "feel1": {
+        "type": "String",
+        "example": "Old feel"
+      },
+      "feel2": {
+        "type": "String",
+        "example": "New feel"
+      }
+    }
+  },
+  "ur_reshape_end_description": "You can select what idea brought you \"{feeling}\" out of \"{situation}\", or tap \"finish\" to end the flow.",
+  "@ur_reshape_end_description": {
+    "placeholders": {
+      "feeling": {
+        "type": "String",
+        "example": "feels"
+      },
+      "situation": {
+        "type": "String",
+        "example": "Some event"
+      }
+    }
+  },
+  "ur_reshape_end_action": "Finish",
+  "ur_reshape_result_changed_title": "Reshaped",
+  "ur_reshape_result_changed_desc": "You changed how you feel about \"{feeling}\".\n\nYou can follow this process whenever you encounter negativity in your perception",
+  "@ur_reshape_result_changed_desc": {
+    "placeholders": {
+      "feeling": {
+        "type": "String",
+        "example": "feels"
+      }
+    }
+  },
+  "ur_reshape_result_changed_optional_desc": "You changed how you feel about \"{feeling}\", also uncovering the belief about the event affecting you. \n\nYou can follow this process whenever you encounter negativity in your perception",
+  "@ur_reshape_result_changed_optional_desc": {
+    "placeholders": {
+      "feeling": {
+        "type": "String",
+        "example": "feels"
+      }
+    }
+  },
+  "ur_iam_answer_end_flow": "Ended",
+  "ur_iam_title": "What are you?",
+  "ur_iam_desc": "Anything you consider to be negative and true about yourself",
+  "ur_iam_cont_title": "You are not '{concept}'",
+  "@ur_iam_cont_title": {
+    "placeholders": {
+      "concept": {
+        "type": "String",
+        "example": "Memes"
+      }
+    }
+  },
+  "ur_iam_cont_desc": "'{concept}' is just a concept, you are beyond that. Select something else or tap 'end' to end the flow",
+  "@ur_iam_cont_desc": {
+    "placeholders": {
+      "concept": {
+        "type": "String",
+        "example": "Memes"
+      }
+    }
+  },
+  "ur_iam_action_select": "Select",
+  "ur_iam_action_next_select": "Select",
+  "ur_iam_action_next_end": "End",
+  "ur_iam_answer_end": "You are not those concepts",
+  "ur_deconstruct_result__dontknow": "As you can't find fundamental source of  \"{concept}\", you can detach from it. Your situation might be different, the opposite, or might not exist as you knew it.\n\nDig deeper for what actually happened",
+  "@ur_deconstruct_result__dontknow": {
+    "placeholders": {
+      "concept": {
+        "type": "String",
+        "example": "some idea"
+      }
+    }
+  },
+  "ur_deconstruct_result__nothing": "A few steps was all that was needed for \"{concept}\" to fall apart",
+  "@ur_deconstruct_result__nothing": {
+    "placeholders": {
+      "concept": {
+        "type": "String",
+        "example": "Memes"
+      }
+    }
+  },
+  "ur_deconstruct_result__circular": "Warning: A source earlier in your explanation is used as the last item in the explanation",
+  "ur_deconstruct_result__selfref": "Warning: The last item you added is source of itself.",
+  "ur_iam_result__iam_end": "You and the world are not any of the concepts you entered, the real story is beyond any definition!",
+  "home_unlocks_at": "Unlocks at level {level}",
+  "@home_unlocks_at": {
+    "placeholders": {
+      "level": {
+        "type": "String",
+        "example": "20"
+      }
+    }
+  },
+
+  "rtb_title": "Return to Bliss",
+  "rtb_subtitle": "an ImmaterialAI experiment",
+  "rtb_intro_desc": "The purpose of this experiment is to help you overcome all current distortions e.g. incorrect facts, negative beliefs, jumping to conclusions, self-imposed limits and damaging mentalities. \n\nThat's what the inner quests are for, go through all of them on Platinum and you will have left no stone unturned. ",
+  "rtb_intro_warning": "\n\n\nWarning, this might change how you see everything,\nthere is no undoing starting this process,\n\n\nOnce started, we recommend setting aside a few hours and finishing each mission on Diamond in one go.\n",
+
+  "rtb_missions_title": "Missions",
+  "rtb_missions_desc": "Completing the Diamond tier of all missions will provide you the perspective to overcome all current distortions and pain - all stemming from incorrect facts, negative beliefs, jumping to conclusions, self-imposed limits and similar error-prone ultimately damaging mentalities.",
+  "rtb_missions_reminder": "Reminder: your data never leaves your device, it stays ONLY with you",
+
+  "rtb_incomplete": "INCOMPLETE",
+  "rtb_mark_as_done": "MARK AS DONE AFTER COVERING ALL GROUND",
+  "rtb_done": "MARK AS DONE AFTER COVERING ALL GROUND",
+
+  "rtb_diamond_disclaimer": "Mark quests in their Diamond tier as 'done' only after you have left no stone unturned.",
+  "rtb_insights":"Unlocked Insights",
+  "rtb_insights_desc": "Win insights every time you complete a mission tier, 24 in total",
+  "rtb_timed_awards_title": "Bonus timed awards",
+  "rtb_timed_awards_desc": "Finish all missions on Gold and Diamond tiers before 1st of June to unlock",
+  "rtb_blarg": "Blarg the Orc",
+  "rtb_blarg_desc": "alternative 'I Am' AI flow",
+  "rtb_skin": "Return to Bliss",
+  "rtb_skin_desc": "UI skin, Plus only"
+}
