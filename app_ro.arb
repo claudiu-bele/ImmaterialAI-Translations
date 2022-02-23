@@ -1,6 +1,6 @@
 {
   "iai_name": "ImmaterialAI",
-  "iai_headline": "Bine ați venit la noul dvs.",
+  "iai_headline": "Bine ai venit la noul TU",
 
 
   "appbar_search_all": "Caută prin date și unelte",
@@ -99,7 +99,7 @@
   "box_student": "Student",
   "box_student_sub_title": "Deblocați Originea Absolută, Pachete, Focalizarea și Ascendența Nodului",
   "box_teacher": "Profesor",
-  "box_teacher_sub_title": "Deblocați Prefarate, Nou/Vechi, Imagine de ansamblu, Cauta conexiune și Este real?",
+  "box_teacher_sub_title": "Deblocați Prefarate, Nou/Vechi, Privire de ansamblu, Caută conexiune și Este real?",
   "box_800_teachers": "800 de profesori",
   "box_800_teachers_sub_title": "Deblocați sarcini, metamodele, toate fluxurile AI, clustere, antrenament intuiție și multe altele",
   "box_return_to_bliss": "Înapoi la fericire",
@@ -124,7 +124,7 @@
   "box_backups_export_sub_title": "Salvați toate date într-un fișier",
   "box_backups_export_text": "Exportați text",
   "box_backups_export_text_sub_title": "Copiați textul rezultat și stocați-l oriunde doriți",
-  "box_big_picture": "Imagine de ansamblu",
+  "box_big_picture": "Privire de ansamblu",
   "box_big_picture_sub_title": "Explorați universuri de concepte",
   "box_is_it_real": "Este real?",
   "box_is_it_real_sub_title": "Funcția AI care se bazează pe relații „dovadă”, în detaliile nodului",
@@ -132,15 +132,15 @@
   "box_dependency_tree_sub_title": "Funcția AI care se bazează pe relații „depinde de”, în detaliile nodului",
   "box_rich_text": "Text bogat",
   "box_rich_text_sub_title": "Formatați descrierile nodurilor dvs. cu Markdown",
-  "box_check_for_link":"Cauta conexiune",
-  "box_check_for_link_sub_title":"intre oricare 2 noduri",
+  "box_check_for_link":"Caută legatură",
+  "box_check_for_link_sub_title":"între oricare 2 noduri",
   "box_clusters": "Clustere",
   "box_clusters_sub_title": "Cum este structurată mintea ta",
   "box_sanity_check": "Verificarea sanității",
   "box_sanity_check_sub_title": "Verificați problemele din biblioteca dvs.",
   "box_quantum_field": "Câmp cuantic",
   "box_quantum_field_sub_title": "Vezi întregul",
-  "box_train_intuition": "Antrenează-ți-vă intuiția",
+  "box_train_intuition": "Antrenează-ți intuiția",
   "box_train_intuition_sub_title": "Precogniție și multe altele!",
   "box_presentation_mode": "Modul de prezentare",
   "box_presentation_mode_sub_title": "Ascundeți datele personale atunci când utilizați platforma",
@@ -218,6 +218,10 @@
   "n_focus_general": "Concentrare",
   "n_focus_off": "Adăugați focalizare",
   "n_focus_on": "Concentrat",
+
+  "n_save": "Salveaza",
+  "n_delete": "Șterge",
+
   "home_tasks_disabled": "Atingeți pentru a afișa sarcinile",
   "tasks_general": "Sarcini",
   "tasks_create_task": "Creează o sarcină",
@@ -232,19 +236,19 @@
   "n_favorite_off": "Adăugați favorit",
   "n_favorite_on": "Preferat",
   "n_old_me_general": "Eu vechi/nou",
-  "n_old_me_off": "Eu nou",
-  "n_old_me_on": "Mă bătrân",
-  "n_ancestry_src": "Copii îndreptați",
+  "n_old_me_off": "Noul eu",
+  "n_old_me_on": "Vechiul eu",
+  "n_ancestry_src": "Copii direcți",
   "n_ancestry_tar": "Părinți direcți",
   "n_dependency_title": "Dependențe",
   "n_dependency_desc": "articolele din dreapta depind de elementele din stânga",
-  "n_dependency_src": "Depinde direct de",
+  "n_dependency_src": "Depind de nod",
   "n_dependency_tar": "Depinde direct de",
-  "n_is_it_real_no_hierarcy": "Concept neconcludent, lipsește relația „dovadă”",
-  "n_is_it_real_self_ref": "Concepte de auto-referință necunoscute\ngăsit în prezent",
-  "n_is_it_real_nothing": "Dovada nu a fost găsită\n'Nimic\n'",
-  "n_is_it_real_known_unknown": "Necunoscut cunoscut\nDovada găsită „Necunoscută în prezent”",
-  "n_is_it_real_incomplete": "Concepte neconcludente\nnodurile conectate lipsesc relația „dovadă”",
+  "n_is_it_real_no_hierarcy": "Neconcludent\nlipsește relația „dovadă”",
+  "n_is_it_real_self_ref": "Neconcludent\ngăsit auto-referință",
+  "n_is_it_real_nothing": "Irreal\ngăsit dovada „Nimic”\n",
+  "n_is_it_real_known_unknown": "Cunoscut necunoscut\ngăsit dovada „Necunoscut”",
+  "n_is_it_real_incomplete": "Neconcludent\nnodurile conexe lipsesc relația „dovadă”",
   "general_types": "Tipuri",
   "general_copy_to_clipboard": "Copiați în clipboard",
   "general_export": "Export",
@@ -415,8 +419,11 @@
   "ur_reshape_card_sub": "Modificați răspunsurile emoționale",
   "ur_reshape_card_desc": "Schimbați-vă reacția",
   "ur_iam_card_title": "Sunt...",
+  "ur_iam_card_title_alt": "Blarg Orc-ul",
   "ur_iam_card_sub": "Cine spune mintea ta ca esti?",
+  "ur_iam_card_sub_alt": "Spune-i lui Blarg ce ai pe suflet :*",
   "ur_iam_card_desc": "Vezi dincolo de concepte",
+  "ur_iam_card_desc_alt": "Spune-i lui Blarg ce ai pe suflet :*",
   "ur_deconstruct_title": "Ce doriți să deconstruiți?",
   "ur_deconstruct_desc": "Căutați nodul sau introduceți un nou nume de nod",
   "ur_deconstruct_cont_title": "Care este sursa / ce o face real?",
@@ -434,7 +441,6 @@
   },
   "ur_deconstruct_action_nothing": "Nimic",
   "ur_deconstruct_action_dontknow": "Necunoscut",
-  "ur_deconstruct_answer_dontknow": "Incert referitor la sursa",
   "ur_deconstruct_answer_nothing": "Nici o sursă de existență",
   "ur_deconstruct_answer_circular": "Dependență circulară",
   "ur_deconstruct_answer_selfref": "Autoreferință",
@@ -550,8 +556,10 @@
   },
   "ur_iam_answer_end_flow": "Încheiat",
   "ur_iam_title": "Ce esti?",
+  "ur_iam_title_alt": "Care-i problema ta, spune-i lui Blarg",
   "ur_iam_desc": "Orice consideri a fi negativ și adevărat despre tine",
   "ur_iam_cont_title": "Nu sunteți „{concept}”",
+  "ur_iam_cont_title_alt": "„{concept}”?",
   "@ur_iam_cont_title": {
     "placeholder": {
       "concept": {
@@ -560,8 +568,25 @@
       }
     }
   },
-  "ur_iam_cont_desc": "„{concept}” este doar un concept, sunteți dincolo de asta. Selectați altceva sau atingeți „termină” pentru a încheia fluxul",
+  "@ur_iam_cont_title_alt": {
+    "placeholder": {
+      "concept": {
+        "type": "String",
+        "example": "Meme"
+      }
+    }
+  },
+  "ur_iam_cont_desc": "„{concept}” este doar un concept, ești dincolo de asta. Selectați altceva sau atingeți „termină” pentru a încheia fluxul",
+  "ur_iam_cont_desc_alt": "Blarg știe multe, dar nu știe nimic despre '{concept}'. Poate e doar un artefact cultural al oamenilor, ești dincolo de asta. Selectați altceva sau atingeți „termină” pentru a încheia fluxul",
   "@ur_iam_cont_desc": {
+    "placeholder": {
+      "concept": {
+        "type": "String",
+        "example": "Meme"
+      }
+    }
+  },
+  "@ur_iam_cont_desc_alt": {
     "placeholder": {
       "concept": {
         "type": "String",
@@ -593,7 +618,8 @@
   },
   "ur_deconstruct_result__circular": "Avertisment: O sursă de mai devreme în explicația dvs. este folosită ca ultimul element din explicație",
   "ur_deconstruct_result__selfref": "Avertisment: Ultimul articol pe care l-ați adăugat este sursa proprie.",
-  "ur_iam_result__iam_end": "Tu și lumea nu sunteți niciunul dintre conceptele pe care le-ați introdus, povestea reală este dincolo de orice definiție!",
+  "ur_iam_result__iam_end": "Tu și lumea nu sunteți niciunul dintre conceptele pe care le-ați introdus, adevărata poveste este dincolo de orice definiție!",
+  "ur_iam_result__iam_end_alt": "Blarg nu înțtelege nimic din ce ai zis, adevărata poveste este dincolo de orice definiție!",
   "home_unlocks_at": "Se deblochează la nivelul {level}",
   "@home_unlocks_at": {
     "placeholder": {
@@ -608,18 +634,20 @@
   "rtb_intro_desc": "Scopul acestui experiment este să vă ajute să depășiți toate distorsiunile actuale, de exemplu fapte incorecte, convingeri negative, săriți la concluzii, limite autoimpuse și mentalități dăunătoare. \n\nDe aceea sunt căutările interioare, treceți prin toate pe Platină și nu veți fi lăsat piatră neîntoarsă.",
   "rtb_intro_warning": "\n\n\nAtenție, acest lucru s-ar putea schimba modul în care vedeți totul,\nnu există nicio anulare la pornirea acestui proces,\n\n\nOdată început, vă recomandăm să rezervați câteva ore și să terminați fiecare misiune pe Diamond dintr-o singură mișcare.\n",
   "rtb_missions_title": "Misiuni",
-  "rtb_missions_desc": "Finalizarea nivelului Diamant al tuturor misiunilor vă va oferi perspectiva de a depăși toate distorsiunile și durerile actuale - toate decurgând din fapte incorecte, convingeri negative, sărituri la concluzii, limite autoimpuse și mentalități similare predispuse la erori și în cele din urmă dăunătoare. .",
+  "rtb_missions_desc": "Finalizarea nivelului Diamant al tuturor misiunilor vă va oferi perspectiva de a depăși toate distorsiunile și durerile actuale - toate decurgând din fapte incorecte, convingeri negative, sărituri la concluzii, limite autoimpuse și mentalități similare dăunătoare și predispuse la erori.",
   "rtb_missions_reminder": "Memento: datele tale nu părăsesc dispozitivul tău, rămân NUMAI cu tine",
   "rtb_incomplete": "INCOMPLET",
   "rtb_mark_as_done": "MARCAȚI CA FĂCUT DUPĂ ACOPERIREA TOTULUI",
-  "rtb_done": "MARCAȚI CA EFECTAT DUPĂ ACOPERIREA TOTULUI TERENUL",
+  "rtb_done": "GATA ȘEFU",
   "rtb_diamond_disclaimer": "Marcați misiunile din nivelul lor Diamant ca „terminate” numai după ce nu ați lăsat nicio piatră neîntorsă.",
   "rtb_insights": "Insights deblocat",
   "rtb_insights_desc": "Câștigați informații de fiecare dată când finalizați un nivel de misiune, 24 în total",
   "rtb_timed_awards_title": "Premii bonusuri cronometrate",
   "rtb_timed_awards_desc": "Terminați toate misiunile la nivelurile Aur și Diamant înainte de 1 iunie pentru a debloca",
-  "rtb_blarg": "Blarg orc",
+  "rtb_blarg": "Blarg orc-ul",
   "rtb_blarg_desc": "flux alternativ AI „Eu sunt”",
   "rtb_skin": "Întoarceți-vă la fericire",
-  "rtb_skin_desc": "Aspect UI, numai Plus"
-} 
+  "rtb_skin_desc": "Aspect UI, numai Plus",
+  "rtb_blarg_enable": "Activeaza modul alternativ Blarg pentru AI-ul 'Eu sunt' ",
+  "rtb_blarg_disable": "Dezactiveaza modul alternativ Blarg"
+}

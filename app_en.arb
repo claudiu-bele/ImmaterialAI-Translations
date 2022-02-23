@@ -264,6 +264,9 @@
   "n_focus_off":"Add focus",
   "n_focus_on":"Focused",
 
+  "n_save": "Save",
+  "n_delete": "Delete",
+
   "home_tasks_disabled": "Tap to show tasks",
   "tasks_general": "Tasks",
   "tasks_create_task": "Create task",
@@ -468,6 +471,10 @@
   "ur_iam_card_title": "I Am …",
   "ur_iam_card_sub": "Who does your mind say you are?",
   "ur_iam_card_desc": "See beyond concepts",
+
+  "ur_iam_card_title_alt": "Blarg the Orc",
+  "ur_iam_card_sub_alt": "Tell Blarg what's on your mind",
+  "ur_iam_card_desc_alt": "Tell Blarg what's on your mind",
   "ur_deconstruct_title": "What do you want to deconstruct?",
   "ur_deconstruct_desc": "Search for the node or enter new node name",
   "ur_deconstruct_cont_title": "What's the source of it/ what makes it real?",
@@ -601,8 +608,10 @@
   },
   "ur_iam_answer_end_flow": "Ended",
   "ur_iam_title": "What are you?",
+  "ur_iam_title_alt": "What's your problem, tell Blarg",
   "ur_iam_desc": "Anything you consider to be negative and true about yourself",
   "ur_iam_cont_title": "You are not '{concept}'",
+  "ur_iam_cont_title_alt": "{concept}?",
   "@ur_iam_cont_title": {
     "placeholders": {
       "concept": {
@@ -611,8 +620,25 @@
       }
     }
   },
+  "@ur_iam_cont_title_alt": {
+    "placeholders": {
+      "concept": {
+        "type": "String",
+        "example": "Memes"
+      }
+    }
+  },
   "ur_iam_cont_desc": "'{concept}' is just a concept, you are beyond that. Select something else or tap 'end' to end the flow",
+  "ur_iam_cont_desc_alt": "Blarg knows alot, but he doesn't know about '{concept}'. Might just be some human cultural artefact, you are beyond that. Select something else or tap 'end' to end the flow",
   "@ur_iam_cont_desc": {
+    "placeholders": {
+      "concept": {
+        "type": "String",
+        "example": "Memes"
+      }
+    }
+  },
+  "@ur_iam_cont_desc_alt": {
     "placeholders": {
       "concept": {
         "type": "String",
@@ -654,6 +680,7 @@
       }
     }
   },
+  "ur_iam_result__iam_end_alt": "Blarg doesn't understand one thing of what you said, the real story is beyond any definition!",
 
   "rtb_title": "Return to Bliss",
   "rtb_subtitle": "an ImmaterialAI experiment",
@@ -666,7 +693,7 @@
 
   "rtb_incomplete": "INCOMPLETE",
   "rtb_mark_as_done": "MARK AS DONE AFTER COVERING ALL GROUND",
-  "rtb_done": "MARK AS DONE AFTER COVERING ALL GROUND",
+  "rtb_done": "DONE",
 
   "rtb_diamond_disclaimer": "Mark quests in their Diamond tier as 'done' only after you have left no stone unturned.",
   "rtb_insights":"Unlocked Insights",
@@ -676,5 +703,7 @@
   "rtb_blarg": "Blarg the Orc",
   "rtb_blarg_desc": "alternative 'I Am' AI flow",
   "rtb_skin": "Return to Bliss",
-  "rtb_skin_desc": "UI skin, Plus only"
+  "rtb_skin_desc": "UI skin, Plus only",
+  "rtb_blarg_enable": "Enable Blarg 'I am' alternative AI flow",
+  "rtb_blarg_disable": "Disable BLarg"
 }
