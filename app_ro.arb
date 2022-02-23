@@ -263,9 +263,9 @@
   "general_button_start": "START",
   "general_button_more": "VEZI MAI MULT",
   "general_coming_soon": "VINE ÎN CURÂND",
-  "general_coming_soon_plus": "ÎN CURÂND, numai Plus",
-  "general_coming_soon_plus_alt": "VINE ÎN CURÂND ÎN PLUS",
-  "general_unlocks_at_level_plus": "NUMAI PLUS, NIVEL ${level}",
+  "general_coming_soon_plus": "ÎN CURÂND, DOAR CU Plus",
+  "general_coming_soon_plus_alt": "VINE ÎN CURÂND, PLUS",
+  "general_unlocks_at_level_plus": "DOAR CU PLUS, NIVEL ${level}",
   "@general_unlocks_at_level_plus": {
     "descriere": "level",
     "substituenți": {
@@ -275,7 +275,7 @@
       }
     }
   },
-  "general_plus_only": "Numai Plus",
+  "general_plus_only": "Numai cu Plus",
   "general_are_you_sure": "Ești sigur?",
   "general_unlocks_at_level": "Se deblochează la nivelul {level}",
   "@general_unlocks_at_level": {
