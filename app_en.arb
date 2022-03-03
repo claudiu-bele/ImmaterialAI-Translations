@@ -53,7 +53,7 @@
   "path_overcome_quote_author":"William Shakespeare",
 
   "path_beyond_name":"Beyond",
-  "path_beyond_sub_title":"understand and transcend",
+  "path_beyond_sub_title":"explore new possibilities",
   "path_beyond_description_header":"Go beyond old perception",
   "path_beyond_description":"Beyond emphasizes how quick we can be at assigning ourselves to symbolic concepts, concepts that carry with them ambiguity, strengths and weaknesses, certainties and impossibilities. Detaching ourselves from ideas - vague or concrete - allows us to see the world and ourselves clearer every time.\n\nMany sources would gladly tell you who they think you are or what they think you need, with Beyond you can easily see beyond the noise and implied truths so you can live your best life.\n\nBased on ancient and state of the art new teachings, Beyond enables you to peer into the world beyond concepts, effectively helping you easily shed the unwanted by exposing its true nature.",
   "path_beyond_quote":"You don't want a million answers as much as you want a few forever questions. The questions are diamonds you hold in the light. Study a lifetime and you see different colors from the same jewel. The same questions, asked again, bring you just the answers you need just the minute you need them",
@@ -302,6 +302,7 @@
   "general_types": "Types",
   "general_copy_to_clipboard" : "Copy to clipboard",
   "general_export" : "Export",
+  "general_change_from_settings": "Change from Settings",
 
   "general_yes": "Yes",
   "general_no": "No",
@@ -498,9 +499,9 @@
   "ur_deconstruct_answer_selfref": "Self reference",
   "ur_reshape_action_next_select": "Select",
   "ur_reshape_action_next_end": "End",
-  "ur_reshape_start_title": "What current negative feeling do you want to overcome?",
+  "ur_reshape_start_title": "Input a negative feeling resulting from a previous or existing situation",
   "ur_reshape_start_description": "Search for an existing feeling or enter name for a new one",
-  "ur_reshape_cause_title": "What makes you feel \"{feeling}\"?",
+  "ur_reshape_cause_title": "What situation brought \"{feeling}\"?",
   "@ur_reshape_cause_title": {
     "placeholders": {
       "feeling": {
@@ -509,7 +510,7 @@
       }
     }
   },
-  "ur_reshape_cause_description": "A situation, a memory, an event that brought that feeling to mind",
+  "ur_reshape_cause_description": "What situation brought you there?",
   "ur_reshape_new_effect_title": "That shouldn’t necessarily make you feel \"{feeling}\", don't do that to yourself. Any better ways you can look at it?",
   "@ur_reshape_new_effect_title": {
     "placeholders": {
@@ -684,7 +685,7 @@
 
   "rtb_title": "Return to Bliss",
   "rtb_subtitle": "an ImmaterialAI experiment",
-  "rtb_intro_desc": "The purpose of this experiment is to help you overcome all current distortions e.g. incorrect facts, negative beliefs, jumping to conclusions, self-imposed limits and damaging mentalities. \n\nThat's what the inner quests are for, go through all of them on Platinum and you will have left no stone unturned. ",
+  "rtb_intro_desc": "The purpose of this experiment is to help you overcome all current distortions e.g. incorrect facts, negative beliefs, jumping to conclusions, self-imposed limits and damaging mentalities. \n\nGo through all missions on Platinum and you will have left no stone unturned.",
   "rtb_intro_warning": "\n\n\nWarning, this might change how you see everything,\nthere is no undoing starting this process,\n\n\nOnce started, we recommend setting aside a few hours and finishing each mission on Diamond in one go.\n",
 
   "rtb_missions_title": "Missions",
@@ -696,14 +697,23 @@
   "rtb_done": "DONE",
 
   "rtb_diamond_disclaimer": "Mark quests in their Diamond tier as 'done' only after you have left no stone unturned.",
-  "rtb_insights":"Unlocked Insights",
+  "rtb_insights":"Insights",
   "rtb_insights_desc": "Win insights every time you complete a mission tier, 24 in total",
-  "rtb_timed_awards_title": "Bonus timed awards",
+  "rtb_timed_awards_title": "Timed unlocks",
   "rtb_timed_awards_desc": "Finish all missions on Gold and Diamond tiers before 1st of June to unlock",
   "rtb_blarg": "Blarg the Orc",
   "rtb_blarg_desc": "alternative 'I Am' AI flow",
   "rtb_skin": "Return to Bliss",
-  "rtb_skin_desc": "UI skin, Plus only",
+  "rtb_skin_desc": "UI skin",
   "rtb_blarg_enable": "Enable Blarg 'I am' alternative AI flow",
-  "rtb_blarg_disable": "Disable BLarg"
+  "rtb_blarg_disable": "Disable Blarg",
+  "rtb_new_insight": "New insight!",
+  "rtb_new_insight_node_sub": "Unlocked in 'Return to bliss'",
+
+
+  "rtb_bronze": "Bronze",
+  "rtb_silver": "Silver",
+  "rtb_gold": "Gold",
+  "rtb_diamond": "Diamond"
+
 }
