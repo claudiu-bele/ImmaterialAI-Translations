@@ -101,7 +101,7 @@
   "box_teacher": "Profesor",
   "box_teacher_sub_title": "Deblocați Noduri Prefarate, Nou/Vechi, Privire de ansamblu, Caută conexiune și Este real?",
   "box_800_teachers": "800 de profesori",
-  "box_800_teachers_sub_title": "Deblocați sarcini, metamodele, toate fluxurile AI, clustere, antrenament intuiție și multe altele",
+  "box_800_teachers_sub_title": "Deblocați sarcini, metamodele, toate conversațile AI, ciorchini, antrenament pt intuiție și multe altele",
   "box_return_to_bliss": "Înapoi la fericire",
   "box_return_to_bliss_sub_title": "Misiune principală cu provocări, progres pe niveluri, deblocări bonus și multe altele",
   "box_direct_links": "Legături directe",
@@ -272,7 +272,7 @@
     "substituenți": {
       "level": {
         "type": "int",
-        "exemplu": "2"
+        "example": "2"
       }
     }
   },
@@ -284,7 +284,7 @@
     "substituenți": {
       "level": {
         "type": "int",
-        "exemplu": "2"
+        "example": "2"
       }
     }
   },
@@ -294,7 +294,7 @@
     "placeholder": {
       "level": {
         "type": "int",
-        "exemplu": "2"
+        "example": "2"
       }
     }
   },
@@ -304,7 +304,7 @@
     "placeholder": {
       "level": {
         "type": "int",
-        "exemplu": "2"
+        "example": "2"
       }
     }
   },
@@ -314,7 +314,7 @@
     "placeholder": {
       "level": {
         "type": "int",
-        "exemplu": "2"
+        "example": "2"
       }
     }
   },
@@ -322,24 +322,24 @@
   "general_time_updated": "actualizat",
   "general_moments_ago": "cu câteva clipe în urmă",
   "general__time__one_second": "acum 1 secundă",
-  "general__time__seconds": "acum {secunde} secunde",
+  "general__time__seconds": "acum {seconds} secunde",
   "@general__time__seconds": {
     "description": "Distanța în secunde",
     "placeholder": {
-      "secunde": {
+      "seconds": {
         "type": "int",
-        "exemplu": "2"
+        "example": "2"
       }
     }
   },
   "general__time__one_minute": "acum 1 minut",
-  "general__time__minute": "acum {minute} minute",
+  "general__time__minute": "acum {minutes} minute",
   "@general__time__minute": {
     "description": "Distanța în minute",
     "placeholder": {
-      "minute": {
+      "minutes": {
         "type": "int",
-        "exemplu": "2"
+        "example": "2"
       }
     }
   },
@@ -350,7 +350,7 @@
     "placeholder": {
       "hours": {
         "type": "int",
-        "exemplu": "2"
+        "example": "2"
       }
     }
   },
@@ -361,7 +361,7 @@
     "placeholder": {
       "days": {
         "type": "int",
-        "exemplu": "2"
+        "example": "2"
       }
     }
   },
@@ -372,7 +372,7 @@
     "placeholder": {
       "weeks": {
         "type": "int",
-        "exemplu": "2"
+        "example": "2"
       }
     }
   },
@@ -383,7 +383,7 @@
     "placeholder": {
       "months": {
         "type": "int",
-        "exemplu": "2"
+        "example": "2"
       }
     }
   },
@@ -394,7 +394,7 @@
     "placeholder": {
       "years": {
         "type": "int",
-        "exemplu": "2"
+        "example": "2"
       }
     }
   },
@@ -409,7 +409,7 @@
     "placeholder": {
       "item": {
         "type": "String",
-        "exemplu": "idee"
+        "example": "idee"
       }
     }
   },
@@ -436,7 +436,7 @@
     "placeholder": {
       "item": {
         "type": "String",
-        "exemplu": "idee"
+        "example": "idee"
       }
     }
   },
@@ -454,7 +454,7 @@
     "placeholder": {
       "feeling": {
         "type": "String",
-        "exemplu": "simți"
+        "example": "simți"
       }
     }
   },
@@ -464,17 +464,17 @@
     "placeholder": {
       "feeling": {
         "type": "String",
-        "exemplu": "Simte"
+        "example": "Simte"
       }
     }
   },
   "ur_reshape_new_effect_description": "Priviți situația dintr-un loc mai luminos. Căutați sau creați sentimentul",
-  "ur_reshape_new_effect_dialog": "Care este un mod mai bun de a te simți despre \"{situație}\"?",
+  "ur_reshape_new_effect_dialog": "Care este un mod mai bun de a te simți despre \"{situation}\"?",
   "@ur_reshape_new_effect_dialog": {
     "placeholder": {
-      "situație": {
+      "situation": {
         "type": "String",
-        "exemplu": "Simte"
+        "example": "Simte"
       }
     }
   },
@@ -483,27 +483,27 @@
     "placeholder": {
       "feeling": {
         "type": "String",
-        "exemplu": "Simte"
+        "example": "Simte"
       }
     }
   },
-  "ur_reshape_new_effect_cause_description": "Descrieți unghiul de pe \"{situație}\" care v-a adus la \"{sentiment}\"",
+  "ur_reshape_new_effect_cause_description": "Descrieți unghiul de pe \"{situation}\" care v-a adus la \"{feeling}\"",
   "@ur_reshape_new_effect_cause_description": {
     "placeholder": {
-      "situație": {
+      "situation": {
         "type": "String",
         "example": "Un eveniment"
       },
-      "sentiment": {
+      "feeling": {
         "type": "String",
-        "exemplu": "simți"
+        "example": "simți"
       }
     }
   },
-  "ur_reshape_end_title": "Ați schimbat părerea despre \"{situație}\"!",
+  "ur_reshape_end_title": "Ați schimbat părerea despre \"{situation}\"!",
   "@ur_reshape_end_title": {
     "placeholder": {
-      "situație": {
+      "situation": {
         "type": "String",
         "example": "Un eveniment"
       }
@@ -514,22 +514,22 @@
     "placeholder": {
       "feel1": {
         "type": "String",
-        "exemplu": "Simt vechi"
+        "example": "Simt vechi"
       },
       "feel2": {
         "type": "String",
-        "exemplu": "Sentiment nou"
+        "example": "Sentiment nou"
       }
     }
   },
-  "ur_reshape_end_description": "Puteți selecta ce idee v-a scos \"{sentiment}\" din \"{situație}\", sau puteți atinge \"termină\" pentru a încheia fluxul.",
+  "ur_reshape_end_description": "Puteți selecta ce idee v-a scos \"{feeling}\" din \"{situation}\", sau puteți atinge \"termină\" pentru a încheia conversația.",
   "@ur_reshape_end_description": {
     "placeholder": {
-      "sentiment": {
+      "feeling": {
         "type": "String",
-        "exemplu": "simți"
+        "example": "simți"
       },
-      "situație": {
+      "situation": {
         "type": "String",
         "example": "Un eveniment"
       }
@@ -537,21 +537,21 @@
   },
   "ur_reshape_end_action": "Terminați",
   "ur_reshape_result_changed_title": "Reformat",
-  "ur_reshape_result_changed_desc": "Ai schimbat modul în care te simți în legătură cu \"{sentiment}\".\n\nPuteți urma acest proces ori de câte ori întâlniți negativitate în percepția dvs.",
+  "ur_reshape_result_changed_desc": "Ai schimbat modul în care te simți în legătură cu \"{feeling}\".\n\nPuteți urma acest proces ori de câte ori întâlniți negativitate în percepția dvs.",
   "@ur_reshape_result_changed_desc": {
     "placeholder": {
-      "sentiment": {
+      "feeling": {
         "type": "String",
-        "exemplu": "simți"
+        "example": "simți"
       }
     }
   },
-  "ur_reshape_result_changed_optional_desc": "Ați schimbat felul în care vă simțiți despre \"{sentiment}\", dezvăluind și credința despre evenimentul care vă afectează. \n\nPuteți urma acest proces ori de câte ori întâmpinați negativitate în percepția dvs.",
+  "ur_reshape_result_changed_optional_desc": "Ați schimbat felul în care vă simțiți despre \"{feeling}\", dezvăluind și credința despre evenimentul care vă afectează. \n\nPuteți urma acest proces ori de câte ori întâmpinați negativitate în percepția dvs.",
   "@ur_reshape_result_changed_optional_desc": {
     "placeholder": {
-      "sentiment": {
+      "feeling": {
         "type": "String",
-        "exemplu": "simți"
+        "example": "simți"
       }
     }
   },
@@ -577,8 +577,8 @@
       }
     }
   },
-  "ur_iam_cont_desc":  "„{concept}” este doar un concept, ești dincolo de asta. Selectați altceva sau atingeți „termină” pentru a încheia fluxul",
-  "ur_iam_cont_desc_alt": "Blarg știe multe, dar nu știe nimic despre '{concept}'. Poate e doar un artefact cultural al oamenilor, ești dincolo de asta. Selectați altceva sau atingeți „termină” pentru a încheia fluxul",
+  "ur_iam_cont_desc":  "„{concept}” este doar un concept, ești dincolo de asta. Selectați altceva sau atingeți „termină” pentru a încheia conversația",
+  "ur_iam_cont_desc_alt": "Blarg nu știe nimic despre '{concept}', el zice că n-ai nicio problemă. Selectați altceva sau atingeți „termină” pentru a încheia conversația",
   "@ur_iam_cont_desc": {
     "placeholder": {
       "concept": {
@@ -597,14 +597,14 @@
   },
   "ur_iam_action_select": "Selectați",
   "ur_iam_action_next_select": "Selectați",
-  "ur_iam_action_next_end": "Sfârșit",
+  "ur_iam_action_next_end": "Termină",
   "ur_iam_answer_end": "Nu sunteți acele concepte",
   "ur_deconstruct_result__dontknow": "Deoarece nu puteți găsi sursa fundamentală a \"{concept}\", vă puteți detașa de ea. Situația dvs. poate fi diferită, dimpotrivă sau ar putea să nu existe așa cum o știați.\n\nSăpați mai profund pentru ceea ce sa întâmplat de fapt",
   "@ur_deconstruct_result__dontknow": {
     "placeholder": {
       "concept": {
         "type": "String",
-        "exemplu": "o idee"
+        "example": "o idee"
       }
     }
   },
@@ -626,7 +626,7 @@
     "placeholder": {
       "level": {
         "type": "String",
-        "exemplu": "20"
+        "example": "20"
       }
     }
   },
@@ -648,7 +648,7 @@
   "rtb_blarg": "Blarg orcu'",
   "rtb_blarg_desc": "flux alternativ al AI-ului „Eu sunt”",
   "rtb_skin": "Întoarcere la fericire",
-  "rtb_skin_desc": "Interfață nouă",
+  "rtb_skin_desc": "2 teme noi pt interfață",
   "rtb_blarg_enable": "Activeaza modul alternativ Blarg pentru AI-ul 'Eu sunt' ",
   "rtb_blarg_disable": "Dezactiveaza modul alternativ Blarg",
   "rtb_new_insight": "Pildă nouă!",

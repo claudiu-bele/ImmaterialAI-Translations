@@ -630,7 +630,7 @@
     }
   },
   "ur_iam_cont_desc": "'{concept}' is just a concept, you are beyond that. Select something else or tap 'end' to end the flow",
-  "ur_iam_cont_desc_alt": "Blarg knows alot, but he doesn't know about '{concept}'. Might just be some human cultural artefact, you are beyond that. Select something else or tap 'end' to end the flow",
+  "ur_iam_cont_desc_alt": "Blarg doesn't know anything about '{concept}', he thinks you have no problem.  Select something else or tap 'end' to end the flow",
   "@ur_iam_cont_desc": {
     "placeholders": {
       "concept": {
@@ -704,7 +704,7 @@
   "rtb_blarg": "Blarg the Orc",
   "rtb_blarg_desc": "alternative 'I Am' AI flow",
   "rtb_skin": "Return to Bliss",
-  "rtb_skin_desc": "UI skin",
+  "rtb_skin_desc": "2 UI skins",
   "rtb_blarg_enable": "Enable Blarg 'I am' alternative AI flow",
   "rtb_blarg_disable": "Disable Blarg",
   "rtb_new_insight": "New insight!",
