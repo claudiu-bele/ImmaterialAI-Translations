@@ -31,10 +31,13 @@
   "steam_free_soon_on_plus": "În curând pe ImmaterialAI Plus\nlive pe Steam",
   "app_free_live_on_plus": "ImmaterialAI Plus\nu numai",
   "app_free_soon_on_plus": "În curând la\nImmaterialAI Plus",
-  "home_old_me_disabled": "Fără filtrare pentru mine „Nou”/„Vechi”",
-  "home_old_me_new": "Bibliotecă „Eu nou”",
-  "home_old_me_old": "Biblioteca 'Old Me'",
-  "home_old_me_all": "Bibliotecă completă",
+
+  "home_old_me_disabled":"Perspective ale datelor",
+  "home_old_me_lib":"Biblioteca integral (fără date de tip 'Vechiul eu')",
+  "home_old_me_new": "Actualul eu",
+  "home_old_me_old": "Vechiul eu",
+  "home_old_me_all": "Actualul și vechiul eu",
+
   "path_title": "ImmaterialAI poate fi folosit în mai multe feluri",
   "path_sub_title": "alege o cale",
   "path_overcome_name": "Depășiți",
@@ -110,6 +113,10 @@
   "box_tasks_sub_title": "Păstrați evidența a ceea ce trebuie făcut",
   "box_tasks_filter": "Filtru de sarcină",
   "box_tasks_filter_sub_title": "Filtrați sarcinile de pe pagina dvs. de pornire",
+
+  "box_me":"Actualul eu",
+  "box_me_sub_title":"Și vechiul eu",
+
   "box_absolute_origin": "Origine absolută",
   "box_absolute_origin_sub_title": "Funcția AI care se bazează pe relații „dovadă”, în detaliile nodului",
   "box_bundles": "Pachete",
@@ -229,15 +236,22 @@
   "tasks_in_progress": "În curs",
   "tasks_done": "Terminat",
   "tasks_all": "Toate sarcinile",
+
+  "me_current_me": "Eu",
+  "me_old_me": "Vechiul eu",
+
   "n_public_general": "Date publice",
   "n_public_data_on": "Date publice",
   "n_public_data_off": "Date private",
   "n_favorite_general": "Preferate",
   "n_favorite_off": "Adăugați favorit",
   "n_favorite_on": "Preferat",
-  "n_old_me_general": "Eu vechi/nou",
-  "n_old_me_off": "Noul eu",
-  "n_old_me_on": "Vechiul eu",
+
+  "n_old_me_general": "Vechiul/noul eu",
+  "n_old_me_create":"Etichetează ca noul/vechiul eu",
+  "n_old_me_current": "Noul eu",
+  "n_old_me_old": "Vechiul eu",
+
   "n_ancestry_src": "Copii direcți",
   "n_ancestry_tar": "Părinți direcți",
   "n_dependency_title": "Dependențe",

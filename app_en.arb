@@ -37,10 +37,11 @@
   "app_free_live_on_plus": "ImmaterialAI Plus\nonly",
   "app_free_soon_on_plus": "Coming soon to\nImmaterialAI Plus",
 
-  "home_old_me_disabled":"No 'New'/'Old' me filtering",
-  "home_old_me_new": "'New me' library",
+  "home_old_me_disabled":"Data views",
+  "home_old_me_lib":"Full library (minus 'Old me' data)",
+  "home_old_me_new": "'Current me' library",
   "home_old_me_old": "'Old me' library",
-  "home_old_me_all": "Full library",
+  "home_old_me_all": "'Current' & 'Old' me library",
 
   "path_title": "ImmaterialAI fits many gloves",
   "path_sub_title": "choose your main use",
@@ -132,6 +133,9 @@
   "box_tasks_sub_title":"Keep track of what needs to be done",
   "box_tasks_filter":"Task filter",
   "box_tasks_filter_sub_title":"Filter tasks from your home page",
+
+  "box_me":"Current me",
+  "box_me_sub_title":"and old me",
 
   "box_absolute_origin":"Absolute origin",
   "box_absolute_origin_sub_title":"AI function relying on 'proof' links, in node details",
@@ -275,6 +279,9 @@
   "tasks_done": "Done",
   "tasks_all": "ALl tasks",
 
+  "me_current_me": "(Current) me",
+  "me_old_me": "Old me",
+
   "n_public_general": "Public data",
   "n_public_data_on": "Public data",
   "n_public_data_off": "Private data",
@@ -283,9 +290,10 @@
   "n_favorite_off":"Add favorite",
   "n_favorite_on":"Favorite",
 
-  "n_old_me_general":"Old/New me",
-  "n_old_me_off":"New me",
-  "n_old_me_on":"Old me",
+  "n_old_me_general":"Old/current me",
+  "n_old_me_create":"Set as current/old me",
+  "n_old_me_current":"Current me",
+  "n_old_me_old":"Old me",
 
   "n_ancestry_src": "Direct children",
   "n_ancestry_tar": "Direct parents",
@@ -317,7 +325,7 @@
   "general_coming_soon": "COMING SOON",
   "general_coming_soon_plus": "SOON, Plus only",
   "general_coming_soon_plus_alt": "COMING SOON TO PLUS",
-  "general_unlocks_at_level_plus": "PLUS ONLY, LEVEL ${level}",
+  "general_unlocks_at_level_plus": "PLUS ONLY, LEVEL {level}",
   "@general_unlocks_at_level_plus": {
     "description": "level",
     "placeholders": {
