@@ -38,8 +38,14 @@
   "home_old_me_old": "Vechiul eu",
   "home_old_me_all": "Actualul și vechiul eu",
 
+  "home_ancestry_disabled":"Filtru de origine",
+  "home_ancestry_root":"Noduri de bază",
+  "home_ancestry_parent": "Noduri părinte",
+  "home_ancestry_child": "Noduri copil",
+
+
   "path_title": "ImmaterialAI poate fi folosit în mai multe feluri",
-  "path_sub_title": "alege o cale",
+  "path_sub_title": "Alege-ți o cale",
   "path_overcome_name": "Depășiți",
   "path_overcome_sub_title": "înțelegeți și transcendeți",
   "path_overcome_description_header": "Depășiți problemele mentale",
@@ -114,8 +120,8 @@
   "box_tasks_filter": "Filtru de sarcină",
   "box_tasks_filter_sub_title": "Filtrați sarcinile de pe pagina dvs. de pornire",
 
-  "box_me":"Actualul eu",
-  "box_me_sub_title":"Și vechiul eu",
+  "box_me":"Eu",
+  "box_me_sub_title":"Auto-generat din proprietățile „actual/vechiul eu” ale nodurilor",
 
   "box_absolute_origin": "Origine absolută",
   "box_absolute_origin_sub_title": "Funcția AI care se bazează pe relații „dovadă”, în detaliile nodului",
@@ -139,6 +145,9 @@
   "box_dependency_tree_sub_title": "Funcția AI care se bazează pe relații „depinde de”, în detaliile nodului",
   "box_rich_text": "Text bogat",
   "box_rich_text_sub_title": "Formatați descrierile nodurilor dvs. cu Markdown",
+  "box_ancestry_filter": "Filtru de origine",
+  "box_ancestry_filter_sub_title": "Vezi toate nodurile care sunt origini, părinți sau copii",
+
   "box_check_for_link":"Caută legatură",
   "box_check_for_link_sub_title":"între oricare 2 noduri",
   "box_clusters": "Clustere",
@@ -247,10 +256,10 @@
   "n_favorite_off": "Adăugați favorit",
   "n_favorite_on": "Preferat",
 
-  "n_old_me_general": "Vechiul/noul eu",
-  "n_old_me_create":"Etichetează ca noul/vechiul eu",
-  "n_old_me_current": "Noul eu",
-  "n_old_me_old": "Vechiul eu",
+  "n_old_me_general": "Eu",
+  "n_old_me_create":"Eu",
+  "n_old_me_current": "Seteaza ca Eu",
+  "n_old_me_old": "Eu în trecut",
 
   "n_ancestry_src": "Copii direcți",
   "n_ancestry_tar": "Părinți direcți",
@@ -658,7 +667,7 @@
   "rtb_insights": "Pilde",
   "rtb_insights_desc": "Deblochează pilde de fiecare dată când finalizați un nivel dintr-o misiune, 24 în total",
   "rtb_timed_awards_title": "Exclusiv",
-  "rtb_timed_awards_desc": "Terminați toate misiunile la nivelurile Aur și Diamant înainte de 1 Iunie pentru a debloca",
+  "rtb_timed_awards_desc": "Terminați toate misiunile înainte de 1 Iunie pentru a debloca",
   "rtb_blarg": "Blarg orcu'",
   "rtb_blarg_desc": "flux alternativ al AI-ului „Eu sunt”",
   "rtb_skin": "Întoarcere la fericire",

@@ -43,8 +43,15 @@
   "home_old_me_old": "'Old me' library",
   "home_old_me_all": "'Current' & 'Old' me library",
 
-  "path_title": "ImmaterialAI fits many gloves",
-  "path_sub_title": "choose your main use",
+  "home_ancestry_disabled":"Ancestry filter",
+  "home_ancestry_root":"Root nodes",
+  "home_ancestry_parent": "Parent nodes",
+  "home_ancestry_child": "Child nodes",
+
+
+
+  "path_title": "ImmaterialAI",
+  "path_sub_title": "choose your path",
 
   "path_overcome_name":"Overcome",
   "path_overcome_sub_title":"understand and transcend",
@@ -134,8 +141,8 @@
   "box_tasks_filter":"Task filter",
   "box_tasks_filter_sub_title":"Filter tasks from your home page",
 
-  "box_me":"Current me",
-  "box_me_sub_title":"and old me",
+  "box_me":"Me",
+  "box_me_sub_title":"Auto-generated from current/old me node states",
 
   "box_absolute_origin":"Absolute origin",
   "box_absolute_origin_sub_title":"AI function relying on 'proof' links, in node details",
@@ -161,6 +168,8 @@
   "box_check_for_link":"Check for link",
   "box_check_for_link_sub_title":"between any 2 nodes",
   "box_rich_text_sub_title":"Format your nodes' descriptions with Markdown",
+  "box_ancestry_filter": "Ancestry filter",
+  "box_ancestry_filter_sub_title": "See all root, parent and child nodes",
   "box_clusters":"Clusters",
   "box_clusters_sub_title":"How your mind is structured",
   "box_sanity_check":"Sanity check",
@@ -290,8 +299,8 @@
   "n_favorite_off":"Add favorite",
   "n_favorite_on":"Favorite",
 
-  "n_old_me_general":"Old/current me",
-  "n_old_me_create":"Set as current/old me",
+  "n_old_me_general":"Me",
+  "n_old_me_create":"Current/old me",
   "n_old_me_current":"Current me",
   "n_old_me_old":"Old me",
 
@@ -708,7 +717,7 @@
   "rtb_insights":"Insights",
   "rtb_insights_desc": "Win insights every time you complete a mission tier, 24 in total",
   "rtb_timed_awards_title": "Timed unlocks",
-  "rtb_timed_awards_desc": "Finish all missions on Gold and Diamond tiers before 1st of June to unlock",
+  "rtb_timed_awards_desc": "Finish all missions before 1st of June to unlock",
   "rtb_blarg": "Blarg the Orc",
   "rtb_blarg_desc": "alternative 'I Am' AI flow",
   "rtb_skin": "Return to Bliss",
