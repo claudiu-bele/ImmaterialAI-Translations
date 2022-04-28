@@ -93,6 +93,7 @@
   "settings_background_remove":"Remove",
   "settings_background_select":"Select image",
   "settings_high_quality_transitions":"High quality transitions",
+  "settings_high_quality_graphs":"High quality graphs",
   "settings_change_menu_left_right":"Change menu from left to right",
 
   "settings_cat_other":"Other",
@@ -210,8 +211,8 @@
   "default_nt_insight": "Insight",
 
   "default_n_nothing": "Nothing",
-  "default_n_dont_know": "Don't know",
-  "default_n_everything": "Currently unknown",
+  "default_n_dont_know": "Currently unknown",
+  "default_n_everything": "Everything",
 
   "default_lt_favorite": "Favorite",
   "default_lt_favorite_src_text": "is marked favorite",
@@ -484,6 +485,8 @@
   "ur_deconstruct_card_sub": "Deconstruct concepts",
   "ur_deconstruct_card_desc": "Navigate sources and origins",
   "ur_reshape_card_title": "Reshape",
+  "ur_reshape_v2_card_title": "Reshape+",
+  "ur_reshape_v2_card_sub": "Change your reaction (now with absolute/relative distinction)",
   "ur_reshape_card_sub": "Reshape emotional responses",
   "ur_reshape_card_desc": "Change your reaction",
   "ur_iam_card_title": "I Am …",
@@ -518,8 +521,8 @@
   "ur_reshape_action_next_end": "End",
   "ur_reshape_start_title": "Input a negative feeling resulting from a previous or existing situation",
   "ur_reshape_start_description": "Search for an existing feeling or enter name for a new one",
-  "ur_reshape_cause_title": "What situation brought \"{feeling}\"?",
-  "@ur_reshape_cause_title": {
+  "ur_reshape_situation_title": "What situation brought \"{feeling}\"?",
+  "@ur_reshape_situation_title": {
     "placeholders": {
       "feeling": {
         "type": "String",
@@ -527,7 +530,55 @@
       }
     }
   },
-  "ur_reshape_cause_description": "What situation brought you there?",
+  "ur_reshape_situation_description": "What situation brought you there?",
+  "ur_reshape_cause_effect_title": "Describe the angle on \"{situation}\" that brought you to \"{feeling}\"",
+  "@ur_reshape_cause_effect_title": {
+    "placeholders": {
+      "situation": {
+        "type": "String",
+        "example": "Some event"
+      },
+      "feeling": {
+        "type": "String",
+        "example": "feels"
+      }
+    }
+  },
+  "ur_reshape_cause_effect_description": "This is not the full story",
+
+  "ur_reshape_cause_title": "What brought you \"{feeling}\" from \"{situation}\"?",
+  "@ur_reshape_cause_title": {
+    "placeholders": {
+      "feeling": {
+        "type": "String",
+        "example": "simți"
+      },
+      "situation": {
+        "type": "String",
+        "example": "Simte"
+      }
+    }
+  },
+
+  "ur_reshape_resolution_title": "\"{situation}\" shouldn't inherently make you feel \"{feeling}\", which means your problem comes from you specifically correlating the two",
+  "@ur_reshape_resolution_title": {
+    "placeholders": {
+      "situation": {
+        "type": "String",
+        "example": "Some event"
+      },
+      "feeling": {
+        "type": "String",
+        "example": "feels"
+      }
+    }
+  },
+
+
+  "ur_reshape_resolution_description": "Beyond this knowledge now being presented to you, we provide two possible resolutions, both distinct in their domain and use",
+  "ur_reshape_resolution_action_monad": "Absolute domain",
+  "ur_reshape_resolution_action_dyad": "Relative domain",
+
   "ur_reshape_new_effect_title": "That shouldn’t necessarily make you feel \"{feeling}\", don't do that to yourself. Any better ways you can look at it?",
   "@ur_reshape_new_effect_title": {
     "placeholders": {
@@ -538,6 +589,16 @@
     }
   },
   "ur_reshape_new_effect_description": "Look at the situation from a brighter place. Search or create the feeling",
+
+  "ur_reshape_new_effect_v2_title": "Any better way you can look at \"{situation}\"?",
+  "@ur_reshape_new_effect_v2_title": {
+    "placeholders": {
+      "situation": {
+        "type": "String",
+        "example": "Simte"
+      }
+    }
+  },
   "ur_reshape_new_effect_dialog": "What's a better way to feel about \"{situation}\"?",
   "@ur_reshape_new_effect_dialog": {
     "placeholders": {
@@ -606,24 +667,64 @@
   },
   "ur_reshape_end_action": "Finish",
   "ur_reshape_result_changed_title": "Reshaped",
-  "ur_reshape_result_changed_desc": "You changed how you feel about \"{feeling}\".\n\nYou can follow this process whenever you encounter negativity in your perception",
+  "ur_reshape_result_changed_desc": "You changed how you feel about \"{situation}\", from \"{oldFeeling}\" to \"{newFeeling}\".\n\nYou can follow this process whenever you encounter negativity in your perception",
   "@ur_reshape_result_changed_desc": {
     "placeholders": {
-      "feeling": {
+      "situation": {
+        "type": "String",
+        "example": "feels"
+      },
+      "oldFeeling": {
+        "type": "String",
+        "example": "feels"
+      },
+      "newFeeling": {
         "type": "String",
         "example": "feels"
       }
+
     }
   },
-  "ur_reshape_result_changed_optional_desc": "You changed how you feel about \"{feeling}\", also uncovering the belief about the event affecting you. \n\nYou can follow this process whenever you encounter negativity in your perception",
+  "ur_reshape_result_changed_optional_desc": "You changed how you feel about \"{situation}\" from \"{oldFeeling}\" to \"{newFeeling}\", also uncovering your impression on the situation that lead to the negative state ({interpretation}). \n\nYou can follow this process again whenever you encounter negativity in your perception.",
   "@ur_reshape_result_changed_optional_desc": {
     "placeholders": {
-      "feeling": {
+      "situation": {
+        "type": "String",
+        "example": "feels"
+      },
+      "oldFeeling": {
+        "type": "String",
+        "example": "feels"
+      },
+      "newFeeling": {
+        "type": "String",
+        "example": "feels"
+      },
+      "interpretation": {
         "type": "String",
         "example": "feels"
       }
     }
   },
+  "ur_reshape_result_changed_absolute_title": "Going forward, make sure you are not jumping from \"what is\"({situation}) to \"how you choose to perceptive it\"({feeling} stemming from personal interpretation {interpretation}).",
+  "@ur_reshape_result_changed_absolute_title": {
+    "placeholders": {
+      "situation": {
+        "type": "String",
+        "example": "feels"
+      },
+      "feeling": {
+        "type": "String",
+        "example": "feels"
+      },
+      "interpretation": {
+        "type": "String",
+        "example": "feels"
+      }
+    }
+  },
+  "ur_reshape_result_changed_absolute_desc": "If it is a problem of evil, understand life isn't always fair, the answer to that being in how we life knowing this.",
+
   "ur_iam_answer_end_flow": "Ended",
   "ur_iam_title": "What are you?",
   "ur_iam_title_alt": "What's your problem, tell Blarg",

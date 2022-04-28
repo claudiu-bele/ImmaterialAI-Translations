@@ -13,16 +13,16 @@
   "tutorial_health_page1_more": "fără urmărire, datele nu părăsesc dispozitivul dvs., toată logica AI rulează local",
   "tutorial_health_page2_headline": "Noduri",
   "tutorial_health_page2_title": "Urmăriți ceea ce vă afectează",
-  "tutorial_health_page2_description": "Hartați amintirile, credințele, sentimentele, gândurile, așteptările, temerile și multe altele către nodurile individuale",
-  "tutorial_health_page2_more": "creați noi clasificări creând propriile tipuri de noduri",
+  "tutorial_health_page2_description": "Introdu amintiri, credințe, sentimente, gânduri, așteptări, temeri etc ca noduri individuale",
+  "tutorial_health_page2_more": "crează noi tipuri/distincții cu Plus",
   "tutorial_health_page3_headline": "Legături",
   "tutorial_health_page3_title": "Urmăriți ceea ce vă afectează",
-  "tutorial_health_page3_description": "Hartați amintirile, credințele, sentimentele, gândurile, așteptările, fricile și multe altele către nodurile individuale",
-  "tutorial_health_page3_more": "implementați o nouă semantică creând propriile tipuri de legături cu propriile reguli",
+  "tutorial_health_page3_description": "Conectează nodurile prin relații ca similar, paralel, egal, descendenta, dovada, etc",
+  "tutorial_health_page3_more": "implementează semanticici noi cu Plus",
   "tutorial_health_page4_headline": "AI",
   "tutorial_health_page4_title": "Schimbați povestea",
   "tutorial_health_page4_description": "Prezumțiile și aparențele dispar în lumina adevărului",
-  "tutorial_health_page4_more": "AI și instrumentele noastre exploatează nodurile și relațiaurile în moduri diferite pentru a vă ajuta să obțineți informații care vă vor schimba viața pe mai multe niveluri",
+  "tutorial_health_page4_more": "Inteligența artificală foloseșțe nodurile și relațile din ele în moduri diferite pentru a vă ajuta să obțineți informații care vă vor schimba viața pe mai multe niveluri",
   "tutorial_health_page5_headline": "Pagina de pornire",
   "tutorial_health_page5_title": "Găsiți totul într-un singur loc",
   "tutorial_health_page5_description": "Deblocați mai multe funcții avansate în calea dvs. pe măsură ce utilizați platforma",
@@ -79,7 +79,9 @@
   "settings_background": "Selectați imaginea de fundal",
   "settings_background_remove": "Eliminați",
   "settings_background_select": "Selectați imaginea",
-  "settings_high_quality_transitions": "Tranziții de înaltă calitate",
+  "settings_high_quality_transitions": "Tranziții cu calitate înaltă",
+  "settings_high_quality_graphs":"Grafuri cu calitate înaltă",
+
   "settings_change_menu_left_right": "Schimbați meniul de la stânga la dreapta",
   "settings_cat_other": "Altele",
   "settings_see_licenses": "Vedeți licențele",
@@ -152,7 +154,7 @@
   "box_check_for_link_sub_title":"între oricare 2 noduri",
   "box_clusters": "Clustere",
   "box_clusters_sub_title": "Cum este structurată mintea ta",
-  "box_sanity_check": "Verificarea sanității",
+  "box_sanity_check": "Verificarea sanătății",
   "box_sanity_check_sub_title": "Verificați problemele din biblioteca dvs.",
   "box_quantum_field": "Câmp cuantic",
   "box_quantum_field_sub_title": "Vezi întregul",
@@ -186,7 +188,7 @@
   "default_nt_insight": "Pildă",
   "default_n_nothing": "Nimic",
   "default_n_dont_know": "Nu știu",
-  "default_n_everything": "Necunoscut momentan",
+  "default_n_everything": "Totul",
   "default_lt_favorite": "Preferat",
   "default_lt_favorite_src_text": "este marcat ca favorit",
   "default_lt_focus": "Focalizare",
@@ -439,8 +441,10 @@
   "ur_deconstruct_card_title": "Deconstructie",
   "ur_deconstruct_card_sub": "Deconstruiți concepte",
   "ur_deconstruct_card_desc": "Navigați surse și origini",
-  "ur_reshape_card_title": "Remodeleaza",
+  "ur_reshape_card_title": "Remodelează",
+  "ur_reshape_v2_card_title": "Remodelează+",
   "ur_reshape_card_sub": "Modificați răspunsurile emoționale",
+  "ur_reshape_v2_card_sub": "Modificați răspunsurile emoționale (acum cu distincție absolut/relativ)",
   "ur_reshape_card_desc": "Schimbați-vă reacția",
   "ur_iam_card_title": "Sunt...",
   "ur_iam_card_title_alt": "Blarg Orcu'",
@@ -472,17 +476,52 @@
   "ur_reshape_action_next_end": "Sfârșit",
   "ur_reshape_start_title": "Introduceți un sentiment negativ legat de o situație anterioară",
   "ur_reshape_start_description": "Căutați un sentiment existent sau introduceți un nume pentru unul nou",
-  "ur_reshape_cause_title": "Ce te face să simți \"{feeling}\"?",
-  "@ur_reshape_cause_title": {
+  "ur_reshape_situation_title": "De la ce a venit \"{feeling}\" recent?",
+  "@ur_reshape_situation_title": {
+    "placeholders": {
+      "feeling": {
+        "type": "String",
+        "example": "feels"
+      }
+    }
+  },
+  "ur_reshape_situation_description": "Ce situație te-a adus acolo?",
+
+  "ur_reshape_cause_effect_title": "Ce te-a adus la \"{feeling}\" de la \"{situation}\"?",
+  "@ur_reshape_cause_effect_title": {
     "placeholder": {
       "feeling": {
         "type": "String",
         "example": "simți"
+      },
+      "situation": {
+        "type": "String",
+        "example": "Simte"
       }
     }
   },
-  "ur_reshape_cause_description": "Ce situație te-a adus acolo?",
-  "ur_reshape_new_effect_title": "Asta nu ar trebui să te facă neapărat să te simți \"{feeling}\", nu-ți face asta singur. Vreo modalitate mai bună de a te uita la asta?",
+  "ur_reshape_cause_effect_description": "Niște piese lipsesc",
+
+  "ur_reshape_resolution_title": "\"{situation}\" nu este \"{feeling}\" în particular, însemnâmd ca problema ta vine în totalitate de la interpretările tale, sărind de la una la alta",
+  "@ur_reshape_resolution_title": {
+    "placeholder": {
+      "feeling": {
+        "type": "String",
+        "example": "simți"
+      },
+      "situation": {
+        "type": "String",
+        "example": "Simte"
+      }
+    }
+  },
+  "ur_reshape_resolution_description": "Mai departe de înțelegerea sursei stării, îți oferim două căi diferite de ajunge la o finalitate mai completă, amândouă distincte în domeniu și utilizare",
+  "ur_reshape_resolution_action_monad": "Domeniul absolut",
+  "ur_reshape_resolution_action_dyad": "Domeniul relativ",
+
+
+
+  "ur_reshape_new_effect_title": "Asta nu ar trebui să te facă neapărat să te simți \"{feeling}\", nu-ți face asta singur. Vreo modalitate mai bună de a te simți legat la asta?",
   "@ur_reshape_new_effect_title": {
     "placeholder": {
       "feeling": {
@@ -491,7 +530,16 @@
       }
     }
   },
-  "ur_reshape_new_effect_description": "Priviți situația dintr-un loc mai luminos. Căutați sau creați sentimentul",
+  "ur_reshape_new_effect_v2_title": "Vreun alt fel mai bun de a te simți legat de \"{situation}\"?",
+  "@ur_reshape_new_effect_v2_title": {
+    "placeholder": {
+      "situation": {
+        "type": "String",
+        "example": "Simte"
+      }
+    }
+  },
+  "ur_reshape_new_effect_description": "Priviți situația dintr-un loc mai prosper. Căutați sau creați o stare mai bună.",
   "ur_reshape_new_effect_dialog": "Care este un mod mai bun de a te simți despre \"{situation}\"?",
   "@ur_reshape_new_effect_dialog": {
     "placeholder": {
@@ -510,7 +558,7 @@
       }
     }
   },
-  "ur_reshape_new_effect_cause_description": "Descrieți unghiul de pe \"{situation}\" care v-a adus la \"{feeling}\"",
+  "ur_reshape_new_effect_cause_description": "Descrieți perspectiva asupra \"{situation}\" care v-a adus la \"{feeling}\"",
   "@ur_reshape_new_effect_cause_description": {
     "placeholder": {
       "situation": {
@@ -560,24 +608,59 @@
   },
   "ur_reshape_end_action": "Terminați",
   "ur_reshape_result_changed_title": "Reformat",
-  "ur_reshape_result_changed_desc": "Ai schimbat modul în care te simți în legătură cu \"{feeling}\".\n\nPuteți urma acest proces ori de câte ori întâlniți negativitate în percepția dvs.",
+  "ur_reshape_result_changed_desc": "Ai schimbat modul în care te simți în legătură cu \"{situation}\", de la \"{oldFeeling}\" la \"{newFeeling}\"\n\nPuteți urma acest proces ori de câte ori întâlniți negativitate în percepția dvs.",
   "@ur_reshape_result_changed_desc": {
     "placeholder": {
-      "feeling": {
+      "situation": {
         "type": "String",
         "example": "simți"
+      },
+      "oldFeeling": {
+        "type": "String",
+        "example": "feels"
+      },
+      "newFeeling": {
+        "type": "String",
+        "example": "feels"
       }
     }
   },
-  "ur_reshape_result_changed_optional_desc": "Ați schimbat felul în care vă simțiți despre \"{feeling}\", dezvăluind și credința despre evenimentul care vă afectează. \n\nPuteți urma acest proces ori de câte ori întâmpinați negativitate în percepția dvs.",
+  "ur_reshape_result_changed_optional_desc": "Ați schimbat felul în care vă simțiți despre \"{situation}\"- de la \"{oldFeeling}\" la \"{newFeeling}, dezvăluind și interpretarea care va dus la starea negativă ({interpretation}). \n\nPuteți urma acest proces ori de câte ori întâmpinați negativitate în percepția dvs.",
   "@ur_reshape_result_changed_optional_desc": {
     "placeholder": {
-      "feeling": {
+      "situation": {
         "type": "String",
         "example": "simți"
+      },
+      "oldFeeling": {
+        "type": "String",
+        "example": "feels"
+      },
+      "newFeeling": {
+        "type": "String",
+        "example": "feels"
       }
     }
   },
+  "ur_reshape_result_changed_absolute_title": "Fi atent ca in viitor sa nu sari de la \"ce este\"({situation}) la \"cum alegi tu să o percepi\"({feeling} care a venit de la {interpretation}) .",
+  "@ur_reshape_result_changed_absolute_title": {
+    "placeholders": {
+      "situation": {
+        "type": "String",
+        "example": "feels"
+      },
+      "feeling": {
+        "type": "String",
+        "example": "feels"
+      },
+      "interpretation": {
+        "type": "String",
+        "example": "feels"
+      }
+    }
+  },
+  "ur_reshape_result_changed_absolute_desc": "Dacă e o problema legată de rău, înțelege ca viața nu pare mereu cinstita, ce conteaza fiind cum reacționam noi la ce se întâmplă.",
+
   "ur_iam_answer_end_flow": "Încheiat",
   "ur_iam_title": "Ce esti?",
   "ur_iam_title_alt": "Care-i problema ta, spune-i lui Blarg",
