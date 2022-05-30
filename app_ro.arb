@@ -87,7 +87,7 @@
   "settings_see_licenses": "Vedeți licențele",
   "settings_cat_general": "General",
   "settings_animations": "Animații",
-  "settings_change_ui_mode": "Schimbați modul UI",
+  "settings_change_ui_mode": "Mod UI",
   "settings_performance_mode": "Mod de performanță",
   "settings_different_user_path": "Selectați o noua cale",
   "settings_restart_tutorial": "Reporniți tutorialul",
@@ -159,7 +159,7 @@
   "box_quantum_field": "Câmp cuantic",
   "box_quantum_field_sub_title": "Vezi întregul",
   "box_train_intuition": "Antrenează-ți intuiția",
-  "box_train_intuition_sub_title": "Precogniție și multe altele!",
+  "box_train_intuition_sub_title": "3 difucultăți cu statistici (rată de succes consecutiv si în medie)",
   "box_presentation_mode": "Modul de prezentare",
   "box_presentation_mode_sub_title": "Ascundeți datele personale atunci când utilizați platforma",
   "box_quantum_noise": "Zgomot cuantic",
@@ -187,7 +187,7 @@
   "default_nt_note": "Notiță",
   "default_nt_insight": "Pildă",
   "default_n_nothing": "Nimic",
-  "default_n_dont_know": "Nu știu",
+  "default_n_dont_know": "Știut neștiut",
   "default_n_everything": "Totul",
   "default_lt_favorite": "Preferat",
   "default_lt_favorite_src_text": "este marcat ca favorit",
@@ -259,13 +259,13 @@
   "n_favorite_on": "Preferat",
 
   "n_old_me_general": "Eu",
-  "n_old_me_create":"Eu",
-  "n_old_me_current": "Seteaza ca Eu",
+  "n_old_me_create":"Statusul Eu",
+  "n_old_me_current": "Eu in prezent",
   "n_old_me_old": "Eu în trecut",
 
   "n_ancestry_src": "Copii direcți",
   "n_ancestry_tar": "Părinți direcți",
-  "n_dependency_title": "Dependențe",
+  "n_dependency_title": "Dependențe directe",
   "n_dependency_desc": "articolele din dreapta depind de elementele din stânga",
   "n_dependency_src": "Depind de nod",
   "n_dependency_tar": "Depinde direct de",
@@ -274,7 +274,7 @@
   "n_is_it_real_nothing": "Irreal\ngăsit dovada „Nimic”\n",
   "n_is_it_real_known_unknown": "Cunoscut necunoscut\ngăsit dovada „Necunoscut”",
   "n_is_it_real_incomplete": "Neconcludent\nnodurile conexe lipsesc relația „dovadă”",
-  "general_types": "Tipuri",
+  "general_types": "Tipuri de relații",
   "general_copy_to_clipboard": "Copiați în clipboard",
   "general_change_from_settings": "Schimbă din Setări",
   "general_export": "Export",
@@ -448,6 +448,7 @@
   "ur_reshape_card_desc": "Schimbați-vă reacția",
   "ur_iam_card_title": "Sunt...",
   "ur_iam_card_title_alt": "Blarg Orcu'",
+  "ur_iam_card_title_alt_s2": "Doctor suspicios",
   "ur_iam_card_sub": "Cine spune mintea ta ca esti?",
   "ur_iam_card_sub_alt": "Spune-i lui Blarg ce ai pe suflet :*",
   "ur_iam_card_desc": "Vezi dincolo de concepte",
@@ -750,13 +751,23 @@
   "rtb_insights": "Pilde",
   "rtb_insights_desc": "Deblochează pilde de fiecare dată când finalizați un nivel dintr-o misiune, 24 în total",
   "rtb_timed_awards_title": "Exclusiv",
-  "rtb_timed_awards_desc": "Terminați toate misiunile înainte de 1 Iunie pentru a debloca",
+  "rtb_timed_awards_desc": "Terminați toate misiunile înainte de 2023 pentru a debloca",
   "rtb_blarg": "Blarg orcu'",
-  "rtb_blarg_desc": "flux alternativ al AI-ului „Eu sunt”",
-  "rtb_skin": "Întoarcere la fericire",
-  "rtb_skin_desc": "2 teme noi pt interfață",
+  "rtb_cool_story": "Mișto poveste frătiorule",
+  "rtb_skeptic": "Suspicilă",
+  "rtb_alternative_i_am_desc": "flux alternativ al AI-ului „Eu sunt”",
+  "rtb_alternative_desconstruct": "flux alternativ al AI-ului „Deconstructie”",
+  "rtb_free_awards": "Mod UI nou",
+  "rtb_skin": "4 skinuri UI",
+  "rtb_skin_desc": "și mai multe",
   "rtb_blarg_enable": "Activeaza modul alternativ Blarg pentru AI-ul 'Eu sunt' ",
   "rtb_blarg_disable": "Dezactiveaza modul alternativ Blarg",
+  "rtb_blarg_enable": "Enable Blarg 'I am' alternative AI flow",
+  "rtb_blarg_disable": "Disable Blarg",
+  "rtb_cool_story_enable": "Activeaza modul alternativ Interesantă poveste frate pentru AI-ul 'Deconstructie' ",
+  "rtb_skeptic_enable": "Activeaza modul alternativ Suspiciosul pentru AI-ul 'Eu sunt' ",
+  "rtb_cool_story_disable": "Disable Cool story bro",
+  "rtb_skeptic_disable": "Disable The skeptic",
   "rtb_new_insight": "Pildă nouă!",
   "rtb_new_insight_node_sub": "Deblocată în „Întoarcere la fericire”",
 
@@ -764,5 +775,32 @@
   "rtb_bronze": "Bronz",
   "rtb_silver": "Argint",
   "rtb_gold": "Aur",
-  "rtb_diamond": "Diamant"
+  "rtb_diamond": "Diamant",
+
+
+  "intuition_description": "Raspunsul este deja selectat, dă-ți seama care e prin intuiție",
+  "intuition_last_correct_answer": "Ultimul răspuns corect: {answer}",
+  "@intuition_last_correct_answer": {
+    "placeholders": {
+      "answer": {
+        "type": "String",
+        "example": "20"
+      }
+    }
+  },
+  "intuition_correct_in_a_row": "Correcte la rând: {correct}",
+  "@intuition_correct_in_a_row": {
+    "placeholders": {
+      "correct": {
+        "type": "String",
+        "example": "20"
+      }
+    }
+  },
+  "intuition_difficulty_easy": "Ușor",
+  "intuition_difficulty_medium": "Medium",
+  "intuition_difficulty_hard": "Greu",
+
+  "intuition_chart_average":"Previziuni corecte (medie)",
+  "intuition_chart_consecutive":"Previziuni consecutive corecte"
 }

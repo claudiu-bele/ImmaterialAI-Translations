@@ -101,7 +101,7 @@
 
   "settings_cat_general":"General",
   "settings_animations":"Animations",
-  "settings_change_ui_mode":"Change UI mode",
+  "settings_change_ui_mode":"Layout of content boxes",
   "settings_performance_mode":"Performance mode",
   "settings_different_user_path":"Select different user path",
   "settings_restart_tutorial":"Restart tutorial",
@@ -131,7 +131,7 @@
   "box_800_teachers":"800 teachers",
   "box_800_teachers_sub_title":"Unlock Tasks, Meta Models, All AI Flows, Clusters, intuition training, and more",
   "box_return_to_bliss":"Return to Bliss",
-  "box_return_to_bliss_sub_title":"Main quest with challenges, tiered progress, bonus unlocks, timed exclusives & more",
+  "box_return_to_bliss_sub_title":"Quest with challenges, tiered progress, bonus unlocks, & timed exclusives",
 
 
   "box_direct_links":"Direct links",
@@ -174,11 +174,11 @@
   "box_clusters":"Clusters",
   "box_clusters_sub_title":"How your mind is structured",
   "box_sanity_check":"Sanity check",
-  "box_sanity_check_sub_title":"Check for issues in your library",
+  "box_sanity_check_sub_title":"Check for issues in your library, pre & post-AI validity, validity distribution & more",
   "box_quantum_field":"Quantum field",
   "box_quantum_field_sub_title":"See the whole",
   "box_train_intuition":"Train your intuition",
-  "box_train_intuition_sub_title":"Precognition & more!",
+  "box_train_intuition_sub_title":"3 difficulties with stats (consecutive and average success rate) ",
 
   "box_presentation_mode":"Presentation mode",
   "box_presentation_mode_sub_title":"Hide personal data when using the platform",
@@ -211,7 +211,7 @@
   "default_nt_insight": "Insight",
 
   "default_n_nothing": "Nothing",
-  "default_n_dont_know": "Currently unknown",
+  "default_n_dont_know": "Known unknown",
   "default_n_everything": "Everything",
 
   "default_lt_favorite": "Favorite",
@@ -235,7 +235,7 @@
   "default_lt_parent_tar_text": "is child of",
 
   "default_lt_proof": "Proof",
-  "default_lt_proof_src_text": "is proven by",
+  "default_lt_proof_src_text": "proven by",
   "default_lt_proof_tar_text": "proves",
 
   "default_lt_source": "Source",
@@ -275,7 +275,7 @@
   "n_deleting": "Deleting node",
 
   "n_focus_general":"Focus",
-  "n_focus_off":"Add focus",
+  "n_focus_off":"Focus",
   "n_focus_on":"Focused",
 
   "n_save": "Save",
@@ -293,31 +293,31 @@
   "me_old_me": "Old me",
 
   "n_public_general": "Public data",
-  "n_public_data_on": "Public data",
-  "n_public_data_off": "Private data",
+  "n_public_data_on": "Public",
+  "n_public_data_off": "Private",
 
   "n_favorite_general":"Favorites",
-  "n_favorite_off":"Add favorite",
+  "n_favorite_off":"Favorites",
   "n_favorite_on":"Favorite",
 
   "n_old_me_general":"Me",
-  "n_old_me_create":"Current/old me",
+  "n_old_me_create":"Me status",
   "n_old_me_current":"Current me",
   "n_old_me_old":"Old me",
 
   "n_ancestry_src": "Direct children",
   "n_ancestry_tar": "Direct parents",
-  "n_dependency_title": "Dependencies",
+  "n_dependency_title": "Direct dependencies",
   "n_dependency_desc": "items on the right are dependent on items on the left",
-  "n_dependency_src": "Directly depended on by",
-  "n_dependency_tar": "Directly depends on",
+  "n_dependency_src": "depended on by",
+  "n_dependency_tar": "depends on",
   "n_is_it_real_no_hierarcy": "Inconclusive\nconcept missing 'proof' link",
   "n_is_it_real_self_ref": "Currently unknown\nfound self-referencing concepts",
   "n_is_it_real_nothing": "Not real\nfound proof \n'Nothing\n'",
   "n_is_it_real_known_unknown": "Known unknown\nFound proof 'Currently unknown'",
   "n_is_it_real_incomplete": "Inconclusive\nconnected concepts missing 'proof' link",
 
-  "general_types": "Types",
+  "general_types": "Link types",
   "general_copy_to_clipboard" : "Copy to clipboard",
   "general_export" : "Export",
   "general_change_from_settings": "Change from Settings",
@@ -334,8 +334,8 @@
   "general_button_more": "SEE MORE",
   "general_coming_soon": "COMING SOON",
   "general_coming_soon_plus": "SOON, Plus only",
-  "general_coming_soon_plus_alt": "COMING SOON TO PLUS",
-  "general_unlocks_at_level_plus": "PLUS ONLY, LEVEL {level}",
+  "general_coming_soon_plus_alt": "COMING SOON TO Plus",
+  "general_unlocks_at_level_plus": "PLUS, LEVEL {level}",
   "@general_unlocks_at_level_plus": {
     "description": "level",
     "placeholders": {
@@ -494,6 +494,7 @@
   "ur_iam_card_desc": "See beyond concepts",
 
   "ur_iam_card_title_alt": "Blarg the Orc",
+  "ur_iam_card_title_alt_s2": "Skeptic doctor",
   "ur_iam_card_sub_alt": "Tell Blarg what's on your mind",
   "ur_iam_card_desc_alt": "Tell Blarg what's on your mind",
   "ur_deconstruct_title": "What do you want to deconstruct?",
@@ -817,14 +818,22 @@
   "rtb_diamond_disclaimer": "Mark quests in their Diamond tier as 'done' only after you have left no stone unturned.",
   "rtb_insights":"Insights",
   "rtb_insights_desc": "Win insights every time you complete a mission tier, 24 in total",
-  "rtb_timed_awards_title": "Timed unlocks",
-  "rtb_timed_awards_desc": "Finish all missions before 1st of June to unlock",
+  "rtb_timed_awards_title": "Timed unlocks (Season 2)",
+  "rtb_timed_awards_desc": "Finish all missions before 2022 ends to unlock",
   "rtb_blarg": "Blarg the Orc",
-  "rtb_blarg_desc": "alternative 'I Am' AI flow",
-  "rtb_skin": "Return to Bliss",
-  "rtb_skin_desc": "2 UI skins",
+  "rtb_cool_story": "Cool story bro",
+  "rtb_skeptic": "The skeptic",
+  "rtb_alternative_i_am_desc": "alternative 'I Am' AI flow",
+  "rtb_alternative_desconstruct": "alternative 'Deconstruct' AI flow",
+  "rtb_free_awards": "New UI mode",
+  "rtb_skin": "4 UI skins",
+  "rtb_skin_desc": "and more",
   "rtb_blarg_enable": "Enable Blarg 'I am' alternative AI flow",
   "rtb_blarg_disable": "Disable Blarg",
+  "rtb_cool_story_enable": "Enable Cool story bro 'I am' alternative AI flow",
+  "rtb_skeptic_enable": "Enable The skeptic 'Deconstruct' alternative AI flow",
+  "rtb_cool_story_disable": "Disable Cool story bro",
+  "rtb_skeptic_disable": "Disable The skeptic",
   "rtb_new_insight": "New insight!",
   "rtb_new_insight_node_sub": "Unlocked in 'Return to bliss'",
 
@@ -832,6 +841,32 @@
   "rtb_bronze": "Bronze",
   "rtb_silver": "Silver",
   "rtb_gold": "Gold",
-  "rtb_diamond": "Diamond"
+  "rtb_diamond": "Diamond",
 
+
+  "intuition_description": "The answer is already selected, figure it out using intuition",
+  "intuition_last_correct_answer": "Last correct answer: {answer}",
+  "@intuition_last_correct_answer": {
+    "placeholders": {
+      "answer": {
+        "type": "String",
+        "example": "20"
+      }
+    }
+  },
+  "intuition_correct_in_a_row": "Correct in a row {correct}",
+  "@intuition_correct_in_a_row": {
+    "placeholders": {
+      "correct": {
+        "type": "String",
+        "example": "20"
+      }
+    }
+  },
+  "intuition_difficulty_easy": "Easy",
+  "intuition_difficulty_medium": "Medium",
+  "intuition_difficulty_hard": "Hard",
+
+  "intuition_chart_average":"Overall average correct predictions",
+  "intuition_chart_consecutive":"Consecutive correct predictions"
 }
