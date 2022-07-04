@@ -1,12 +1,8 @@
 {
   "iai_name": "ImmaterialAI",
   "iai_headline": "Bine ai venit la noul TU",
-
-
   "appbar_search_all": "Caută prin date și unelte",
   "appbar_search_data": "Caută prin date",
-
-
   "tutorial_health_page1_headline": "Tutorial",
   "tutorial_health_page1_title": "Bine ați venit la ImmaterialAI",
   "tutorial_health_page1_description": "Depășește tot ceea ce este negativ astăzi",
@@ -31,19 +27,15 @@
   "steam_free_soon_on_plus": "În curând pe ImmaterialAI Plus\nlive pe Steam",
   "app_free_live_on_plus": "ImmaterialAI Plus\nu numai",
   "app_free_soon_on_plus": "În curând la\nImmaterialAI Plus",
-
-  "home_old_me_disabled":"Perspective ale datelor",
-  "home_old_me_lib":"Biblioteca integral (fără date de tip 'Vechiul eu')",
+  "home_old_me_disabled": "Perspective ale datelor",
+  "home_old_me_lib": "Biblioteca integral (fără date de tip 'Vechiul eu')",
   "home_old_me_new": "Actualul eu",
   "home_old_me_old": "Vechiul eu",
   "home_old_me_all": "Actualul și vechiul eu",
-
-  "home_ancestry_disabled":"Filtru de origine",
-  "home_ancestry_root":"Noduri de bază",
+  "home_ancestry_disabled": "Filtru de origine",
+  "home_ancestry_root": "Noduri de bază",
   "home_ancestry_parent": "Noduri părinte",
   "home_ancestry_child": "Noduri copil",
-
-
   "path_title": "ImmaterialAI poate fi folosit în mai multe feluri",
   "path_sub_title": "Alege-ți o cale",
   "path_overcome_name": "Depășiți",
@@ -55,13 +47,13 @@
   "path_beyond_name": "Dincolo",
   "path_beyond_sub_title": "explorează noi posibilități",
   "path_beyond_description_header": "Depășiți percepția veche",
-  "path_beyond_description": "Dincolo subliniază cât de rapid putem fi în a ne atribui concepte simbolice, concepte care poartă cu ele ambiguitate, puncte forte și puncte slabe, certitudini și imposibilități. Detașarea de idei - vagi sau concrete - ne permite să vedem lumea și suntem mai clari de fiecare dată.\n\nMulte surse îți vor spune cu plăcere cine cred că ești sau ce cred că ai nevoie, cu Beyond poți vedea cu ușurință dincolo de zgomot și adevăruri implicite, astfel încât să poți trăi cea mai bună viață.\n\nBazat pe învățături străvechi și de ultimă generație, Beyond vă permite să priviți lumea dincolo de concepte, ajutându-vă efectiv să vă îndepărtați cu ușurință de nedorit prin expunerea adevăratei sale naturi.",
-  "path_beyond_quote": "Nu vrei un milion de răspunsuri la fel de mult pe cât îți dorești câteva întrebări pentru totdeauna. Întrebările sunt diamante pe care le ții în lumină. Studiază o viață și vezi culori diferite de la aceeași bijuterie. Aceleași întrebări, întrebat din nou, să-ți adu doar răspunsurile de care ai nevoie în momentul în care ai nevoie de ele",
+  "path_beyond_description": "'Dincolo' subliniază cât de rapid putem fi în a ne atribui concepte simbolice, concepte care poartă cu ele ambiguitate, puncte forte și puncte slabe, certitudini și imposibilități. Detașarea de idei - vagi sau concrete - ne permite să vedem lumea și pe noi inșine mai clar de fiecare dată.\n\nMulte surse îți vor spune cu plăcere cine cred că ești sau ce cred că ai nevoie, cu Beyond poți vedea cu ușurință dincolo de zgomot și adevăruri implicite, astfel încât să poți trăi cea mai bună viață.\n\nBazat pe învățături străvechi și de ultimă generație, Beyond vă permite să priviți lumea dincolo de concepte, ajutându-vă efectiv să vă îndepărtați cu ușurință de nedorit prin expunerea adevăratei sale naturi.",
+  "path_beyond_quote": "Nu vrei un milion de răspunsuri la fel de mult pe cât îți dorești câteva întrebări veșnice. Întrebările sunt diamante pe care le ții în lumină. Studiază o viață și vezi culori diferite de la aceeași bijuterie. Aceleași întrebări, puse din nou, aduc fix răspunsurile de care ai nevoie în momentul în care ai nevoie de ele",
   "path_beyond_quote_author": "Richard Bach",
   "path_breakthrough_name": "Descoperire",
   "path_breakthrough_sub_title": "deconstruiți realitatea și sistemele",
   "path_breakthrough_description_header": "Realitate sub microscop",
-  "path_breakthrough_description": "Multe idei răspândite în cultura populară sunt simple agregate de idei învăluite în povești adesea incomplete. Breakthrough reaprinde flacăra miratoare a „de ce” și „de ce nu” pentru a demistifică ceea ce sunt teorii fundamental incomplete promovate. ca fapte, clar evidente odată ce ne uităm dincolo de straturile lor inițiale de raționament.\n\nBreakthrough ne cere să privim dincolo de poveștile conceptelor pe care le păstrăm pentru a le vedea într-o nouă lumină mai clară. La prima vedere, multe concepte despre Sinele sau lumea sunt brutale, neiertătoare, dar săpă mai adânc și povestea se schimbă.\n\nVeți fi surprins de validitatea reală a cunoștințelor dvs. anterioare. Multe adevăruri vechi vor apărea ca necunoscute, neadevăruri sau erori logice, permițându-vă să scăpați de ele în mod conștient și să găsiți noi posibilități și alternative",
+  "path_breakthrough_description": "Multe idei răspândite în cultura populară sunt simple agregate de idei învăluite în povești adesea incomplete. Breakthrough te face sa te întrebi „de ce” și „de ce nu”, ajutându-te să demistifici teorii fundamental incomplete promovate ca fapte, clar evidente odată ce ne uităm dincolo de raționamentul nostru inițial.\n\nBreakthrough ne cere să privim dincolo de poveștile conceptelor pe care le păstrăm pentru a le vedea într-o nouă lumină mai clară. La prima vedere, multe concepte despre Sinele sau lumea sunt brutale, neiertătoare, dar săpă mai adânc și povestea se schimbă.\n\nVeți fi surprins de validitatea reală a cunoștințelor dvs. anterioare. Multe adevăruri vechi vor apărea ca necunoscute, neadevăruri sau erori logice, permițându-vă să scăpați de ele în mod conștient și să găsiți noi posibilități și alternative",
   "path_breakthrough_quote": "Urmează-ți fericirea și universul va deschide uși acolo unde erau doar ziduri.",
   "path_breakthrough_quote_author": "Joseph Campbell",
   "path_create_name": "Creează",
@@ -80,8 +72,7 @@
   "settings_background_remove": "Eliminați",
   "settings_background_select": "Selectați imaginea",
   "settings_high_quality_transitions": "Tranziții cu calitate înaltă",
-  "settings_high_quality_graphs":"Grafuri cu calitate înaltă",
-
+  "settings_high_quality_graphs": "Grafuri cu calitate înaltă",
   "settings_change_menu_left_right": "Schimbați meniul de la stânga la dreapta",
   "settings_cat_other": "Altele",
   "settings_see_licenses": "Vedeți licențele",
@@ -121,10 +112,8 @@
   "box_tasks_sub_title": "Păstrați evidența a ceea ce trebuie făcut",
   "box_tasks_filter": "Filtru de sarcină",
   "box_tasks_filter_sub_title": "Filtrați sarcinile de pe pagina dvs. de pornire",
-
-  "box_me":"Eu",
-  "box_me_sub_title":"Auto-generat din proprietățile „actual/vechiul eu” ale nodurilor",
-
+  "box_me": "Eu",
+  "box_me_sub_title": "Auto-generat din proprietățile „actual/vechiul eu” ale nodurilor",
   "box_absolute_origin": "Origine absolută",
   "box_absolute_origin_sub_title": "Funcția AI care se bazează pe relații „dovadă”, în detaliile nodului",
   "box_bundles": "Pachete",
@@ -149,9 +138,8 @@
   "box_rich_text_sub_title": "Formatați descrierile nodurilor dvs. cu Markdown",
   "box_ancestry_filter": "Filtru de origine",
   "box_ancestry_filter_sub_title": "Vezi toate nodurile care sunt origini, părinți sau copii",
-
-  "box_check_for_link":"Caută legatură",
-  "box_check_for_link_sub_title":"între oricare 2 noduri",
+  "box_check_for_link": "Caută legatură",
+  "box_check_for_link_sub_title": "între oricare 2 noduri",
   "box_clusters": "Clustere",
   "box_clusters_sub_title": "Cum este structurată mintea ta",
   "box_sanity_check": "Verificarea sanătății",
@@ -236,10 +224,8 @@
   "n_focus_general": "Concentrare",
   "n_focus_off": "Adăugați focalizare",
   "n_focus_on": "Concentrat",
-
   "n_save": "Salveaza",
   "n_delete": "Șterge",
-
   "home_tasks_disabled": "Atingeți pentru a afișa sarcinile",
   "tasks_general": "Sarcini",
   "tasks_create_task": "Creează o sarcină",
@@ -247,22 +233,18 @@
   "tasks_in_progress": "În curs",
   "tasks_done": "Terminat",
   "tasks_all": "Toate sarcinile",
-
   "me_current_me": "Eu",
   "me_old_me": "Vechiul eu",
-
   "n_public_general": "Date publice",
   "n_public_data_on": "Date publice",
   "n_public_data_off": "Date private",
   "n_favorite_general": "Preferate",
   "n_favorite_off": "Adăugați favorit",
   "n_favorite_on": "Preferat",
-
   "n_old_me_general": "Eu",
-  "n_old_me_create":"Statusul Eu",
+  "n_old_me_create": "Statusul Eu",
   "n_old_me_current": "Eu in prezent",
   "n_old_me_old": "Eu în trecut",
-
   "n_ancestry_src": "Copii direcți",
   "n_ancestry_tar": "Părinți direcți",
   "n_dependency_title": "Dependențe directe",
@@ -423,8 +405,6 @@
       }
     }
   },
-
-
   "ur_unravel_save": "Salvați",
   "ur_unravel_restart": "Reporniți",
   "ur_unravel_back_home": "Înapoi",
@@ -487,7 +467,6 @@
     }
   },
   "ur_reshape_situation_description": "Ce situație te-a adus acolo?",
-
   "ur_reshape_cause_effect_title": "Ce te-a adus la \"{feeling}\" de la \"{situation}\"?",
   "@ur_reshape_cause_effect_title": {
     "placeholder": {
@@ -502,7 +481,6 @@
     }
   },
   "ur_reshape_cause_effect_description": "Niște piese lipsesc",
-
   "ur_reshape_resolution_title": "\"{situation}\" nu este \"{feeling}\" în particular, însemnâmd ca problema ta vine în totalitate de la interpretările tale, sărind de la una la alta",
   "@ur_reshape_resolution_title": {
     "placeholder": {
@@ -519,9 +497,6 @@
   "ur_reshape_resolution_description": "Mai departe de înțelegerea sursei stării, îți oferim două căi diferite de ajunge la o finalitate mai completă, amândouă distincte în domeniu și utilizare",
   "ur_reshape_resolution_action_monad": "Domeniul absolut",
   "ur_reshape_resolution_action_dyad": "Domeniul relativ",
-
-
-
   "ur_reshape_new_effect_title": "Asta nu ar trebui să te facă neapărat să te simți \"{feeling}\", nu-ți face asta singur. Vreo modalitate mai bună de a te simți legat la asta?",
   "@ur_reshape_new_effect_title": {
     "placeholder": {
@@ -661,7 +636,6 @@
     }
   },
   "ur_reshape_result_changed_absolute_desc": "Dacă e o problema legată de rău, înțelege ca viața nu pare mereu cinstita, ce conteaza fiind cum reacționam noi la ce se întâmplă.",
-
   "ur_iam_answer_end_flow": "Încheiat",
   "ur_iam_title": "Ce esti?",
   "ur_iam_title_alt": "Care-i problema ta, spune-i lui Blarg",
@@ -684,7 +658,7 @@
       }
     }
   },
-  "ur_iam_cont_desc":  "„{concept}” este doar un concept, ești dincolo de asta. Selectați altceva sau atingeți „termină” pentru a încheia conversația",
+  "ur_iam_cont_desc": "„{concept}” este doar un concept, ești dincolo de asta. Selectați altceva sau atingeți „termină” pentru a încheia conversația",
   "ur_iam_cont_desc_alt": "Blarg nu știe nimic despre '{concept}', el zice că n-ai nicio problemă. Selectați altceva sau atingeți „termină” pentru a încheia conversația",
   "@ur_iam_cont_desc": {
     "placeholder": {
@@ -770,14 +744,10 @@
   "rtb_skeptic_disable": "Disable The skeptic",
   "rtb_new_insight": "Pildă nouă!",
   "rtb_new_insight_node_sub": "Deblocată în „Întoarcere la fericire”",
-
-
   "rtb_bronze": "Bronz",
   "rtb_silver": "Argint",
   "rtb_gold": "Aur",
   "rtb_diamond": "Diamant",
-
-
   "intuition_description": "Raspunsul este deja selectat, dă-ți seama care e prin intuiție",
   "intuition_last_correct_answer": "Ultimul răspuns corect: {answer}",
   "@intuition_last_correct_answer": {
@@ -800,7 +770,6 @@
   "intuition_difficulty_easy": "Ușor",
   "intuition_difficulty_medium": "Medium",
   "intuition_difficulty_hard": "Greu",
-
-  "intuition_chart_average":"Previziuni corecte (medie)",
-  "intuition_chart_consecutive":"Previziuni consecutive corecte"
+  "intuition_chart_average": "Previziuni corecte (medie)",
+  "intuition_chart_consecutive": "Previziuni consecutive corecte"
 }

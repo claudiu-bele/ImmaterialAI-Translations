@@ -1,200 +1,165 @@
 {
   "iai_name": "ImmaterialAI",
   "iai_headline": "Welcome to the new you",
-
   "appbar_search_all": "Search through data & content",
   "appbar_search_data": "Search through data",
-
-
   "tutorial_health_page1_headline": "Tutorial",
   "tutorial_health_page1_title": "Welcome to ImmaterialAI",
   "tutorial_health_page1_description": "Overcome everything negative today",
   "tutorial_health_page1_more": "no tracking, data never leaves your device, all AI logic runs locally",
-
   "tutorial_health_page2_headline": "Nodes",
   "tutorial_health_page2_title": "Track what affects you",
   "tutorial_health_page2_description": "Map memories, beliefs, feelings, thoughts, expectations, fears and more to individual nodes",
   "tutorial_health_page2_more": "create new classifications by making your own node types",
-
   "tutorial_health_page3_headline": "Links",
-  "tutorial_health_page3_title": "Track what affects you",
-  "tutorial_health_page3_description": "Map memories, beliefs, feelings, thoughts, expectations, fears and more to individual nodes",
+  "tutorial_health_page3_title": "From cause to effect",
+  "tutorial_health_page3_description": "Connect any two nodes by adding one or more links between them.",
   "tutorial_health_page3_more": "implement new semantics by making your own types of links with their own rules",
-
   "tutorial_health_page4_headline": "AI",
   "tutorial_health_page4_title": "Change the story",
-  "tutorial_health_page4_description": "Assumptions and appearances dissappear in the light of truth",
-  "tutorial_health_page4_more": "our AIs and tools leverage your nodes and links in different ways to help you gain life-changing insights on multiple levels",
-
+  "tutorial_health_page4_description": "See beyond current damaging mentalities, explore new possibilities & experience truth beyond opinion",
+  "tutorial_health_page4_more": "this why our users praise ImmaterialAI: our AIs and tools leverage your nodes and links in different ways to help you gain life-changing insights on multiple levels from your first session",
   "tutorial_health_page5_headline": "Home page",
   "tutorial_health_page5_title": "Find everything in one place",
   "tutorial_health_page5_description": "Unlock more advanced features in your path as you use the platform",
   "tutorial_health_page5_more": "we support portrait and landscape, try it out!",
-
-
   "steam_free_live_on_plus": "ImmaterialAI Plus\nlive on Steam",
   "steam_free_soon_on_plus": "Soon on ImmaterialAI Plus\nlive on Steam",
   "app_free_live_on_plus": "ImmaterialAI Plus\nonly",
   "app_free_soon_on_plus": "Coming soon to\nImmaterialAI Plus",
-
-  "home_old_me_disabled":"Data views",
-  "home_old_me_lib":"Full library (minus 'Old me' data)",
+  "home_old_me_disabled": "Data views",
+  "home_old_me_lib": "Full library (minus 'Old me' data)",
   "home_old_me_new": "'Current me' library",
   "home_old_me_old": "'Old me' library",
   "home_old_me_all": "'Current' & 'Old' me library",
-
-  "home_ancestry_disabled":"Ancestry filter",
-  "home_ancestry_root":"Root nodes",
+  "home_ancestry_disabled": "Ancestry filter",
+  "home_ancestry_root": "Root nodes",
   "home_ancestry_parent": "Parent nodes",
   "home_ancestry_child": "Child nodes",
-
-
-
   "path_title": "ImmaterialAI",
   "path_sub_title": "choose your path",
-
-  "path_overcome_name":"Overcome",
-  "path_overcome_sub_title":"understand and transcend",
-  "path_overcome_description_header":"Overcome mental issues",
-  "path_overcome_description":"From an early age we are taught how we should act and react to different situations or what feelings and states are valid. It starts in childhood with positive and negative reinforcement, and the glossary of presuppositions keeps growing, be it from observing life around us, our community, partners, media, ads, you name it. In all cases one event or idea does not have to lead to a negative state, and that's what Overcome is here to help you understand.\n\nThis includes traumatic events, mental illnesses, overthinking, worries, fear and more.\n\nDecluttering of those implied cause and effect chains, and in general, of the idea that any one thing must lead to a specific another, provides a previously-unknown level of control over negative or limiting thoughts. You might even catch yourself going through the same cycles after processing them, the story now being different - thoughts arise, now within the awareness that the damaging thoughts were a negative path of assumptions you previously followed that since changed. With repetition the new conclusions strengthen and there will be no inner battle over where you stand on a topic.",
-  "path_overcome_quote":"There is nothing good or bad but thinking makes it so",
-  "path_overcome_quote_author":"William Shakespeare",
-
-  "path_beyond_name":"Beyond",
-  "path_beyond_sub_title":"explore new possibilities",
-  "path_beyond_description_header":"Go beyond old perception",
-  "path_beyond_description":"Beyond emphasizes how quick we can be at assigning ourselves to symbolic concepts, concepts that carry with them ambiguity, strengths and weaknesses, certainties and impossibilities. Detaching ourselves from ideas - vague or concrete - allows us to see the world and ourselves clearer every time.\n\nMany sources would gladly tell you who they think you are or what they think you need, with Beyond you can easily see beyond the noise and implied truths so you can live your best life.\n\nBased on ancient and state of the art new teachings, Beyond enables you to peer into the world beyond concepts, effectively helping you easily shed the unwanted by exposing its true nature.",
-  "path_beyond_quote":"You don't want a million answers as much as you want a few forever questions. The questions are diamonds you hold in the light. Study a lifetime and you see different colors from the same jewel. The same questions, asked again, bring you just the answers you need just the minute you need them",
-  "path_beyond_quote_author":"Richard Bach",
-
-  "path_breakthrough_name":"Breakthrough",
-  "path_breakthrough_sub_title":"deconstruct reality and systems",
-  "path_breakthrough_description_header":"Reality under a microscope",
-  "path_breakthrough_description":"Many ideas prevalent in popular culture are mere aggregates of ideas wrapped in often incomplete stories. Breakthrough rekindles the wondering flame of \"why\" and \"why not\" in order to demistify what are fundamentally incomplete theories touted as facts, clearly apparent once we look beyond their initial layers of reasoning.\n\nBreakthrough asks us to look beyond the stories of the concepts we hold onto in order to see them in a new clearer light. On first notice, many concepts about the self or the world are brutal, unforgiving, yet dig deeper and the story changes.\n\nYou'll be surprised at the real validity of your previous knowledge. Many old truths will show up as really unknowns, untruths or logical fallacies, enabling you to consciously get rid of them and find new possibilities and alternatives",
-  "path_breakthrough_quote":"Follow your bliss and the universe will open doors where there were only walls.",
-  "path_breakthrough_quote_author":"Joseph Campbell",
-
-  "path_create_name":"Create",
-  "path_create_sub_title":"map data in over infinite dimensions",
-  "path_create_description_header":"Create universes of concepts",
-  "path_create_description":"Unlike any other user data tools which organize data in lists, tables or documents, your ImmaterialAI data organically resembles the structure of the brain and the universe, allowing you to map data in more than infinite dimensions.\n\nIn ImmaterialAI each node of information works like a neuron, while links between them like synapses. Connect them and see how deeply they directly and indirectly connect with eachother.",
-  "path_create_quote":"The real voyage of discovery consists not in seeking new landscapes, but in having new eyes.",
-  "path_create_quote_author":"Marcel Proust",
-
-
-
-  "settings_cat_graphics_performance":"Graphics & Performance",
-  "settings_full_screen":"Full screen",
-  "settings_page_mode":"Page mode",
-  "settings_skin":"Select skin",
-  "settings_skin_default":"Default",
-  "settings_skin_inverse":"Inverse",
-  "settings_background":"Select background image",
-  "settings_background_remove":"Remove",
-  "settings_background_select":"Select image",
-  "settings_high_quality_transitions":"High quality transitions",
-  "settings_high_quality_graphs":"High quality graphs",
-  "settings_change_menu_left_right":"Change menu from left to right",
-
-  "settings_cat_other":"Other",
-  "settings_see_licenses":"See licenses",
-
-  "settings_cat_general":"General",
-  "settings_animations":"Animations",
-  "settings_change_ui_mode":"Layout of content boxes",
-  "settings_performance_mode":"Performance mode",
-  "settings_different_user_path":"Select different user path",
-  "settings_restart_tutorial":"Restart tutorial",
-  "settings_clear_user_library":"Clear user library",
-  "settings_hide_future_locked_content_on":"Show all locked features",
-  "settings_hide_future_locked_content_off":"Hide future locked features",
+  "path_overcome_name": "Overcome",
+  "path_overcome_sub_title": "understand and transcend",
+  "path_overcome_description_header": "Overcome mental issues",
+  "path_overcome_description": "From an early age we are taught how we should act and react to different situations or what feelings and states are valid. It starts in childhood with positive and negative reinforcement, and the glossary of presuppositions keeps growing, be it from observing life around us, our community, partners, media, ads, you name it. In all cases one event or idea does not have to lead to a negative state, and that's what Overcome is here to help you understand.\n\nThis includes traumatic events, mental illnesses, overthinking, worries, fear and more.\n\nDecluttering of those implied cause and effect chains, and in general, of the idea that any one thing must lead to a specific another, provides a previously-unknown level of control over negative or limiting thoughts. You might even catch yourself going through the same cycles after processing them, the story now being different - thoughts arise, now within the awareness that the damaging thoughts were a negative path of assumptions you previously followed that since changed. With repetition the new conclusions strengthen and there will be no inner battle over where you stand on a topic.",
+  "path_overcome_quote": "There is nothing good or bad but thinking makes it so",
+  "path_overcome_quote_author": "William Shakespeare",
+  "path_beyond_name": "Beyond",
+  "path_beyond_sub_title": "explore new possibilities",
+  "path_beyond_description_header": "Go beyond old perception",
+  "path_beyond_description": "Beyond emphasizes how quick we can be at assigning ourselves to symbolic concepts, concepts that carry with them ambiguity, strengths and weaknesses, certainties and impossibilities. Detaching ourselves from ideas - vague or concrete - allows us to see the world and ourselves clearer every time.\n\nMany sources would gladly tell you who they think you are or what they think you need, with Beyond you can easily see beyond the noise and implied truths so you can live your best life.\n\nBased on ancient and state of the art new teachings, Beyond enables you to peer into the world beyond concepts, effectively helping you easily shed the unwanted by exposing its true nature.",
+  "path_beyond_quote": "You don't want a million answers as much as you want a few forever questions. The questions are diamonds you hold in the light. Study a lifetime and you see different colors from the same jewel. The same questions, asked again, bring you just the answers you need just the minute you need them",
+  "path_beyond_quote_author": "Richard Bach",
+  "path_breakthrough_name": "Breakthrough",
+  "path_breakthrough_sub_title": "deconstruct reality and systems",
+  "path_breakthrough_description_header": "Reality under a microscope",
+  "path_breakthrough_description": "Many ideas prevalent in popular culture are mere aggregates of ideas wrapped in often incomplete stories. Breakthrough rekindles the wondering flame of \"why\" and \"why not\" in order to demistify what are fundamentally incomplete theories touted as facts, clearly apparent once we look beyond their initial layers of reasoning.\n\nBreakthrough asks us to look beyond the stories of the concepts we hold onto in order to see them in a new clearer light. On first notice, many concepts about the self or the world are brutal, unforgiving, yet dig deeper and the story changes.\n\nYou'll be surprised at the real validity of your previous knowledge. Many old truths will show up as really unknowns, untruths or logical fallacies, enabling you to consciously get rid of them and find new possibilities and alternatives",
+  "path_breakthrough_quote": "Follow your bliss and the universe will open doors where there were only walls.",
+  "path_breakthrough_quote_author": "Joseph Campbell",
+  "path_create_name": "Create",
+  "path_create_sub_title": "map data in over infinite dimensions",
+  "path_create_description_header": "Create universes of concepts",
+  "path_create_description": "Unlike any other user data tools which organize data in lists, tables or documents, your ImmaterialAI data organically resembles the structure of the brain and the universe, allowing you to map data in more than infinite dimensions.\n\nIn ImmaterialAI each node of information works like a neuron, while links between them like synapses. Connect them and see how deeply they directly and indirectly connect with eachother.\n\nExclusive to ImmaterialAI Plus users - and the first unlocks for Create users only - you can create new types of neurons and synapses from the start of your IAI journey, effectively enabling you to describe your data in more than infinity cubed dimensions. You can also easily filter your libraray by multiple node types in conjunction with existing filters (e.g. todo, old/new me, focus, etc), as well as configure graph generation to include or exclude any existing and custom lik types",
+  "path_create_quote": "The real voyage of discovery consists not in seeking new landscapes, but in having new eyes.",
+  "path_create_quote_author": "Marcel Proust",
+  "settings_cat_graphics_performance": "Graphics & Performance",
+  "settings_full_screen": "Full screen",
+  "settings_page_mode": "Page mode",
+  "settings_skin": "Select skin",
+  "settings_skin_default": "Default",
+  "settings_skin_inverse": "Inverse",
+  "settings_background": "Select background image",
+  "settings_background_remove": "Remove",
+  "settings_background_select": "Select image",
+  "settings_high_quality_transitions": "High quality transitions",
+  "settings_high_quality_graphs": "High quality graphs",
+  "settings_change_menu_left_right": "Change menu from left to right",
+  "settings_cat_other": "Other",
+  "settings_see_licenses": "See licenses",
+  "settings_cat_general": "General",
+  "settings_animations": "Animations",
+  "settings_change_ui_mode": "Layout of content boxes",
+  "settings_performance_mode": "Performance mode",
+  "settings_different_user_path": "Select different user path",
+  "settings_restart_tutorial": "Restart tutorial",
+  "settings_clear_user_library": "Clear user library",
+  "settings_hide_future_locked_content_on": "Show all locked features",
+  "settings_hide_future_locked_content_off": "Hide future locked features",
   "settings_language": "Change language",
   "settings_language_remove": "Remove custom language",
-  "settings_exit":"Exit platform",
-
-  "box_library":"Library",
-  "box_settings":"Settings",
-  "box_add_n":"New node",
-  "box_add_n_sub_title":"Anything you can name",
-  "box_add_nt":"New node type",
-  "box_add_nt_sub_title":"Concept groups e.g. 'Entities', 'Events'",
-  "box_add_l":"New link",
-  "box_add_l_sub_title":"Connect any two concepts",
-  "box_add_lt":"New link type",
-  "box_add_lt_sub_title":"Types of links e.g. 'Parent/Child'",
-
-
-  "box_student":"Student",
-  "box_student_sub_title":"Unlock Absolute Origin, Bundles, Focus and Node Ancestry",
-  "box_teacher":"Teacher",
-  "box_teacher_sub_title":"Unlock Favorites, New/Old me, Big Picture, Find link and Is It Real?",
-  "box_800_teachers":"800 teachers",
-  "box_800_teachers_sub_title":"Unlock Tasks, Meta Models, All AI Flows, Clusters, intuition training, and more",
-  "box_return_to_bliss":"Return to Bliss",
-  "box_return_to_bliss_sub_title":"Quest with challenges, tiered progress, bonus unlocks, & timed exclusives",
-
-
-  "box_direct_links":"Direct links",
-  "box_direct_links_sub_title":"Easily link two nodes from inside any node",
-
-  "box_tasks":"Task board",
-  "box_tasks_sub_title":"Keep track of what needs to be done",
-  "box_tasks_filter":"Task filter",
-  "box_tasks_filter_sub_title":"Filter tasks from your home page",
-
-  "box_me":"Me",
-  "box_me_sub_title":"Auto-generated from current/old me node states",
-
-  "box_absolute_origin":"Absolute origin",
-  "box_absolute_origin_sub_title":"AI function relying on 'proof' links, in node details",
-  "box_bundles":"Bundles",
-  "box_bundles_sub_title":"Keep track of what needs to be done",
-  "box_backups":"Backups",
-  "box_backups_sub_title":"Import / Export",
-  "box_backups_import":"Import file",
-  "box_backups_import_sub_title":"Restore ImmaterialAI 2 & 3 files",
-  "box_backups_import_text":"Import text",
-  "box_backups_import_text_sub_title":"Paste text here",
-  "box_backups_export":"Export file",
-  "box_backups_export_sub_title":"Save all your data to a file",
-  "box_backups_export_text":"Export text",
-  "box_backups_export_text_sub_title":"Copy the resulting text and store it wherever you want",
-  "box_big_picture":"Big picture",
-  "box_big_picture_sub_title":"Explore universes of concepts",
-  "box_is_it_real":"It it real?",
-  "box_is_it_real_sub_title":"AI function relying on 'proof' links, in node details",
-  "box_dependency_tree":"Dependency graph",
-  "box_dependency_tree_sub_title":"AI function relying on 'depends on' links, in node details",
-  "box_rich_text":"Rich text",
-  "box_check_for_link":"Check for link",
-  "box_check_for_link_sub_title":"between any 2 nodes",
-  "box_rich_text_sub_title":"Format your nodes' descriptions with Markdown",
+  "settings_exit": "Exit platform",
+  "box_library": "Library",
+  "box_settings": "Settings",
+  "box_add_n": "New node",
+  "box_add_n_sub_title": "Anything you can name",
+  "box_add_nt": "New node type",
+  "box_add_nt_sub_title": "Concept groups e.g. 'Entities', 'Events'",
+  "box_add_l": "New link",
+  "box_add_l_sub_title": "Connect any two concepts",
+  "box_add_lt": "New link type",
+  "box_add_lt_sub_title": "Types of links e.g. 'Parent/Child'",
+  "box_student": "Student",
+  "box_student_sub_title": "Unlock Absolute Origin, Bundles, Focus and Node Ancestry",
+  "box_teacher": "Teacher",
+  "box_teacher_sub_title": "Unlock Favorites, New/Old me, Big Picture, Find link and Is It Real?",
+  "box_800_teachers": "800 teachers",
+  "box_800_teachers_sub_title": "Unlock Tasks, Meta Models, All AI Flows, Clusters, intuition training, and more",
+  "box_return_to_bliss": "Return to Bliss",
+  "box_return_to_bliss_sub_title": "Quest with challenges, tiered progress, bonus unlocks, & timed exclusives",
+  "box_direct_links": "Direct links",
+  "box_direct_links_sub_title": "Easily link two nodes from inside any node",
+  "box_tasks": "Task board",
+  "box_tasks_sub_title": "Keep track of what needs to be done",
+  "box_tasks_filter": "Task filter",
+  "box_tasks_filter_sub_title": "Filter tasks from your home page",
+  "box_me": "Me",
+  "box_me_sub_title": "Auto-generated from current/old me node states",
+  "box_absolute_origin": "Absolute origin",
+  "box_absolute_origin_sub_title": "AI function relying on 'proof' links, in node details",
+  "box_bundles": "Bundles",
+  "box_bundles_sub_title": "Keep track of what needs to be done",
+  "box_backups": "Backups",
+  "box_backups_sub_title": "Import / Export",
+  "box_backups_import": "Import file",
+  "box_backups_import_sub_title": "Restore ImmaterialAI 2 & 3 files",
+  "box_backups_import_text": "Import text",
+  "box_backups_import_text_sub_title": "Paste text here",
+  "box_backups_export": "Export file",
+  "box_backups_export_sub_title": "Save all your data to a file",
+  "box_backups_export_text": "Export text",
+  "box_backups_export_text_sub_title": "Copy the resulting text and store it wherever you want",
+  "box_big_picture": "Big picture",
+  "box_big_picture_sub_title": "Explore universes of concepts",
+  "box_is_it_real": "It it real?",
+  "box_is_it_real_sub_title": "AI function relying on 'proof' links, in node details",
+  "box_dependency_tree": "Dependency graph",
+  "box_dependency_tree_sub_title": "AI function relying on 'depends on' links, in node details",
+  "box_rich_text": "Rich text",
+  "box_check_for_link": "Check for link",
+  "box_check_for_link_sub_title": "between any 2 nodes",
+  "box_rich_text_sub_title": "Format your nodes' descriptions with Markdown",
   "box_ancestry_filter": "Ancestry filter",
   "box_ancestry_filter_sub_title": "See all root, parent and child nodes",
-  "box_clusters":"Clusters",
-  "box_clusters_sub_title":"How your mind is structured",
-  "box_sanity_check":"Sanity check",
-  "box_sanity_check_sub_title":"Check for issues in your library, pre & post-AI validity, validity distribution & more",
-  "box_quantum_field":"Quantum field",
-  "box_quantum_field_sub_title":"See the whole",
-  "box_train_intuition":"Train your intuition",
-  "box_train_intuition_sub_title":"3 difficulties with stats (consecutive and average success rate) ",
-
-  "box_presentation_mode":"Presentation mode",
-  "box_presentation_mode_sub_title":"Hide personal data when using the platform",
-  "box_quantum_noise":"Quantum noise",
-  "box_sugar_pills":"Sugar pills",
-  "box_sugar_pills_sub_title":"Induce placebos willingly",
-
-  "box_focus":"Focus",
-  "box_focus_sub_title":"Access focused concepts from home",
-  "box_node_ancestry":"Node ancestry",
-  "box_node_ancestry_sub_title":"AI function relying on 'parent' links, in node details",
-  "box_favorites":"Favorites",
-  "box_fav_sub_title":"In node details",
-  "box_old_me":"New/Old me",
-
-
+  "box_clusters": "Clusters",
+  "box_clusters_sub_title": "How your mind is structured",
+  "box_sanity_check": "Sanity check",
+  "box_sanity_check_sub_title": "Check for issues in your library, pre & post-AI validity, validity distribution & more",
+  "box_quantum_field": "Quantum field",
+  "box_quantum_field_sub_title": "See the whole",
+  "box_train_intuition": "Train your intuition",
+  "box_train_intuition_sub_title": "3 difficulties with stats (consecutive and average success rate) ",
+  "box_presentation_mode": "Presentation mode",
+  "box_presentation_mode_sub_title": "Hide personal data when using the platform",
+  "box_quantum_noise": "Quantum noise",
+  "box_sugar_pills": "Sugar pills",
+  "box_sugar_pills_sub_title": "Induce placebos willingly",
+  "box_focus": "Focus",
+  "box_focus_sub_title": "Access focused concepts from home",
+  "box_node_ancestry": "Node ancestry",
+  "box_node_ancestry_sub_title": "AI function relying on 'parent' links, in node details",
+  "box_favorites": "Favorites",
+  "box_fav_sub_title": "In node details",
+  "box_old_me": "New/Old me",
   "default_nt_internal_all": "All",
   "default_nt_internal_journey": "Path",
   "default_nt_internal_system": "Internal",
@@ -209,102 +174,77 @@
   "default_nt_study": "Study",
   "default_nt_note": "Note",
   "default_nt_insight": "Insight",
-
   "default_n_nothing": "Nothing",
   "default_n_dont_know": "Known unknown",
   "default_n_everything": "Everything",
-
   "default_lt_favorite": "Favorite",
   "default_lt_favorite_src_text": "is marked favorite",
-
   "default_lt_focus": "Focus",
   "default_lt_focus_src_text": "is marked as focused",
-
   "default_lt_old_me": "Old me",
   "default_lt_old_me_src_text": "is marked as 'old me'",
-
   "default_lt_tasks": "Tasks",
   "default_lt_tasks_src_text": "is in task list",
-
   "default_lt_public_data": "Public data On/Off",
   "default_lt_public_data_src_text": "is public data",
   "default_lt_public_data_tar_text": "-",
-
   "default_lt_parent": "Parent/Child",
   "default_lt_parent_src_text": "is parent of",
   "default_lt_parent_tar_text": "is child of",
-
   "default_lt_proof": "Proof",
   "default_lt_proof_src_text": "proven by",
   "default_lt_proof_tar_text": "proves",
-
   "default_lt_source": "Source",
   "default_lt_source_src_text": "is source of",
   "default_lt_source_tar_text": "has source",
-
   "default_lt_cause_effect": "Cause/Effect",
   "default_lt_cause_effect_src_text": "causes",
   "default_lt_cause_effect_tar_text": "caused by",
-
   "default_lt_related": "Related to",
   "default_lt_related_src_tar_text": "related to",
-
   "default_lt_equality": "Is",
   "default_lt_equality_src_tar_text": "is",
-
   "default_lt_parallel": "Parallel",
   "default_lt_parallel_src_tar_text": "has parallel",
-
   "default_lt_analog": "Analog",
   "default_lt_analog_desc": "Something that bears an analogy to something else",
   "default_lt_analog_src_tar_text": "is analogous to",
-
   "default_lt_dependency": "Dependencies",
   "default_lt_dependency_src_text": "is dependency of",
   "default_lt_dependency_tar_text": "depends on",
-
   "n_tab_details": "Details",
   "n_tab_ai": "AI",
   "n_tab_big_picture": "Big Picture",
-
-  "n_hint_name":"Name",
-  "n_hint_subtitle":"Subtitle",
-  "n_hint_desc":"Description",
-  "n_hint_plus_view":"View",
-  "n_hint_plus_edit":"Edit",
+  "n_hint_name": "Name",
+  "n_hint_subtitle": "Subtitle",
+  "n_hint_desc": "Description",
+  "n_hint_plus_view": "View",
+  "n_hint_plus_edit": "Edit",
   "n_deleting": "Deleting node",
-
-  "n_focus_general":"Focus",
-  "n_focus_off":"Focus",
-  "n_focus_on":"Focused",
-
+  "n_focus_general": "Focus",
+  "n_focus_off": "Focus",
+  "n_focus_on": "Focused",
   "n_save": "Save",
   "n_delete": "Delete",
-
   "home_tasks_disabled": "Tap to show tasks",
   "tasks_general": "Tasks",
   "tasks_create_task": "Create task",
   "tasks_todo": "To do",
   "tasks_in_progress": "In progress",
   "tasks_done": "Done",
-  "tasks_all": "ALl tasks",
-
+  "tasks_all": "All tasks",
   "me_current_me": "(Current) me",
   "me_old_me": "Old me",
-
   "n_public_general": "Public data",
   "n_public_data_on": "Public",
   "n_public_data_off": "Private",
-
-  "n_favorite_general":"Favorites",
-  "n_favorite_off":"Favorites",
-  "n_favorite_on":"Favorite",
-
-  "n_old_me_general":"Me",
-  "n_old_me_create":"Me status",
-  "n_old_me_current":"Current me",
-  "n_old_me_old":"Old me",
-
+  "n_favorite_general": "Favorites",
+  "n_favorite_off": "Favorites",
+  "n_favorite_on": "Favorite",
+  "n_old_me_general": "Me",
+  "n_old_me_create": "Me status",
+  "n_old_me_current": "Current me",
+  "n_old_me_old": "Old me",
   "n_ancestry_src": "Direct children",
   "n_ancestry_tar": "Direct parents",
   "n_dependency_title": "Direct dependencies",
@@ -316,12 +256,10 @@
   "n_is_it_real_nothing": "Not real\nfound proof \n'Nothing\n'",
   "n_is_it_real_known_unknown": "Known unknown\nFound proof 'Currently unknown'",
   "n_is_it_real_incomplete": "Inconclusive\nconnected concepts missing 'proof' link",
-
   "general_types": "Link types",
-  "general_copy_to_clipboard" : "Copy to clipboard",
-  "general_export" : "Export",
+  "general_copy_to_clipboard": "Copy to clipboard",
+  "general_export": "Export",
   "general_change_from_settings": "Change from Settings",
-
   "general_yes": "Yes",
   "general_no": "No",
   "general_button_on": "ON",
@@ -333,8 +271,8 @@
   "general_button_start": "START",
   "general_button_more": "SEE MORE",
   "general_coming_soon": "COMING SOON",
-  "general_coming_soon_plus": "SOON, Plus only",
-  "general_coming_soon_plus_alt": "COMING SOON TO Plus",
+  "general_coming_soon_plus": "PLUS, SOON",
+  "general_coming_soon_plus_alt": "PLUS, COMING SOON ",
   "general_unlocks_at_level_plus": "PLUS, LEVEL {level}",
   "@general_unlocks_at_level_plus": {
     "description": "level",
@@ -467,7 +405,6 @@
       }
     }
   },
-
   "ur_unravel_save": "Save",
   "ur_unravel_restart": "Restart",
   "ur_unravel_back_home": "Back",
@@ -492,13 +429,12 @@
   "ur_iam_card_title": "I Am …",
   "ur_iam_card_sub": "Who does your mind say you are?",
   "ur_iam_card_desc": "See beyond concepts",
-
   "ur_iam_card_title_alt": "Blarg the Orc",
   "ur_iam_card_title_alt_s2": "Skeptic doctor",
   "ur_iam_card_sub_alt": "Tell Blarg what's on your mind",
   "ur_iam_card_desc_alt": "Tell Blarg what's on your mind",
   "ur_deconstruct_title": "What do you want to deconstruct?",
-  "ur_deconstruct_desc": "Search for the node or enter new node name",
+  "ur_deconstruct_desc": "Search for the node or enter the name for a new node",
   "ur_deconstruct_cont_title": "What's the source of it/ what makes it real?",
   "ur_deconstruct_cont_desc": "Is it just a story? Can it change?",
   "ur_deconstruct_action_select": "Select",
@@ -546,7 +482,6 @@
     }
   },
   "ur_reshape_cause_effect_description": "This is not the full story",
-
   "ur_reshape_cause_title": "What brought you \"{feeling}\" from \"{situation}\"?",
   "@ur_reshape_cause_title": {
     "placeholders": {
@@ -560,7 +495,6 @@
       }
     }
   },
-
   "ur_reshape_resolution_title": "\"{situation}\" shouldn't inherently make you feel \"{feeling}\", which means your problem comes from you specifically correlating the two",
   "@ur_reshape_resolution_title": {
     "placeholders": {
@@ -574,12 +508,9 @@
       }
     }
   },
-
-
   "ur_reshape_resolution_description": "Beyond this knowledge now being presented to you, we provide two possible resolutions, both distinct in their domain and use",
   "ur_reshape_resolution_action_monad": "Absolute domain",
   "ur_reshape_resolution_action_dyad": "Relative domain",
-
   "ur_reshape_new_effect_title": "That shouldn’t necessarily make you feel \"{feeling}\", don't do that to yourself. Any better ways you can look at it?",
   "@ur_reshape_new_effect_title": {
     "placeholders": {
@@ -590,7 +521,6 @@
     }
   },
   "ur_reshape_new_effect_description": "Look at the situation from a brighter place. Search or create the feeling",
-
   "ur_reshape_new_effect_v2_title": "Any better way you can look at \"{situation}\"?",
   "@ur_reshape_new_effect_v2_title": {
     "placeholders": {
@@ -683,7 +613,6 @@
         "type": "String",
         "example": "feels"
       }
-
     }
   },
   "ur_reshape_result_changed_optional_desc": "You changed how you feel about \"{situation}\" from \"{oldFeeling}\" to \"{newFeeling}\", also uncovering your impression on the situation that lead to the negative state ({interpretation}). \n\nYou can follow this process again whenever you encounter negativity in your perception.",
@@ -707,7 +636,7 @@
       }
     }
   },
-  "ur_reshape_result_changed_absolute_title": "Going forward, make sure you are not jumping from \"what is\"({situation}) to \"how you choose to perceptive it\"({feeling} stemming from personal interpretation {interpretation}).",
+  "ur_reshape_result_changed_absolute_title": "Going forward, make sure you are not jumping from \n- what is ('{situation}') to \n- how you choose to perceptive it('{feeling}' due to '{interpretation}').",
   "@ur_reshape_result_changed_absolute_title": {
     "placeholders": {
       "situation": {
@@ -724,8 +653,7 @@
       }
     }
   },
-  "ur_reshape_result_changed_absolute_desc": "If it is a problem of evil, understand life isn't always fair, the answer to that being in how we life knowing this.",
-
+  "ur_reshape_result_changed_absolute_desc": "If it is a problem of evil, understand life isn't always fair, the answer to that being in how we live life knowing this.",
   "ur_iam_answer_end_flow": "Ended",
   "ur_iam_title": "What are you?",
   "ur_iam_title_alt": "What's your problem, tell Blarg",
@@ -801,22 +729,18 @@
     }
   },
   "ur_iam_result__iam_end_alt": "Blarg doesn't understand one thing of what you said, the real story is beyond any definition!",
-
   "rtb_title": "Return to Bliss",
   "rtb_subtitle": "an ImmaterialAI experiment",
   "rtb_intro_desc": "The purpose of this experiment is to help you overcome all current distortions e.g. incorrect facts, negative beliefs, jumping to conclusions, self-imposed limits and damaging mentalities. \n\nGo through all missions on Platinum and you will have left no stone unturned.",
   "rtb_intro_warning": "\n\n\nWarning, this might change how you see everything,\nthere is no undoing starting this process,\n\n\nOnce started, we recommend setting aside a few hours and finishing each mission on Diamond in one go.\n",
-
   "rtb_missions_title": "Missions",
   "rtb_missions_desc": "Completing the Diamond tier of all missions will provide you the perspective to overcome all current distortions and pain - all stemming from incorrect facts, negative beliefs, jumping to conclusions, self-imposed limits and similar error-prone ultimately damaging mentalities.",
   "rtb_missions_reminder": "Reminder: your data never leaves your device, it stays ONLY with you",
-
   "rtb_incomplete": "INCOMPLETE",
   "rtb_mark_as_done": "MARK AS DONE AFTER COVERING ALL GROUND",
   "rtb_done": "DONE",
-
   "rtb_diamond_disclaimer": "Mark quests in their Diamond tier as 'done' only after you have left no stone unturned.",
-  "rtb_insights":"Insights",
+  "rtb_insights": "Insights",
   "rtb_insights_desc": "Win insights every time you complete a mission tier, 24 in total",
   "rtb_timed_awards_title": "Timed unlocks (Season 2)",
   "rtb_timed_awards_desc": "Finish all missions before 2022 ends to unlock",
@@ -836,14 +760,10 @@
   "rtb_skeptic_disable": "Disable The skeptic",
   "rtb_new_insight": "New insight!",
   "rtb_new_insight_node_sub": "Unlocked in 'Return to bliss'",
-
-
   "rtb_bronze": "Bronze",
   "rtb_silver": "Silver",
   "rtb_gold": "Gold",
   "rtb_diamond": "Diamond",
-
-
   "intuition_description": "The answer is already selected, figure it out using intuition",
   "intuition_last_correct_answer": "Last correct answer: {answer}",
   "@intuition_last_correct_answer": {
@@ -866,7 +786,19 @@
   "intuition_difficulty_easy": "Easy",
   "intuition_difficulty_medium": "Medium",
   "intuition_difficulty_hard": "Hard",
-
-  "intuition_chart_average":"Overall average correct predictions",
-  "intuition_chart_consecutive":"Consecutive correct predictions"
+  "intuition_chart_average": "Overall average correct predictions",
+  "intuition_chart_consecutive": "Consecutive correct predictions"
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
