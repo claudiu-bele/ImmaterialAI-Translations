@@ -42,8 +42,8 @@
   "path_overcome_sub_title": "understand and transcend",
   "path_overcome_description_header": "Overcome mental issues",
   "path_overcome_description": "From an early age we are taught how we should act and react to different situations or what feelings and states are valid. It starts in childhood with positive and negative reinforcement, and the glossary of presuppositions keeps growing, be it from observing life around us, our community, partners, media, ads, you name it. In all cases one event or idea does not have to lead to a negative state, and that's what Overcome is here to help you understand.\n\nThis includes traumatic events, mental illnesses, overthinking, worries, fear and more.\n\nDecluttering of those implied cause and effect chains, and in general, of the idea that any one thing must lead to a specific another, provides a previously-unknown level of control over negative or limiting thoughts. You might even catch yourself going through the same cycles after processing them, the story now being different - thoughts arise, now within the awareness that the damaging thoughts were a negative path of assumptions you previously followed that since changed. With repetition the new conclusions strengthen and there will be no inner battle over where you stand on a topic.",
-  "path_overcome_quote": "There is nothing good or bad but thinking makes it so",
-  "path_overcome_quote_author": "William Shakespeare",
+  "path_overcome_quote": "Anyone that takes the sure road is as good as dead",
+  "path_overcome_quote_author": "Carl Jung",
   "path_beyond_name": "Beyond",
   "path_beyond_sub_title": "explore new possibilities",
   "path_beyond_description_header": "Go beyond old perception",
@@ -118,6 +118,7 @@
   "box_absolute_origin_sub_title": "AI function relying on 'proof' links, in node details",
   "box_bundles": "Bundles",
   "box_bundles_sub_title": "Keep track of what needs to be done",
+  
   "box_backups": "Backups",
   "box_backups_sub_title": "Import / Export",
   "box_backups_import": "Import file",
