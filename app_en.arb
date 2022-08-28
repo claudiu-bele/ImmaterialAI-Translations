@@ -89,7 +89,7 @@
   "settings_language_remove": "Remove custom language",
   "settings_exit": "Exit platform",
   "box_library": "Library",
-  "box_settings": "Settings",
+  "box_settings": "Settings & user preferences",
   "box_add_n": "New node",
   "box_add_n_sub_title": "Anything you can name",
   "box_add_nt": "New node type",
@@ -152,6 +152,7 @@
   "box_presentation_mode": "Presentation mode",
   "box_presentation_mode_sub_title": "Hide personal data when using the platform",
   "box_quantum_noise": "Quantum noise",
+  "box_quantum_noise_sub_title": "Get recommendations backed by entanglement, requires internet to get data from lab in Australia",
   "box_sugar_pills": "Sugar pills",
   "box_sugar_pills_sub_title": "Induce placebos willingly",
   "box_focus": "Focus",
@@ -176,7 +177,9 @@
   "default_nt_note": "Note",
   "default_nt_insight": "Insight",
   "default_n_nothing": "Nothing",
-  "default_n_dont_know": "Known unknown",
+  "default_n_known_unknown": "Known unknown",
+  "default_n_unknown_unknown": "Unknown unknown",
+  "default_n_unknown_general": "Unknown",
   "default_n_everything": "Everything",
   "default_lt_favorite": "Favorite",
   "default_lt_favorite_src_text": "is marked favorite",
@@ -213,6 +216,10 @@
   "default_lt_dependency": "Dependencies",
   "default_lt_dependency_src_text": "is dependency of",
   "default_lt_dependency_tar_text": "depends on",
+  "n_add_name": "Name of the concept",
+  "n_add_name_plus": "Name of the concept, use comma to create multiple nodes",
+  "n_plus_editor_hint": "Write in Markdown",
+  "n_add_select_node_type": "Select node type",
   "n_tab_details": "Details",
   "n_tab_ai": "AI",
   "n_tab_big_picture": "Big Picture",
@@ -227,6 +234,42 @@
   "n_focus_on": "Focused",
   "n_save": "Save",
   "n_delete": "Delete",
+  "markdown_editor_title": "title",
+  "markdown_editor_bold": "bold",
+  "markdown_editor_italic": "italic",
+  "markdown_editor_strikethrough": "strikethrough",
+  "markdown_editor_link": "link",
+  "markdown_editor_iai_link": "IAI node link",
+  "markdown_editor_list": "list",
+  "markdown_editor_code": "code",
+  "markdown_editor_quote": "quote",
+  "markdown_editor_separator": "separator",
+  "markdown_editor_image": "image",
+  "markdown_editor_image_file": "image file",
+  "markdown_editor_iai_node": "IAI node",
+  "markdown_editor_table": "table",
+  "l_node_a": "node a",
+  "l_node_b": "node b",
+  "l_link_type": "link type",
+  "nt_name": "Name of the node type",
+  "nt_description" : "Description",
+  "lt_name": "Name of the link type",
+  "lt_desc" : "Every relation in ImmaterialAI is between two concepts, A and B.\nYou can configure your link type to constrain what concept types any A and B can be,\nor leave any of them empty to allow all concept types on either end",
+  "lt_add_node_type" : "Add node type",
+  "lt_add_node_type_a" : "Types for A",
+  "lt_add_node_type_b" : "Types for B",
+  "lt_add_node_type_dialog_search": "Search or input name for new node type",
+  "lt_a" : "A (source)",
+  "lt_a_b" : "A & B (source & target)",
+  "lt_b" : "B (target)",
+
+  "lt_direction_matters" : "Direction matters: ",
+  "lt_direction_info" : "if false, A->B and B->A can be used interchangeably (useful for generalized relations)",
+  "lt_multiple_sources" : "Targets can have multiple sources: ",
+  "lt_save_warning_name": "Enter link type name before you can save",
+  "lt_save_warning_a_b": "Enter name for the A->B",
+  "lt_save_warning_a_b_vice_versa": "Enter name for A->B and B->A",
+
   "home_tasks_disabled": "Tap to show tasks",
   "tasks_general": "Tasks",
   "tasks_create_task": "Create task",
@@ -258,6 +301,11 @@
   "n_is_it_real_known_unknown": "Known unknown\nFound proof 'Currently unknown'",
   "n_is_it_real_incomplete": "Inconclusive\nconnected concepts missing 'proof' link",
   "general_types": "Link types",
+  "general_node": "node",
+  "general_nodes": "Nodes",
+  "general_link": "link",
+  "general_links": "Links",
+
   "general_copy_to_clipboard": "Copy to clipboard",
   "general_export": "Export",
   "general_change_from_settings": "Change from Settings",
@@ -267,14 +315,24 @@
   "general_button_off": "OFF",
   "general_button_next": "NEXT",
   "general_button_done": "DONE",
+  "general_button_create": "CREATE",
+  "general_button_select": "SELECT",
+  "general_button_change": "CHANGE",
+  "general_button_confirm": "CONFIRM",
+  "general_button_add": "ADD",
+  "general_button_delete": "DELETE",
+  "general_button_update": "UPDATE",
   "general_button_prev": "PREV",
   "general_button_back": "BACK",
   "general_button_start": "START",
   "general_button_more": "SEE MORE",
   "general_coming_soon": "COMING SOON",
   "general_coming_soon_plus": "PLUS, SOON",
+  "general_coming_soon_plus_or_lite": "PLUS & PLUS LITE, SOON",
   "general_coming_soon_plus_alt": "PLUS, COMING SOON ",
-  "general_unlocks_at_level_plus": "PLUS, LEVEL {level}",
+  "general_coming_soon_plus_alt_or_lite": "PLUS & PLUS LITE, COMING SOON ",
+  "general_unlocks_at_level_plus": "PLUS, level {level}",
+  "general_unlocks_at_level_plus_or_lite": "PLUS & PLUS LITE, level {level}",
   "@general_unlocks_at_level_plus": {
     "description": "level",
     "placeholders": {
@@ -284,7 +342,17 @@
       }
     }
   },
+  "@general_unlocks_at_level_plus_or_lite": {
+    "description": "level",
+    "placeholders": {
+      "level": {
+        "type": "int",
+        "example": "2"
+      }
+    }
+  },
   "general_plus_only": "Plus only",
+  "general_plus_or_lite_only": "Plus or Plus Lite",
   "general_are_you_sure": "Are you sure?",
   "general_unlocks_at_level": "Unlocks at level {level}",
   "@general_unlocks_at_level": {
@@ -316,7 +384,7 @@
       }
     }
   },
-  "general_level": "Level {level}",
+  "general_level": "level {level}",
   "@general_level": {
     "description": "level",
     "placeholders": {
@@ -326,6 +394,10 @@
       }
     }
   },
+  "general_icon": "icon",
+  "general_color": "color",
+  "general_true": "true",
+  "general_false": "false",
   "general_time_created": "created",
   "general_time_updated": "updated",
   "general_moments_ago": "moments ago",
@@ -730,6 +802,50 @@
     }
   },
   "ur_iam_result__iam_end_alt": "Blarg doesn't understand one thing of what you said, the real story is beyond any definition!",
+
+  "bundles_blueprints_name": "Blueprints",
+  "bundles_blueprints_subtitle": "Starter concepts",
+  "bundles_blueprints_description": "Foundational concepts you can easily build upon. Related to the source of information, relation to it, and different flavors of information",
+  "bundles_blueprints_facts": "Facts",
+  "bundles_blueprints_knowledge": "Knowledge",
+  "bundles_blueprints_beliefs": "Beliefs",
+  "bundles_blueprints_observations": "Observations",
+  "bundles_blueprints_positive": "Positive",
+  "bundles_blueprints_negative": "Negative",
+  "bundles_blueprints_duality": "Duality",
+  "bundles_blueprints_nonduality": "Nonduality",
+
+  "bundles_letgo_name": "Let go",
+  "bundles_letgo_subtitle": "Feel free to detach",
+  "bundles_letgo_description": "Unfounded default beliefs, theories turned facts, assumptions and more. Find their subjective angle, let them go and look beyond.",
+  "bundles_letgo_brain_mind": "Brain-mind identity theory",
+  "bundles_letgo_brain_mind_sub": "Theory pertaining that brain is equal to mind,consciousness. Different studies and outliers in normal studies point to the case being otherwise",
+  "bundles_letgo_meaninglessness": "Meaninglessness",
+  "bundles_letgo_meaninglessness_sub": "Purely apparent lack of meaning doesn't result in the certainty of meaninglessness",
+  "bundles_letgo_class": "You are born into a specific class",
+  "bundles_letgo_class_sub": "Theory that you are born into an arbitrarily-defined class/cast that you can't transcend.",
+  "bundles_letgo_suffering": "Suffering is real",
+  "bundles_letgo_suffering_sub": "Why would that be the case?",
+  "bundles_letgo_need": "You need to do/be/have more to X",
+  "bundles_letgo_need_sub": "Underlying idea of current incompleteness",
+
+  "bundles_dig_name": "Dig deeper",
+  "bundles_dig_subtitle": "Beyond current horizons",
+  "bundles_dig_description": "Signs of new possibilities, incomplete theories, and reflection points. Consider what they mean for the knowledge you have so far and what doors they open",
+  "bundles_dig_perception": "Volatility of perception",
+  "bundles_dig_perception_sub": "Your mind might change tomorrow about something you're certain about today",
+  "bundles_dig_semantics": "Volatility of word semantics",
+  "bundles_dig_semantics_sub": "The meaning of words is often personal. Meanings of words also changes throughout time, languages and cultures.",
+  "bundles_dig_incomplete": "Incomplete answers imply jumping to conclusions",
+  "bundles_dig_unexplained": "Many phenomena in the world are still unexplained",
+  "bundles_dig_unexplained_sub": "What does that say about modern science and its certainties about the world?",
+  "bundles_dig_study_trance": "Study: Neuroimaging during trance states",
+  "bundles_dig_study_trance_sub": "Link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3500298/",
+  "bundles_dig_study_unified_pathway": "Study: Spiritual Awakening and Depression: A unified pathway",
+  "bundles_dig_study_unified_pathway_sub": "Link: https://pubmed.ncbi.nlm.nih.gov/24354605/",
+  "bundles_dig_study_stress_perception": "Study: How you perceive Stress can kill you",
+  "bundles_dig_study_stress_perception_sub": "Link: https://pubmed.ncbi.nlm.nih.gov/24354605/",
+
   "rtb_title": "Return to Bliss",
   "rtb_subtitle": "an ImmaterialAI experiment",
   "rtb_intro_desc": "The purpose of this experiment is to help you overcome all current distortions e.g. incorrect facts, negative beliefs, jumping to conclusions, self-imposed limits and damaging mentalities. \n\nGo through all missions on Platinum and you will have left no stone unturned.",
@@ -765,6 +881,85 @@
   "rtb_silver": "Silver",
   "rtb_gold": "Gold",
   "rtb_diamond": "Diamond",
+
+  "rtb_quest_believe": "I beliebe",
+  "rtb_quest_believe_desc": "Convert all beliefs, facts and assumptions to nodes and links",
+  "rtb_quest_believe_hint": "Create appropriate nodes and links",
+  "rtb_quest_derive": "The mind in action",
+  "rtb_quest_derive_desc": "Derive mechanics from experience: what worked so far, what didn't",
+  "rtb_quest_derive_hint": "Create appropriate nodes of type 'note' and 'insight'",
+  "rtb_quest_deconstruct": "The replacer",
+  "rtb_quest_deconstruct_desc": "Dig into all assumptions to reach absolute knowledge",
+  "rtb_quest_deconstruct_hint": "Use the 'Deconstruct' AI flow",
+  "rtb_quest_iam": "Wait, we don't know the full story",
+  "rtb_quest_iam_desc": "Clear yourself of all negative, heavy, limiting labels",
+  "rtb_quest_iam_hint": "Use the 'I Am' AI flow",
+  "rtb_quest_reshape": "Flipping the script",
+  "rtb_quest_reshape_desc": "Rewrite all negative cause and effect sequences",
+  "rtb_quest_reshape_hint": "Use the 'Reshape' AI flow",
+  "rtb_quest_old_me": "That's not me",
+  "rtb_quest_old_me_desc": "Detach from all old negative self-identifications",
+  "rtb_quest_old_me_hint": "Mark releavant nodes as 'old me'",
+
+  "rtb_insight_1": "Reality is beyond words",
+  "rtb_insight_2": "You are beyond words",
+  "rtb_insight_3": "You only have to push until you can live off your orchard",
+  "rtb_insight_4": "Some cultures are in pain when a loved one dies, others celebrate their legacy",
+
+  "rtb_insight_5": "It's never the same",
+  "rtb_insight_6": "We often get the wrong solution because we see the problem wrong",
+  "rtb_insight_7": "Without expectations you won't get disappointed",
+  "rtb_insight_8": "How many things did you interpret as good or bad when they just are?",
+  "rtb_insight_9": "The present changes constantly",
+  "rtb_insight_10": "The present isn't always like the past",
+
+  "rtb_insight_11": "You have to investigate the languages you were brought up in",
+  "rtb_insight_12": "You don't have to do anything to reach bliss, you just need to drop the noise",
+  "rtb_insight_13": "Ugly only exists within some people's minds",
+
+  "rtb_insight_14": "You consistently get opportunities in the present for a better future",
+  "rtb_insight_15": "Some things you can't control, focus on what you can",
+  "rtb_insight_16": "You are exactly where you should be",
+  "rtb_insight_17": "Everything happens as it should",
+  "rtb_insight_18": "There is no point worrying about the future",
+
+  "rtb_insight_19": "Truth is above any system",
+  "rtb_insight_20": "Investigate the effects of existing beliefs on your actions",
+  "rtb_insight_21": "All exclusive systems collapse on thorough investigation",
+
+  "rtb_insight_22": "Beliefs can be wrong",
+  "rtb_insight_23": "Many facts have incorrect priori",
+  "rtb_insight_24": "Stress is just an idea",
+  "rtb_insight_25": "All limitations are illusory",
+  "rtb_insight_26": "There is no normal",
+
+  "clusters_cluster_name": "Cluster {nr}",
+  "@clusters_name": {
+    "description": "nr",
+    "placeholders": {
+      "level": {
+        "type": "int",
+        "example": "2"
+      }
+    }
+  },
+  "clusters_cluster_nodes": "({nr} {nodeString})",
+  "@clusters_cluster_nodes": {
+    "description": "nr",
+    "placeholders": {
+      "nr": {
+        "type": "int",
+        "example": "2"
+      },
+      "nodeString": {
+        "type": "String",
+        "example": "nodes"
+      }
+    }
+  },
+
+  "intuition_answer_left": "LEFT",
+  "intuition_answer_right": "RIGHT",
   "intuition_description": "The answer is already selected, figure it out using intuition",
   "intuition_last_correct_answer": "Last correct answer: {answer}",
   "@intuition_last_correct_answer": {
@@ -788,18 +983,80 @@
   "intuition_difficulty_medium": "Medium",
   "intuition_difficulty_hard": "Hard",
   "intuition_chart_average": "Overall average correct predictions",
-  "intuition_chart_consecutive": "Consecutive correct predictions"
+  "intuition_chart_consecutive": "Consecutive correct predictions",
+
+  "sanity_check_validity_distribution_headline": "Validity distribution across library",
+  "sanity_check_validity_distribution_description": "using 'proof' links",
+  "sanity_check_validity_distribution_raw_data": "raw data",
+  "sanity_check_validity_distribution_ai": "AI-processed",
+  "sanity_check_validity_distribution_diff": "difference",
+
+  "sanity_check_validity_nothing": "nothing",
+  "sanity_check_validity_knownUnknown": "uncertain (found known unknown)",
+  "sanity_check_validity_holistic": "everything",
+  "sanity_check_validity_missingData": "uncertain (missing data)",
+  "sanity_check_validity_selfRef": "self reference",
+  "sanity_check_validity_circularRef": "circular reference",
+  "sanity_check_validity_ref": "reference",
+  "sanity_check_validity_multiRef": "multiple references",
+
+  "sanity_check_dialog_validity_nodes_raw": "nodes with validity",
+  "sanity_check_dialog_validity_nodes_raw_desc": "{percentString} of user library, unprocessed",
+  "@sanity_check_dialog_validity_nodes_raw_desc": {
+    "placeholders": {
+      "percentString": {
+        "type": "String",
+        "example": "20"
+      }
+    }
+  },
+
+  "sanity_check_dialog_validity_nodes_ai": "nodes with validity",
+  "sanity_check_dialog_validity_nodes_ai_desc": "{percentString} of user library after AI processing, {percentageDiffString}",
+  "@sanity_check_dialog_validity_nodes_ai_desc": {
+    "placeholders": {
+      "percentString": {
+        "type": "String",
+        "example": "20"
+      },
+      "percentageDiffString": {
+        "type": "String",
+        "example": "20"
+      }
+    }
+  },
+
+  "sanity_check_dialog_validity": "validity '{title}'",
+  "@sanity_check_dialog_validity": {
+    "placeholders": {
+      "title": {
+        "type": "String",
+        "example": "20"
+      }
+    }
+  },
+  "sanity_check_dialog_diff_removed": "removals by AI",
+  "sanity_check_dialog_diff_added": "additions by AI",
+  "sanity_check_dialog_diff_desc": "Diff between user library and AI-processed library",
+
+  "sanity_check_clusters_holistic": "Holistic clusters",
+  "sanity_check_clusters_largest": "largest",
+  "sanity_check_clusters_single_nodes": "single nodes",
+  "sanity_check_clusters_proof": "Proof clusters",
+  "sanity_check_clusters_validity_nothing": "with 'Nothing'",
+  "sanity_check_clusters_validity_known_unknown": "with 'Known unknown'",
+  "sanity_check_clusters_validity_everything": "with 'Everything'",
+
+  "sanity_check_me_all": "Me data",
+  "sanity_check_me_old": "old me",
+  "sanity_check_me_new": "new me",
+  "sanity_check_me_none": "not new or old me",
+
+  "quantum_noise_get_api_key": "Get an API key from ANU first",
+  "quantum_noise_get_api_key_link": "(link)",
+  "quantum_noise_enter_api_key":"API key here",
+  "quantum_noise_forbidden": "API key incorrect or you have reached your monthly limit",
+  "quantum_noise_selected": "Node type pool",
+  "quantum_noise_unselected": "Ignored node types",
+  "quantum_noise_number_of_nodes" : "Select number of nodes to pick"
 }
-
-
-
-
-
-
-
-
-
-
-
-
-

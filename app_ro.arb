@@ -89,7 +89,7 @@
   "settings_language_remove": "Elimină limba personalizată",
   "settings_exit": "Ieșiți din platformă",
   "box_library": "Bibliotecă",
-  "box_settings": "Setări",
+  "box_settings": "Setări și preferințe",
   "box_add_n": "Nod nou",
   "box_add_n_sub_title": "Orice puteți numi",
   "box_add_nt": "Tip nou de nod",
@@ -140,7 +140,7 @@
   "box_ancestry_filter_sub_title": "Vezi toate nodurile care sunt origini, părinți sau copii",
   "box_check_for_link": "Caută legatură",
   "box_check_for_link_sub_title": "între oricare 2 noduri",
-  "box_clusters": "Clustere",
+  "box_clusters": "Mulţimi",
   "box_clusters_sub_title": "Cum este structurată mintea ta",
   "box_sanity_check": "Verificarea sanătății",
   "box_sanity_check_sub_title": "Verificați problemele din biblioteca dvs.",
@@ -151,6 +151,7 @@
   "box_presentation_mode": "Modul de prezentare",
   "box_presentation_mode_sub_title": "Ascundeți datele personale atunci când utilizați platforma",
   "box_quantum_noise": "Zgomot cuantic",
+  "box_quantum_noise_sub_title": "Recomandări influențate de entanglement, necesită internet pentru a lua date din laboraturl din Australia",
   "box_sugar_pills": "Pastile de zahăr",
   "box_sugar_pills_sub_title": "Induceți placebo de bunăvoie",
   "box_focus": "Concentrare",
@@ -175,7 +176,9 @@
   "default_nt_note": "Notiță",
   "default_nt_insight": "Pildă",
   "default_n_nothing": "Nimic",
-  "default_n_dont_know": "Știut neștiut",
+  "default_n_known_unknown": "Știut neștiut",
+  "default_n_unknown_unknown": "Neștiut neștiut",
+  "default_n_unknown_general": "Neștiut",
   "default_n_everything": "Totul",
   "default_lt_favorite": "Preferat",
   "default_lt_favorite_src_text": "este marcat ca favorit",
@@ -212,6 +215,10 @@
   "default_lt_dependency": "Dependențe",
   "default_lt_dependency_src_text": "este dependenta de",
   "default_lt_dependency_tar_text": "depinde de",
+  "n_add_name": "Numele conceptului",
+  "n_add_name_plus": "Numele conceptului, folosește virgulă pentru a crea mai multe noduri",
+  "n_plus_editor_hint": "Scrie în Markdown",
+  "n_add_select_node_type": "Alege tipul de nod",
   "n_tab_details": "Detalii",
   "n_tab_ai": "AI",
   "n_tab_big_picture": "Imagine de ansamblu",
@@ -226,6 +233,42 @@
   "n_focus_on": "Concentrat",
   "n_save": "Salveaza",
   "n_delete": "Șterge",
+  "markdown_editor_title": "titlu",
+  "markdown_editor_bold": "îngroșat",
+  "markdown_editor_italic": "cursiv",
+  "markdown_editor_strikethrough": "barat",
+  "markdown_editor_link": "link",
+  "markdown_editor_iai_link": "link la nod IAI",
+  "markdown_editor_list": "listă",
+  "markdown_editor_code": "cod",
+  "markdown_editor_quote": "citat",
+  "markdown_editor_separator": "separator",
+  "markdown_editor_image": "imagine",
+  "markdown_editor_image_file": "image fișier",
+  "markdown_editor_iai_node": "nod IAI",
+  "markdown_editor_table": "tabel",
+  "l_node_a": "nodul a",
+  "l_node_b": "nodul b",
+  "l_link_type": "tipul de relație",
+  "nt_name": "Numele tipului de nod",
+  "nt_description" : "Descriere",
+  "lt_name": "Numele tipului de legătură",
+  "lt_desc" : "Fiecare relație din ImmaterialAI este între două concepte, A și B.\nPuteți configura tipul de legătură pentru a restricționa tipurile de concepte pe care le pot avea A și B sau puteți lăsa oricare dintre ele goale pentru a permite toate tipurile de concepte la oricare dintre cele două capete",
+  "lt_add_node_type" : "Adaugă tipul de nod",
+  "lt_add_add_node_type_a" : "Tipuri pentru A",
+  "lt_add_node_type_node_b" : "Tipuri pentru B",
+  "lt_add_add_node_type_dialog_search": "Căutați sau introduceți numele pentru noul tip de nod",
+  "lt_a" : "A (sursă)",
+  "lt_a_b" : "A & B (sursă și țintă)",
+  "lt_b" : "B (țintă)",
+
+  "lt_direction_matters" : "Direcția contează: ",
+  "lt_direction_info" : "dacă este falsă, A->B și B->A pot fi utilizate în mod interschimbabil (util pentru relațiile generalizate)",
+  "lt_multiple_sources" : "Țintele pot avea mai multe surse: ",
+  "lt_save_warning_name": "Introduceți numele tipului de legătură înainte de a putea salva",
+  "lt_save_warning_a_b": "Introduceți numele pentru A->B",
+  "lt_save_warning_a_b_vice_versa": "Introduceți numele pentru A->B și B->A",
+
   "home_tasks_disabled": "Atingeți pentru a afișa sarcinile",
   "tasks_general": "Sarcini",
   "tasks_create_task": "Creează o sarcină",
@@ -257,6 +300,8 @@
   "n_is_it_real_known_unknown": "Cunoscut necunoscut\ngăsit dovada „Necunoscut”",
   "n_is_it_real_incomplete": "Neconcludent\nnodurile conexe lipsesc relația „dovadă”",
   "general_types": "Tipuri de relații",
+  "general_node": "nod",
+  "general_nodes": "noduri",
   "general_copy_to_clipboard": "Copiați în clipboard",
   "general_change_from_settings": "Schimbă din Setări",
   "general_export": "Export",
@@ -266,6 +311,10 @@
   "general_button_off": "OPRIT",
   "general_button_next": "CONTINUĂ",
   "general_button_done": "TERMINAT",
+  "general_button_confirm": "CONFIRMĂ",
+  "general_button_add": "ADAUGĂ",
+  "general_button_delete": "ȘTERGE",
+  "general_button_update": "SCHIMBĂ",
   "general_button_prev": "ANTERIOR",
   "general_button_back": "ÎNAPOI",
   "general_button_start": "START",
@@ -325,6 +374,10 @@
       }
     }
   },
+  "general_icon": "iconiță",
+  "general_color": "culoare",
+  "general_true": "adevărat",
+  "general_false": "fals",
   "general_time_created": "creat",
   "general_time_updated": "actualizat",
   "general_moments_ago": "cu câteva clipe în urmă",
@@ -702,6 +755,52 @@
   "ur_deconstruct_result__selfref": "Avertisment: Ultimul articol pe care l-ați adăugat este sursa proprie.",
   "ur_iam_result__iam_end": "Tu și lumea nu sunteți niciunul dintre conceptele pe care le-ați introdus, adevărata poveste este dincolo de orice definiție!",
   "ur_iam_result__iam_end_alt": "Blarg nu înțtelege nimic din ce ai zis, adevărata poveste este dincolo de orice definiție!",
+
+
+  "bundles_blueprints_name": "Șabloane",
+  "bundles_blueprints_subtitle": "Concepte de pornire",
+  "bundles_blueprints_description": "Concepte de bază pe care vă puteți baza cu ușurință. Legate de sursa de informații, de relația cu aceasta și de diferite arome de informații",
+  "bundles_blueprints_facts": "Idei",
+  "bundles_blueprints_knowledge": "Cunoștință",
+  "bundles_blueprints_beliefs": "Credințe",
+  "bundles_blueprints_observații": "Observații",
+  "bundles_blueprints_positive": "Pozitiv",
+  "bundles_blueprints_negative": "Negativ",
+  "bundles_blueprints_duality": "Dualitate",
+  "bundles_blueprints_nonduality": "Nondualitate",
+
+  "bundles_letgo_name": "Detașează-te",
+  "bundles_letgo_subtitle": "Simte-te liber să te detașezi",
+  "bundles_letgo_description": "Credințe implicite neîntemeiate, teorii transformate în fapte, presupuneri și multe altele. Găsește-le unghiul subiectiv, lasă-le să plece și privește dincolo.",
+  "bundles_letgo_letgo_brain_mind": "Teoria identității creier-minte",
+  "bundles_letgo_letgo_brain_mind_sub": "Teorie care susține că creierul este egal cu mintea,conștiința. Diferite studii și valori aberante în studiile normale indică faptul că lucrurile stau altfel",
+  "bundles_letgo_meaninglessness": "Lipsă de sens",
+  "bundles_letgo_meaninglessness_sub": "Lipsa pur aparentă de sens nu duce la certitudinea lipsei de sens",
+  "bundles_letgo_class": "Te-ai născut într-o anumită clasă",
+  "bundles_letgo_class_sub": "Teoria conform căreia te naști într-o clasă/clasă definită în mod arbitrar pe care nu o poți transcende.",
+  "bundles_letgo_suffering": "Suferința este reală",
+  "bundles_letgo_suffering_sub": "De ce ar fi așa?",
+  "bundles_letgo_need": "Ai nevoie să faci/să fii/ai mai mult pentru X",
+  "bundles_letgo_need_sub": "Ideea subiacentă a incompletitudinii actuale",
+
+  "bundles_dig_name": "Sapă mai adânc",
+  "bundles_dig_subtitle": "Dincolo de orizonturile actuale",
+  "bundles_dig_description": "Semne de noi posibilități, teorii incomplete și puncte de reflecție. Luați în considerare ce înseamnă acestea pentru cunoștințele pe care le aveți până acum și ce uși deschid",
+  "bundles_dig_perception": "Volatilitatea percepției",
+  "bundles_dig_perception_sub": "S-ar putea ca mâine să te răzgândești în legătură cu ceva de care ești sigur astăzi",
+  "bundles_dig_semantics": "Volatilitatea semanticii cuvintelor",
+  "bundles_dig_semantics_sub": "Semnificația cuvintelor este adesea personală. Semnificațiile cuvintelor se schimbă, de asemenea, de-a lungul timpului, limbilor și culturilor.",
+  "bundles_dig_incomplete": "Răspunsurile incomplete presupun concluzii pripite",
+  "bundles_dig_unexplained": "Multe fenomene din lume sunt încă neexplicate",
+  "bundles_dig_unexplained_sub": "Ce spune acest lucru despre știința modernă și despre certitudinile sale cu privire la lume?",
+  "bundles_dig_study_trance": "Studiu: Neuroimagistica în timpul stărilor de transă",
+  "bundles_dig_study_trance_sub": "Link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3500298/",
+  "bundles_dig_study_unified_pathway": "Studiu: Trezirea spirituală și depresia: O cale unificată",
+  "bundles_dig_study_unified_pathway_sub":"Link: https://pubmed.ncbi.nlm.nih.gov/24354605/",
+  "bundles_dig_study_stress_perception": "Studiu: Modul în care percepeți stresul vă poate ucide",
+  "bundles_dig_study_stress_perception_sub": "Link: https://pubmed.ncbi.nlm.nih.gov/24354605/",
+
+
   "home_unlocks_at": "Se deblochează la nivelul {level}",
   "@home_unlocks_at": {
     "placeholder": {
@@ -736,8 +835,6 @@
   "rtb_skin_desc": "și mai multe",
   "rtb_blarg_enable": "Activeaza modul alternativ Blarg pentru AI-ul 'Eu sunt' ",
   "rtb_blarg_disable": "Dezactiveaza modul alternativ Blarg",
-  "rtb_blarg_enable": "Enable Blarg 'I am' alternative AI flow",
-  "rtb_blarg_disable": "Disable Blarg",
   "rtb_cool_story_enable": "Activeaza modul alternativ Interesantă poveste frate pentru AI-ul 'Deconstructie' ",
   "rtb_skeptic_enable": "Activeaza modul alternativ Suspiciosul pentru AI-ul 'Eu sunt' ",
   "rtb_cool_story_disable": "Disable Cool story bro",
@@ -748,6 +845,86 @@
   "rtb_silver": "Argint",
   "rtb_gold": "Aur",
   "rtb_diamond": "Diamant",
+
+  "rtb_quest_believe": "Eu cred",
+  "rtb_quest_believe_desc": "Convertiți toate credințele, faptele și presupunerile în noduri și legături",
+  "rtb_quest_believe_hint": "Creați noduri și link-uri adecvate",
+  "rtb_quest_derive": "Mintea în acțiune",
+  "rtb_quest_derive_desc": "Deduceți mecanica din experiență: ce a funcționat până acum, ce nu a funcționat",
+  "rtb_quest_derive_hint": "Creați noduri adecvate de tip 'notă' și 'perspectivă'",
+  "rtb_quest_deconstruct": "Înlocuitorul",
+  "rtb_quest_deconstruct_desc": "Sapă în toate ipotezele pentru a ajunge la cunoștințe absolute",
+  "rtb_quest_deconstruct_hint": "Utilizați fluxul AI „Deconstruct”",
+  "rtb_quest_iam": "Stai, nu știm întreaga poveste",
+  "rtb_quest_iam_desc": "Șterge toate etichetele negative, grele și limitative",
+  "rtb_quest_iam_hint": "Utilizați fluxul AI „Eu sunt”",
+  "rtb_quest_reshape": "Întoarcerea scriptului",
+  "rtb_quest_reshape_desc": "Rescrieți toate secvențele negative de cauză și efect",
+  "rtb_quest_reshape_hint": "Utilizați fluxul AI „Reformare”",
+  "rtb_quest_old_me": "Nu sunt eu",
+  "rtb_quest_old_me_desc": "Detașează-te de toate vechile autoidentificări negative",
+  "rtb_quest_old_me_hint": "Marchează nodurile releavant ca 'vechiul eu'",
+
+
+  "rtb_insight_1": "Realitatea este peste cuvinte",
+  "rtb_insight_2": "Tu ești mai mult decat cuvinte",
+  "rtb_insight_3": "Trebuie sa te strofoci doar până poți trăi din propria livada",
+  "rtb_insight_4": "Unele culturi sunt îndurerate cand o persoana iubită moare, altele le celebrează viața",
+
+  "rtb_insight_5": "Nu este niciodată la fel",
+  "rtb_insight_6": "De multe ori ajungem la soluția greșită pt ca vedem problema greșit",
+  "rtb_insight_7": "Fără așteptări nu poți fi dezamagit",
+  "rtb_insight_8": "Câte chestii ai interpretat ca bune sau rele cand ele doar sunt?",
+  "rtb_insight_9": "Prezentul se schimbă constant",
+  "rtb_insight_10": "Prezentul nu este mereu ca trecutul",
+
+  "rtb_insight_11": "Trebuie să investighezi limbile cu care ai fost crescut pentru a vedea ce cuvinte sunt adevarate",
+  "rtb_insight_12": "Nu trebuie să faci nimic să ajungi la extaz, trebuie doar sa lași în urmă zgomotul",
+  "rtb_insight_13": "Urât exista doar in mințile unora",
+
+  "rtb_insight_14": "Mereu primești oportunități în prezent pentru un viitor mai bun",
+  "rtb_insight_15": "Unele chestii nu le poți schimba, concentrează-te pee ce poți",
+  "rtb_insight_16": "Ești exact unde ar trebui sa fi",
+  "rtb_insight_17": "Totul se întâmplă cum trebuie să se întâmple",
+  "rtb_insight_18": "Nu are rost să-ți faci griji de viitor",
+
+  "rtb_insight_19": "Adevărul e mai presus de orice sistem",
+  "rtb_insight_20": "Investighează efectele credințelor actuale asupra acțiunilor tale",
+  "rtb_insight_21": "Toate sistemele care exclud cad dupa o investigare amănunțită",
+
+  "rtb_insight_22": "Credințele pot fi greșite",
+  "rtb_insight_23": "Multe idei au dependențe incorecte",
+  "rtb_insight_24": "Stressul este doar o idee",
+  "rtb_insight_25": "Toate limitările sunt iluzorii",
+  "rtb_insight_26": "Nu exista normal",
+
+  "clusters_cluster_name": "Mulțimea {nr}",
+  "@clusters_name": {
+    "description": "nr",
+    "placeholders": {
+      "nr": {
+        "type": "int",
+        "example": "2"
+      }
+    }
+  },
+  "clusters_cluster_nodes": "({nr} {nodeString})",
+  "@clusters_cluster_nodes": {
+    "description": "nr",
+    "placeholders": {
+      "nr": {
+        "type": "int",
+        "example": "2"
+      },
+      "nodeString": {
+        "type": "String",
+        "example": "nodes"
+      }
+    }
+  },
+
+  "intuition_answer_left": "STÂNGA",
+  "intuition_answer_right": "DREAPTA",
   "intuition_description": "Raspunsul este deja selectat, dă-ți seama care e prin intuiție",
   "intuition_last_correct_answer": "Ultimul răspuns corect: {answer}",
   "@intuition_last_correct_answer": {
@@ -771,5 +948,83 @@
   "intuition_difficulty_medium": "Medium",
   "intuition_difficulty_hard": "Greu",
   "intuition_chart_average": "Previziuni corecte (medie)",
-  "intuition_chart_consecutive": "Previziuni consecutive corecte"
+  "intuition_chart_consecutive": "Previziuni consecutive corecte",
+
+  "sanity_check_validity_distribution_headline": "Distribuția validității",
+  "sanity_check_validity_distribution_description": "folosind relații de tip 'dovadă'",
+  "sanity_check_validity_distribution_raw_data": "date neprocesate",
+  "sanity_check_validity_distribution_ai": "procesat de AI",
+  "sanity_check_validity_distribution_diff": "diferență",
+
+  "sanity_check_validity_nothing": "nimic",
+  "sanity_check_validity_knownUnknown": "incert (găsit știut neștiut)",
+  "sanity_check_validity_holistic": "totul",
+  "sanity_check_validity_missingData": "incert (lipsesc informatii)",
+  "sanity_check_validity_selfRef": "autoreferință",
+  "sanity_check_validity_circularRef": "referință circulară",
+  "sanity_check_validity_ref": "reference",
+  "sanity_check_validity_multiRef": "multiple referințe",
+
+  "sanity_check_dialog_validity_nodes_raw": "noduri with validitatea",
+  "sanity_check_dialog_validity_nodes_raw_desc": "{percentString} din libraria ta, neprocesată",
+  "@sanity_check_dialog_validity_nodes_raw_desc": {
+    "placeholders": {
+      "percentString": {
+        "type": "String",
+        "example": "20"
+      }
+    }
+  },
+
+  "sanity_check_dialog_validity_nodes_ai": "noduri with validitatea",
+  "sanity_check_dialog_validity_nodes_ai_desc": "{percentString} din libraria ta, procesată de AI, {percentageDiffString}",
+  "@sanity_check_dialog_validity_nodes_ai_desc": {
+    "placeholders": {
+      "percentString": {
+        "type": "String",
+        "example": "20"
+      },
+      "percentageDiffString": {
+        "type": "String",
+        "example": "20"
+      }
+    }
+  },
+
+  "sanity_check_dialog_validity": "validitate '{title}'",
+  "@sanity_check_dialog_validity": {
+    "placeholders": {
+      "title": {
+        "type": "String",
+        "example": "20"
+      }
+    }
+  },
+  "sanity_check_dialog_diff_removed": "scos de AI",
+  "sanity_check_dialog_diff_added": "adaugat de AI",
+  "sanity_check_dialog_diff_desc": "Diferența îintre libraria neprocesată si procesată de AI",
+
+  "sanity_check_clusters_holistic": "Mulțimi holistice",
+  "sanity_check_clusters_largest": "cea mai mare",
+  "sanity_check_clusters_single_nodes": "noduri separate",
+  "sanity_check_clusters_proof": "Mulțimi (dovadă)",
+  "sanity_check_clusters_validity_nothing": "cu 'Nimic'",
+  "sanity_check_clusters_validity_known_unknown": "cu 'Știut neștiut'",
+  "sanity_check_clusters_validity_everything": "cu 'Totul'",
+
+  "sanity_check_me_all": "Eu",
+  "sanity_check_me_old": "vechiul eu",
+  "sanity_check_me_new": "noul eu",
+  "sanity_check_me_none": "nici vechiul nici noul eu",
+
+
+  "quantum_noise_get_api_key": "Ia o cheie API de la ANU main întâi",
+  "quantum_noise_get_api_key_link": "(link)",
+  "quantum_noise_enter_api_key":"cheie API aici",
+  "quantum_noise_forbidden": "cheia API este incorecta sau ți-ai atins limita lunară",
+  "quantum_noise_selected": "Tipuri de noduri permise",
+  "quantum_noise_unselected": "Tipuri de noduri ignorate",
+  "quantum_noise_number_of_nodes" : "Numărul de noduri de recomandat"
+
+
 }
