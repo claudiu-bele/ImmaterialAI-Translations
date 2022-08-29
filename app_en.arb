@@ -23,6 +23,26 @@
   "tutorial_health_page5_title": "Find everything in one place",
   "tutorial_health_page5_description": "Unlock more advanced features in your path as you use the platform",
   "tutorial_health_page5_more": "we support portrait and landscape, try it out!",
+
+  "home_go_back": "Go back",
+  "home_go_forward": "Go forward",
+  "home_focus_unlocks_at": "Show focused items, unlocks at level {level}",
+  "@home_focus_unlocks_at": {
+    "description": "level",
+    "placeholders": {
+      "level": {
+        "type": "int",
+        "example": "2"
+      }
+    }
+  },
+  "home_focus_on_off": "Focus on/off",
+  "home_focus_on": "Focus on",
+  "home_focus_off": "Focus off",
+  "home_favorites_on": "Favorites on",
+  "home_favorites_off": "Favorites off",
+  "home_favorites_tooltip": "Favs on/off",
+
   "steam_free_live_on_plus": "ImmaterialAI Plus\nlive on Steam",
   "steam_free_soon_on_plus": "Soon on ImmaterialAI Plus\nlive on Steam",
   "app_free_live_on_plus": "ImmaterialAI Plus\nonly",
@@ -218,14 +238,16 @@
   "default_lt_dependency_tar_text": "depends on",
   "n_add_name": "Name of the concept",
   "n_add_name_plus": "Name of the concept, use comma to create multiple nodes",
-  "n_plus_editor_hint": "Write in Markdown",
+  "n_quick_add_add_link_type" : "Select link type",
   "n_add_select_node_type": "Select node type",
+  "n_plus_editor_hint": "Write in Markdown",
   "n_tab_details": "Details",
   "n_tab_ai": "AI",
   "n_tab_big_picture": "Big Picture",
   "n_hint_name": "Name",
   "n_hint_subtitle": "Subtitle",
   "n_hint_desc": "Description",
+  "n_direct_links" : "Direct links to nodes",
   "n_hint_plus_view": "View",
   "n_hint_plus_edit": "Edit",
   "n_deleting": "Deleting node",
@@ -300,6 +322,7 @@
   "n_is_it_real_nothing": "Not real\nfound proof \n'Nothing\n'",
   "n_is_it_real_known_unknown": "Known unknown\nFound proof 'Currently unknown'",
   "n_is_it_real_incomplete": "Inconclusive\nconnected concepts missing 'proof' link",
+  "general_search": "Search",
   "general_types": "Link types",
   "general_node": "node",
   "general_nodes": "Nodes",
@@ -803,6 +826,8 @@
   },
   "ur_iam_result__iam_end_alt": "Blarg doesn't understand one thing of what you said, the real story is beyond any definition!",
 
+
+
   "bundles_blueprints_name": "Blueprints",
   "bundles_blueprints_subtitle": "Starter concepts",
   "bundles_blueprints_description": "Foundational concepts you can easily build upon. Related to the source of information, relation to it, and different flavors of information",
@@ -846,6 +871,9 @@
   "bundles_dig_study_stress_perception": "Study: How you perceive Stress can kill you",
   "bundles_dig_study_stress_perception_sub": "Link: https://pubmed.ncbi.nlm.nih.gov/24354605/",
 
+  "rtb_intro_to_import": "To import",
+  "rtb_intro_to_ignore": "To ignore",
+  "rtb_intro_already_imported": "Already imported",
   "rtb_title": "Return to Bliss",
   "rtb_subtitle": "an ImmaterialAI experiment",
   "rtb_intro_desc": "The purpose of this experiment is to help you overcome all current distortions e.g. incorrect facts, negative beliefs, jumping to conclusions, self-imposed limits and damaging mentalities. \n\nGo through all missions on Platinum and you will have left no stone unturned.",
@@ -934,10 +962,10 @@
   "rtb_insight_26": "There is no normal",
 
   "clusters_cluster_name": "Cluster {nr}",
-  "@clusters_name": {
+  "@clusters_cluster_name": {
     "description": "nr",
     "placeholders": {
-      "level": {
+      "nr": {
         "type": "int",
         "example": "2"
       }

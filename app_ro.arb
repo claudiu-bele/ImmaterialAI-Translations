@@ -23,6 +23,26 @@
   "tutorial_health_page5_title": "Găsiți totul într-un singur loc",
   "tutorial_health_page5_description": "Deblocați mai multe funcții avansate în calea dvs. pe măsură ce utilizați platforma",
   "tutorial_health_page5_more": "suportăm portret și peisaj, încercați-l!",
+
+  "home_go_back": "Mergi înapoi",
+  "home_go_forward": "Mergi înainte",
+  "home_focus_unlocks_at": "Afișează elementele focalizate, se deblochează la nivelul {nivel}",
+  "@home_focus_unlocks_at": {
+    "description": "level",
+    "placeholders": {
+      "level": {
+        "type": "int",
+        "exemplu": "2"
+      }
+    }
+  },
+  "home_focus_on_off": "Focalizare pornit/oprit",
+  "home_focus_on": " Focalizare pornită",
+  "home_focus_off": "Focalizare oprită",
+  "home_favorites_on": "Favorite pornită",
+  "home_favorites_off": "Favorite oprită",
+  "home_favorites_tooltip": "Favorite pornit/oprit",
+
   "steam_free_live_on_plus": "ImmaterialAI Plus\nlive pe Steam",
   "steam_free_soon_on_plus": "În curând pe ImmaterialAI Plus\nlive pe Steam",
   "app_free_live_on_plus": "ImmaterialAI Plus\nu numai",
@@ -217,6 +237,7 @@
   "default_lt_dependency_tar_text": "depinde de",
   "n_add_name": "Numele conceptului",
   "n_add_name_plus": "Numele conceptului, folosește virgulă pentru a crea mai multe noduri",
+  "n_quick_add_add_link_type" : "Caută tipul de relație",
   "n_plus_editor_hint": "Scrie în Markdown",
   "n_add_select_node_type": "Alege tipul de nod",
   "n_tab_details": "Detalii",
@@ -225,6 +246,7 @@
   "n_hint_name": "Nume",
   "n_hint_subtitle": "Subtitrare",
   "n_hint_desc": "Descriere",
+  "n_direct_links" : "Linkuri directe la noduri",
   "n_hint_plus_view": "Vizualizare",
   "n_hint_plus_edit": "Editați",
   "n_deleting": "Se șterge nodul",
@@ -299,15 +321,17 @@
   "n_is_it_real_nothing": "Irreal\ngăsit dovada „Nimic”\n",
   "n_is_it_real_known_unknown": "Cunoscut necunoscut\ngăsit dovada „Necunoscut”",
   "n_is_it_real_incomplete": "Neconcludent\nnodurile conexe lipsesc relația „dovadă”",
+
+  "general_search": "Caută",
   "general_types": "Tipuri de relații",
   "general_node": "nod",
   "general_nodes": "noduri",
   "general_copy_to_clipboard": "Copiați în clipboard",
   "general_change_from_settings": "Schimbă din Setări",
-  "general_export": "Export",
+  "general_export": "Exportează",
   "general_yes": "Da",
   "general_no": "Nu",
-  "general_button_on": "ON",
+  "general_button_on": "PORNIT",
   "general_button_off": "OPRIT",
   "general_button_next": "CONTINUĂ",
   "general_button_done": "TERMINAT",
@@ -800,7 +824,6 @@
   "bundles_dig_study_stress_perception": "Studiu: Modul în care percepeți stresul vă poate ucide",
   "bundles_dig_study_stress_perception_sub": "Link: https://pubmed.ncbi.nlm.nih.gov/24354605/",
 
-
   "home_unlocks_at": "Se deblochează la nivelul {level}",
   "@home_unlocks_at": {
     "placeholder": {
@@ -810,6 +833,10 @@
       }
     }
   },
+
+  "rtb_intro_to_import": "Pentru a importa",
+  "rtb_intro_to_ignore": "Pentru a ignora",
+  "rtb_intro_already_imported": "Deja importat",
   "rtb_title": "Întoarcere la fericire",
   "rtb_subtitle": "un experiment ImmaterialAI",
   "rtb_intro_desc": "Scopul acestui experiment este să vă ajute să vă depășiți toate distorsiunile mentale, de exemplu adevăruri greșite, convingeri negative, săriți la concluzii, limite autoimpuse și mentalități dăunătoare. \n\nTerminați toate misiunile la nivelul Platină și veți trece peste toate problemele aparente.",
