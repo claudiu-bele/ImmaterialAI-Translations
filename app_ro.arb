@@ -252,7 +252,7 @@
   "n_deleting": "Se șterge nodul",
   "n_focus_general": "Concentrare",
   "n_focus_off": "Adăugați focalizare",
-  "n_focus_on": "Concentrat",
+  "n_focus_on": "Focalizat",
   "n_save": "Salveaza",
   "n_delete": "Șterge",
   "markdown_editor_title": "titlu",
@@ -303,9 +303,9 @@
   "n_public_general": "Date publice",
   "n_public_data_on": "Date publice",
   "n_public_data_off": "Date private",
-  "n_favorite_general": "Preferate",
+  "n_favorite_general": "Favorite",
   "n_favorite_off": "Adăugați favorit",
-  "n_favorite_on": "Preferat",
+  "n_favorite_on": "Favorit",
   "n_old_me_general": "Eu",
   "n_old_me_create": "Statusul Eu",
   "n_old_me_current": "Eu in prezent",
@@ -346,7 +346,7 @@
   "general_coming_soon": "VINE ÎN CURÂND",
   "general_coming_soon_plus": "ÎN CURÂND, DOAR CU Plus",
   "general_coming_soon_plus_alt": "VINE ÎN CURÂND, PLUS",
-  "general_unlocks_at_level_plus": "DOAR CU PLUS, NIVEL ${level}",
+  "general_unlocks_at_level_plus": "DOAR CU PLUS, NIVEL {level}",
   "@general_unlocks_at_level_plus": {
     "descriere": "level",
     "substituenți": {
@@ -510,6 +510,9 @@
   "ur_iam_card_sub_alt": "Spune-i lui Blarg ce ai pe suflet :*",
   "ur_iam_card_desc": "Vezi dincolo de concepte",
   "ur_iam_card_desc_alt": "Spune-i lui Blarg ce ai pe suflet :*",
+  "ur_transcend_card_title":  "Transcede",
+  "ur_transcend_card_sub": "sari peste toate etapele",
+  "ur_transcend_card_desc": "Gata cu stările negative",
   "ur_deconstruct_title": "Ce doriți să deconstruiți?",
   "ur_deconstruct_desc": "Căutați nodul sau introduceți un nou nume de nod",
   "ur_deconstruct_cont_title": "Care este sursa / ce o face real?",
@@ -781,6 +784,38 @@
   "ur_iam_result__iam_end_alt": "Blarg nu înțtelege nimic din ce ai zis, adevărata poveste este dincolo de orice definiție!",
 
 
+  "ur_transcend_title": "Ce stare neplăcuta ai în prezent?",
+  "ur_transcend_desc": "Introduceți o stare existentă sau creați o stare nouă acum.",
+  "ur_transcend_cont_desc": "Poți încerca să dovedești că există chiar tu cu Deconstruct.",
+  "@ur_transcend_cont_desc": {
+    "placeholders": {
+      "feeling": {
+        "type": "String",
+        "example": "trist"
+      }
+    }
+  },
+  "ur_transcend_action_select": "Select",
+  "ur_transcend_action_end": "End",
+  "ur_transcend_answer_result__end": "Nu ești {feeling}",
+  "@ur_transcend_answer_result__end": {
+    "placeholders": {
+      "feeling": {
+        "type": "String",
+        "example": "trist"
+      }
+    }
+  },
+  "ur_transcend_answer_result__end_desc": "Pentru orice emoție negativă, răspunsul este că nu trebuie să te simți așa, indiferent de ceea ce ți s-a întâmplat ție, celorlalți și lumii în trecut. Nu se poate dovedi că orice situație/stat/idee 'A' trebuie să ducă fi {feeling} 'B' sau că {feeling} este adevărat(ă), trebuie să realizezi că salturile pe care le faci de la orice A la B sunt complet din ceea ce iei ca fiind adevărat despre realitate, de exemplu, dacă nu crezi în B 'depresie' nu vei vedea situațiile ca fiind 'depresive' și nici nu te vei identifica eventual cu ea",
+  "@ur_transcend_answer_result__end_desc": {
+    "placeholders": {
+      "feeling": {
+        "type": "String",
+        "example": "trist"
+      }
+    }
+  },
+
   "bundles_blueprints_name": "Șabloane",
   "bundles_blueprints_subtitle": "Concepte de pornire",
   "bundles_blueprints_description": "Concepte de bază pe care vă puteți baza cu ușurință. Legate de sursa de informații, de relația cu aceasta și de diferite arome de informații",
@@ -876,6 +911,12 @@
   "rtb_quest_believe": "Eu cred",
   "rtb_quest_believe_desc": "Convertiți toate credințele, faptele și presupunerile în noduri și legături",
   "rtb_quest_believe_hint": "Creați noduri și link-uri adecvate",
+  "rtb_quest_s2_entangled": "Entanglement (Plus)",
+  "rtb_quest_s2_entangled_desc": "Obțineți recomandări de puncte de interes din bibliotecă susținute de entanglement cuantic",
+  "rtb_quest_s2_entangled_hint": "Utilizați funcția Quantum Noise",
+  "rtb_quest_s2_transcendent": "Transcendent (Plus)",
+  "rtb_quest_s2_transcendent_desc": "Transcendeți stările nedorite pe care le-ați cărat după voi până acum.",
+  "rtb_quest_s2_transcendent_hint": "Folosește fluxul de AI Transcend",
   "rtb_quest_derive": "Mintea în acțiune",
   "rtb_quest_derive_desc": "Deduceți mecanica din experiență: ce a funcționat până acum, ce nu a funcționat",
   "rtb_quest_derive_hint": "Creați noduri adecvate de tip 'notă' și 'perspectivă'",
@@ -986,13 +1027,13 @@
   "sanity_check_validity_nothing": "nimic",
   "sanity_check_validity_knownUnknown": "incert (găsit știut neștiut)",
   "sanity_check_validity_holistic": "totul",
-  "sanity_check_validity_missingData": "incert (lipsesc informatii)",
+  "sanity_check_validity_missingData": "incert (lipsesc informații)",
   "sanity_check_validity_selfRef": "autoreferință",
   "sanity_check_validity_circularRef": "referință circulară",
-  "sanity_check_validity_ref": "reference",
+  "sanity_check_validity_ref": "referimță",
   "sanity_check_validity_multiRef": "multiple referințe",
 
-  "sanity_check_dialog_validity_nodes_raw": "noduri with validitatea",
+  "sanity_check_dialog_validity_nodes_raw": "noduri cu validitatea",
   "sanity_check_dialog_validity_nodes_raw_desc": "{percentString} din libraria ta, neprocesată",
   "@sanity_check_dialog_validity_nodes_raw_desc": {
     "placeholders": {

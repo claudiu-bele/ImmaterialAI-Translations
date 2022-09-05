@@ -529,6 +529,10 @@
   "ur_iam_card_title_alt_s2": "Skeptic doctor",
   "ur_iam_card_sub_alt": "Tell Blarg what's on your mind",
   "ur_iam_card_desc_alt": "Tell Blarg what's on your mind",
+  "ur_transcend_card_title": "Transcend",
+  "ur_transcend_card_sub": "skip all steps",
+  "ur_transcend_card_desc": "No more negative states",
+
   "ur_deconstruct_title": "What do you want to deconstruct?",
   "ur_deconstruct_desc": "Search for the node or enter the name for a new node",
   "ur_deconstruct_cont_title": "What's the source of it/ what makes it real?",
@@ -827,6 +831,37 @@
   "ur_iam_result__iam_end_alt": "Blarg doesn't understand one thing of what you said, the real story is beyond any definition!",
 
 
+  "ur_transcend_title": "What current negative state are you currently dealing with??",
+  "ur_transcend_desc": "Enter an existing feeling or create a new feeling on the fly.",
+  "ur_transcend_cont_desc": "You can try to prove that it exists yourself with Deconstruct.",
+  "@ur_transcend_cont_desc": {
+    "placeholders": {
+      "feeling": {
+        "type": "String",
+        "example": "sad"
+      }
+    }
+  },
+  "ur_transcend_action_select": "Select",
+  "ur_transcend_action_end": "End",
+  "ur_transcend_answer_result__end": "You are not {feeling}",
+  "@ur_transcend_answer_result__end": {
+    "placeholders": {
+      "feeling": {
+        "type": "String",
+        "example": "sad"
+      }
+    }
+  },
+  "ur_transcend_answer_result__end_desc": "\"For any negative emotion, the answer is that you don't have to feel that way, regardless of what happened to you, others and the world in the past. It is unprovable that any one situation/state/idea 'A' needs to lead to {feeling} 'B' or that {feeling} is true, you need to realize the jumps you make from any A to B are completely from what you take as true about reality e.g. if you don't believe in B 'depression' you won't see situations as 'depressive' nor possibly identify with it\"",
+  "@ur_transcend_answer_result__end_desc": {
+    "placeholders": {
+      "feeling": {
+        "type": "String",
+        "example": "sad"
+      }
+    }
+  },
 
   "bundles_blueprints_name": "Blueprints",
   "bundles_blueprints_subtitle": "Starter concepts",
@@ -913,6 +948,12 @@
   "rtb_quest_believe": "I beliebe",
   "rtb_quest_believe_desc": "Convert all beliefs, facts and assumptions to nodes and links",
   "rtb_quest_believe_hint": "Create appropriate nodes and links",
+  "rtb_quest_s2_entangled": "Entangled (Plus)",
+  "rtb_quest_s2_entangled_desc": "Get entanglement-backed recommendations of current points of interest.",
+  "rtb_quest_s2_entangled_hint": "Use Quantum Noise function",
+  "rtb_quest_s2_transcendent": "Transcendent (Plus)",
+  "rtb_quest_s2_transcendent_desc": "Transcend unwanted states that you have been carrying.",
+  "rtb_quest_s2_transcendent_hint": "Use Transcend AI flow",
   "rtb_quest_derive": "The mind in action",
   "rtb_quest_derive_desc": "Derive mechanics from experience: what worked so far, what didn't",
   "rtb_quest_derive_hint": "Create appropriate nodes of type 'note' and 'insight'",
