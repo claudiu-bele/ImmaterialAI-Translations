@@ -79,7 +79,7 @@
   "path_create_name": "Create",
   "path_create_sub_title": "map data in over infinite dimensions",
   "path_create_description_header": "Create universes of concepts",
-  "path_create_description": "Unlike any other user data tools which organize data in lists, tables or documents, your ImmaterialAI data organically resembles the structure of the brain and the universe, allowing you to map data in more than infinite dimensions.\n\nIn ImmaterialAI each node of information works like a neuron, while links between them like synapses. Connect them and see how deeply they directly and indirectly connect with eachother.\n\nExclusive to ImmaterialAI Plus users - and the first unlocks for Create users only - you can create new types of neurons and synapses from the start of your IAI journey, effectively enabling you to describe your data in more than infinity cubed dimensions. You can also easily filter your libraray by multiple node types in conjunction with existing filters (e.g. todo, old/new me, focus, etc), as well as configure graph generation to include or exclude any existing and custom lik types",
+  "path_create_description": "Unlike any other user data tools which organize data in lists, tables or documents, your ImmaterialAI data organically resembles the structure of the brain and the universe, allowing you to map data in more than infinite dimensions.\n\nIn ImmaterialAI each node of information works like a neuron, while links between them like synapses. Connect them and see how deeply they directly and indirectly connect with eachother.\n\nExclusive to ImmaterialAI Plus users - and the first unlocks for Create users only - you can create new types of neurons and synapses from the start of your IAI journey, effectively enabling you to describe your data in more than infinity cubed dimensions. You can also easily filter your library by multiple node types in conjunction with existing filters (e.g. todo, old/new me, focus, etc), as well as configure graph generation to include or exclude any existing and custom lik types",
   "path_create_quote": "The real voyage of discovery consists not in seeking new landscapes, but in having new eyes.",
   "path_create_quote_author": "Marcel Proust",
   "settings_cat_graphics_performance": "Graphics & Performance",
@@ -138,7 +138,7 @@
   "box_absolute_origin_sub_title": "AI function relying on 'proof' links, in node details",
   "box_bundles": "Bundles",
   "box_bundles_sub_title": "Keep track of what needs to be done",
-  
+
   "box_backups": "Backups",
   "box_backups_sub_title": "Import / Export",
   "box_backups_import": "Import file",
@@ -1127,5 +1127,11 @@
   "quantum_noise_forbidden": "API key incorrect or you have reached your monthly limit",
   "quantum_noise_selected": "Node type pool",
   "quantum_noise_unselected": "Ignored node types",
-  "quantum_noise_number_of_nodes" : "Select number of nodes to pick"
+  "quantum_noise_number_of_nodes" : "Select number of nodes to pick",
+
+  "sugar_pills_intro": "As you might know, your perception on reality affects your lived reality and vice versa.\n\nYou can choose how to feel, however much is put on people as though they dont have a choice e.g. X happened, so you must feel Y, leading many to not wonder on whether they can choose, instead choosing to accept previously-given answers e.g. this event leads to trauma.",
+  "sugar_pills_study": "link to study",
+  "sugar_pills_study_desc": "Studies like this show us our perception really matters to our wellbeing. Below you can input entirely-new concepts (like the opposite of stress) or new effects to existing concepts, working through the same mechanics that bring sickness from sick beliefs.\n\nTo root them in reality, the effects of the sugar pills come through every time you breath in",
+  "sugar_pills_sugar_pills": "Sugar pills"
+
 }

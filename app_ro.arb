@@ -1092,7 +1092,13 @@
   "quantum_noise_forbidden": "cheia API este incorecta sau ți-ai atins limita lunară",
   "quantum_noise_selected": "Tipuri de noduri permise",
   "quantum_noise_unselected": "Tipuri de noduri ignorate",
-  "quantum_noise_number_of_nodes" : "Numărul de noduri de recomandat"
+  "quantum_noise_number_of_nodes" : "Numărul de noduri de recomandat",
+
+  "sugar_pills_intro": "După cum probabil știi, percepția ta asupra realității îți afectează realitatea trăită și viceversa.\n\nPoți alege cum să te simți, cu toate acestea, oamenilor li se impun multe ca și cum nu ar avea de ales, de exemplu, X s-a întâmplat deci trebuie să mă simt Y, ceea ce îi determină pe mulți să nu se întrebe dacă pot alege și, în schimb, aleg să accepte răspunsurile date anterior, ex acest eveniment a dat in traumă.",
+  "sugar_pills_study": "link către studiu",
+  "sugar_pills_study_desc": "Studii ca acesta ne arată că percepția noastră contează cu adevărat pentru bunăstarea noastră. Mai jos puteți introduce concepte complet noi (cum ar fi opusul stresului) sau efecte noi pentru conceptele existente, lucrând prin aceleași mecanisme care aduc boli din convingerile bolnave.\n\nPentru a le fixa în realitate, efectele pastilelor de zahăr se manifestă de fiecare dată când inhalezi.",
+  "sugar_pills_sugar_pills": "Pastile de zahăr"
+
 
 
 }
