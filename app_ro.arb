@@ -56,6 +56,8 @@
   "home_ancestry_root": "Noduri de bază",
   "home_ancestry_parent": "Noduri părinte",
   "home_ancestry_child": "Noduri copil",
+  "home_worlds_no_worlds" : "Nicio lume selectată",
+  "home_worlds_selected_worlds" : "Lumi selectate:",
   "path_title": "ImmaterialAI poate fi folosit în mai multe feluri",
   "path_sub_title": "Alege-ți o cale",
   "path_overcome_name": "Depășiți",
@@ -82,6 +84,7 @@
   "path_create_description": "Spre deosebire de orice alte instrumente de date ale utilizatorului care organizează datele în liste, tabele sau documente, datele dvs. ImmaterialAI seamănă organic cu structura creierului și a universului, permițându-vă să mapați datele în mai mult decât dimensiuni infinite.\n\nÎn ImmaterialAI fiecare nod de informație funcționează ca un neuron, în timp ce legăturile dintre ele ca niște sinapse. Conectați-le și vedeți cât de profund se conectează direct și indirect unul cu celălalt.",
   "path_create_quote": "Adevărata călătorie de descoperire constă nu în căutarea unor noi peisaje, ci în a avea ochi noi.",
   "path_create_quote_author": "Marcel Proust",
+  "settings_cat_customization": "Personalizare",
   "settings_cat_graphics_performance": "Grafică și performanță",
   "settings_full_screen": "Ecran complet",
   "settings_page_mode": "Modul pagină",
@@ -118,12 +121,14 @@
   "box_add_l_sub_title": "Conectați oricare două concepte",
   "box_add_lt": "Tip nou de relație",
   "box_add_lt_sub_title": "Un nou fel de a conecta 2 noduri, de exemplu, „Părinte/Copil”",
+  "box_add_world": "Lume nouă",
+  "box_add_world_sub_title": "Compartmentalizează-ți libraria",
   "box_student": "Student",
   "box_student_sub_title": "Deblocați Origine absolută, Pachete de date, Focalizarea și Strămoșii nodului",
   "box_teacher": "Profesor",
   "box_teacher_sub_title": "Deblocați Noduri Prefarate, Nou/Vechi, Privire de ansamblu, Caută conexiune și Este real?",
   "box_800_teachers": "800 de profesori",
-  "box_800_teachers_sub_title": "Deblocați sarcini, metamodele, toate conversațile AI, ciorchini, antrenament pt intuiție și multe altele",
+  "box_800_teachers_sub_title": "Deblocați sarcini, metamodele, toate conversațile AI, mulțimi, verificarea sanătății, transcede, antrenament pt intuiție, lumi, și multe altele",
   "box_return_to_bliss": "Înapoi la fericire",
   "box_return_to_bliss_sub_title": "Misiune principală cu provocări, progres pe niveluri, deblocări bonus și multe altele",
   "box_direct_links": "Legături directe",
@@ -178,6 +183,8 @@
   "box_focus_sub_title": "Accesați concepte concentrate de acasă",
   "box_node_ancestry": "Strămoșul nodului",
   "box_node_ancestry_sub_title": "Funcția AI care se bazează pe relații „părinte”, în detaliile nodurilor",
+  "box_worlds_filter": "Lumi",
+  "box_worlds_filter_sub_title": "Alegea lumea nodurilor tale si ascunde datele care nu sunt in lumea selectată",
   "box_favorites": "Preferate",
   "box_fav_sub_title": "În detaliile nodului",
   "box_old_me": "Eu nou/vechi",
@@ -247,6 +254,8 @@
   "n_hint_subtitle": "Subtitrare",
   "n_hint_desc": "Descriere",
   "n_direct_links" : "Linkuri directe la noduri",
+  "n_mentions" : "Menționat de",
+  "n_mentions_worlds_selected" : "(în lumile selectate)",
   "n_hint_plus_view": "Vizualizare",
   "n_hint_plus_edit": "Editați",
   "n_deleting": "Se șterge nodul",
@@ -338,6 +347,7 @@
   "general_button_confirm": "CONFIRMĂ",
   "general_button_add": "ADAUGĂ",
   "general_button_delete": "ȘTERGE",
+  "general_button_remove": "ELIMINĂ",
   "general_button_update": "SCHIMBĂ",
   "general_button_prev": "ANTERIOR",
   "general_button_back": "ÎNAPOI",
@@ -402,6 +412,9 @@
   "general_color": "culoare",
   "general_true": "adevărat",
   "general_false": "fals",
+
+  "general_node_search_or_new": "Caută sau introduce numele pentru un nod nou",
+  "general_node_node_to_inline": "Nod de adăugat ca link",
   "general_time_created": "creat",
   "general_time_updated": "actualizat",
   "general_moments_ago": "cu câteva clipe în urmă",
@@ -498,6 +511,10 @@
   "ur_deconstruct_card_title": "Deconstructie",
   "ur_deconstruct_card_sub": "Deconstruiți concepte",
   "ur_deconstruct_card_desc": "Navigați surse și origini",
+  "ur_deconstruct_card_title_skeptic": "Scepticul",
+  "ur_deconstruct_card_sub_skeptic": "Te ajută să vezi mai departe",
+  "ur_deconstruct_card_desc_skeptic": "Te ajută să vezi mai departe",
+
   "ur_reshape_card_title": "Remodelează",
   "ur_reshape_v2_card_title": "Remodelează+",
   "ur_reshape_card_sub": "Modificați răspunsurile emoționale",
@@ -510,6 +527,11 @@
   "ur_iam_card_sub_alt": "Spune-i lui Blarg ce ai pe suflet :*",
   "ur_iam_card_desc": "Vezi dincolo de concepte",
   "ur_iam_card_desc_alt": "Spune-i lui Blarg ce ai pe suflet :*",
+
+  "ur_iam_card_title_csb": "Interesantă poveste frățiorule",
+  "ur_iam_card_sub_csb": "Haide frate, nu o să-ți zic că nu e adevarat",
+  "ur_iam_card_desc_csb": "Haide frate, nu o să-ți zic că nu e adevarat",
+
   "ur_transcend_card_title":  "Transcede",
   "ur_transcend_card_sub": "sari peste toate etapele",
   "ur_transcend_card_desc": "Gata cu stările negative",
@@ -517,6 +539,11 @@
   "ur_deconstruct_desc": "Căutați nodul sau introduceți un nou nume de nod",
   "ur_deconstruct_cont_title": "Care este sursa / ce o face real?",
   "ur_deconstruct_cont_desc": "Este doar o poveste? Se poate schimba?",
+  "ur_deconstruct_title_skeptic": "Deci zi, de ce crezi că e adevarat?",
+  "ur_deconstruct_desc_skeptic": "Search for the node or enter the name for a new node",
+  "ur_deconstruct_cont_title_skeptic": "De ce?",
+  "ur_deconstruct_cont_desc_skeptic": "Ca să fie adevărat ce zici, trebuie sa ai o dovadă",
+
   "ur_deconstruct_action_select": "Selectați",
   "ur_deconstruct_action_existing": "Existent",
   "ur_deconstruct_action_existing_pattern": "({item})",
@@ -716,12 +743,16 @@
     }
   },
   "ur_reshape_result_changed_absolute_desc": "Dacă e o problema legată de rău, înțelege ca viața nu pare mereu cinstita, ce conteaza fiind cum reacționam noi la ce se întâmplă.",
+
+  "ur_iam_answer_end": "Nu sunteți acele concepte",
   "ur_iam_answer_end_flow": "Încheiat",
+  "ur_iam_action_select": "Selectați",
+  "ur_iam_action_next_select": "Selectați",
+  "ur_iam_action_next_end": "Termină",
+
   "ur_iam_title": "Ce esti?",
-  "ur_iam_title_alt": "Care-i problema ta, spune-i lui Blarg",
   "ur_iam_desc": "Orice consideri a fi negativ și adevărat despre tine",
   "ur_iam_cont_title": "Nu sunteți „{concept}”",
-  "ur_iam_cont_title_alt": "„{concept}”?",
   "@ur_iam_cont_title": {
     "placeholder": {
       "concept": {
@@ -730,16 +761,7 @@
       }
     }
   },
-  "@ur_iam_cont_title_alt": {
-    "placeholder": {
-      "concept": {
-        "type": "String",
-        "example": "Meme"
-      }
-    }
-  },
   "ur_iam_cont_desc": "„{concept}” este doar un concept, ești dincolo de asta. Selectați altceva sau atingeți „termină” pentru a încheia conversația",
-  "ur_iam_cont_desc_alt": "Blarg nu știe nimic despre '{concept}', el zice că n-ai nicio problemă. Selectați altceva sau atingeți „termină” pentru a încheia conversația",
   "@ur_iam_cont_desc": {
     "placeholder": {
       "concept": {
@@ -748,6 +770,20 @@
       }
     }
   },
+  "ur_iam_result__iam_end": "Tu și lumea nu sunteți niciunul dintre conceptele pe care le-ați introdus, adevărata poveste este dincolo de orice definiție!",
+
+
+  "ur_iam_title_alt": "Care-i problema ta, spune-i lui Blarg",
+  "ur_iam_cont_title_alt": "„{concept}”?",
+  "@ur_iam_cont_title_alt": {
+    "placeholder": {
+      "concept": {
+        "type": "String",
+        "example": "Meme"
+      }
+    }
+  },
+  "ur_iam_cont_desc_alt": "Blarg nu știe nimic despre '{concept}', el zice că n-ai nicio problemă. Selectați altceva sau atingeți „termină” pentru a încheia conversația",
   "@ur_iam_cont_desc_alt": {
     "placeholder": {
       "concept": {
@@ -756,10 +792,21 @@
       }
     }
   },
-  "ur_iam_action_select": "Selectați",
-  "ur_iam_action_next_select": "Selectați",
-  "ur_iam_action_next_end": "Termină",
-  "ur_iam_answer_end": "Nu sunteți acele concepte",
+  "ur_iam_result__iam_end_alt": "Blarg nu înțtelege nimic din ce ai zis, adevărata poveste este dincolo de orice definiție!",
+
+  "ur_iam_title_csb": "Ia zi, prin ce treci?",
+  "ur_iam_cont_title_csb": "{concept}?",
+  "@ur_iam_cont_title_casb": {
+    "placeholders": {
+      "concept": {
+        "type": "String",
+        "example": "Memes"
+      }
+    }
+  },
+  "ur_iam_cont_desc_csb": "Glumeam - intersantă poveste frățiorule! Mai ai povești de genu?",
+  "ur_iam_result__iam_end_csb": "Sunt stări reale prin care treci, dar nu te pierde in definiții. Există nedreptate, și acolo ar trebui să apară furia, dragoste și pace atunci când este cazul etc.\n\nNu spunem că toate ideile nu au coeficienți în realitate, ci doar că ar trebui să porniți mai întâi de la experiență și nu de la cuvinte.",
+
   "ur_deconstruct_result__dontknow": "Deoarece nu puteți găsi sursa fundamentală a \"{concept}\", vă puteți detașa de ea. Situația dvs. poate fi diferită, dimpotrivă sau ar putea să nu existe așa cum o știați.\n\nSăpați mai profund pentru ceea ce sa întâmplat de fapt",
   "@ur_deconstruct_result__dontknow": {
     "placeholder": {
@@ -780,8 +827,6 @@
   },
   "ur_deconstruct_result__circular": "Avertisment: O sursă de mai devreme în explicația dvs. este folosită ca ultimul element din explicație",
   "ur_deconstruct_result__selfref": "Avertisment: Ultimul articol pe care l-ați adăugat este sursa proprie.",
-  "ur_iam_result__iam_end": "Tu și lumea nu sunteți niciunul dintre conceptele pe care le-ați introdus, adevărata poveste este dincolo de orice definiție!",
-  "ur_iam_result__iam_end_alt": "Blarg nu înțtelege nimic din ce ai zis, adevărata poveste este dincolo de orice definiție!",
 
 
   "ur_transcend_title": "Ce stare neplăcuta ai în prezent?",
@@ -1097,8 +1142,31 @@
   "sugar_pills_intro": "După cum probabil știi, percepția ta asupra realității îți afectează realitatea trăită și viceversa.\n\nPoți alege cum să te simți, cu toate acestea, oamenilor li se impun multe ca și cum nu ar avea de ales, de exemplu, X s-a întâmplat deci trebuie să mă simt Y, ceea ce îi determină pe mulți să nu se întrebe dacă pot alege și, în schimb, aleg să accepte răspunsurile date anterior, ex acest eveniment a dat in traumă.",
   "sugar_pills_study": "link către studiu",
   "sugar_pills_study_desc": "Studii ca acesta ne arată că percepția noastră contează cu adevărat pentru bunăstarea noastră. Mai jos puteți introduce concepte complet noi (cum ar fi opusul stresului) sau efecte noi pentru conceptele existente, lucrând prin aceleași mecanisme care aduc boli din convingerile bolnave.\n\nPentru a le fixa în realitate, efectele pastilelor de zahăr se manifestă de fiecare dată când inhalezi.",
-  "sugar_pills_sugar_pills": "Pastile de zahăr"
+  "sugar_pills_sugar_pills": "Pastile de zahăr",
 
+  "worlds_name": "Scrie numele lumii",
+  "worlds_sub": "subtitlu",
+  "worlds_dialog_nodes_without_world": "Noduri fără lume {number}",
+  "@worlds_dialog_nodes_without_world": {
+    "placeholders": {
+      "number": {
+        "type": "int",
+        "example": "20"
+      }
+    }
+  },
+  "worlds_dialog_nodes_in_world": "{number} noduri",
+  "@worlds_dialog_nodes_in_world": {
+    "placeholders": {
+      "number": {
+        "type": "int",
+        "example": "20"
+      }
+    }
+  },
+  "worlds_node_world": "Lume",
 
+  "general_leaving_iai": "Părăsești ImmaterialAI",
+  "general_leaving_iai_message": "Ești sigur?"
 
 }

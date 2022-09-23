@@ -56,6 +56,8 @@
   "home_ancestry_root": "Root nodes",
   "home_ancestry_parent": "Parent nodes",
   "home_ancestry_child": "Child nodes",
+  "home_worlds_no_worlds" : "No world selected",
+  "home_worlds_selected_worlds" : "Selected worlds:",
   "path_title": "ImmaterialAI",
   "path_sub_title": "choose your path",
   "path_overcome_name": "Overcome",
@@ -82,10 +84,21 @@
   "path_create_description": "Unlike any other user data tools which organize data in lists, tables or documents, your ImmaterialAI data organically resembles the structure of the brain and the universe, allowing you to map data in more than infinite dimensions.\n\nIn ImmaterialAI each node of information works like a neuron, while links between them like synapses. Connect them and see how deeply they directly and indirectly connect with eachother.\n\nExclusive to ImmaterialAI Plus users - and the first unlocks for Create users only - you can create new types of neurons and synapses from the start of your IAI journey, effectively enabling you to describe your data in more than infinity cubed dimensions. You can also easily filter your library by multiple node types in conjunction with existing filters (e.g. todo, old/new me, focus, etc), as well as configure graph generation to include or exclude any existing and custom lik types",
   "path_create_quote": "The real voyage of discovery consists not in seeking new landscapes, but in having new eyes.",
   "path_create_quote_author": "Marcel Proust",
+  "settings_cat_customization": "Customization",
   "settings_cat_graphics_performance": "Graphics & Performance",
   "settings_full_screen": "Full screen",
   "settings_page_mode": "Page mode",
   "settings_skin": "Select skin",
+  "settings_alternative_flow_must_be_deselected": "Alternative flow {flow} must be deselected",
+  "@settings_alternative_flow_must_be_deselected": {
+    "description": "Blarg",
+    "placeholders": {
+      "flow": {
+        "type": "String",
+        "example": "2"
+      }
+    }
+  },
   "settings_skin_default": "Default",
   "settings_skin_inverse": "Inverse",
   "settings_background": "Select background image",
@@ -118,12 +131,14 @@
   "box_add_l_sub_title": "Connect any two concepts",
   "box_add_lt": "New link type",
   "box_add_lt_sub_title": "Types of links e.g. 'Parent/Child'",
+  "box_add_world": "New world",
+  "box_add_world_sub_title": "Compartmentalize your library",
   "box_student": "Student",
   "box_student_sub_title": "Unlock Absolute Origin, Bundles, Focus and Node Ancestry",
   "box_teacher": "Teacher",
   "box_teacher_sub_title": "Unlock Favorites, New/Old me, Big Picture, Find link and Is It Real?",
   "box_800_teachers": "800 teachers",
-  "box_800_teachers_sub_title": "Unlock Tasks, Meta Models, All AI Flows, Clusters, intuition training, and more",
+  "box_800_teachers_sub_title": "Unlock Tasks, Meta Models, All AI Flows, Clusters, Sanity check, Transcend, intuition training, Worlds, and more",
   "box_return_to_bliss": "Return to Bliss",
   "box_return_to_bliss_sub_title": "Quest with challenges, tiered progress, bonus unlocks, & timed exclusives",
   "box_direct_links": "Direct links",
@@ -179,6 +194,8 @@
   "box_focus_sub_title": "Access focused concepts from home",
   "box_node_ancestry": "Node ancestry",
   "box_node_ancestry_sub_title": "AI function relying on 'parent' links, in node details",
+  "box_worlds_filter": "Worlds",
+  "box_worlds_filter_sub_title": "Assign your nodes specific worlds & show app from the perspective of only one world",
   "box_favorites": "Favorites",
   "box_fav_sub_title": "In node details",
   "box_old_me": "New/Old me",
@@ -248,6 +265,8 @@
   "n_hint_subtitle": "Subtitle",
   "n_hint_desc": "Description",
   "n_direct_links" : "Direct links to nodes",
+  "n_mentions" : "Mentioned in",
+  "n_mentions_worlds_selected" : "(within selected worlds)",
   "n_hint_plus_view": "View",
   "n_hint_plus_edit": "Edit",
   "n_deleting": "Deleting node",
@@ -318,7 +337,7 @@
   "n_dependency_src": "depended on by",
   "n_dependency_tar": "depends on",
   "n_is_it_real_no_hierarcy": "Inconclusive\nconcept missing 'proof' link",
-  "n_is_it_real_self_ref": "Currently unknown\nfound self-referencing concepts",
+  "n_is_it_real_self_ref": "Self-reference",
   "n_is_it_real_nothing": "Not real\nfound proof \n'Nothing\n'",
   "n_is_it_real_known_unknown": "Known unknown\nFound proof 'Currently unknown'",
   "n_is_it_real_incomplete": "Inconclusive\nconnected concepts missing 'proof' link",
@@ -344,6 +363,7 @@
   "general_button_confirm": "CONFIRM",
   "general_button_add": "ADD",
   "general_button_delete": "DELETE",
+  "general_button_remove": "REMOVE",
   "general_button_update": "UPDATE",
   "general_button_prev": "PREV",
   "general_button_back": "BACK",
@@ -421,6 +441,8 @@
   "general_color": "color",
   "general_true": "true",
   "general_false": "false",
+  "general_node_search_or_new": "Search or enter new name for node",
+  "general_node_node_to_inline": "Node to inline",
   "general_time_created": "created",
   "general_time_updated": "updated",
   "general_moments_ago": "moments ago",
@@ -517,6 +539,10 @@
   "ur_deconstruct_card_title": "Deconstruct",
   "ur_deconstruct_card_sub": "Deconstruct concepts",
   "ur_deconstruct_card_desc": "Navigate sources and origins",
+  "ur_deconstruct_card_title_skeptic": "The skeptic",
+  "ur_deconstruct_card_sub_skeptic": "Helps you see beyond",
+  "ur_deconstruct_card_desc_skeptic": "Helps you see beyond",
+
   "ur_reshape_card_title": "Reshape",
   "ur_reshape_v2_card_title": "Reshape+",
   "ur_reshape_v2_card_sub": "Change your reaction (now with absolute/relative distinction)",
@@ -525,10 +551,15 @@
   "ur_iam_card_title": "I Am …",
   "ur_iam_card_sub": "Who does your mind say you are?",
   "ur_iam_card_desc": "See beyond concepts",
+
   "ur_iam_card_title_alt": "Blarg the Orc",
-  "ur_iam_card_title_alt_s2": "Skeptic doctor",
   "ur_iam_card_sub_alt": "Tell Blarg what's on your mind",
   "ur_iam_card_desc_alt": "Tell Blarg what's on your mind",
+
+  "ur_iam_card_title_csb": "Cool story bro",
+  "ur_iam_card_sub_csb": "Come on man, I won't tell you it's not real",
+  "ur_iam_card_desc_csb": "Come on man, I won't tell you it's not real",
+
   "ur_transcend_card_title": "Transcend",
   "ur_transcend_card_sub": "skip all steps",
   "ur_transcend_card_desc": "No more negative states",
@@ -537,6 +568,10 @@
   "ur_deconstruct_desc": "Search for the node or enter the name for a new node",
   "ur_deconstruct_cont_title": "What's the source of it/ what makes it real?",
   "ur_deconstruct_cont_desc": "Is it just a story? Can it change?",
+  "ur_deconstruct_title_skeptic": "So tell me, what do you think is true?",
+  "ur_deconstruct_desc_skeptic": "Search for the node or enter the name for a new node",
+  "ur_deconstruct_cont_title_skeptic": "Why?",
+  "ur_deconstruct_cont_desc_skeptic": "For it to be real, it must have some proof",
   "ur_deconstruct_action_select": "Select",
   "ur_deconstruct_action_existing": "Existing",
   "ur_deconstruct_action_existing_pattern": "({item})",
@@ -754,12 +789,15 @@
     }
   },
   "ur_reshape_result_changed_absolute_desc": "If it is a problem of evil, understand life isn't always fair, the answer to that being in how we live life knowing this.",
+  "ur_iam_answer_end": "You are not those concepts",
   "ur_iam_answer_end_flow": "Ended",
+  "ur_iam_action_select": "Select",
+  "ur_iam_action_next_select": "Select",
+  "ur_iam_action_next_end": "End",
+
   "ur_iam_title": "What are you?",
-  "ur_iam_title_alt": "What's your problem, tell Blarg",
   "ur_iam_desc": "Anything you consider to be negative and true about yourself",
   "ur_iam_cont_title": "You are not '{concept}'",
-  "ur_iam_cont_title_alt": "{concept}?",
   "@ur_iam_cont_title": {
     "placeholders": {
       "concept": {
@@ -768,16 +806,7 @@
       }
     }
   },
-  "@ur_iam_cont_title_alt": {
-    "placeholders": {
-      "concept": {
-        "type": "String",
-        "example": "Memes"
-      }
-    }
-  },
   "ur_iam_cont_desc": "'{concept}' is just a concept, you are beyond that. Select something else or tap 'end' to end the flow",
-  "ur_iam_cont_desc_alt": "Blarg doesn't know anything about '{concept}', he thinks you have no problem.  Select something else or tap 'end' to end the flow",
   "@ur_iam_cont_desc": {
     "placeholders": {
       "concept": {
@@ -786,6 +815,21 @@
       }
     }
   },
+  "ur_iam_result__iam_end": "You and the world are not any of the concepts you entered, the real story is beyond any definition!\n\nWe're not saying all ideas don't have coeficients in reality, just that you should go from experience first instead of words first.",
+
+
+
+  "ur_iam_title_alt": "What's your problem, tell Blarg",
+  "ur_iam_cont_title_alt": "{concept}?",
+  "@ur_iam_cont_title_alt": {
+    "placeholders": {
+      "concept": {
+        "type": "String",
+        "example": "Memes"
+      }
+    }
+  },
+  "ur_iam_cont_desc_alt": "Blarg doesn't know anything about '{concept}', he thinks you have no problem.  Select something else or tap 'end' to end the flow",
   "@ur_iam_cont_desc_alt": {
     "placeholders": {
       "concept": {
@@ -794,10 +838,22 @@
       }
     }
   },
-  "ur_iam_action_select": "Select",
-  "ur_iam_action_next_select": "Select",
-  "ur_iam_action_next_end": "End",
-  "ur_iam_answer_end": "You are not those concepts",
+  "ur_iam_result__iam_end_alt": "Blarg doesn't understand one thing of what you said, the real story is beyond any definition!\n\nWe're not saying all ideas don't have coeficients in reality, just that you should go from experience first instead of words first.",
+
+  "ur_iam_title_csb": "Tell me, what are you going through?",
+  "ur_iam_cont_title_csb": "{concept}?",
+  "@ur_iam_cont_title_casb": {
+    "placeholders": {
+      "concept": {
+        "type": "String",
+        "example": "Memes"
+      }
+    }
+  },
+  "ur_iam_cont_desc_csb": "I was joking - cool story bro! Got any more of those fairytales?",
+  "ur_iam_result__iam_end_csb": "There are real states to go through, but don't get lost in definitions. There's injustice where anger should arise, love and peace when appropriate, etc.\n\nWe're not saying all ideas don't have coeficients in reality, just that you should go from experience first instead of words first.",
+
+
   "ur_deconstruct_result__dontknow": "As you can't find fundamental source of  \"{concept}\", you can detach from it. Your situation might be different, the opposite, or might not exist as you knew it.\n\nDig deeper for what actually happened",
   "@ur_deconstruct_result__dontknow": {
     "placeholders": {
@@ -818,7 +874,6 @@
   },
   "ur_deconstruct_result__circular": "Warning: A source earlier in your explanation is used as the last item in the explanation",
   "ur_deconstruct_result__selfref": "Warning: The last item you added is source of itself.",
-  "ur_iam_result__iam_end": "You and the world are not any of the concepts you entered, the real story is beyond any definition!",
   "home_unlocks_at": "Unlocks at level {level}",
   "@home_unlocks_at": {
     "placeholders": {
@@ -828,7 +883,6 @@
       }
     }
   },
-  "ur_iam_result__iam_end_alt": "Blarg doesn't understand one thing of what you said, the real story is beyond any definition!",
 
 
   "ur_transcend_title": "What current negative state are you currently dealing with??",
@@ -1132,6 +1186,31 @@
   "sugar_pills_intro": "As you might know, your perception on reality affects your lived reality and vice versa.\n\nYou can choose how to feel, however much is put on people as though they dont have a choice e.g. X happened, so you must feel Y, leading many to not wonder on whether they can choose, instead choosing to accept previously-given answers e.g. this event leads to trauma.",
   "sugar_pills_study": "link to study",
   "sugar_pills_study_desc": "Studies like this show us our perception really matters to our wellbeing. Below you can input entirely-new concepts (like the opposite of stress) or new effects to existing concepts, working through the same mechanics that bring sickness from sick beliefs.\n\nTo root them in reality, the effects of the sugar pills come through every time you breath in",
-  "sugar_pills_sugar_pills": "Sugar pills"
+  "sugar_pills_sugar_pills": "Sugar pills",
+
+  "worlds_name": "Enter world type",
+  "worlds_sub": "Subtitle",
+  "worlds_dialog_nodes_without_world": "Nodes without world {number}",
+  "@worlds_dialog_nodes_without_world": {
+    "placeholders": {
+      "number": {
+        "type": "int",
+        "example": "20"
+      }
+    }
+  },
+  "worlds_dialog_nodes_in_world": "{number} nodes",
+  "@worlds_dialog_nodes_in_world": {
+    "placeholders": {
+      "number": {
+        "type": "int",
+        "example": "20"
+      }
+    }
+  },
+  "worlds_node_world": "World",
+
+  "general_leaving_iai": "Leaving ImmaterialAI",
+  "general_leaving_iai_message": "Are you sure?"
 
 }
