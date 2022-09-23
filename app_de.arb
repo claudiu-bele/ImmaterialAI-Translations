@@ -1,0 +1,1172 @@
+{
+  "iai_name": "ImmaterialAI",
+  "iai_headline": "Willkommen im neuen Du",
+  "appbar_search_all": "Daten und Inhalte durchsuchen",
+  "appbar_search_data": "Daten durchsuchen",
+  "tutorial_health_page1_headline": "Tutorial",
+  "tutorial_health_page1_title": "Willkommen bei ImmaterialAI",
+  "tutorial_health_page1_description": "Überwinden Sie heute alles Negative",
+  "tutorial_health_page1_more": "kein Tracking, Daten verlassen nie Ihr Gerät, alle KI-Logik läuft lokal",
+  "tutorial_health_page2_headline": "Knoten",
+  "tutorial_health_page2_title": "Verfolgen Sie, was Sie beeinflusst",
+  "tutorial_health_page2_description": "Ordnen Sie Erinnerungen, Überzeugungen, Gefühle, Gedanken, Erwartungen, Ängste und mehr den einzelnen Knoten zu",
+  "tutorial_health_page2_more": "Erstellen Sie neue Klassifizierungen, indem Sie Ihre eigenen Knotentypen erstellen",
+  "tutorial_health_page3_headline": "Links",
+  "tutorial_health_page3_title": "Von der Ursache zur Wirkung",
+  "tutorial_health_page3_description": "Verbinden Sie zwei beliebige Knoten, indem Sie einen oder mehrere Links zwischen ihnen hinzufügen.",
+  "tutorial_health_page3_more": "Implementieren Sie eine neue Semantik, indem Sie Ihre eigenen Link-Typen mit eigenen Regeln erstellen",
+  "tutorial_health_page4_headline": "AI",
+  "tutorial_health_page4_title": "Ändere die Geschichte",
+  "tutorial_health_page4_description": "Sehen Sie über die derzeitigen schädlichen Mentalitäten hinaus, erforschen Sie neue Möglichkeiten und erleben Sie die Wahrheit jenseits der Meinung",
+  "tutorial_health_page4_more": "Das ist der Grund, warum unsere Nutzer ImmaterialAI loben: Unsere KI und Tools nutzen Ihre Knoten und Verbindungen auf unterschiedliche Weise, um Ihnen zu helfen, von der ersten Sitzung an lebensverändernde Erkenntnisse auf mehreren Ebenen zu gewinnen",
+  "tutorial_health_page5_headline": "Startseite",
+  "tutorial_health_page5_title": "Alles an einem Ort finden",
+  "tutorial_health_page5_description": "Schalten Sie bei der Nutzung der Plattform weitere fortgeschrittene Funktionen auf Ihrem Pfad frei",
+  "tutorial_health_page5_more": "Wir unterstützen Hoch- und Querformat, probieren Sie es aus!",
+  "home_go_back": "Zurückgehen",
+  "home_go_forward": "Vorwärts gehen",
+  "home_focus_unlocks_at": "Zeige fokussierte Elemente, entsperrt auf Ebene {level}",
+  "@home_focus_unlocks_at": {
+    "description": "level",
+    "placeholders": {
+      "level": {
+        "type": "int",
+        "example": "2"
+      }
+    }
+  },
+  "home_focus_on_off": "Fokus ein/aus",
+  "home_focus_on": "Fokus auf",
+  "home_focus_off": "Fokus aus",
+  "home_favorites_on": "Favoriten ein",
+  "home_favorites_off": "Favoriten aus",
+  "home_favorites_tooltip": "Favoriten ein/aus",
+  "steam_free_live_on_plus": "ImmaterialAI Plus\nlive auf Steam",
+  "steam_free_soon_on_plus": "Bald auf ImmaterialAI Plus\nlive auf Steam",
+  "app_free_live_on_plus": "ImmaterialAI Plus\nonly",
+  "app_free_soon_on_plus": "Demnächst bei MaterialAI Plus",
+  "home_old_me_disabled": "Datenansichten",
+  "home_old_me_lib": "Vollständige Bibliothek (ohne 'Old me'-Daten)",
+  "home_old_me_new": "'Current me' library",
+  "home_old_me_old": "'Old me' library",
+  "home_old_me_all": "'Current' & 'Old' me library",
+  "home_ancestry_disabled": "Ancestry-Filter",
+  "home_ancestry_root": "Wurzelknoten",
+  "home_ancestry_parent": "Übergeordnete Knoten",
+  "home_ancestry_child": "Kinderknoten",
+  "home_worlds_no_worlds": "Keine Welt ausgewählt",
+  "home_worlds_selected_worlds": "Ausgewählte Welten:",
+  "Pfad_Titel": "ImmaterialAI",
+  "path_sub_title": "Wählen Sie Ihren Weg",
+  "pfad_überwinden_name": "Überwinden",
+  "path_overcome_sub_title": "verstehen und transzendieren",
+  "path_overcome_description_header": "Psychische Probleme überwinden",
+  "path_overcome_description": "Von klein auf wird uns beigebracht, wie wir in verschiedenen Situationen handeln und reagieren sollten oder welche Gefühle und Zustände gültig sind. Es beginnt in der Kindheit mit positiver und negativer Verstärkung, und das Glossar der Vorannahmen wächst ständig, sei es durch Beobachtung des Lebens um uns herum, unserer Gemeinschaft, unserer Partner, der Medien, der Werbung, was auch immer. Nicht in allen Fällen muss ein Ereignis oder eine Idee zu einem negativen Zustand führen, und das ist es, was Overcome Ihnen zu verstehen helfen soll. \n\nDazu gehören traumatische Ereignisse, psychische Krankheiten, Überlegungen, Sorgen, Ängste und vieles mehr. \n\nDie Abkehr von diesen impliziten Ursache-Wirkungs-Ketten und generell von der Vorstellung, dass eine Sache zu einer bestimmten anderen führen muss, bietet ein bisher unbekanntes Maß an Kontrolle über negative oder einschränkende Gedanken. Vielleicht ertappen Sie sich sogar dabei, wie Sie dieselben Zyklen durchlaufen, nachdem Sie sie verarbeitet haben, wobei die Geschichte nun eine andere ist - die Gedanken tauchen auf, nun in dem Bewusstsein, dass die schädlichen Gedanken ein negativer Pfad von Annahmen waren, denen Sie früher gefolgt sind und die sich inzwischen geändert haben. Mit der Wiederholung festigen sich die neuen Schlussfolgerungen, und es gibt keinen inneren Kampf mehr darüber, wo Sie zu einem Thema stehen.",
+  "path_overcome_quote": "Wer den sicheren Weg geht, ist so gut wie tot",
+  "path_overcome_quote_author": "Carl Jung",
+  "Pfad_Jenseits_Name": "Jenseits",
+  "path_beyond_sub_title": "Neue Möglichkeiten erkunden",
+  "path_beyond_description_header": "Über die alte Wahrnehmung hinausgehen",
+  "path_beyond_description": "Beyond betont, wie schnell wir uns symbolischen Konzepten zuordnen können, Konzepten, die Mehrdeutigkeit, Stärken und Schwächen, Gewissheiten und Unmöglichkeiten in sich tragen. Wenn wir uns von Ideen - vage oder konkret - lösen, können wir die Welt und uns selbst immer klarer sehen.\n\n  Viele Quellen würden Ihnen gerne sagen, wer sie glauben, dass Sie sind oder was Sie ihrer Meinung nach brauchen. Mit Beyond können Sie leicht hinter den Lärm und die angedeuteten Wahrheiten blicken, damit Sie Ihr bestes Leben leben können.\n\nBeyond basiert auf uralten und hochmodernen neuen Lehren und ermöglicht es Ihnen, in die Welt jenseits von Konzepten zu blicken, indem es Ihnen hilft, das Unerwünschte leicht loszuwerden, indem es seine wahre Natur aufdeckt.",
+  "path_beyond_quote": "Du willst nicht so sehr eine Million Antworten, sondern vielmehr ein paar Fragen für immer. Die Fragen sind Diamanten, die du ins Licht hältst. Studiere ein Leben lang und du siehst verschiedene Farben desselben Juwels. Dieselben Fragen, die man immer wieder stellt, bringen einem genau die Antworten, die man braucht, und zwar genau in dem Moment, in dem man sie braucht",
+  "path_beyond_quote_author": "Richard Bach",
+  "path_breakthrough_name": "Durchbruch",
+  "path_breakthrough_sub_title": "Realität und Systeme dekonstruieren",
+  "path_breakthrough_description_header": "Die Realität unter dem Mikroskop",
+  "path_breakthrough_description": "Viele in der Populärkultur verbreitete Ideen sind bloße Ansammlungen von Ideen, die in oft unvollständige Geschichten verpackt sind. Breakthrough entfacht die Frage nach dem \"Warum\" und dem \"Warum nicht\" neu, um die im Grunde unvollständigen Theorien, die als Fakten angepriesen werden, zu entlarven, sobald wir über die anfänglichen Argumentationsschichten hinausschauen. \n\nBreakthrough fordert uns auf, über die Geschichten der Konzepte, an denen wir festhalten, hinauszuschauen, um sie in einem neuen, klareren Licht zu sehen. Auf den ersten Blick sind viele Konzepte über das Selbst oder die Welt brutal und unversöhnlich, doch wenn man tiefer gräbt, ändert sich die Geschichte. \n\nSie werden überrascht sein, wie sehr Ihr bisheriges Wissen tatsächlich zutrifft. Viele alte Wahrheiten werden sich als wirkliche Unbekannte, Unwahrheiten oder logische Irrtümer herausstellen, so dass Sie sich bewusst von ihnen befreien und neue Möglichkeiten und Alternativen finden können.",
+  "path_breakthrough_quote": "Folge deiner Glückseligkeit und das Universum wird Türen öffnen, wo vorher nur Mauern waren.",
+  "path_breakthrough_quote_author": "Joseph Campbell",
+  "Pfad_Erstellen_Name": "Erstellen",
+  "path_create_sub_title": "Daten in mehr als unendlich vielen Dimensionen abbilden",
+  "path_create_description_header": "Universen von Konzepten erstellen",
+  "path_create_description": "Im Gegensatz zu allen anderen Benutzerdaten-Tools, die Daten in Listen, Tabellen oder Dokumenten organisieren, ähneln Ihre ImmaterialAI-Daten organisch der Struktur des Gehirns und des Universums, so dass Sie Daten in mehr als unendlich vielen Dimensionen abbilden können.\n\nIn ImmaterialAI funktioniert jeder Informationsknoten wie ein Neuron, während die Verbindungen zwischen ihnen wie Synapsen funktionieren. Verbinden Sie sie und sehen Sie, wie tief sie direkt und indirekt miteinander verbunden sind.\n\nExklusiv für ImmaterialAI Plus-Benutzer - und die ersten Freischaltungen nur für Create-Benutzer - können Sie von Beginn Ihrer IAI-Reise an neue Arten von Neuronen und Synapsen erstellen, die es Ihnen effektiv ermöglichen, Ihre Daten in mehr als unendlich vielen Dimensionen zu beschreiben. Sie können Ihre Bibliothek auch ganz einfach nach mehreren Knotentypen in Verbindung mit vorhandenen Filtern filtern (z. B. ToDo, altes/neues Ich, Fokus usw.) und die Diagrammerstellung so konfigurieren, dass alle vorhandenen und benutzerdefinierten Lik-Typen einbezogen oder ausgeschlossen werden",
+  "path_create_quote": "Die wahre Entdeckungsreise besteht nicht darin, neue Landschaften zu suchen, sondern neue Augen zu haben.",
+  "path_create_quote_author": "Marcel Proust",
+  "einstellungen_kat_anpassung": "Anpassung",
+  "einstellungen_kat_grafik_leistung": "Grafik & Leistung",
+  "Einstellungen_Vollbild": "Vollbild",
+  "einstellungen_seite_modus": "Seitenmodus",
+  "Einstellungen_Skin": "Skin auswählen",
+  "einstellungen_alternativer_fluss_muss_abgewählt_werden": "Alternativfluss {flow} muss abgewählt werden",
+  "@settings_alternative_flow_must_be_deselected": {
+    "description": "Blarg",
+    "placeholders": {
+      "flow": {
+        "type": "String",
+        "example": "2"
+      }
+    }
+  },
+  "Einstellungen_Haut_Standard": "Standard",
+  "Einstellungen_Haut_invers": "Umgekehrt",
+  "Einstellungen_Hintergrund": "Hintergrundbild auswählen",
+  "Einstellungen_Hintergrund_entfernen": "Entfernen",
+  "Einstellungen_Hintergrund_Auswahl": "Bild auswählen",
+  "Einstellungen_Hochwertige_Übergänge": "Übergänge hoher Qualität",
+  "Einstellungen_Hohe_Qualität_Grafiken": "Graphen hoher Qualität",
+  "Einstellungen_Ändern_Menü_links_rechts": "Menü von links nach rechts ändern",
+  "Einstellungen_Katze_andere": "Andere",
+  "Einstellungen_Lizenzen_sehen": "Siehe Lizenzen",
+  "Einstellungen_Katze_Allgemein": "Allgemein",
+  "Einstellungen_Animationen": "Animationen",
+  "Einstellungen_Ändern_ui_Modus": "Layout der Inhaltsfelder",
+  "einstellungen_leistung_modus": "Leistungsmodus",
+  "einstellungen_anderer_benutzerpfad": "Anderen Benutzerpfad wählen",
+  "einstellungen_neustart_tutorial": "Neustart-Tutorial",
+  "Einstellungen_Löschen_Benutzerbibliothek": "Benutzerbibliothek löschen",
+  "einstellungen_ausblenden_künftig_gesperrter_inhalt_an": "Alle gesperrten Funktionen anzeigen",
+  "Einstellungen_Ausblenden_Zukunftsgesperrter_Inhalt_aus": "Zukünftig gesperrte Funktionen ausblenden",
+  "Einstellungen_Sprache": "Sprache ändern",
+  "Einstellungen_Sprache_entfernen": "Benutzerdefinierte Sprache entfernen",
+  "Einstellungen_Ausgang": "Plattform verlassen",
+  "box_library": "Bibliothek",
+  "box_settings": "Einstellungen & Benutzerpräferenzen",
+  "box_add_n": "Neuer Knoten",
+  "box_add_n_sub_title": "Alles, was du benennen kannst",
+  "box_add_nt": "Neuer Knotentyp",
+  "box_add_nt_sub_title": "Konzeptgruppen, z. B. 'Entitäten', 'Ereignisse'",
+  "box_add_l": "Neuer Link",
+  "box_add_l_sub_title": "Verbinde zwei beliebige Konzepte",
+  "box_add_lt": "Neuer Linktyp",
+  "box_add_lt_sub_title": "Arten von Links, z. B. 'Eltern/Kind'",
+  "box_add_world": "Neue Welt",
+  "box_add_world_sub_title": "Unterteilen Sie Ihre Bibliothek",
+  "box_student": "Student",
+  "box_student_sub_title": "Absolute Herkunft, Bündel, Fokus und Knotenvorfahren freischalten",
+  "box_teacher": "Lehrerin",
+  "box_teacher_sub_title": "Unlock Favorites, New/Old me, Big Picture, Find link und Is It Real?",
+  "box_800_teachers": "800 Lehrer",
+  "box_800_teachers_sub_title": "Aufgaben freischalten, Metamodelle, alle KI-Flows, Cluster, Sanity Check, Transcend, Intuitionstraining, Welten und mehr",
+  "box_return_to_bliss": "Rückkehr zur Glückseligkeit",
+  "box_return_to_bliss_sub_title": "Quest mit Herausforderungen, abgestuftem Fortschritt, Bonusfreischaltungen und zeitlich begrenzten Exklusivitäten",
+  "box_direct_links": "Direkte Links",
+  "box_direct_links_sub_title": "Einfaches Verknüpfen von zwei Knoten aus einem beliebigen Knoten heraus",
+  "box_tasks": "Aufgabentafel",
+  "box_tasks_sub_title": "Behalten Sie den Überblick, was zu tun ist",
+  "box_tasks_filter": "Aufgabenfilter",
+  "box_tasks_filter_sub_title": "Aufgaben von Ihrer Homepage aus filtern",
+  "box_me": "Ich",
+  "box_me_sub_title": "Auto-generated from current/old me node states",
+  "Box_absoluter_Ursprung": "Absoluter Ursprung",
+  "box_absolute_origin_sub_title": "KI-Funktion, die sich auf 'Beweis'-Verknüpfungen stützt, in Knoten-Details",
+  "box_bundles": "Bündel",
+  "box_bundles_sub_title": "Den Überblick behalten, was zu tun ist",
+  "box_backups": "Backups",
+  "box_backups_sub_title": "Import/Export",
+  "box_backups_import": "Datei importieren",
+  "box_backups_import_sub_title": "ImmaterialAI 2 & 3 Dateien wiederherstellen",
+  "box_backups_import_text": "Text importieren",
+  "box_backups_import_text_sub_title": "Text hier einfügen",
+  "box_backups_export": "Datei exportieren",
+  "box_backups_export_sub_title": "Speichern Sie alle Ihre Daten in einer Datei",
+  "box_backups_export_text": "Text exportieren",
+  "box_backups_export_text_sub_title": "Kopieren Sie den resultierenden Text und speichern Sie ihn, wo immer Sie wollen",
+  "box_big_picture": "Großes Bild",
+  "box_big_picture_sub_title": "Universen von Konzepten erforschen",
+  "box_is_it_real": "Ist es echt?",
+  "box_is_it_real_sub_title": "KI-Funktion, die sich auf 'Beweis'-Verknüpfungen stützt, in Knoten-Details",
+  "box_dependency_tree": "Abhängigkeitsgraph",
+  "box_dependency_tree_sub_title": "AI-Funktion, die auf 'depends on'-Verknüpfungen angewiesen ist, in Knoten-Details",
+  "box_rich_text": "Rich Text",
+  "box_check_for_link": "Auf Link prüfen",
+  "box_check_for_link_sub_title": "zwischen 2 beliebigen Knoten",
+  "box_rich_text_sub_title": "Formatieren Sie die Beschreibungen Ihrer Knoten mit Markdown",
+  "box_ancestry_filter": "Ancestry-Filter",
+  "box_ancestry_filter_sub_title": "Alle Stamm-, Eltern- und Kindknoten anzeigen",
+  "box_clusters": "Cluster",
+  "box_clusters_sub_title": "Wie Ihr Geist strukturiert ist",
+  "box_sanity_check": "Sanitätsprüfung",
+  "box_sanity_check_sub_title": "Prüfen Sie auf Probleme in Ihrer Bibliothek, Gültigkeit vor und nach der AI, Verteilung der Gültigkeit und mehr",
+  "box_quantum_field": "Quantenfeld",
+  "box_quantum_field_sub_title": "Das Ganze sehen",
+  "box_train_intuition": "Trainiere deine Intuition",
+  "box_train_intuition_sub_title": "3 Schwierigkeiten mit Statistiken (fortlaufende und durchschnittliche Erfolgsquote)",
+  "box_presentation_mode": "Präsentationsmodus",
+  "box_presentation_mode_sub_title": "Persönliche Daten bei der Nutzung der Plattform verbergen",
+  "box_quantum_noise": "Quantenrauschen",
+  "box_quantum_noise_sub_title": "Holen Sie sich Empfehlungen durch Verschränkung unterstützt, erfordert Internet, um Daten aus dem Labor in Australien zu erhalten",
+  "box_sugar_pills": "Zuckertabletten",
+  "box_sugar_pills_sub_title": "Placebos bereitwillig einführen",
+  "box_focus": "Fokus",
+  "box_focus_sub_title": "Zugriff auf fokussierte Konzepte von zu Hause aus",
+  "box_node_ancestry": "Knoten-Abstammung",
+  "box_node_ancestry_sub_title": "AI-Funktion, die sich auf 'Eltern'-Verknüpfungen stützt, in Knoten-Details",
+  "box_worlds_filter": "Welten",
+  "box_worlds_filter_sub_title": "Weisen Sie Ihren Knoten bestimmte Welten zu und zeigen Sie die App nur aus der Perspektive einer Welt",
+  "box_favorites": "Favoriten",
+  "box_fav_sub_title": "Details im Knoten",
+  "box_old_me": "Neues/Altes Ich",
+  "default_nt_internal_all": "Alle",
+  "Standard_nt_interne_Reise": "Pfad",
+  "standard_nt_internes_system": "Intern",
+  "default_nt_concept": "Konzept",
+  "standard_nt_system": "System",
+  "default_nt_feeling": "feeling",
+  "default_nt_thought": "Gedanke",
+  "default_nt_effect": "Wirkung",
+  "default_nt_event": "Ereignis",
+  "default_nt_quote": "Zitat",
+  "default_nt_entity": "Entität",
+  "Standard_nt_Studie": "Studie",
+  "default_nt_note": "Note",
+  "default_nt_insight": "Einsicht",
+  "default_n_nothing": "Nichts",
+  "default_n_known_unknown": "Bekannt unbekannt",
+  "default_n_unknown_unknown": "Unbekannt unbekannt",
+  "default_n_unknown_general": "Unbekannt",
+  "default_n_everything": "Alles",
+  "default_lt_favorite": "Favorit",
+  "default_lt_favorite_src_text": "ist als Favorit markiert",
+  "standard_lt_focus": "Fokus",
+  "default_lt_focus_src_text": "ist als fokussiert markiert",
+  "default_lt_old_me": "Altes Ich",
+  "default_lt_old_me_src_text": "ist als 'altes Ich' markiert",
+  "default_lt_tasks": "Aufgaben",
+  "default_lt_tasks_src_text": "ist in Aufgabenliste",
+  "default_lt_public_data": "Öffentliche Daten ein/aus",
+  "default_lt_public_data_src_text": "ist öffentliche Daten",
+  "default_lt_public_data_tar_text": "-",
+  "default_lt_parent": "Elternteil/Kind",
+  "default_lt_parent_src_text": "ist Elternteil von",
+  "default_lt_parent_tar_text": "ist Kind von",
+  "default_lt_proof": "Proof",
+  "default_lt_proof_src_text": "bewiesen durch",
+  "default_lt_proof_tar_text": "beweist",
+  "standard_lt_quelle": "Quelle",
+  "default_lt_source_src_text": "ist Quelle von",
+  "default_lt_source_tar_text": "hat Quelle",
+  "default_lt_cause_effect": "Ursache/Wirkung",
+  "default_lt_cause_effect_src_text": "Ursachen",
+  "default_lt_cause_effect_tar_text": "verursacht durch",
+  "default_lt_related": "Verwandt mit",
+  "default_lt_related_src_tar_text": "verwandt mit",
+  "default_lt_equality": "Ist",
+  "standard_lt_equality_src_tar_text": "ist",
+  "default_lt_parallel": "Parallel",
+  "default_lt_parallel_src_tar_text": "hat parallel",
+  "standard_lt_analog": "Analog",
+  "default_lt_analog_desc": "Etwas, das eine Analogie zu etwas anderem darstellt",
+  "standard_lt_analog_src_tar_text": "ist analog zu",
+  "default_lt_dependency": "Abhängigkeiten",
+  "default_lt_dependency_src_text": "ist abhängig von",
+  "default_lt_dependency_tar_text": "hängt ab von",
+  "n_add_name": "Name des Konzepts",
+  "n_add_name_plus": "Name des Konzepts, verwenden Sie ein Komma, um mehrere Knoten zu erstellen",
+  "n_quick_add_add_link_type": "Link-Typ auswählen",
+  "n_add_select_node_type": "Knotentyp auswählen",
+  "n_plus_editor_hint": "In Markdown schreiben",
+  "n_tab_details": "Details",
+  "n_tab_ai": "AI",
+  "n_tab_big_picture": "Großes Bild",
+  "n_hint_name": "Name",
+  "n_hint_subtitle": "Untertitel",
+  "n_hint_desc": "description",
+  "n_direct_links": "Direkte Verbindungen zu Knoten",
+  "n_mentions": "Erwähnt in",
+  "n_mentions_worlds_selected": "(innerhalb der ausgewählten Welten)",
+  "n_hint_plus_view": "Ansicht",
+  "n_hint_plus_edit": "Bearbeiten",
+  "n_Löschen": "Löschung des Knotens",
+  "n_focus_general": "Fokus",
+  "n_focus_off": "Fokus",
+  "n_focus_on": "Fokussiert",
+  "n_save": "Speichern",
+  "n_delete": "Löschen",
+  "markdown_editor_title": "title",
+  "markdown_editor_bold": "fett",
+  "markdown_editor_italic": "kursiv",
+  "markdown_editor_strikethrough": "durchgestrichen",
+  "markdown_editor_link": "Link",
+  "markdown_editor_iai_link": "IAI-Knoten-Link",
+  "markdown_editor_list": "Liste",
+  "markdown_editor_code": "code",
+  "markdown_editor_quote": "Zitat",
+  "markdown_editor_separator": "Trennzeichen",
+  "markdown_editor_image": "Bild",
+  "markdown_editor_image_file": "Bilddatei",
+  "markdown_editor_iai_node": "IAI-Knoten",
+  "markdown_editor_table": "Tabelle",
+  "l_node_a": "Knoten a",
+  "l_node_b": "Knoten b",
+  "l_link_type": "Link-Typ",
+  "nt_name": "Name des Knotentyps",
+  "nt_description": "description",
+  "lt_name": "Name des Link-Typs",
+  "lt_desc": "Jede Beziehung in ImmaterialAI besteht zwischen zwei Konzepten, A und B. Sie können Ihren Verknüpfungstyp so konfigurieren, dass er einschränkt, welche Konzepttypen A und B sein können, oder einen von ihnen leer lassen, um alle Konzepttypen auf beiden Seiten zuzulassen",
+  "lt_add_node_type": "Knoten-Typ hinzufügen",
+  "lt_add_node_type_a": "Typen für A",
+  "lt_add_node_type_b": "Typen für B",
+  "lt_add_node_type_dialog_search": "Suche oder Eingabe eines Namens für einen neuen Knotentyp",
+  "lt_a": "A (Quelle)",
+  "lt_a_b": "A & B (Quelle & Ziel)",
+  "lt_b": "B (Ziel)",
+  "lt_direction_matters": "Die Richtung ist wichtig: ",
+  "lt_direction_info": "wenn false, können A->B und B->A austauschbar verwendet werden (nützlich für verallgemeinerte Beziehungen)",
+  "lt_multiple_sources": "Ziele können mehrere Quellen haben: ",
+  "lt_save_warning_name": "Geben Sie den Namen des Link-Typs ein, bevor Sie speichern können",
+  "lt_save_warning_a_b": "Name für die A->B eingeben",
+  "lt_save_warning_a_b_vice_versa": "Namen für A->B und B->A eingeben",
+  "home_tasks_disabled": "Tippen Sie auf , um Aufgaben anzuzeigen",
+  "Aufgaben_Allgemein": "Aufgaben",
+  "tasks_create_task": "Aufgabe erstellen",
+  "tasks_todo": "Zu erledigen",
+  "Aufgaben_in_Arbeit": "In Bearbeitung",
+  "Aufgaben_erledigt": "Erledigt",
+  "Aufgaben_alle": "Alle Aufgaben",
+  "me_current_me": "(Aktuelles) Ich",
+  "ich_alt_ich": "Altes Ich",
+  "n_public_general": "Öffentliche Daten",
+  "n_public_data_on": "Öffentlich",
+  "n_public_data_off": "Privat",
+  "n_favorit_allgemein": "Favoriten",
+  "n_favorite_off": "Favoriten",
+  "n_favorite_on": "Favorit",
+  "n_old_me_general": "Ich",
+  "n_old_me_create": "Ich-Status",
+  "n_old_me_current": "Aktuelles Ich",
+  "n_old_me_old": "Altes Ich",
+  "n_ancestry_src": "Direkte Kinder",
+  "n_ancestry_tar": "Direkte Eltern",
+  "n_dependency_title": "Direkte Abhängigkeiten",
+  "n_dependency_desc": "Elemente auf der rechten Seite sind abhängig von Elementen auf der linken Seite",
+  "n_dependency_src": "Abhängig von",
+  "n_dependency_tar": "hängt ab von",
+  "n_is_it_real_no_hierarcy": "Nicht schlüssig - Konzept fehlt 'Beweis' Link",
+  "n_is_it_real_self_ref": "Derzeit unbekannte selbstreferenzierende Konzepte",
+  "n_ist_es_wirklich_nichts": "Nicht real\nfound proof \n'Nothing\n'",
+  "n_is_it_real_known_unknown": "Known unknown\nFound proof 'Currently unknown'",
+  "n_is_it_real_incomplete": "Nicht zusammenhängende Konzepte fehlender 'Beweis'-Link",
+  "allgemeine_Suche": "Suche",
+  "general_types": "Verknüpfungstypen",
+  "general_node": "Knoten",
+  "general_nodes": "Knoten",
+  "general_link": "Link",
+  "allgemeine_links": "Links",
+  "allgemein_kopieren_in_Zwischenablage": "In die Zwischenablage kopieren",
+  "general_export": "Exportieren",
+  "Allgemein_Ändern_von_Einstellungen": "Ändern von Einstellungen",
+  "general_yes": "Ja",
+  "allgemein_nein": "Nein",
+  "general_button_on": "ON",
+  "allgemein_taste_aus": "AUS",
+  "general_button_next": "NEXT",
+  "general_button_done": "FERTIG",
+  "general_button_create": "ERSTELLEN",
+  "general_button_select": "SELECT",
+  "general_button_change": "ÄNDERN",
+  "general_button_confirm": "BESTÄTIGEN",
+  "general_button_add": "ADD",
+  "general_button_delete": "DELETE",
+  "general_button_remove": "REMOVE",
+  "general_button_update": "UPDATE",
+  "general_button_prev": "PREV",
+  "allgemeiner_button_zurück": "ZURÜCK",
+  "general_button_start": "START",
+  "general_button_more": "MEHR SEHEN",
+  "general_coming_soon": "KOMMT SOFORT",
+  "general_coming_soon_plus": "PLUS, SOON",
+  "general_coming_soon_plus_or_lite": "PLUS & PLUS LITE, BALD",
+  "general_coming_soon_plus_alt": "PLUS, DEMNÄCHST",
+  "general_coming_soon_plus_alt_or_lite": "PLUS & PLUS LITE, DEMNÄCHST",
+  "general_unlocks_at_level_plus": "PLUS, Stufe {level}",
+  "general_unlocks_at_level_plus_or_lite": "PLUS & PLUS LITE, Stufe {level}",
+  "@general_unlocks_at_level_plus": {
+    "description": "level",
+    "placeholders": {
+      "level": {
+        "type": "int",
+        "example": "2"
+      }
+    }
+  },
+  "@general_unlocks_at_level_plus_or_lite": {
+    "description": "level",
+    "placeholders": {
+      "level": {
+        "type": "int",
+        "example": "2"
+      }
+    }
+  },
+  "general_plus_only": "Nur Plus",
+  "allgemein_plus_oder_lite_only": "Plus oder Plus Lite",
+  "general_are_you_sure": "Sind Sie sicher?",
+  "general_unlocks_at_level": "Entriegelt auf Stufe {level}",
+  "@general_unlocks_at_level": {
+    "description": "level",
+    "placeholders": {
+      "level": {
+        "type": "int",
+        "example": "2"
+      }
+    }
+  },
+  "general_unlocks_at_level_short": "Entriegelt bei {level}",
+  "@general_unlocks_at_level_short": {
+    "description": "level",
+    "placeholders": {
+      "level": {
+        "type": "int",
+        "example": "2"
+      }
+    }
+  },
+  "general_unlocks_at_level_2line": "Entriegelt auf Ebene {level}",
+  "@general_unlocks_at_level_2line": {
+    "description": "level",
+    "placeholders": {
+      "level": {
+        "type": "int",
+        "example": "2"
+      }
+    }
+  },
+  "general_level": "level {level}",
+  "@general_level": {
+    "description": "level",
+    "placeholders": {
+      "level": {
+        "type": "int",
+        "example": "2"
+      }
+    }
+  },
+  "general_icon": "icon",
+  "allgemeine_Farbe": "Farbe",
+  "general_true": "wahr",
+  "general_false": "false",
+  "general_node_search_or_new": "Suchen oder neuen Namen für Knoten eingeben",
+  "general_node_node_to_inline": "Knoten zu Inline",
+  "general_time_created": "erstellt",
+  "general_time_updated": "aktualisiert",
+  "general_moments_ago": "vor wenigen Augenblicken",
+  "general__time__one_second": "vor 1 Sekunde",
+  "general__time__seconds": "vor {Sekunden} Sekunden",
+  "@general__time__seconds": {
+    "description": "Abstand in Sekunden",
+    "placeholders": {
+      "Sekunden": {
+        "type": "int",
+        "example": "2"
+      }
+    }
+  },
+  "general__time__one_minute": "vor 1 Minute",
+  "general__time__minute": "vor {Minuten} Minuten",
+  "@general__time__minute": {
+    "description": "Entfernung in Minuten",
+    "placeholders": {
+      "Minuten": {
+        "type": "int",
+        "example": "2"
+      }
+    }
+  },
+  "general__time__one_hour": "vor 1 Stunde",
+  "general__time__hour": "vor {Stunden} Stunden",
+  "@general__time__hour": {
+    "description": "Entfernung in Stunden",
+    "placeholders": {
+      "Stunden": {
+        "type": "int",
+        "example": "2"
+      }
+    }
+  },
+  "general__time__one_day": "vor 1 Tag",
+  "general__time__day": "{days} days ago",
+  "@general__time__day": {
+    "description": "Abstand in Tagen",
+    "placeholders": {
+      "days": {
+        "type": "int",
+        "example": "2"
+      }
+    }
+  },
+  "general__time__one_week": "Vor 1 Woche",
+  "general__time__week": "vor {Wochen} Wochen",
+  "@general__time__week": {
+    "description": "Abstand in Wochen",
+    "placeholders": {
+      "Wochen": {
+        "type": "int",
+        "example": "2"
+      }
+    }
+  },
+  "general__time__one_month": "vor 1 Monat",
+  "general__time__month": "vor {Monaten} Monaten",
+  "@general__time__month": {
+    "description": "Abstand in Monaten",
+    "placeholders": {
+      "Monaten": {
+        "type": "int",
+        "example": "2"
+      }
+    }
+  },
+  "general__time__one_year": "vor 1 Jahr",
+  "general__time__year": "vor {Jahren} Jahren",
+  "@general__time__year": {
+    "description": "Abstand in Jahren",
+    "placeholders": {
+      "Jahren": {
+        "type": "int",
+        "example": "2"
+      }
+    }
+  },
+  "ur_unravel_save": "Speichern",
+  "ur_unravel_restart": "Neustart",
+  "ur_unravel_back_home": "Zurück",
+  "ur_unravel_restart_first_item": "Vom ersten Element",
+  "ur_unravel_answer_selected": "Ausgewählt \"{item}\"",
+  "@ur_unravel_answer_selected": {
+    "placeholders": {
+      "item": {
+        "type": "String",
+        "example": "Idee"
+      }
+    }
+  },
+  "ur_deconstruct_card_title": "Dekonstruieren",
+  "ur_deconstruct_card_sub": "Konzepte dekonstruieren",
+  "ur_deconstruct_card_desc": "Quellen und Ursprünge navigieren",
+  "ur_deconstruct_card_title_skeptic": "Der Skeptiker",
+  "ur_deconstruct_card_sub_skeptic": "Hilft dir, darüber hinaus zu sehen",
+  "ur_deconstruct_card_desc_skeptic": "Hilft dir, darüber hinaus zu sehen",
+  "ur_reshape_card_title": "Umgestalten",
+  "ur_reshape_v2_card_title": "Reshape+",
+  "ur_reshape_v2_card_sub": "Ändere deine Reaktion (jetzt mit absoluter/relativer Unterscheidung)",
+  "ur_reshape_card_sub": "Emotionale Reaktionen umgestalten",
+  "ur_reshape_card_desc": "Ändere deine Reaktion",
+  "ur_iam_card_title": "Ich bin ...",
+  "ur_iam_card_sub": "Für wen hält dich dein Verstand?",
+  "ur_iam_card_desc": "Sehen Sie über Konzepte hinaus",
+  "ur_iam_card_title_alt": "Blarg der Ork",
+  "ur_iam_card_sub_alt": "Sag Blarg, was du auf dem Herzen hast",
+  "ur_iam_card_desc_alt": "Sag Blarg, was du auf dem Herzen hast",
+  "ur_iam_card_title_csb": "Coole Geschichte, Bruder",
+  "ur_iam_card_sub_csb": "Komm schon Mann, ich werde dir nicht sagen, dass es nicht echt ist",
+  "ur_iam_card_desc_csb": "Komm schon Mann, ich werde dir nicht sagen, dass es nicht echt ist",
+  "ur_transcend_card_title": "Transcend",
+  "ur_transcend_card_sub": "alle Schritte überspringen",
+  "ur_transcend_card_desc": "Keine negativen Zustände mehr",
+  "ur_deconstruct_title": "Was wollen Sie dekonstruieren?",
+  "ur_deconstruct_desc": "Suchen Sie nach dem Knoten oder geben Sie den Namen für einen neuen Knoten ein",
+  "ur_deconstruct_cont_title": "Was ist die Quelle davon/ was macht es real?",
+  "ur_deconstruct_cont_desc": "Ist es nur eine Geschichte? Kann sie sich ändern?",
+  "ur_deconstruct_title_skeptic": "Also sag mir, was glaubst du, ist wahr?",
+  "ur_deconstruct_desc_skeptic": "Suchen Sie nach dem Knoten oder geben Sie den Namen für einen neuen Knoten ein",
+  "ur_deconstruct_cont_title_skeptic": "Warum?",
+  "ur_deconstruct_cont_desc_skeptic": "Damit es real ist, muss es einen Beweis haben",
+  "ur_deconstruct_action_select": "Auswählen",
+  "ur_deconstruct_action_existing": "Bestehend",
+  "ur_deconstruct_action_existing_pattern": "({item})",
+  "@ur_deconstruct_action_existing_pattern": {
+    "placeholders": {
+      "Artikel": {
+        "type": "String",
+        "example": "Idee"
+      }
+    }
+  },
+  "ur_deconstruct_action_nothing": "Nichts",
+  "ur_deconstruct_action_dontknow": "Unbekannt",
+  "ur_deconstruct_answer_dontknow": "Ungewissheit über die Quelle",
+  "ur_deconstruct_answer_nothing": "Keine Quelle der Existenz",
+  "ur_deconstruct_answer_circular": "Kreislaufabhängigkeit",
+  "ur_deconstruct_answer_selfref": "Selbstreferenz",
+  "ur_reshape_action_next_select": "Auswählen",
+  "ur_reshape_action_next_end": "Ende",
+  "ur_reshape_start_title": "Eingabe eines negativen Gefühls, das aus einer früheren oder bestehenden Situation resultiert",
+  "ur_reshape_start_description": "Nach einem vorhandenen Gefühl suchen oder einen Namen für ein neues Gefühl eingeben",
+  "ur_reshape_situation_title": "Welche Situation hat dieses \"{feeling}\" ausgelöst?",
+  "@ur_reshape_situation_title": {
+    "placeholders": {
+      "feeling": {
+        "type": "String",
+        "example": "fühlt"
+      }
+    }
+  },
+  "ur_reshape_situation_description": "Welche Situation hat Sie dorthin gebracht?",
+  "ur_reshape_cause_effect_title": "Beschreiben Sie den Blickwinkel auf \"{situation}\", der Sie zu \"{feeling}\" gebracht hat",
+  "@ur_reshape_cause_effect_title": {
+    "placeholders": {
+      "situation": {
+        "type": "String",
+        "example": "Irgendein Ereignis"
+      },
+      "feeling": {
+        "type": "String",
+        "example": "fühlt"
+      }
+    }
+  },
+  "ur_reshape_cause_effect_description": "Dies ist nicht die ganze Geschichte",
+  "ur_reshape_cause_title": "Wie sind Sie von \"{situation}\" auf \"{feeling}\" gekommen?",
+  "@ur_reshape_cause_title": {
+    "placeholders": {
+      "feeling": {
+        "type": "String",
+        "example": "fühlt"
+      },
+      "situation": {
+        "type": "String",
+        "example": "Irgendein Ereignis"
+      }
+    }
+  },
+  "ur_reshape_resolution_title": "Die Situation sollte nicht zwangsläufig zu Gefühlen führen, was bedeutet, dass Ihr Problem daher rührt, dass Sie die beiden spezifisch miteinander in Verbindung bringen",
+  "@ur_reshape_resolution_title": {
+    "placeholders": {
+      "situation": {
+        "type": "String",
+        "example": "Irgendein Ereignis"
+      },
+      "feeling": {
+        "type": "String",
+        "example": "fühlt"
+      }
+    }
+  },
+  "ur_reshape_resolution_description": "Über dieses Wissen hinaus, das Ihnen jetzt präsentiert wird, bieten wir zwei mögliche Auflösungen an, die sich beide in ihrem Bereich und ihrer Verwendung unterscheiden",
+  "ur_reshape_resolution_action_monad": "Absolute Domain",
+  "ur_reshape_resolution_action_dyad": "Relativer Bereich",
+  "ur_reshape_new_effect_title": "Das sollte nicht unbedingt dazu führen, dass Sie sich \"{feeling}\", tun Sie sich das nicht an. Gibt es eine bessere Möglichkeit, es zu betrachten?",
+  "@ur_reshape_new_effect_title": {
+    "placeholders": {
+      "feeling": {
+        "type": "String",
+        "example": "Fühlt"
+      }
+    }
+  },
+  "ur_reshape_new_effect_description": "Betrachte die Situation von einem helleren Ort aus. Suche oder schaffe das Gefühl",
+  "ur_reshape_new_effect_v2_title": "Gibt es eine bessere Möglichkeit, die \"{situation}\" zu betrachten?",
+  "@ur_reshape_new_effect_v2_title": {
+    "placeholders": {
+      "situation": {
+        "type": "String",
+        "example": "Simte"
+      }
+    }
+  },
+  "ur_reshape_new_effect_dialog": "Wie kann man sich besser fühlen, wenn man sich in einer Situation befindet?",
+  "@ur_reshape_new_effect_dialog": {
+    "placeholders": {
+      "situation": {
+        "type": "String",
+        "example": "Fühlt"
+      }
+    }
+  },
+  "ur_reshape_new_effect_cause_title": "Was gibt dir das Gefühl?",
+  "@ur_reshape_new_effect_cause_title": {
+    "placeholders": {
+      "feeling": {
+        "type": "String",
+        "example": "Fühlt"
+      }
+    }
+  },
+  "ur_reshape_new_effect_cause_description": "Beschreiben Sie den Blickwinkel auf \"{situation}\", der Sie zu \"{feeling}\" gebracht hat",
+  "@ur_reshape_new_effect_cause_description": {
+    "placeholders": {
+      "situation": {
+        "type": "String",
+        "example": "Irgendein Ereignis"
+      },
+      "feeling": {
+        "type": "String",
+        "example": "fühlt"
+      }
+    }
+  },
+  "ur_reshape_end_title": "Du hast deine Meinung über die Situation geändert!",
+  "@ur_reshape_end_title": {
+    "placeholders": {
+      "situation": {
+        "type": "String",
+        "example": "Irgendein Ereignis"
+      }
+    }
+  },
+  "ur_reshape_end_subtitle": "{feel1} -> {Gefühl2}",
+  "@ur_reshape_end_subtitle": {
+    "placeholders": {
+      "feel1": {
+        "type": "String",
+        "example": "Altes Gefühl"
+      },
+      "feel2": {
+        "type": "String",
+        "example": "Neues Gefühl"
+      }
+    }
+  },
+  "ur_reshape_end_description": "Sie können auswählen, welche Idee Sie aus der Situation herausgeführt hat, oder auf \"Ende\" tippen, um den Fluss zu beenden.",
+  "@ur_reshape_end_description": {
+    "placeholders": {
+      "feeling": {
+        "type": "String",
+        "example": "fühlt"
+      },
+      "situation": {
+        "type": "String",
+        "example": "Irgendein Ereignis"
+      }
+    }
+  },
+  "ur_reshape_end_action": "Beenden",
+  "ur_reshape_result_changed_title": "Umgestaltet",
+  "ur_reshape_result_changed_desc": "Sie haben Ihre Gefühle für \"{situation}\" von \"{oldFeeling}\" zu \"{newFeeling}\" geändert. \n\nSie können diesen Prozess immer dann anwenden, wenn Sie in Ihrer Wahrnehmung auf Negativität stoßen",
+  "@ur_reshape_result_changed_desc": {
+    "placeholders": {
+      "situation": {
+        "type": "String",
+        "example": "feels"
+      },
+      "oldFeeling": {
+        "type": "String",
+        "example": "feels"
+      },
+      "newFeeling": {
+        "type": "String",
+        "example": "feels"
+      }
+    }
+  },
+  "ur_reshape_result_changed_optional_desc": "Sie haben Ihre Gefühle zu \"{situation}\" von \"{oldFeeling}\" zu \"{newFeeling}\" geändert und dabei auch Ihren Eindruck von der Situation aufgedeckt, der zu dem negativen Zustand geführt hat ({interpretation}). \n\nSie können diesen Prozess jedes Mal wiederholen, wenn Sie in Ihrer Wahrnehmung auf Negativität stoßen.",
+  "@ur_reshape_result_changed_optional_desc": {
+    "placeholders": {
+      "situation": {
+        "type": "String",
+        "example": "feels"
+      },
+      "oldFeeling": {
+        "type": "String",
+        "example": "feels"
+      },
+      "newFeeling": {
+        "type": "String",
+        "example": "feels"
+      },
+      "interpretation": {
+        "type": "String",
+        "example": "feels"
+      }
+    }
+  },
+  "ur_reshape_result_changed_absolute_title": "Achten Sie in Zukunft darauf, dass Sie nicht von dem, was ist ('{Situation}'), zu dem, wie Sie es wahrnehmen wollen ('{Gefühl}' aufgrund von '{Interpretation}'), springen.",
+  "@ur_reshape_result_changed_absolute_title": {
+    "placeholders": {
+      "situation": {
+        "type": "String",
+        "example": "fühlt"
+      },
+      "feeling": {
+        "type": "String",
+        "example": "fühlt"
+      },
+      "Auslegung": {
+        "type": "String",
+        "example": "fühlt"
+      }
+    }
+  },
+  "ur_reshape_result_changed_absolute_desc": "Wenn es sich um ein Problem des Bösen handelt, verstehen Sie, dass das Leben nicht immer fair ist und die Antwort darauf darin liegt, wie wir unser Leben in diesem Wissen leben.",
+  "ur_iam_answer_end": "Sie sind nicht diese Konzepte",
+  "ur_iam_answer_end_flow": "Beendet",
+  "ur_iam_action_select": "Auswählen",
+  "ur_iam_action_next_select": "Auswählen",
+  "ur_iam_action_next_end": "Ende",
+  "ur_iam_title": "Was bist du?",
+  "ur_iam_desc": "Alles, was Sie als negativ und wahr an sich selbst empfinden",
+  "ur_iam_cont_title": "Sie sind nicht '{Konzept}'",
+  "@ur_iam_cont_title": {
+    "placeholders": {
+      "Konzept": {
+        "type": "String",
+        "example": "Meme"
+      }
+    }
+  },
+  "ur_iam_cont_desc": "'{concept}' ist nur ein Konzept, Sie sind darüber hinaus. Wählen Sie etwas anderes aus oder tippen Sie auf 'end', um den Fluss zu beenden",
+  "@ur_iam_cont_desc": {
+    "placeholders": {
+      "Konzept": {
+        "type": "String",
+        "example": "Meme"
+      }
+    }
+  },
+  "ur_iam_result__iam_end": "Du und die Welt sind keines der Konzepte, die du eingegeben hast, die wahre Geschichte ist jenseits jeder Definition! \n\nWir sagen nicht, dass alle Ideen in der Realität keine Koeffizienten haben, sondern nur, dass man zuerst von der Erfahrung ausgehen sollte und nicht von den Worten.",
+  "ur_iam_title_alt": "Was ist dein Problem, sag es Blarg",
+  "ur_iam_cont_title_alt": "{concept}?",
+  "@ur_iam_cont_title_alt": {
+    "placeholders": {
+      "Konzept": {
+        "type": "String",
+        "example": "Meme"
+      }
+    }
+  },
+  "ur_iam_cont_desc_alt": "Blarg weiß nichts über '{Konzept}', er denkt, Sie haben kein Problem.  Wählen Sie etwas anderes aus oder tippen Sie auf 'end', um den Fluss zu beenden",
+  "@ur_iam_cont_desc_alt": {
+    "placeholders": {
+      "Konzept": {
+        "type": "String",
+        "example": "Meme"
+      }
+    }
+  },
+  "ur_iam_result__iam_end_alt": "Blarg versteht nichts von dem, was du gesagt hast, die wahre Geschichte ist jenseits jeder Definition! \n\nWir sagen nicht, dass alle Ideen in der Realität keine Koeffizienten haben, sondern nur, dass man zuerst von der Erfahrung ausgehen sollte und nicht von den Worten.",
+  "ur_iam_title_csb": "Sag mir, was du durchmachst?",
+  "ur_iam_cont_title_csb": "{concept}?",
+  "@ur_iam_cont_title_casb": {
+    "placeholders": {
+      "Konzept": {
+        "type": "String",
+        "example": "Meme"
+      }
+    }
+  },
+  "ur_iam_cont_desc_csb": "Das war ein Scherz - coole Geschichte, Bruder! Hast du noch mehr von diesen Märchen?",
+  "ur_iam_result__iam_end_csb": "Es gibt echte Zustände, die man durchlaufen muss, aber man sollte sich nicht in Definitionen verlieren. Es gibt Ungerechtigkeit, wo Wut entstehen sollte, Liebe und Frieden, wenn es angebracht ist, usw. \n\nWir sagen nicht, dass alle Ideen keine Koeffizienten in der Realität haben, sondern nur, dass man zuerst von der Erfahrung ausgehen sollte und nicht zuerst von den Worten.",
+  "ur_deconstruct_result__dontknow": "Da Sie die grundlegende Quelle von \"{concept}\" nicht finden können, können Sie sich von ihr lösen. Ihre Situation könnte anders sein, das Gegenteil, oder sie könnte nicht so existieren, wie Sie sie kannten. \n\nGraben Sie tiefer nach dem, was tatsächlich passiert ist",
+  "@ur_deconstruct_result__dontknow": {
+    "placeholders": {
+      "Konzept": {
+        "type": "String",
+        "example": "eine Idee"
+      }
+    }
+  },
+  "ur_deconstruct_result__nothing": "Ein paar Schritte genügten, damit \"{concept}\" auseinanderfiel",
+  "@ur_deconstruct_result__nothing": {
+    "placeholders": {
+      "Konzept": {
+        "type": "String",
+        "example": "Meme"
+      }
+    }
+  },
+  "ur_deconstruct_result__circular": "Warnung: Eine Quelle, die früher in Ihrer Erklärung steht, wird als letztes Element in der Erklärung verwendet",
+  "ur_deconstruct_result__selfref": "Warnung: Das letzte Element, das Sie hinzugefügt haben, ist die Quelle von sich selbst.",
+  "home_unlocks_at": "Entriegelt auf Stufe {level}",
+  "@home_unlocks_at": {
+    "placeholders": {
+      "Stufe": {
+        "type": "String",
+        "example": "20"
+      }
+    }
+  },
+  "ur_transcend_title": "Mit welchem negativen Zustand sind Sie derzeit konfrontiert?",
+  "ur_transcend_desc": "Geben Sie ein bestehendes Gefühl ein oder erstellen Sie spontan ein neues Gefühl.",
+  "ur_transcend_cont_desc": "Sie können versuchen, mit Deconstruct selbst zu beweisen, dass es existiert.",
+  "@ur_transcend_cont_desc": {
+    "placeholders": {
+      "feeling": {
+        "type": "String",
+        "example": "traurig"
+      }
+    }
+  },
+  "ur_transcend_action_select": "Auswählen",
+  "ur_transcend_action_end": "Ende",
+  "ur_transcend_answer_result__end": "Sie sind nicht {fühlen}",
+  "@ur_transcend_answer_result__end": {
+    "placeholders": {
+      "feeling": {
+        "type": "String",
+        "example": "traurig"
+      }
+    }
+  },
+  "ur_transcend_answer_result__end_desc": "Für jede negative Emotion lautet die Antwort, dass du dich nicht so fühlen musst, unabhängig davon, was dir, anderen und der Welt in der Vergangenheit widerfahren ist. Es ist nicht beweisbar, dass eine bestimmte Situation/ein bestimmter Zustand/eine bestimmte Idee 'A' zu dem Gefühl 'B' führen muss oder dass das Gefühl wahr ist. Sie müssen erkennen, dass die Sprünge, die Sie von A zu B machen, vollständig von dem abhängen, was Sie als wahr über die Realität annehmen, z.B. wenn Sie nicht an B 'Depression' glauben, werden Sie Situationen nicht als 'depressiv' ansehen und sich möglicherweise nicht damit identifizieren.",
+  "@ur_transcend_answer_result__end_desc": {
+    "placeholders": {
+      "feeling": {
+        "type": "String",
+        "example": "traurig"
+      }
+    }
+  },
+  "bundles_blueprints_name": "Blaupausen",
+  "bundles_blueprints_subtitle": "Starter-Konzepte",
+  "bundles_blueprints_description": "Grundlegende Konzepte, auf denen man leicht aufbauen kann. Bezogen auf die Quelle der Information, die Beziehung zu ihr und die verschiedenen Arten von Informationen",
+  "bundles_blueprints_facts": "Fakten",
+  "bundles_blueprints_knowledge": "Wissen",
+  "bundles_blueprints_beliefs": "Überzeugungen",
+  "bundles_blueprints_observations": "Beobachtungen",
+  "bundles_blueprints_positive": "Positiv",
+  "bundles_blueprints_negative": "Negativ",
+  "bundles_blueprints_duality": "Dualität",
+  "bündel_blueprints_nondualität": "Nondualität",
+  "bundles_letgo_name": "Loslassen",
+  "bundles_letgo_subtitle": "Fühl dich frei, dich zu lösen",
+  "bundles_letgo_description": "Unbegründete Standardüberzeugungen, Theorien, die zu Tatsachen werden, Annahmen und mehr. Finden Sie ihren subjektiven Blickwinkel, lassen Sie sie los und schauen Sie darüber hinaus.",
+  "bundles_letgo_brain_mind": "Gehirn-Geist-Identitätstheorie",
+  "bundles_letgo_brain_mind_sub": "Die Theorie besagt, dass das Gehirn mit dem Geist, dem Bewusstsein gleichzusetzen ist. Verschiedene Studien und Ausreißer in normalen Studien deuten darauf hin, dass dies nicht der Fall ist",
+  "bundles_letgo_meaninglessness": "Bedeutungslosigkeit",
+  "bundles_letgo_meaninglessness_sub": "Rein scheinbare Bedeutungslosigkeit führt nicht zur Gewissheit der Bedeutungslosigkeit",
+  "bundles_letgo_class": "Du bist in eine bestimmte Klasse hineingeboren",
+  "bundles_letgo_class_sub": "Theorie, dass man in eine willkürlich definierte Klasse/Kaste hineingeboren wird, die man nicht überschreiten kann.",
+  "bundles_letgo_suffering": "Das Leiden ist real",
+  "bundles_letgo_suffering_sub": "Warum sollte das der Fall sein?",
+  "bundles_letgo_need": "Du musst mehr für X tun/sein/haben",
+  "bundles_letgo_need_sub": "Grundgedanke der aktuellen Unvollständigkeit",
+  "bundles_dig_name": "Tiefer graben",
+  "bundles_dig_subtitle": "Jenseits der aktuellen Horizonte",
+  "bundles_dig_description": "Anzeichen für neue Möglichkeiten, unvollständige Theorien und Denkanstöße. Überlegen Sie, was sie für Ihr bisheriges Wissen bedeuten und welche Türen sie öffnen",
+  "bündel_dig_wahrnehmung": "Volatilität der Wahrnehmung",
+  "bundles_dig_perception_sub": "Ihre Meinung über etwas, dessen Sie sich heute sicher sind, könnte sich morgen ändern",
+  "bündel_dig_semantik": "Volatilität der Wortsemantik",
+  "bundles_dig_semantics_sub": "Die Bedeutung von Wörtern ist oft persönlich. Die Bedeutung von Wörtern ändert sich auch im Laufe der Zeit, der Sprachen und Kulturen.",
+  "bundles_dig_incomplete": "Unvollständige Antworten implizieren voreilige Schlüsse",
+  "bundles_dig_unexplained": "Viele Phänomene in der Welt sind noch unerklärt",
+  "bundles_dig_unexplained_sub": "Was sagt das über die moderne Wissenschaft und ihre Gewissheiten über die Welt aus?",
+  "bundles_dig_study_trance": "Studie: Neuroimaging während Trancezuständen",
+  "bundles_dig_study_trance_sub": "Link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3500298/",
+  "bundles_dig_study_unified_pathway": "Studie: Spirituelles Erwachen und Depression: Ein einheitlicher Weg",
+  "bundles_dig_study_unified_pathway_sub": "Link: https://pubmed.ncbi.nlm.nih.gov/24354605/",
+  "bundles_dig_study_stress_perception": "Study: Wie Sie Stress wahrnehmen, kann Sie töten",
+  "bundles_dig_study_stress_perception_sub": "Link: https://pubmed.ncbi.nlm.nih.gov/24354605/",
+  "rtb_intro_to_import": "Zum Importieren",
+  "rtb_intro_to_ignore": "Zu ignorieren",
+  "rtb_intro_already_imported": "Bereits importiert",
+  "rtb_title": "Rückkehr zur Glückseligkeit",
+  "rtb_subtitle": "ein ImmaterialAI-Experiment",
+  "rtb_intro_desc": "Das Ziel dieses Experiments ist es, Ihnen dabei zu helfen, alle gegenwärtigen Verzerrungen zu überwinden, z. B. falsche Fakten, negative Glaubenssätze, voreilige Schlüsse, selbst auferlegte Grenzen und schädliche Mentalitäten. \n\nWenn Sie alle Missionen auf Platin durchlaufen, werden Sie nichts unversucht gelassen haben.",
+  "rtb_intro_warning": "\n\n\nWarnung, dies könnte Ihre Sichtweise verändern,\n es gibt kein Rückgängigmachen, wenn Sie diesen Prozess starten,\n\n\nWenn Sie einmal angefangen haben, empfehlen wir, sich ein paar Stunden Zeit zu nehmen und jede Mission auf Diamond in einem Rutsch zu beenden. \n",
+  "rtb_missions_title": "Missionen",
+  "rtb_missions_desc": "Der Abschluss der Diamant-Stufe aller Missionen gibt Ihnen die Perspektive, alle gegenwärtigen Verzerrungen und Schmerzen zu überwinden - die alle von falschen Fakten, negativen Überzeugungen, voreiligen Schlüssen, selbst auferlegten Grenzen und ähnlichen fehleranfälligen und letztlich schädlichen Denkweisen herrühren.",
+  "rtb_missions_reminder": "Erinnerung: Ihre Daten verlassen nie Ihr Gerät, sie bleiben NUR bei Ihnen",
+  "rtb_incomplete": "INCOMPLETE",
+  "rtb_mark_as_done": "ALS ERLEDIGT MARKIEREN, NACHDEM ALLE BEREICHE ABGEDECKT WURDEN",
+  "rtb_done": "FERTIG",
+  "rtb_diamond_disclaimer": "Markieren Sie Quests der Stufe 'Diamant' nur dann als 'erledigt', wenn Sie nichts unversucht gelassen haben.",
+  "rtb_insights": "Einblicke",
+  "rtb_insights_desc": "Gewinnen Sie jedes Mal Einblicke, wenn Sie eine Missionsstufe abschließen, insgesamt 24",
+  "rtb_timed_awards_title": "Zeitlich begrenzte Freischaltungen (Saison 2)",
+  "rtb_timed_awards_desc": "Beende alle Missionen vor dem Ende des Jahres 2022, um sie freizuschalten",
+  "rtb_blarg": "Blarg der Ork",
+  "rtb_cool_story": "Coole Geschichte, Bruder",
+  "rtb_skeptic": "Der Skeptiker",
+  "rtb_alternative_i_am_desc": "alternativer 'Ich bin' AI-Fluss",
+  "rtb_alternative_desconstruct": "alternativer 'Deconstruct'-KI-Fluss",
+  "rtb_free_awards": "Neuer UI-Modus",
+  "rtb_skin": "4 UI-Skins",
+  "rtb_skin_desc": "und mehr",
+  "rtb_blarg_enable": "Blarg 'Ich bin' alternativer AI-Fluss aktivieren",
+  "rtb_blarg_disable": "Blarg deaktivieren",
+  "rtb_cool_story_enable": "Cool story bro 'I am' alternative AI flow aktivieren",
+  "rtb_skeptic_enable": "Aktivieren Sie den skeptischen alternativen KI-Fluss 'Deconstruct'",
+  "rtb_cool_story_disable": "Cool story bro deaktivieren",
+  "rtb_skeptic_disable": "Deaktivieren Sie den Skeptiker",
+  "rtb_new_insight": "Neue Erkenntnis!",
+  "rtb_new_insight_node_sub": "Entriegelt in 'Rückkehr zur Glückseligkeit'",
+  "rtb_bronze": "Bronze",
+  "rtb_silver": "Silber",
+  "rtb_gold": "Gold",
+  "rtb_diamond": "Diamant",
+  "rtb_quest_believe": "Ich glaube",
+  "rtb_quest_believe_desc": "Alle Überzeugungen, Fakten und Annahmen in Knoten und Verknüpfungen umwandeln",
+  "rtb_quest_believe_hint": "Geeignete Knoten und Links erstellen",
+  "rtb_quest_s2_entangled": "Entangled (Plus)",
+  "rtb_quest_s2_entangled_desc": "Verschränkungsgestützte Empfehlungen der aktuellen Points of Interest abrufen",
+  "rtb_quest_s2_entangled_hint": "Verwenden Sie die Funktion Quantenrauschen",
+  "rtb_quest_s2_transcendent": "Transzendent (Plus)",
+  "rtb_quest_s2_transcendent_desc": "Transzendiere unerwünschte Zustände, die du in dir trägst.",
+  "rtb_quest_s2_transcendent_hint": "Transzendenten KI-Fluss verwenden",
+  "rtb_quest_derive": "Der Geist in Aktion",
+  "rtb_quest_derive_desc": "Mechanik aus Erfahrung ableiten: was hat bisher funktioniert, was nicht",
+  "rtb_quest_derive_hint": "Geeignete Knoten vom Typ 'Hinweis' und 'Einsicht' erstellen",
+  "rtb_quest_deconstruct": "Der Ersetzer",
+  "rtb_quest_deconstruct_desc": "Alle Annahmen durchdringen, um zu absolutem Wissen zu gelangen",
+  "rtb_quest_deconstruct_hint": "Verwenden Sie den KI-Fluss 'Deconstruct'",
+  "rtb_quest_iam": "Moment, wir kennen nicht die ganze Geschichte",
+  "rtb_quest_iam_desc": "Befreie dich von allen negativen, schweren, einschränkenden Etiketten",
+  "rtb_quest_iam_hint": "Verwenden Sie den KI-Fluss 'Ich bin'",
+  "rtb_quest_reshape": "Das Drehbuch umdrehen",
+  "rtb_quest_reshape_desc": "Alle negativen Ursache-Wirkungs-Sequenzen neu schreiben",
+  "rtb_quest_reshape_hint": "Verwenden Sie den AI-Fluss 'Reshape'",
+  "rtb_quest_old_me": "Das bin nicht ich",
+  "rtb_quest_old_me_desc": "Löse dich von allen alten negativen Selbstidentifikationen",
+  "rtb_quest_old_me_hint": "Markiere relevante Knoten als 'altes Ich'",
+  "rtb_insight_1": "Die Wirklichkeit ist jenseits von Worten",
+  "rtb_insight_2": "Du bist unbeschreiblich",
+  "rtb_insight_3": "Man muss nur so lange schieben, bis man von seinem Obstgarten leben kann",
+  "rtb_insight_4": "In manchen Kulturen schmerzt der Tod eines geliebten Menschen, in anderen wird sein Erbe gefeiert.",
+  "rtb_insight_5": "Es ist nie das Gleiche",
+  "rtb_insight_6": "Wir haben oft die falsche Lösung, weil wir das Problem falsch sehen",
+  "rtb_insight_7": "Ohne Erwartungen wird man nicht enttäuscht",
+  "rtb_insight_8": "Wie viele Dinge haben Sie als gut oder schlecht interpretiert, obwohl sie es einfach sind?",
+  "rtb_insight_9": "Die Gegenwart verändert sich ständig",
+  "rtb_insight_10": "Die Gegenwart ist nicht immer wie die Vergangenheit",
+  "rtb_insight_11": "Man muss die Sprachen erforschen, in denen man aufgewachsen ist",
+  "rtb_insight_12": "Du musst nichts tun, um Glückseligkeit zu erreichen, du musst nur den Lärm loslassen",
+  "rtb_insight_13": "Das Hässliche existiert nur in den Köpfen mancher Leute",
+  "rtb_insight_14": "Man bekommt in der Gegenwart immer wieder Chancen für eine bessere Zukunft",
+  "rtb_insight_15": "Manche Dinge kannst du nicht kontrollieren, konzentriere dich auf das, was du kontrollieren kannst",
+  "rtb_insight_16": "Sie sind genau da, wo Sie sein sollten",
+  "rtb_insight_17": "Alles geschieht, wie es geschehen soll",
+  "rtb_insight_18": "Es hat keinen Sinn, sich um die Zukunft zu sorgen",
+  "rtb_insight_19": "Die Wahrheit steht über jedem System",
+  "rtb_insight_20": "Untersuchen Sie die Auswirkungen bestehender Überzeugungen auf Ihr Handeln",
+  "rtb_insight_21": "Alle exklusiven Systeme brechen bei gründlicher Untersuchung zusammen",
+  "rtb_insight_22": "Überzeugungen können falsch sein",
+  "rtb_insight_23": "Viele Fakten sind von vornherein falsch",
+  "rtb_insight_24": "Stress ist nur eine Idee",
+  "rtb_insight_25": "Alle Grenzen sind illusorisch",
+  "rtb_insight_26": "Es gibt keine Normalität",
+  "clusters_cluster_name": "Cluster {nr}",
+  "@clusters_cluster_name": {
+    "description": "nr",
+    "placeholders": {
+      "nr": {
+        "type": "int",
+        "example": "2"
+      }
+    }
+  },
+  "clusters_cluster_nodes": "({nr} {nodeString})",
+  "@clusters_cluster_nodes": {
+    "description": "nr",
+    "placeholders": {
+      "nr": {
+        "type": "int",
+        "example": "2"
+      },
+      "nodeString": {
+        "type": "String",
+        "example": "nodes"
+      }
+    }
+  },
+  "intuition_answer_left": "LINKS",
+  "intuition_answer_right": "RECHTS",
+  "intuition_description": "Die Antwort ist bereits ausgewählt, finden Sie es mit Intuition heraus",
+  "intuition_last_correct_answer": "Letzte richtige Antwort: {Antwort}",
+  "@intuition_last_correct_answer": {
+    "placeholders": {
+      "Antwort": {
+        "type": "String",
+        "example": "20"
+      }
+    }
+  },
+  "Intuition_richtig_in_einer_Reihe": "Richtig in einer Reihe {Richtig}",
+  "@intuition_correct_in_a_row": {
+    "placeholders": {
+      "richtig": {
+        "type": "String",
+        "example": "20"
+      }
+    }
+  },
+  "intuition_difficulty_easy": "Leicht",
+  "intuition_difficulty_medium": "Mittel",
+  "intuition_difficulty_hard": "Schwer",
+  "intuition_chart_average": "Durchschnittliche richtige Vorhersagen",
+  "intuition_chart_consecutive": "Aufeinanderfolgende richtige Vorhersagen",
+  "sanity_check_validity_distribution_headline": "Gültigkeitsverteilung über die Bibliothek",
+  "sanity_check_validity_distribution_description": "Verwendung von 'Proof'-Links",
+  "sanity_check_validity_distribution_raw_data": "Rohdaten",
+  "sanity_check_validity_distribution_ai": "AI-verarbeitet",
+  "sanity_check_validity_distribution_diff": "Differenz",
+  "sanity_check_validity_nothing": "nichts",
+  "sanity_check_validity_knownUnknown": "unsicher (gefundene bekannte Unbekannte)",
+  "sanity_check_validity_holistic": "alles",
+  "sanity_check_validity_missingData": "unsicher (fehlende Daten)",
+  "sanity_check_validity_selfRef": "Selbstreferenz",
+  "sanity_check_validity_circularRef": "zirkuläre Referenz",
+  "sanity_check_validity_ref": "Referenz",
+  "sanity_check_validity_multiRef": "mehrere Referenzen",
+  "sanity_check_dialog_validity_nodes_raw": "Knoten mit Gültigkeit",
+  "sanity_check_dialog_validity_nodes_raw_desc": "{percentString} der Benutzerbibliothek, unbearbeitet",
+  "@sanity_check_dialog_validity_nodes_raw_desc": {
+    "placeholders": {
+      "ProzentString": {
+        "type": "String",
+        "example": "20"
+      }
+    }
+  },
+  "sanity_check_dialog_validity_nodes_ai": "Knoten mit Gültigkeit",
+  "sanity_check_dialog_validity_nodes_ai_desc": "{percentString} der Benutzerbibliothek nach AI-Verarbeitung, {percentageDiffString}",
+  "@sanity_check_dialog_validity_nodes_ai_desc": {
+    "placeholders": {
+      "ProzentString": {
+        "type": "String",
+        "example": "20"
+      },
+      "percentageDiffString": {
+        "type": "String",
+        "example": "20"
+      }
+    }
+  },
+  "sanity_check_dialog_validity": "Gültigkeit '{Titel}'",
+  "@sanity_check_dialog_validity": {
+    "placeholders": {
+      "Titel": {
+        "type": "String",
+        "example": "20"
+      }
+    }
+  },
+  "sanity_check_dialog_diff_removed": "Entfernungen durch KI",
+  "sanity_check_dialog_diff_added": "Ergänzungen durch KI",
+  "sanity_check_dialog_diff_desc": "Unterschied zwischen Benutzerbibliothek und KI-verarbeiteter Bibliothek",
+  "sanity_check_clusters_holistic": "Ganzheitliche Cluster",
+  "sanity_check_clusters_largest": "größte",
+  "sanity_check_clusters_single_nodes": "einzelne Knoten",
+  "sanity_check_clusters_proof": "Beweiscluster",
+  "sanity_check_clusters_validity_nothing": "mit 'Nichts'",
+  "sanity_check_clusters_validity_known_unknown": "mit 'Known unknown'",
+  "sanity_check_clusters_validity_everything": "mit 'Alles'",
+  "sanity_check_me_all": "Meine Daten",
+  "sanity_check_me_old": "altes Ich",
+  "sanity_check_me_new": "neues ich",
+  "sanity_check_me_none": "nicht neues oder altes Ich",
+  "quantum_noise_get_api_key": "Holen Sie sich zuerst einen API-Schlüssel von der ANU",
+  "quantum_noise_get_api_key_link": "(link)",
+  "quantum_noise_enter_api_key": "API-Schlüssel hier",
+  "quantum_noise_forbidden": "API-Schlüssel falsch oder Sie haben Ihr monatliches Limit erreicht",
+  "quantum_noise_selected": "Node type pool",
+  "quantum_noise_unselected": "Ignorierte Knotentypen",
+  "quantum_noise_number_of_nodes": "Anzahl der zu wählenden Knoten auswählen",
+  "sugar_pills_intro": "Wie Sie vielleicht wissen, beeinflusst Ihre Wahrnehmung der Realität Ihre gelebte Realität und umgekehrt.\n\nMan kann sich aussuchen, wie man sich fühlt, allerdings wird den Menschen viel aufgedrängt, als hätten sie keine Wahl, z. B. X ist passiert, also muss man Y fühlen, was dazu führt, dass viele sich nicht fragen, ob sie wählen können, sondern sich stattdessen entscheiden, bereits gegebene Antworten zu akzeptieren, z. B. dass dieses Ereignis zu einem Trauma führt.",
+  "zucker_pillen_studie": "Link zur Studie",
+  "sugar_pills_study_desc": "Studien wie diese zeigen uns, dass unsere Wahrnehmung wirklich wichtig für unser Wohlbefinden ist. Im Folgenden können Sie völlig neue Konzepte (z. B. das Gegenteil von Stress) oder neue Wirkungen auf bestehende Konzepte eingeben, indem Sie dieselben Mechanismen anwenden, die aus kranken Überzeugungen Krankheit machen. \n\nUm sie in der Realität zu verankern, werden die Auswirkungen der Zuckerpillen bei jedem Einatmen spürbar",
+  "zucker_pillen_zucker_pillen": "Zuckertabletten",
+  "Welten_name": "Welttyp eingeben",
+  "worlds_sub": "Untertitel",
+  "worlds_dialog_nodes_without_world": "Knoten ohne Welt {Zahl}",
+  "@worlds_dialog_nodes_without_world": {
+    "placeholders": {
+      "Zahl": {
+        "type": "int",
+        "example": "20"
+      }
+    }
+  },
+  "worlds_dialog_nodes_in_world": "{Zahl} Knoten",
+  "@worlds_dialog_nodes_in_world": {
+    "placeholders": {
+      "Zahl": {
+        "type": "int",
+        "example": "20"
+      }
+    }
+  },
+  "worlds_node_world": "Welt",
+  "general_leaving_iai": "Verlassen von ImmaterialAI",
+  "general_leaving_iai_message": "Sind Sie sicher?"
+}
+
