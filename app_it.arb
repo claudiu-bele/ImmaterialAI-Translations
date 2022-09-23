@@ -1,0 +1,688 @@
+{
+  "iai_name": "ImmaterialAI",
+  "iai_headline": "Welcome to the new you",
+  "appbar_search_all": "Cerca tra dati e contenuti",
+  "appbar_search_data": "Cerca tra i dati",
+  "tutorial_salute_pagina1_headline": "Tutorial",
+  "tutorial_health_page1_title": "Benvenuti in ImmaterialAI",
+  "tutorial_health_page1_description": "Supera tutto ciò che è negativo oggi",
+  "tutorial_health_page1_more": "Nessun tracciamento, i dati non lasciano mai il dispositivo, tutta la logica dell'AI viene eseguita in locale",
+  "tutorial_health_page2_headline": "Nodi",
+  "tutorial_health_page2_title": "Traccia ciò che ti riguarda",
+  "tutorial_health_page2_description": "Mappare ricordi, credenze, sentimenti, pensieri, aspettative, paure e altro ancora in singoli nodi",
+  "tutorial_salute_pagina2_più": "creare nuove classificazioni creando i propri tipi di nodi",
+  "tutorial_health_page3_headline": "Collegamenti",
+  "tutorial_health_page3_title": "Dalla causa all'effetto",
+  "tutorial_health_page3_description": "Collegare due nodi qualsiasi aggiungendo uno o più collegamenti tra loro",
+  "tutorial_salute_pagina3_più": "implementare una nuova semantica creando i propri tipi di collegamenti con le proprie regole",
+  "tutorial_health_page4_headline": "AI",
+  "tutorial_health_page4_title": "Cambia la storia",
+  "tutorial_health_page4_description": "Vedere oltre le attuali mentalità dannose, esplorare nuove possibilità e sperimentare la verità oltre l'opinione",
+  "tutorial_health_page4_more": "questo è il motivo per cui i nostri utenti lodano ImmaterialAI: le nostre IA e i nostri strumenti sfruttano i vostri nodi e collegamenti in modi diversi per aiutarvi a ottenere intuizioni che cambiano la vita su più livelli fin dalla vostra prima sessione",
+  "tutorial_salute_page5_headline": "Home page",
+  "tutorial_health_page5_title": "Trova tutto in un unico posto",
+  "tutorial_health_page5_description": "Sblocca funzioni più avanzate nel tuo percorso man mano che usi la piattaforma",
+  "tutorial_health_page5_more": "supportiamo il ritratto e il paesaggio, provalo!",
+  "home_go_back": "Torna indietro",
+  "home_go_forward": "Vai avanti",
+  "home_focus_unlocks_at": "Mostra elementi focalizzati, si sblocca al livello {level}",
+  "@home_focus_sblocca_at": {
+    "description": "livello",
+    "placeholders": {
+      "level": {
+        "type": "int",
+        "example": "2"
+      }
+    }
+  },
+  "home_focus_on_off": "Messa a fuoco on/off",
+  "home_focus_on": "Focus on",
+  "home_focus_off": "Focus off",
+  "home_favorites_on": "Preferiti on",
+  "home_favorites_off": "Preferiti off",
+  "home_favorites_tooltip": "Preferiti on/off",
+  "steam_free_live_on_plus": "ImmaterialAI Plus vive su Steam",
+  "steam_free_soon_on_plus": "Presto su ImmaterialAI Plus\nlive su Steam",
+  "app_free_live_on_plus": "ImmaterialAI Plus\non solo",
+  "app_free_soon_on_plus": "In arrivo su ImmaterialAI Plus",
+  "home_old_me_disabled": "Visualizzazioni dati",
+  "home_old_me_lib": "Libreria completa (meno i dati di 'Old me')",
+  "home_old_me_new": "Libreria 'Me corrente'",
+  "home_old_me_old": "'Libreria del vecchio me'",
+  "home_old_me_all": "'Biblioteca me attuale' e 'me vecchio'",
+  "home_ancestry_disabled": "Filtro Ancestry",
+  "home_ancestry_root": "Nodi radice",
+  "home_ancestry_parent": "Nodi genitori",
+  "home_ancestry_child": "Nodi figli",
+  "home_worlds_no_worlds": "Nessun mondo selezionato",
+  "home_worlds_selected_worlds": "Mondi selezionati:",
+  "path_title": "ImmaterialAI",
+  "path_sub_title": "Scegli il tuo percorso",
+  "path_overcome_name": "Overcome",
+  "path_overcome_sub_title": "comprendere e trascendere",
+  "path_overcome_description_header": "Superare i problemi mentali",
+  "path_overcome_description": "Fin da piccoli ci viene insegnato come dobbiamo agire e reagire alle diverse situazioni o quali sentimenti e stati sono validi. Inizia nell'infanzia con rinforzi positivi e negativi, e il glossario dei presupposti continua a crescere, sia che si tratti dell'osservazione della vita intorno a noi, della nostra comunità, dei partner, dei media, delle pubblicità, e così via. In tutti i casi, un evento o un'idea non devono necessariamente portare a uno stato negativo, e questo è ciò che Overcome è qui per aiutarvi a capire.´Questo include eventi traumatici, malattie mentali, pensieri eccessivi, preoccupazioni, paure e altro ancora.´Sgombrare queste catene implicite di causa ed effetto e, in generale, l'idea che ogni cosa debba portare a un'altra specifica, fornisce un livello di controllo finora sconosciuto sui pensieri negativi o limitanti. Potreste anche ritrovarvi a ripercorrere gli stessi cicli dopo averli elaborati, con una storia diversa: i pensieri sorgono, ora con la consapevolezza che i pensieri dannosi erano un percorso negativo di ipotesi che avete seguito in precedenza e che nel frattempo sono cambiate. Con la ripetizione le nuove conclusioni si rafforzano e non ci sarà più una battaglia interiore sulla posizione da assumere su un argomento",
+  "path_overcome_quote": "Chiunque prenda la strada sicura è come se fosse morto",
+  "path_overcome_quote_author": "Carl Jung",
+  "path_beyond_name": "Oltre",
+  "path_beyond_sub_title": "esplorare nuove possibilità",
+  "path_beyond_description_header": "Vai oltre la vecchia percezione",
+  "path_beyond_description": "Beyond sottolinea quanto possiamo essere veloci nell'assegnare noi stessi a concetti simbolici, concetti che portano con sé ambiguità, forze e debolezze, certezze e impossibilità. Staccarci dalle idee - vaghe o concrete - ci permette di vedere il mondo e noi stessi ogni volta più chiaramente.Molte fonti sarebbero liete di dirvi chi pensano che siate o di cosa pensano che abbiate bisogno, con Beyond potete facilmente vedere oltre il rumore e le verità implicite in modo da poter vivere la vostra vita migliore.Basato su insegnamenti antichi e nuovi allo stato dell'arte, Beyond vi permette di scrutare nel mondo al di là dei concetti, aiutandovi efficacemente a liberarvi facilmente dell'indesiderato esponendo la sua vera natura",
+  "path_beyond_quote": "Non vuoi un milione di risposte quanto poche domande per sempre. Le domande sono diamanti che tieni alla luce. Studia una vita intera e vedrai colori diversi dallo stesso gioiello. Le stesse domande, poste di nuovo, ti portano le risposte di cui hai bisogno proprio nel momento in cui ne hai bisogno",
+  "path_beyond_quote_author": "Richard Bach",
+  "path_breakthrough_name": "Breakthrough",
+  "path_breakthrough_sub_title": "decostruire la realtà e i sistemi",
+  "path_breakthrough_description_header": "La realtà al microscopio",
+  "path_breakthrough_description": "Molte idee prevalenti nella cultura popolare sono semplici aggregati di idee avvolti in storie spesso incomplete. Breakthrough riaccende la fiamma interrogativa del \"perché\" e del \"perché no\" per demistificare quelle che sono teorie fondamentalmente incomplete spacciate per fatti, chiaramente evidenti una volta che guardiamo oltre i loro strati iniziali di ragionamento.\nBreakthrough ci chiede di guardare oltre le storie dei concetti a cui ci aggrappiamo per vederli sotto una nuova luce più chiara. A prima vista, molti concetti sul sé o sul mondo sono brutali e spietati, ma se si scava più a fondo la storia cambia. Molte vecchie verità si presenteranno come vere e proprie incognite, falsità o fallacie logiche, permettendovi di liberarvene consapevolmente e di trovare nuove possibilità e alternative",
+  "path_breakthrough_quote": "Segui la tua beatitudine e l'universo aprirà porte dove c'erano solo muri",
+  "path_breakthrough_quote_author": "Joseph Campbell",
+  "path_create_name": "Create",
+  "path_create_sub_title": "mappare i dati in più di infinite dimensioni",
+  "path_create_description_header": "Creare universi di concetti",
+  "path_create_description": "A differenza di tutti gli altri strumenti per i dati degli utenti che organizzano i dati in elenchi, tabelle o documenti, i tuoi dati ImmaterialAI assomigliano organicamente alla struttura del cervello e dell'universo, permettendoti di mappare i dati in più di infinite dimensioni.In ImmaterialAI ogni nodo di informazione funziona come un neurone, mentre i collegamenti tra loro come sinapsi. In esclusiva per gli utenti di ImmaterialAI Plus - e il primo sblocco solo per gli utenti di Create - potete creare nuovi tipi di neuroni e sinapsi fin dall'inizio del vostro viaggio in IAI, consentendovi di descrivere i vostri dati in più di infinite dimensioni al cubo. È inoltre possibile filtrare facilmente la libreria in base a più tipi di nodi in combinazione con i filtri esistenti (ad esempio, todo, old/new me, focus, ecc.), nonché configurare la generazione del grafico per includere o escludere qualsiasi tipo di lik esistente e personalizzato",
+  "path_create_quote": "Il vero viaggio di scoperta non consiste nel cercare nuovi paesaggi, ma nell'avere nuovi occhi",
+  "path_create_quote_author": "Marcel Proust",
+  "settings_cat_customization": "Personalizzazione",
+  "settings_cat_graphics_performance": "Grafica e prestazioni",
+  "settings_full_screen": "Schermo intero",
+  "settings_page_mode": "Modalità pagina",
+  "settings_skin": "Seleziona skin",
+  "settings_alternative_flow_must_be_deselected": "Il flusso alternativo {flow} deve essere deselezionato",
+  "@settings_alternative_flow_must_be_deselected": {
+    "description": "Blarg",
+    "placeholders": {
+      "flow": {
+        "type": "String",
+        "example": "2"
+      }
+    }
+  },
+  "settings_skin_default": "Default",
+  "settings_skin_inverse": "Inverse",
+  "settings_background": "Seleziona l'immagine di sfondo",
+  "settings_background_remove": "Rimuovi",
+  "settings_background_select": "Seleziona immagine",
+  "settings_high_quality_transitions": "Transizioni di alta qualità",
+  "settings_high_quality_graphs": "Grafici di alta qualità",
+  "settings_change_menu_left_right": "Cambia il menu da sinistra a destra",
+  "settings_cat_other": "Altro",
+  "settings_see_licenses": "Vedi licenze",
+  "settings_cat_general": "Generale",
+  "settings_animations": "Animazioni",
+  "settings_change_ui_mode": "Layout delle caselle di contenuto",
+  "settings_performance_mode": "Modalità prestazioni",
+  "settings_different_user_path": "Seleziona un percorso utente diverso",
+  "settings_restart_tutorial": "Esercitazione di riavvio",
+  "settings_clear_user_library": "Cancella la libreria utente",
+  "settings_hide_future_locked_content_on": "Mostra tutte le funzioni bloccate",
+  "settings_hide_future_locked_content_off": "Nascondi le funzioni bloccate in futuro",
+  "settings_language": "Cambia lingua",
+  "settings_language_remove": "Rimuovi lingua personalizzata",
+  "settings_exit": "Esci dalla piattaforma",
+  "box_library": "Library",
+  "box_settings": "Impostazioni e preferenze dell'utente",
+  "box_add_n": "Nuovo nodo",
+  "box_add_n_sub_title": "Tutto ciò a cui si può dare un nome",
+  "box_add_nt": "Nuovo tipo di nodo",
+  "box_add_nt_sub_title": "Gruppi di concetti, ad esempio 'Entità', 'Eventi'",
+  "box_add_l": "Nuovo link",
+  "box_add_l_sub_title": "Collega due concetti qualsiasi",
+  "box_add_lt": "Nuovo tipo di collegamento",
+  "box_add_lt_sub_title": "Tipi di collegamenti, ad esempio 'Genitore/Figlio'",
+  "box_add_world": "Nuovo mondo",
+  "box_add_world_sub_title": "Compartecipa alla tua biblioteca",
+  "box_studente": "Studente",
+  "box_studente_sottotitolo": "Sblocca l'origine assoluta, i bundle, il focus e l'ascendenza dei nodi",
+  "box_insegnante": "Insegnante",
+  "box_insegnante_sottotitolo": "Sblocca preferiti, Nuovo/vecchio me, Big Picture, Trova link e È reale?",
+  "box_800_insegnanti": "800 insegnanti",
+  "box_800_teachers_sub_title": "Sblocca compiti, Meta modelli, Tutti i flussi di IA, Cluster, Sanity check, Transcend, formazione all'intuizione, Mondi e altro",
+  "box_return_to_bliss": "Ritorno alla beatitudine",
+  "box_return_to_bliss_sub_title": "Ricerca con sfide, progressi graduali, sblocco di bonus ed esclusive a tempo",
+  "box_direct_links": "Collegamenti diretti",
+  "box_direct_links_sub_title": "Collega facilmente due nodi dall'interno di qualsiasi nodo",
+  "box_compiti": "Scheda attività",
+  "box_tasks_sub_title": "Tieni traccia di ciò che deve essere fatto",
+  "box_tasks_filter": "Filtro attività",
+  "box_tasks_filter_sub_title": "Filtra le attività dalla tua home page",
+  "box_me": "Me",
+  "box_me_sub_title": "Generato automaticamente dagli stati attuali/vecchi del nodo me",
+  "box_absolute_origin": "Origine assoluta",
+  "box_absolute_origin_sub_title": "Funzione AI che si basa su collegamenti 'di prova', nei dettagli dei nodi",
+  "box_bundles": "Bundles",
+  "box_bundles_sub_title": "Tiene traccia di ciò che deve essere fatto",
+  "box_backup": "Backup",
+  "box_backups_sub_title": "Importazione/Esportazione",
+  "box_backups_import": "Importazione file",
+  "box_backups_import_sub_title": "Ripristino dei file ImmaterialAI 2 e 3",
+  "box_backups_import_text": "Testo di importazione",
+  "box_backups_import_text_sub_title": "Incolla il testo qui",
+  "box_backups_export": "File di esportazione",
+  "box_backups_export_sub_title": "Salva tutti i dati in un file",
+  "box_backups_export_text": "Testo di esportazione",
+  "box_backups_export_text_sub_title": "Copia il testo risultante e memorizzalo dove vuoi",
+  "box_big_picture": "Immagine grande",
+  "box_big_picture_sub_title": "Esplora universi di concetti",
+  "box_is_it_real": "È reale?",
+  "box_is_it_real_sub_title": "Funzione di intelligenza artificiale che si basa su collegamenti 'di prova', nei dettagli dei nodi",
+  "box_dependency_tree": "Grafo delle dipendenze",
+  "box_dependency_tree_sub_title": "Funzione AI che si basa su collegamenti 'dipende da', nei dettagli del nodo",
+  "box_rich_text": "Testo ricco",
+  "box_check_for_link": "Controlla se c'è un link",
+  "box_check_for_link_sub_title": "tra 2 nodi qualsiasi",
+  "box_rich_text_sub_title": "Formatta le descrizioni dei nodi con Markdown",
+  "box_ancestry_filter": "Filtro Ancestry",
+  "box_ancestry_filter_sub_title": "Vedi tutti i nodi radice, genitori e figli",
+  "box_cluster": "Cluster",
+  "box_clusters_sub_title": "Come è strutturata la vostra mente",
+  "box_sanity_check": "Sanity check",
+  "box_sanity_check_sub_title": "Verifica la presenza di problemi nella tua libreria, validità pre e post-AI, distribuzione della validità e altro",
+  "box_quantum_field": "Campo quantistico",
+  "box_quantum_field_sub_title": "Vedi l'insieme",
+  "box_train_intuition": "Allena la tua intuizione",
+  "box_allenamento_intuizione_sottotitolo": "3 difficoltà con statistiche (consecutivi e percentuale media di successo)",
+  "box_modalità_presentazione": "Modalità di presentazione",
+  "box_modalità_di_presentazione_sottotitolo": "Nascondi i dati personali quando usi la piattaforma",
+  "box_quantum_noise": "Rumore quantistico",
+  "box_quantum_noise_sub_title": "Ottiene raccomandazioni supportate dall'entanglement, richiede internet per ottenere i dati dal laboratorio in Australia",
+  "box_sugar_pills": "Pillole di zucchero",
+  "box_sugar_pills_sub_title": "Indurre placebo volontariamente",
+  "box_focus": "Focus",
+  "box_focus_sub_title": "Accedere a concetti focalizzati da casa",
+  "box_node_ancestry": "Node ancestry",
+  "box_node_ancestry_sub_title": "Funzione AI che si basa sui collegamenti 'parentali', nei dettagli del nodo",
+  "box_worlds_filter": "Worlds",
+  "box_worlds_filter_sub_title": "Assegna ai tuoi nodi mondi specifici e mostra l'app dalla prospettiva di un solo mondo",
+  "box_favoriti": "Preferiti",
+  "box_fav_sub_title": "Nei dettagli del nodo",
+  "box_old_me": "Nuovo/vecchio me",
+  "default_nt_internal_all": "Tutti",
+  "default_nt_internal_journey": "Percorso",
+  "default_nt_internal_system": "Interno",
+  "default_nt_concept": "Concetto",
+  "default_nt_system": "Sistema",
+  "default_nt_feeling": "Feeling",
+  "default_nt_thought": "Pensiero",
+  "default_nt_effect": "Effetto",
+  "default_nt_event": "Evento",
+  "default_nt_quote": "Citazione",
+  "default_nt_entity": "Entità",
+  "default_nt_study": "Studio",
+  "default_nt_note": "Note",
+  "default_nt_insight": "Insight",
+  "default_n_nothing": "Nothing",
+  "default_n_known_unknown": "Conosciuto sconosciuto",
+  "default_n_known_unknown": "Sconosciuto sconosciuto",
+  "default_n_unknown_general": "Sconosciuto",
+  "default_n_everything": "Tutto",
+  "default_lt_favorite": "Preferito",
+  "default_lt_favorite_src_text": "è contrassegnato come preferito",
+  "default_lt_focus": "Focus",
+  "default_lt_focus_src_text": "è contrassegnato come focalizzato",
+  "default_lt_old_me": "Vecchio me",
+  "default_lt_old_me_src_text": "è contrassegnato come 'vecchio me'",
+  "default_lt_tasks": "Attività",
+  "default_lt_tasks_src_text": "è nell'elenco delle attività",
+  "default_lt_dati_pubblici": "Dati pubblici On/Off",
+  "default_lt_dati_pubblici_src_text": "è un dato pubblico",
+  "default_lt_public_data_tar_text": "-",
+  "default_lt_parent": "Genitore/Figlio",
+  "default_lt_parent_src_text": "è genitore di",
+  "default_lt_parent_tar_text": "è figlio di",
+  "default_lt_proof": "Proof",
+  "default_lt_proof_src_text": "dimostrato da",
+  "default_lt_proof_tar_text": "dimostra",
+  "default_lt_source": "Fonte",
+  "default_lt_source_src_text": "è fonte di",
+  "default_lt_source_tar_text": "ha una fonte",
+  "default_lt_causa_effetto": "Causa/Effetto",
+  "default_lt_cause_effect_src_text": "cause",
+  "default_lt_causa_effetto_tar_text": "causato da",
+  "default_lt_related": "Correlato a",
+  "default_lt_related_src_tar_text": "correlato a",
+  "default_lt_equality": "Is",
+  "default_lt_equality_src_tar_text": "è",
+  "default_lt_parallel": "Parallelo",
+  "default_lt_parallel_src_tar_text": "has parallel",
+  "default_lt_analog": "Analogico",
+  "default_lt_analog_desc": "Qualcosa che ha un'analogia con qualcos'altro",
+  "default_lt_analog_src_tar_text": "è analogo a",
+  "default_lt_dependency": "Dipendenze",
+  "default_lt_dependency_src_text": "è una dipendenza di",
+  "default_lt_dependency_tar_text": "dipende da",
+  "n_add_name": "Nome del concetto",
+  "n_add_name_plus": "Nome del concetto, usare la virgola per creare più nodi",
+  "n_quick_add_add_link_type": "Seleziona il tipo di collegamento",
+  "n_add_select_node_type": "Seleziona il tipo di nodo",
+  "n_plus_editor_hint": "Scrivi in Markdown",
+  "n_tab_details": "Dettagli",
+  "n_tab_ai": "AI",
+  "n_tab_big_picture": "Big Picture",
+  "n_hint_name": "Nome",
+  "n_hint_subtitle": "Sottotitolo",
+  "n_hint_desc": "Description",
+  "n_direct_links": "Collegamenti diretti ai nodi",
+  "n_mentions": "Menzionato in",
+  "n_mentions_worlds_selected": "(nei mondi selezionati)",
+  "n_hint_plus_view": "View",
+  "n_hint_plus_edit": "Edit",
+  "n_deleting": "Cancellazione di un nodo",
+  "n_focus_generale": "Focus",
+  "n_focus_off": "Focus",
+  "n_focus_on": "Focalizzato",
+  "n_save": "Salva",
+  "n_cancella": "Elimina",
+  "markdown_editor_title": "title",
+  "markdown_editor_bold": "bold",
+  "markdown_editor_italic": "corsivo",
+  "markdown_editor_strikethrough": "barrato",
+  "markdown_editor_link": "link",
+  "markdown_editor_iai_link": "Link al nodo IAI",
+  "markdown_editor_list": "list",
+  "markdown_editor_code": "codice",
+  "markdown_editor_quote": "quote",
+  "markdown_editor_separator": "separatore",
+  "markdown_editor_image": "image",
+  "markdown_editor_image_file": "file immagine",
+  "markdown_editor_iai_node": "nodo IAI",
+  "markdown_editor_table": "tabella",
+  "l_nodo_a": "nodo a",
+  "l_nodo_b": "nodo b",
+  "l_link_type": "tipo di collegamento",
+  "nt_name": "Nome del tipo di nodo",
+  "nt_description": "description",
+  "lt_name": "Nome del tipo di collegamento",
+  "lt_desc": "Ogni relazione in ImmaterialAI è tra due concetti, A e B. È possibile configurare il tipo di collegamento per vincolare quali tipi di concetto possono essere A e B, oppure lasciarne uno vuoto per consentire tutti i tipi di concetto da entrambe le parti",
+  "lt_add_node_type": "Aggiungi il tipo di nodo",
+  "lt_add_node_type_a": "Tipi per A",
+  "lt_add_node_type_b": "Tipi per B",
+  "lt_add_node_type_dialog_search": "Ricerca o inserimento del nome del nuovo tipo di nodo",
+  "lt_a": "A (sorgente)",
+  "lt_a_b": "A & B (sorgente e destinazione)",
+  "lt_b": "B (destinazione)",
+  "lt_direction_matters": "La direzione conta: ",
+  "lt_direction_info": "se false, A->B e B->A possono essere usate in modo intercambiabile (utile per le relazioni generalizzate)",
+  "lt_multiple_sources": "Gli obiettivi possono avere più fonti: ",
+  "lt_save_warning_name": "Inserire il nome del tipo di collegamento prima di poter salvare",
+  "lt_save_warning_a_b": "Inserire il nome del collegamento A->B",
+  "lt_save_warning_a_b_vice_versa": "Inserire il nome per A->B e B->A",
+  "home_tasks_disabled": "Toccare per mostrare le attività",
+  "compiti_generali": "Attività",
+  "tasks_create_task": "Crea attività",
+  "tasks_todo": "Da fare",
+  "tasks_in_progress": "In corso",
+  "compiti_fatti": "Fatto",
+  "tasks_all": "Tutti i compiti",
+  "me_current_me": "(Current) me",
+  "me_vecchio_me": "Vecchio me",
+  "n_generale_pubblico": "Dati pubblici",
+  "n_dati_pubblici": "Pubblico",
+  "n_dati_pubblici_off": "Privato",
+  "n_favorite_general": "Preferiti",
+  "n_favorite_off": "Preferiti",
+  "n_favorite_on": "Preferiti",
+  "n_old_me_general": "Me",
+  "n_old_me_create": "Me status",
+  "n_old_me_current": "Me attuale",
+  "n_old_me_old": "Vecchio me",
+  "n_ancestry_src": "Figli diretti",
+  "n_ancestry_tar": "Genitori diretti",
+  "n_dipendenza_titolo": "Dipendenze dirette",
+  "n_dipendenza_desc": "Gli elementi a destra dipendono dagli elementi a sinistra",
+  "n_dipendenza_src": "dipendente da",
+  "n_dipendenza_tar": "dipende da",
+  "n_is_it_real_no_hierarcy": "Inconcludente \nconcetto mancante di \"prova\"",
+  "n_is_it_real_self_ref": "Autoreferenza",
+  "n_è_reale_nulla": "Non reale \ntrovato la prova \n'Niente '",
+  "n_is_it_real_known_unknown": "Conosciuto sconosciuto \nProva trovata \"Attualmente sconosciuta\"",
+  "n_is_it_real_incomplete": "Concetti non conclusivi mancanti del collegamento 'prova'",
+  "general_search": "Search",
+  "general_types": "Link types",
+  "general_node": "nodo",
+  "general_nodes": "Nodi",
+  "general_link": "link",
+  "general_links": "Link",
+  "general_copy_to_clipboard": "Copia negli appunti",
+  "general_export": "Esportazione",
+  "general_change_from_settings": "Cambia da impostazioni",
+  "general_yes": "Sì",
+  "general_no": "No",
+  "general_button_on": "ON",
+  "general_button_off": "OFF",
+  "general_button_next": "NEXT",
+  "general_button_done": "FATTO",
+  "general_button_create": "CREATE",
+  "general_button_select": "SELECT",
+  "general_button_change": "CHANGE",
+  "general_button_confirm": "CONFERMA",
+  "general_button_add": "ADD",
+  "general_button_delete": "CANCELLA",
+  "general_button_remove": "RIMUOVERE",
+  "general_button_update": "UPDATE",
+  "general_button_prev": "PREV",
+  "general_button_back": "BACK",
+  "general_button_start": "START",
+  "general_button_more": "VEDI ALTRO",
+  "general_coming_soon": "COMING SOON",
+  "general_coming_soon_plus": "PLUS, SOON",
+  "general_coming_soon_plus_or_lite": "PLUS & PLUS LITE, PRESTO",
+  "general_coming_soon_plus_alt": "PLUS, IN ARRIVO",
+  "general_coming_soon_plus_alt_or_lite": "PLUS & PLUS LITE, IN ARRIVO",
+  "general_unlock_at_level_plus": "PLUS, livello {level}",
+  "general_unlocks_at_level_plus_or_lite": "PLUS e PLUS LITE, livello {level}",
+  "@general_unlocks_at_level_plus": {
+    "description": "livello",
+    "placeholders": {
+      "level": {
+        "type": "int",
+        "example": "2"
+      }
+    }
+  },
+  "@general_unlock_at_level_plus_or_lite": {
+    "description": "livello",
+    "placeholders": {
+      "level": {
+        "type": "int",
+        "example": "2"
+      }
+    }
+  },
+  "general_plus_only": "Solo Plus",
+  "general_plus_or_lite_only": "Plus o Plus Lite",
+  "general_are_you_sure": "Sei sicuro?",
+  "general_unlock_at_level": "Si sblocca al livello {level}",
+  "@general_unlocks_at_level": {
+    "description": "livello",
+    "placeholders": {
+      "level": {
+        "type": "int",
+        "example": "2"
+      }
+    }
+  },
+  "general_unlock_at_level_short": "Si sblocca a {level}",
+  "@general_unlocks_at_level_short": {
+    "description": "level",
+    "placeholders": {
+      "level": {
+        "type": "int",
+        "example": "2"
+      }
+    }
+  },
+  "general_unlock_at_level_2line": "Sblocca al livello {level}",
+  "@general_unlocks_at_level_2line": {
+    "description": "livello",
+    "placeholders": {
+      "level": {
+        "type": "int",
+        "example": "2"
+      }
+    }
+  },
+  "livello_generale": "livello {level}",
+  "@livello_generale": {
+    "description": "livello",
+    "placeholders": {
+      "level": {
+        "type": "int",
+        "example": "2"
+      }
+    }
+  },
+  "general_icon": "icona",
+  "general_color": "colore",
+  "general_true": "true",
+  "general_false": "false",
+  "general_node_search_or_new": "Cerca o inserisci un nuovo nome per il nodo",
+  "general_node_node_to_inline": "Nodo da inlineare",
+  "general_time_created": "creato",
+  "general_time_updated": "aggiornato",
+  "general_moments_ago": "moments ago",
+  "general__time__one_second": "1 secondo fa",
+  "general__time__seconds": "{secondi} secondi fa",
+  "@general__time__seconds": {
+    "description": "Distanza in secondi",
+    "placeholders": {
+      "seconds": {
+        "type": "int",
+        "example": "2"
+      }
+    }
+  },
+  "general__time__one_minute": "1 minuto fa",
+  "general__time__minute": "{minuti} minuti fa",
+  "@general__time__minute": {
+    "description": "Distanza in minuti",
+    "placeholders": {
+      "minuti": {
+        "type": "int",
+        "example": "2"
+      }
+    }
+  },
+  "general__time__one_hour": "1 ora fa",
+  "general__time__hour": "{ore} ore fa",
+  "@general__time__hour": {
+    "description": "Distanza in ore",
+    "placeholders": {
+      "ore": {
+        "type": "int",
+        "example": "2"
+      }
+    }
+  },
+  "general__time__one_day": "1 giorno fa",
+  "general__time__day": "{giorni} giorni fa",
+  "@general__time__day": {
+    "description": "Distanza in giorni",
+    "placeholders": {
+      "giorni": {
+        "type": "int",
+        "example": "2"
+      }
+    }
+  },
+  "general__time__one_week": "1 settimana fa",
+  "general__time__week": "{settimane} settimane fa",
+  "@general__time__week": {
+    "description": "Distanza in settimane",
+    "placeholders": {
+      "settimane": {
+        "type": "int",
+        "example": "2"
+      }
+    }
+  },
+  "general__time__one_month": "1 mese fa",
+  "general__time__month": "{mesi} mesi fa",
+  "@general__time__month": {
+    "description": "Distanza in mesi",
+    "placeholders": {
+      "mesi": {
+        "type": "int",
+        "example": "2"
+      }
+    }
+  },
+  "general__time__one_year": "1 anno fa",
+  "general__time__year": "{anni} anni fa",
+  "@general__time__year": {
+    "description": "Distanza in anni",
+    "placeholders": {
+      "anni": {
+        "type": "int",
+        "example": "2"
+      }
+    }
+  },
+  "ur_unravel_save": "Save",
+  "ur_unravel_restart": "Restart",
+  "ur_unravel_back_home": "Back",
+  "ur_unravel_restart_first_item": "Dal primo elemento",
+  "ur_unravel_answer_selected": "Selezionato \"{item}\"",
+  "@ur_unravel_answer_selected": {
+    "placeholders": {
+      "item": {
+        "type": "String",
+        "example": "idea"
+      }
+    }
+  },
+  "ur_deconstruct_card_title": "Deconstruct",
+  "ur_deconstruct_card_sub": "Concetti di decostruzione",
+  "ur_deconstruct_card_desc": "Navigare le fonti e le origini",
+  "ur_deconstruct_card_title_skeptic": "Lo scettico",
+  "ur_deconstruct_card_sub_skeptic": "Aiuta a vedere oltre",
+  "ur_deconstruct_card_desc_skeptic": "Aiuta a vedere oltre",
+  "ur_reshape_card_title": "Reshape",
+  "ur_reshape_v2_card_title": "Reshape+",
+  "ur_reshape_v2_card_sub": "Cambia la tua reazione (ora con distinzione assoluta/relativa)",
+  "ur_reshape_card_sub": "Rimodella le risposte emotive",
+  "ur_reshape_card_desc": "Cambia la tua reazione",
+  "ur_iam_card_title": "Io sono...",
+  "ur_iam_card_sub": "Chi dice la tua mente che sei?",
+  "ur_iam_card_desc": "Vedi oltre i concetti",
+  "ur_iam_card_title_alt": "Blarg l'Orco",
+  "ur_iam_card_sub_alt": "Dite a Blarg cosa vi passa per la testa",
+  "ur_iam_card_desc_alt": "Dite a Blarg cosa vi passa per la testa",
+  "ur_iam_card_title_csb": "Bella storia, fratello",
+  "ur_iam_card_sub_csb": "Dai amico, non ti dirò che non è reale",
+  "ur_iam_card_desc_csb": "Dai amico, non ti dirò che non è reale",
+  "ur_transcend_card_title": "Transcend",
+  "ur_transcend_card_sub": "salta tutti i passaggi",
+  "ur_transcend_card_desc": "Niente più stati negativi",
+  "ur_deconstruct_title": "Cosa vuoi decostruire?",
+  "ur_deconstruct_desc": "Cerca il nodo o inserisci il nome per un nuovo nodo",
+  "ur_deconstruct_cont_title": "Qual è l'origine/ cosa lo rende reale?",
+  "ur_deconstruct_cont_desc": "È solo una storia? Può cambiare?",
+  "ur_deconstruct_title_skeptic": "Allora dimmi, cosa pensi che sia vero?",
+  "ur_deconstruct_desc_skeptic": "Cerca il nodo o inserisci il nome per un nuovo nodo",
+  "ur_deconstruct_cont_title_skeptic": "Perché?",
+  "ur_deconstruct_cont_desc_skeptic": "Perché sia reale, deve avere qualche prova",
+  "ur_deconstruct_action_select": "Seleziona",
+  "ur_deconstruct_action_existing": "Esistente",
+  "ur_deconstruct_action_existing_pattern": "({item})",
+  "@ur_deconstruct_action_existing_pattern": {
+    "placeholders": {
+      "item": {
+        "type": "String",
+        "example": "idea"
+      }
+    }
+  },
+  "ur_deconstruct_action_nothing": "Niente",
+  "ur_deconstruct_action_dontknow": "Sconosciuto",
+  "ur_deconstruct_answer_dontknow": "Incerta la fonte",
+  "ur_deconstruct_answer_nothing": "Nessuna fonte di esistenza",
+  "ur_deconstruct_answer_circular": "Dipendenza circolare",
+  "ur_deconstruct_answer_selfref": "Riferimento a se stesso",
+  "ur_reshape_action_next_select": "Seleziona",
+  "ur_reshape_action_next_end": "Fine",
+  "ur_reshape_start_title": "Immettere un sentimento negativo derivante da una situazione precedente o esistente",
+  "ur_reshape_start_description": "Cerca una sensazione esistente o inserisci il nome di una nuova",
+  "ur_reshape_situation_title": "Quale situazione ha portato a un \"{sentimento}\"?",
+  "@ur_reshape_situation_title": {
+    "placeholders": {
+      "feeling": {
+        "type": "String",
+        "example": "feels"
+      }
+    }
+  },
+  "ur_reshape_situation_description": "Quale situazione ti ha portato lì?",
+  "ur_reshape_cause_effect_title": "Descrivi l'angolazione di \"{situation}}\": che ti ha portato a \"{sentimento}}\"",
+  "@ur_reshape_cause_effect_title": {
+    "placeholders": {
+      "situation": {
+        "type": "String",
+        "example": "Qualche evento"
+      },
+      "feeling": {
+        "type": "Stringa",
+        "example": "feels"
+      }
+    }
+  },
+  "ur_reshape_cause_effect_description": "Questa non è la storia completa",
+  "ur_reshape_cause_title": "Che cosa ti ha portato a provare un \"{sentimento}\" da una \"{situation}\"?",
+  "@ur_reshape_cause_title": {
+    "placeholders": {
+      "sentimento": {
+        "type": "String",
+        "example": "simți"
+      },
+      "situation": {
+        "type": "Stringa",
+        "example": "Simte"
+      }
+    }
+  },
+  "ur_reshape_resolution_title": "\"{situation}\" non dovrebbe intrinsecamente farti sentire \"{sentimento}\", il che significa che il tuo problema deriva da una tua specifica correlazione tra le due cose",
+  "@ur_reshape_resolution_title": {
+    "placeholders": {
+      "situation": {
+        "type": "String",
+        "example": "Qualche evento"
+      },
+      "feeling": {
+        "type": "Stringa",
+        "example": "feels"
+      }
+    }
+  },
+  "ur_reshape_resolution_description": "Al di là di questa conoscenza che vi viene ora presentata, forniamo due possibili risoluzioni, entrambe distinte nel loro dominio e utilizzo",
+  "ur_reshape_resolution_action_monad": "Dominio assoluto",
+  "ur_reshape_resolution_action_dyad": "Dominio relativo",
+  "ur_reshape_new_effect_title": "That shouldn’t necessarily make you feel \"{feeling}\", don't do that to yourself. Any better ways you can look at it?",
+  "@ur_reshape_new_effect_title": {
+    "placeholders": {
+      "feeling": {
+        "type": "String",
+        "example": "Feels"
+      }
+    }
+  },
+  "ur_reshape_new_effect_description": "Guarda la situazione da un punto più luminoso. Cercate o create la sensazione",
+  "ur_reshape_new_effect_v2_title": "C'è un modo migliore per guardare la \"{situation}\"?",
+  "@ur_reshape_new_effect_v2_title": {
+    "placeholders": {
+      "situation": {
+        "type": "String",
+        "example": "Simte"
+      }
+    }
+  },
+  "ur_reshape_new_effect_dialog": "Qual è il modo migliore per affrontare la \"{situation}\"?",
+  "@ur_reshape_new_effect_dialog": {
+    "placeholders": {
+      "situation": {
+        "type": "String",
+        "example": "Feels"
+      }
+    }
+  },
+  "ur_reshape_new_effect_cause_title": "Che cosa ti fa sentire \"{feeling}\" al riguardo?",
+  "@ur_reshape_new_effect_cause_title": {
+    "placeholders": {
+      "feeling": {
+        "type": "String",
+        "example": "Feels"
+      }
+    }
+  },
+  "ur_reshape_new_effect_cause_description": "Descrivi l'angolazione di \"{situation}\" che ti ha portato a \"{feeling}\"",
+  "@ur_reshape_new_effect_cause_description": {
+    "placeholders": {
+      "situation": {
+        "type": "String",
+        "example": "Some event"
+      },
+      "feeling": {
+        "type": "String",
+        "example": "feels"
+      }
+    }
+  }
+}
