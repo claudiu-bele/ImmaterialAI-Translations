@@ -25,11 +25,11 @@
   "tutorial_health_page5_more": "nous supportons le portrait et le paysage, essayez-le !",
   "home_go_back": "Go back",
   "home_go_forward": "Go forward",
-  "home_focus_unlocks_at": "Afficher les éléments focalisés, se déverrouille au niveau {niveau}",
+  "home_focus_unlocks_at": "Afficher les éléments focalisés, se déverrouille au niveau {level}",
   "@home_focus_unlocks_at": {
-    "description": "niveau",
+    "description": "level",
     "placeholders": {
-      "niveau": {
+      "level": {
         "type": "int",
         "example": "2"
       }
@@ -58,32 +58,32 @@
   "home_worlds_selected_worlds": "Mondes sélectionnés :",
   "path_title": "ImmaterialAI",
   "path_sub_title": "choisissez votre voie",
-  "path_overcome_name": "Overcome",
+  "path_overcome_name": "Surmonte",
   "path_overcome_sub_title": "comprendre et transcender",
   "path_overcome_description_header": "Surmonter les problèmes mentaux",
   "path_overcome_description": "Dès le plus jeune âge, on nous apprend comment nous devrions agir et réagir à différentes situations ou quels sentiments et états sont valables. Cela commence dès l'enfance par des renforcements positifs et négatifs, et le glossaire des présuppositions ne cesse de s'enrichir, que ce soit en observant la vie autour de nous, notre communauté, nos partenaires, les médias, les publicités, etc. Dans tous les cas, un événement ou une idée ne doit pas nécessairement conduire à un état négatif, et c'est ce que Overcome est là pour vous aider à comprendre. \n\nCela inclut les événements traumatiques, les maladies mentales, les pensées excessives, les inquiétudes, la peur et bien plus encore. \n\nLe fait de se débarrasser de ces chaînes de causes et d'effets implicites et, en général, de l'idée qu'une chose doit conduire à une autre, permet d'atteindre un niveau de contrôle inconnu jusqu'alors sur les pensées négatives ou limitatives. Vous pouvez même vous surprendre à repasser par les mêmes cycles après les avoir traités, l'histoire étant maintenant différente - les pensées surgissent, maintenant avec la conscience que les pensées nuisibles étaient un chemin négatif d'hypothèses que vous suiviez auparavant et qui ont changé depuis. Avec la répétition, les nouvelles conclusions se renforcent et il n'y aura plus de bataille intérieure pour savoir quelle est votre position sur un sujet.",
   "path_overcome_quote": "Quiconque prend la route sûre est aussi bon que mort",
   "path_overcome_quote_author": "Carl Jung",
-  "path_beyond_name": "Beyond",
+  "path_beyond_name": "Au-delà",
   "path_beyond_sub_title": "explorer de nouvelles possibilités",
   "path_beyond_description_header": "Aller au-delà de l'ancienne perception",
   "path_beyond_description": "Beyond souligne combien nous pouvons être prompts à nous assigner à des concepts symboliques, des concepts qui portent en eux l'ambiguïté, les forces et les faiblesses, les certitudes et les impossibilités. Se détacher des idées - vagues ou concrètes - nous permet de voir le monde et nous-mêmes plus clairement à chaque fois. \n\nDe nombreuses sources vous diraient volontiers qui elles pensent que vous êtes ou ce dont elles pensent que vous avez besoin. Avec Beyond, vous pouvez facilement voir au-delà du bruit et des vérités implicites afin de vivre votre meilleure vie. \n\nBasé sur des enseignements anciens et nouveaux, Beyond vous permet de pénétrer dans le monde au-delà des concepts, vous aidant ainsi à vous débarrasser facilement de ce qui est indésirable en exposant sa véritable nature.",
   "path_beyond_quote": "Vous ne voulez pas un million de réponses autant que vous voulez quelques questions pour toujours. Les questions sont des diamants que vous tenez dans la lumière. Étudiez toute une vie et vous verrez différentes couleurs du même bijou. Les mêmes questions, posées à nouveau, vous apportent les réponses dont vous avez besoin à l'instant même où vous en avez besoin",
   "path_beyond_quote_author": "Richard Bach",
-  "path_breakthrough_name": "Breakthrough",
+  "path_breakthrough_name": "Percée",
   "path_breakthrough_sub_title": "déconstruire la réalité et les systèmes",
   "path_breakthrough_description_header": "La réalité sous un microscope",
   "path_breakthrough_description": "De nombreuses idées répandues dans la culture populaire ne sont que des agrégats d'idées enveloppés dans des histoires souvent incomplètes. Breakthrough rallume la flamme du \"pourquoi\" et du \"pourquoi pas\" afin de démystifier ce qui est fondamentalement des théories incomplètes présentées comme des faits, clairement apparents une fois que nous regardons au-delà de leurs couches initiales de raisonnement. \n\nLa percée nous demande de regarder au-delà des histoires des concepts auxquels nous nous accrochons afin de les voir sous une nouvelle lumière plus claire. À première vue, de nombreux concepts sur le soi ou le monde sont brutaux, impitoyables, mais en creusant davantage, l'histoire change. \n\nVous serez surpris de la validité réelle de vos connaissances antérieures. De nombreuses vérités anciennes apparaîtront comme des inconnues, des contrevérités ou des erreurs logiques, ce qui vous permettra de vous en débarrasser consciemment et de trouver de nouvelles possibilités et alternatives.",
   "path_breakthrough_quote": "Suivez votre bonheur et l'univers ouvrira des portes là où il n'y avait que des murs.",
   "path_breakthrough_quote_author": "Joseph Campbell",
-  "path_create_name": "Create",
+  "path_create_name": "Crée",
   "path_create_sub_title": "cartographier les données dans une infinité de dimensions",
   "path_create_description_header": "Créer des univers de concepts",
   "path_create_description": "Contrairement à tous les autres outils de données utilisateur qui organisent les données sous forme de listes, de tableaux ou de documents, vos données ImmaterialAI ressemblent organiquement à la structure du cerveau et de l'univers, ce qui vous permet de cartographier les données dans des dimensions plus qu'infinies. \n\nDans ImmaterialAI, chaque nœud d'information fonctionne comme un neurone, tandis que les liens entre eux ressemblent à des synapses. Connectez-les et voyez à quel point ils sont directement et indirectement connectés les uns aux autres. \n\nEn exclusivité pour les utilisateurs d'ImmaterialAI Plus - et les premiers déblocages pour les utilisateurs de Create uniquement - vous pouvez créer de nouveaux types de neurones et de synapses dès le début de votre voyage IAI, vous permettant effectivement de décrire vos données dans plus d'une infinité de dimensions cubiques. Vous pouvez également filtrer facilement votre bibliothèque en fonction de plusieurs types de nœuds, en conjonction avec les filtres existants (par exemple, todo, old, etc.)./new me, focus, etc), ainsi que configurer la génération de graphiques pour inclure ou exclure tous les types de lik existants et personnalisés",
   "path_create_quote": "Le véritable voyage de découverte ne consiste pas à chercher de nouveaux paysages, mais à avoir de nouveaux yeux",
   "path_create_quote_author": "Marcel Proust",
   "settings_cat_customization": "Personnalisation",
-  "paramètres_cat_graphiques_performance": "Graphiques et performances",
+  "settings_cat_graphics_performance": "Graphiques et performances",
   "settings_full_screen": "Plein écran",
   "settings_page_mode": "Page mode",
   "settings_skin": "Sélectionnez la peau",
@@ -91,7 +91,7 @@
   "@settings_alternative_flow_must_be_deselected": {
     "description": "Blarg",
     "placeholders": {
-      "flux": {
+      "flow": {
         "type": "String",
         "example": "2"
       }
@@ -117,6 +117,7 @@
   "settings_hide_future_locked_content_on": "Afficher toutes les fonctionnalités verrouillées",
   "settings_hide_future_locked_content_off": "Masquer les futures fonctionnalités verrouillées",
   "settings_language": "Modifier la langue",
+  "settings_language_general": "Langue",
   "settings_language_remove": "Supprimer la langue personnalisée",
   "settings_exit": "Plate-forme de sortie",
   "box_library": "Bibliothèque",
@@ -185,7 +186,7 @@
   "box_presentation_mode_sub_title": "Masquer les données personnelles lors de l'utilisation de la plateforme",
   "box_quantum_noise": "Bruit quantique",
   "box_quantum_noise_sub_title": "Obtenir des recommandations soutenues par l'intrication, nécessite Internet pour obtenir des données d'un laboratoire en Australie",
-  "boîte_pilules_de_sucre": "Pilules de sucre",
+  "box_sugar_pills": "Pilules de sucre",
   "box_sugar_pills_sub_title": "Induisez volontiers des placebos",
   "box_focus": "Focus",
   "box_focus_sub_title": "Accéder à des concepts ciblés depuis chez soi",
@@ -210,6 +211,7 @@
   "default_nt_study": "Étude",
   "default_nt_note": "Note",
   "default_nt_insight": "Insight",
+  "default_nt_fear": "Peur",
   "default_n_nothing": "Rien",
   "default_n_known_unknown": "Connu inconnu",
   "default_n_unknown_unknown": "Inconnu inconnu",
@@ -368,64 +370,64 @@
   "general_coming_soon_plus_or_lite": "PLUS & PLUS LITE, BIENTÔT",
   "general_coming_soon_plus_alt": "PLUS, BIENTÔT DISPONIBLE",
   "general_coming_soon_plus_alt_or_lite": "PLUS ET PLUS LITE, BIENTÔT DISPONIBLES",
-  "general_unlocks_at_level_plus": "PLUS, niveau {niveau}",
-  "Déverrouillage général au niveau PLUS ou LITE": "PLUS & PLUS LITE, niveau {niveau}",
+  "general_unlocks_at_level_plus": "PLUS, niveau {level}",
+  "general_unlocks_at_level_plus_or_lite": "PLUS & PLUS LITE, niveau {level}",
   "@general_unlocks_at_level_plus": {
-    "description": "niveau",
+    "description": "level",
     "placeholders": {
-      "niveau": {
+      "level": {
         "type": "int",
         "example": "2"
       }
     }
   },
   "@general_unlocks_at_level_plus_or_lite": {
-    "description": "niveau",
+    "description": "level",
     "placeholders": {
-      "niveau": {
+      "level": {
         "type": "int",
         "example": "2"
       }
     }
   },
   "general_plus_only": "Plus seulement",
-  "general_plus_ou_lite_only": "Plus ou Plus Lite",
+  "general_plus_or_lite_only": "Plus ou Plus Lite",
   "general_are_you_sure": "Are you sure ?",
-  "general_unlocks_at_level": "Se déverrouille au niveau {niveau}",
+  "general_unlocks_at_level": "Se déverrouille au niveau {level}",
   "@general_unlocks_at_level": {
-    "description": "niveau",
+    "description": "level",
     "placeholders": {
-      "niveau": {
+      "level": {
         "type": "int",
         "example": "2"
       }
     }
   },
-  "general_unlocks_at_level_short": "Se déverrouille à {niveau}",
+  "general_unlocks_at_level_short": "Se déverrouille à {level}",
   "@general_unlocks_at_level_short": {
-    "description": "niveau",
+    "description": "level",
     "placeholders": {
-      "niveau": {
+      "level": {
         "type": "int",
         "example": "2"
       }
     }
   },
-  "general_unlocks_at_level_2line": "Débloque au niveau {niveau}",
+  "general_unlocks_at_level_2line": "Débloque au niveau {level}",
   "@general_unlocks_at_level_2line": {
-    "description": "niveau",
+    "description": "level",
     "placeholders": {
-      "niveau": {
+      "level": {
         "type": "int",
         "example": "2"
       }
     }
   },
-  "general_level": "niveau {niveau}",
+  "general_level": "niveau {level}",
   "@general_level": {
-    "description": "niveau",
+    "description": "level",
     "placeholders": {
-      "niveau": {
+      "level": {
         "type": "int",
         "example": "2"
       }
@@ -441,11 +443,11 @@
   "general_time_updated": "mis à jour",
   "general_moments_ago": "il y a quelques instants",
   "general__time__one_second": "Il y a 1 seconde",
-  "general__time__seconds": "Il y a {secondes} secondes",
+  "general__time__seconds": "Il y a {seconds} secondes",
   "@general__time__seconds": {
     "description": "Distance en secondes",
     "placeholders": {
-      "secondes": {
+      "seconds": {
         "type": "int",
         "example": "2"
       }
@@ -463,44 +465,44 @@
     }
   },
   "general__time__one_hour": "Il y a 1 heure",
-  "general__time__hour": "Il y a {heures} heures",
+  "general__time__hour": "Il y a {hours} heures",
   "@general__time__hour": {
     "description": "Distance en heures",
     "placeholders": {
-      "heures": {
+      "hours": {
         "type": "int",
         "example": "2"
       }
     }
   },
   "general__time__one_day": "Il y a 1 jour",
-  "general__time__day": "{jours} jours auparavant",
+  "general__time__day": "{days} jours auparavant",
   "@general__time__day": {
     "description": "Distance en jours",
     "placeholders": {
-      "jours": {
+      "days": {
         "type": "int",
         "example": "2"
       }
     }
   },
   "general__time__one_week": "Il y a 1 semaine",
-  "general__time__week": "Il y a {sem} semaines",
+  "general__time__week": "Il y a {weeks} semaines",
   "@general__time__week": {
     "description": "Distance en semaines",
     "placeholders": {
-      "semaines": {
+      "weeks": {
         "type": "int",
         "example": "2"
       }
     }
   },
   "general__time__one_month": "Il y a 1 mois",
-  "general__time__month": "Il y a {mois} mois",
+  "general__time__month": "Il y a {months} mois",
   "@general__time__month": {
     "description": "Distance en mois",
     "placeholders": {
-      "mois": {
+      "months": {
         "type": "int",
         "example": "2"
       }
@@ -511,7 +513,7 @@
   "@general__time__year": {
     "description": "Distance en années",
     "placeholders": {
-      "années": {
+      "years": {
         "type": "int",
         "example": "2"
       }
@@ -722,7 +724,7 @@
   },
   "ur_reshape_end_action": "Finir",
   "ur_reshape_result_changed_title": "Reshaped",
-  "ur_reshape_result_changed_desc": "Vous avez changé votre sentiment sur la \"{situation}\", passant de \"{ancien sentiment}\" à \"{nouveau sentiment}\". \n\nVous pouvez suivre ce processus chaque fois que vous rencontrez de la négativité dans votre perception",
+  "ur_reshape_result_changed_desc": "Vous avez changé votre sentiment sur la \"{situation}\", passant de \"{oldFeeling}\" à \"{newFeeling}\". \n\nVous pouvez suivre ce processus chaque fois que vous rencontrez de la négativité dans votre perception",
   "@ur_reshape_result_changed_desc": {
     "placeholders": {
       "situation": {
@@ -739,7 +741,7 @@
       }
     }
   },
-  "ur_reshape_result_changed_optional_desc": "Vous avez changé votre sentiment sur la \"{situation}\" de \"{ancien sentiment}\" à \"{nouveau sentiment}\", en découvrant également votre impression sur la situation qui a conduit à l'état négatif ({interprétation}). \n\nVous pouvez suivre ce processus à nouveau chaque fois que vous rencontrez de la négativité dans votre perception.",
+  "ur_reshape_result_changed_optional_desc": "Vous avez changé votre sentiment sur la \"{situation}\" de \"{oldFeeling}\" à \"{newFeeling}\", en découvrant également votre impression sur la situation qui a conduit à l'état négatif ({interprétation}). \n\nVous pouvez suivre ce processus à nouveau chaque fois que vous rencontrez de la négativité dans votre perception.",
   "@ur_reshape_result_changed_optional_desc": {
     "placeholders": {
       "situation": {
@@ -760,7 +762,7 @@
       }
     }
   },
-  "ur_reshape_result_changed_absolute_title": "À l'avenir, assurez-vous que vous ne passez pas de \n- ce qui est ('{situation}') à \n- comment vous choisissez de le percevoir ('{feeling}' dû à '{interprétation}').",
+  "ur_reshape_result_changed_absolute_title": "À l'avenir, assurez-vous que vous ne passez pas de \n- ce qui est ('{situation}') à \n- comment vous choisissez de le percevoir ('{feeling}' dû à '{interpretation}').",
   "@ur_reshape_result_changed_absolute_title": {
     "placeholders": {
       "situation": {
@@ -771,7 +773,7 @@
         "type": "String",
         "example": "sent"
       },
-      "interprétation": {
+      "interpretation": {
         "type": "String",
         "example": "sent"
       }
@@ -856,10 +858,10 @@
   },
   "ur_deconstruct_result__circular": "Warning : Une source antérieure dans votre explication est utilisée comme dernier élément de l'explication",
   "ur_deconstruct_result__selfref": "Attention : Le dernier élément que vous avez ajouté est source de lui-même.",
-  "home_unlocks_at": "Se déverrouille au niveau {niveau}",
+  "home_unlocks_at": "Se déverrouille au niveau {level}",
   "@home_unlocks_at": {
     "placeholders": {
-      "niveau": {
+      "level": {
         "type": "String",
         "example": "20"
       }
@@ -896,7 +898,7 @@
       }
     }
   },
-  "bundles_blueprints_name": "Blueprints",
+  "bundles_blueprints_name": "Plans d'action",
   "bundles_blueprints_subtitle": "Concepts de départ",
   "bundles_blueprints_description": "Concepts fondamentaux sur lesquels vous pouvez facilement vous appuyer. Relatifs à la source d'information, à la relation à celle-ci et aux différentes saveurs de l'information",
   "bundles_blueprints_facts": "Faits",
@@ -936,6 +938,45 @@
   "bundles_dig_study_unified_pathway_sub": "Lien : https://pubmed.ncbi.nlm.nih.gov/24354605/",
   "bundles_dig_study_stress_perception": "Étude : La façon dont vous percevez le stress peut vous tuer",
   "bundles_dig_study_stress_perception_sub": "Lien : https://pubmed.ncbi.nlm.nih.gov/24354605/",
+
+  "bundles_fearless_name":"Sans peur",
+  "bundles_fearless_subtitle":"Plus de peurs",
+  "bundles_fearless_description":"Les peurs les plus populaires, avec une méthode empirique pour les surmonter, dans la description de chaque peur. Importez l'une d'entre elles pendant le Steam Scream Fest pour débloquer définitivement un skin exclusif",
+
+  "bundles_fearless_time" : "Peur du temps",
+  "bundles_fearless_time_desc" : "Le temps est une illusion",
+  "bundles_fearless_imperfection" : "Peur de l'imperfection",
+  "bundles_fearless_imperfection_desc" : "Nous sommes tous parfaitement imparfaits",
+  "bundles_fearless_change" : "Peur du changement",
+  "bundles_fearless_change_desc" : "Le changement est normal et il faut s'y attendre",
+  "bundles_fearless_rejection" : "Peur du rejet",
+  "bundles_fearless_rejection_desc" : "Tout le monde ne sera pas votre tasse de thé, c'est normal, il n'y a pas de norme",
+  "bundles_fearless_loneliness" : "Peur de la solitude",
+  "bundles_fearless_loneliness_desc" : "C'est normal d'être seul, c'est ainsi que de nombreux sages ont atteint l'illumination",
+  "bundles_fearless_failure" : "Peur de l'échec",
+  "bundles_fearless_failure_desc" : "C'est normal d'échouer, cela fait partie de l'apprentissage",
+  "bundles_fearless_success" : "Peur du succès",
+  "bundles_fearless_success_desc" : "Ce n'est pas parce que votre environnement attend de vous que vous restiez à terre ou que vous pensez ne pas mériter le succès que vous vous surprendrez à aller de l'avant",
+  "bundles_fearless_loss" : "Peur de perdre",
+  "bundles_fearless_loss_desc" : "Au lieu de craindre les pertes, appréciez-les dans le présent et tirez-en le meilleur parti",
+  "bundles_fearless_judgement" : "La peur du jugement",
+  "bundles_fearless_judgement_desc" : "Laissez-les vous juger, chacun a des expériences différentes, vous n'avez besoin de l'acceptation de personne",
+  "bundles_fearless_losing_control" : "Peur de perdre le contrôle",
+  "bundles_fearless_losing_control_desc" : "Vous n'avez pas le contrôle sur tout, contrôlez ce que vous pouvez et passez à autre chose",
+  "bundles_fearless_who_you_are" : "Peur de qui vous êtes",
+  "bundles_fearless_who_you_are_desc" : "Nous pouvons tous avoir un côté sombre, le regarder et d'où il vient vous mènera à",
+  "bundles_fearless_unknown" : "Peur de l'inconnu",
+  "bundles_fearless_unknown_desc" : "Vraiment, alors que nous ne savons pas tout, nous pourrions ne rien savoir, vous êtes toujours dans l'inconnu, et c'est bon, rien à craindre",
+  "bundles_fearless_whats_next" : "Peur de ce qui va suivre",
+  "bundles_fearless_whats_next_desc" : "Pourquoi auriez-vous peur des nouvelles possibilités, embrassez-les et allez de l'avant",
+  "bundles_fearless_vulnerability" : "Peur de la vulnérabilité",
+  "bundles_fearless_vulnerability_desc" : "Si tu es entouré des mauvaises personnes, c'est comme ça, tu ne peux rien y faire à part trouver de meilleures personnes, tu apprends en même temps que toi",
+  "bundles_fearless_public_speaking" : "Peur de parler en public",
+  "bundles_fearless_public_speaking_desc" : "Parce que quelque chose pourrait mal tourner ? quelque chose pourrait mal tourner à tout moment, embrassez l'incertitude",
+  "bundles_fearless_losing_identity" : "Peur de perdre son identité",
+  "bundles_fearless_losing_identity_desc" : "Votre identité change constamment, vous n'êtes pas une image statique, adoptez le changement",
+
+
   "rtb_intro_to_import": "To import",
   "rtb_intro_to_ignore": "A ignorer",
   "rtb_intro_already_imported": "Déjà importé",
@@ -980,7 +1021,7 @@
   "rtb_quest_s2_entangled": "Enchevêtrés (Plus)",
   "rtb_quest_s2_entangled_desc": "Obtenir des recommandations soutenues par l'enchevêtrement des points d'intérêt actuels.",
   "rtb_quest_s2_entangled_hint": "Utiliser la fonction Quantum Noise",
-  "rtb_quest_s2_transcendant": "Transcendant (Plus)",
+  "rtb_quest_s2_transcendent": "Transcendant (Plus)",
   "rtb_quest_s2_transcendent_desc": "Transcendez les états indésirables que vous avez portés.",
   "rtb_quest_s2_transcendent_hint": "Utiliser le flux Transcend AI",
   "rtb_quest_derive": "L'esprit en action",
@@ -1051,10 +1092,10 @@
   "intuition_answer_left": "GAUCHE",
   "intuition_answer_right": "DROIT",
   "intuition_description": "La réponse est déjà choisie, trouvez-la en utilisant votre intuition",
-  "intuition_last_correct_answer": "Dernière réponse correcte : {réponse}",
+  "intuition_last_correct_answer": "Dernière réponse correcte : {answer}",
   "@intuition_last_correct_answer": {
     "placeholders": {
-      "réponse": {
+      "answer": {
         "type": "String",
         "example": "20"
       }
@@ -1069,8 +1110,8 @@
       }
     }
   },
-  "intuition_difficulté_facile": "Easy",
-  "intuition_difficulté_moyenne": "Moyenne",
+  "intuition_difficulty_easy": "Easy",
+  "intuition_difficulty_medium": "Moyenne",
   "intuition_difficulty_hard": "Hard",
   "intuition_chart_average": "Moyenne générale des prédictions correctes",
   "intuition_chart_consecutive": "Prédictions correctes consécutives",
@@ -1111,7 +1152,7 @@
       }
     }
   },
-  "sanity_check_dialog_validity": "validité '{titre}'",
+  "sanity_check_dialog_validity": "validité '{title}'",
   "@sanity_check_dialog_validity": {
     "placeholders": {
       "title": {
@@ -1147,19 +1188,19 @@
   "sugar_pills_sugar_pills": "Sugar pills",
   "worlds_name": "Enter world type",
   "worlds_sub": "Sous-titre",
-  "worlds_dialog_nodes_without_world": "Nœuds sans monde {nombre}",
+  "worlds_dialog_nodes_without_world": "Nœuds sans monde {number}",
   "@worlds_dialog_nodes_without_world": {
     "placeholders": {
-      "nombre": {
+      "number": {
         "type": "int",
         "example": "20"
       }
     }
   },
-  "worlds_dialog_nodes_in_world": "{nombre} de noeuds",
+  "worlds_dialog_nodes_in_world": "{number} de noeuds",
   "@worlds_dialog_nodes_in_world": {
     "placeholders": {
-      "nombre": {
+      "number": {
         "type": "int",
         "example": "20"
       }
