@@ -1,6 +1,6 @@
 # ImmaterialAI-Translations
 
-_Repository for hosting and contributing to translations for [ImmaterialAI 4](https://immaterialai.com)_
+_Repository for hosting and contributing to translations for [ImmaterialAI 5](https://immaterialai.com)_
 
 ## Contributing
 If you want to contribute, [open a pull request here on Github](https://github.com/claudiu-bele/ImmaterialAI-Translations/pulls) with new changes for your language.
