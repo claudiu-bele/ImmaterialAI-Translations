@@ -1,0 +1,1354 @@
+{
+  "iai_name": "ImmaterialAI",
+  "iai_headline": "مرحبا بك في الجديد",
+  "appbar_search_all": "البحث من خلال البيانات والمحتوى",
+  "appbar_search_data": "البحث من خلال البيانات",
+  "tutorial_health_page1_headline": "درس تعليمي",
+  "tutorial_health_page1_title": "مرحبًا بكم في ImmaterialAI",
+  "tutorial_health_page1_description": "تغلب على كل شيء سلبي اليوم",
+  "tutorial_health_page1_more": "لا يوجد تتبع ، البيانات لا تترك جهازك أبدًا ، كل منطق AI يعمل محليًا",
+  "tutorial_health_page2_headline": "العقد",
+  "tutorial_health_page2_title": "تتبع ما يؤثر عليك",
+  "tutorial_health_page2_description": "ضع خريطة للذكريات والمعتقدات والمشاعر والأفكار والتوقعات والمخاوف والمزيد على العقد الفردية",
+  "tutorial_health_page2_more": "إنشاء تصنيفات جديدة عن طريق إنشاء أنواع العقد الخاصة بك",
+  "tutorial_health_page3_headline": "الروابط",
+  "tutorial_health_page3_title": "من السبب إلى النتيجة",
+  "tutorial_health_page3_description": "قم بتوصيل أي عقدتين عن طريق إضافة رابط واحد أو أكثر بينهما.",
+  "tutorial_health_page3_more": "تنفيذ دلالات جديدة عن طريق إنشاء أنواع الروابط الخاصة بك بقواعدها الخاصة",
+  "tutorial_health_page4_headline": "منظمة العفو الدولية",
+  "tutorial_health_page4_title": "غير القصة",
+  "tutorial_health_page4_description": "انظر إلى ما هو أبعد من العقليات المدمرة الحالية ، واستكشف إمكانيات جديدة وجرب الحقيقة بما يتجاوز الرأي",
+  "tutorial_health_page4_more": "لهذا السبب يثني المستخدمون لدينا على ImmaterialAI: تعمل أنظمة الذكاء الاصطناعي والأدوات الخاصة بنا على الاستفادة من العقد والروابط الخاصة بك بطرق مختلفة لمساعدتك في اكتساب رؤى تغير حياتك على مستويات متعددة من جلستك الأولى",
+  "tutorial_health_page5_headline": "الصفحة الرئيسية",
+  "tutorial_health_page5_title": "ابحث عن كل شيء في مكان واحد",
+  "tutorial_health_page5_description": "افتح المزيد من الميزات المتقدمة في مسارك وأنت تستخدم النظام الأساسي",
+  "tutorial_health_page5_more": "نحن ندعم الصورة والمناظر الطبيعية ، جربها!",
+  "home_go_back": "عُد",
+  "home_go_forward": "تقدم للامام",
+  "home_focus_unlocks_at": "إظهار العناصر التي تم التركيز عليها ، وإلغاء القفل على المستوى {level}",
+  "home_focus_on_off": "التركيز على / قبالة",
+  "home_focus_on": "قم بالتركيز على",
+  "home_focus_off": "التركيز قبالة",
+  "home_favorites_on": "المفضلة على",
+  "home_favorites_off": "المفضلة قبالة",
+  "home_favorites_tooltip": "المفضلة على / قبالة",
+  "steam_free_live_on_plus": "ImmaterialAI Plus \n تعيش على Steam",
+  "steam_free_soon_on_plus": "قريبًا على ImmaterialAI Plus \n بث مباشر على Steam",
+  "app_free_live_on_plus": "ImmaterialAI Plus \n فقط",
+  "app_free_soon_on_plus": "قريبًا إلى \n ImmaterialAI Plus",
+  "home_old_me_disabled": "طرق عرض البيانات",
+  "home_old_me_lib": "مكتبة كاملة (باستثناء بيانات 'القديمة')",
+  "home_old_me_new": "مكتبة 'حداثتي'",
+  "home_old_me_old": "مكتبة 'قديم لي'",
+  "home_old_me_all": "مكتبة 'الحالية' و 'القديمة'",
+  "home_ancestry_disabled": "مرشح النسب",
+  "home_ancestry_root": "العقد الجذرية",
+  "home_ancestry_parent": "العقد الأصل",
+  "home_ancestry_child": "العقد الفرعية",
+  "home_worlds_no_worlds" : "لم يتم اختيار أي عالم",
+  "home_worlds_selected_worlds" : "عوالم مختارة:",
+  "path_title": "غير مادي",
+  "path_sub_title": "اختيار المسار الخاص",
+  "path_starting_features": "بداية المسار",
+  "path_overcome_name": "يغلب",
+  "path_overcome_sub_title": "يفهم ويتجاوز",
+  "path_overcome_description_header": "تغلب على المشاكل العقلية",
+  "path_overcome_description": "منذ سن مبكرة نتعلم كيف يجب أن نتصرف ونتفاعل مع المواقف المختلفة أو ما هي المشاعر والحالات الصالحة. يبدأ في مرحلة الطفولة بالتعزيز الإيجابي والسلبي ، ويستمر مسرد الافتراضات في النمو ، سواء كان ذلك من خلال مراقبة الحياة من حولنا ، ومجتمعنا ، وشركائنا ، ووسائل الإعلام ، والإعلانات ، سمها ما شئت. في جميع الحالات ، لا يجب أن يؤدي حدث أو فكرة واحدة إلى حالة سلبية ، وهذا هو ما يوجد Overcome هنا لمساعدتك على فهم. \n \n وهذا يشمل الأحداث الصادمة ، والأمراض العقلية ، والإفراط في التفكير ، والقلق ، والخوف وأكثر من ذلك. \n \n إن التخلص من سلاسل السبب والنتيجة الضمنية ، وبشكل عام ، فكرة أن أي شيء يجب أن يؤدي إلى شيء محدد آخر ، يوفر مستوى غير معروف سابقًا من التحكم في الأفكار السلبية أو المقيدة. قد تجد نفسك تمر بنفس الدورات بعد معالجتها ، القصة الآن مختلفة - تظهر الأفكار ، الآن مع إدراك أن الأفكار الضارة كانت مسارًا سلبيًا للافتراضات التي اتبعتها سابقًا والتي تغيرت منذ ذلك الحين. مع التكرار ، تقوى الاستنتاجات الجديدة ولن تكون هناك معركة داخلية حول المكان الذي تقف فيه حول موضوع ما.",
+  "path_overcome_quote": "أي شخص يسلك الطريق المؤكدة يكون جيدًا مثل الموتى",
+  "path_overcome_quote_author": "كارل يونغ",
+  "path_beyond_name": "وَرَاءَ",
+  "path_beyond_sub_title": "اكتشف إمكانيات جديدة",
+  "path_beyond_description_header": "تجاوز التصور القديم",
+  "path_beyond_description": "يؤكد ما بعده مدى السرعة التي يمكن أن نكون بها في تكليف أنفسنا بمفاهيم رمزية ، ومفاهيم تحمل معها الغموض ونقاط القوة والضعف واليقين والاستحالات. يتيح لنا فصل أنفسنا عن الأفكار - الغامضة أو الملموسة - رؤية العالم وأنفسنا بشكل أوضح في كل مرة. انظر إلى ما وراء الضوضاء والحقائق الضمنية حتى تتمكن من عيش حياتك بشكل أفضل. \n \n استنادًا إلى التعاليم الجديدة القديمة والحديثة ، تمكنك Beyond من النظر إلى العالم بما يتجاوز المفاهيم ، مما يساعدك بشكل فعال على التخلص من الأشياء غير المرغوب فيها بسهولة من خلال كشف طبيعتها الحقيقية.",
+  "path_beyond_quote": "أنت لا تريد مليون إجابة بقدر ما تريد بعض الأسئلة إلى الأبد. الأسئلة هي الماس الذي تحمله في الضوء. ادرس العمر وسترى ألوانًا مختلفة من نفس الجوهرة. نفس الأسئلة ، التي تُطرح مرة أخرى ، تجلب لك الإجابات التي تحتاجها فقط في اللحظة التي تحتاجها فيها",
+  "path_beyond_quote_author": "ريتشارد باخ",
+  "path_breakthrough_name": "اختراق",
+  "path_breakthrough_sub_title": "تفكيك الواقع والأنظمة",
+  "path_breakthrough_description_header": "الواقع تحت المجهر",
+  "path_breakthrough_description": "العديد من الأفكار السائدة في الثقافة الشعبية هي مجرد مجموعات من الأفكار ملفوفة في قصص غير مكتملة في كثير من الأحيان. يعيد الاختراق إحياء الشعلة المتعجبة لـ \" لماذا \" و \" لماذا لا \" من أجل إزالة صفة النظريات غير المكتملة في الأساس التي توصف بأنها حقائق ، والتي تتضح بوضوح بمجرد النظر إلى ما وراء طبقات التفكير الأولية. \n \n تطلب منا الاختراق النظر إلى ما وراء قصص المفاهيم التي نتمسك بها من أجل رؤيتها في ضوء جديد أوضح. للوهلة الأولى ، العديد من المفاهيم عن الذات أو العالم وحشية ، لا ترحم ، ومع ذلك تعمق وتتغير القصة. \n \n ستندهش من الصحة الحقيقية لمعرفتك السابقة. ستظهر العديد من الحقائق القديمة على أنها مجهولة حقًا أو أكاذيب أو مغالطات منطقية ، مما يتيح لك التخلص منها بوعي وإيجاد إمكانيات وبدائل جديدة",
+  "path_breakthrough_quote": "اتبع نعيمك وسوف يفتح الكون أبوابه حيث لم يكن هناك سوى الجدران.",
+  "path_breakthrough_quote_author": "جوزيف كامبل",
+  "path_create_name": "يخلق",
+  "path_create_sub_title": "بيانات الخريطة بأبعاد لا نهائية",
+  "path_create_description_header": "خلق أكوان من المفاهيم",
+  "path_create_description": "بخلاف أي أدوات بيانات مستخدم أخرى تنظم البيانات في قوائم أو جداول أو مستندات ، فإن بيانات ImmaterialAI الخاصة بك تشبه بشكل عضوي بنية الدماغ والكون ، مما يسمح لك بتخطيط البيانات بأكثر من أبعاد لا نهائية. تعمل عقدة المعلومات مثل الخلايا العصبية ، بينما الروابط بينها مثل نقاط الاشتباك العصبي. قم بتوصيلهم وانظر إلى أي مدى يتواصلون بشكل مباشر وغير مباشر مع بعضهم البعض. \n \n حصريًا لمستخدمي ImmaterialAI Plus - وإلغاء القفل الأول لمستخدمي Create فقط - يمكنك إنشاء أنواع جديدة من الخلايا العصبية والمشابك من بداية IAI الخاص بك الرحلة ، مما يمكّنك بشكل فعال من وصف بياناتك بأكثر من أبعاد مكعبة لا متناهية. يمكنك أيضًا تصفية مكتبتك بسهولة حسب أنواع العقدة المتعددة جنبًا إلى جنب مع المرشحات الحالية (مثل todo ، و old / new me ، والتركيز ، وما إلى ذلك) ، بالإضافة إلى تكوين إنشاء الرسم البياني لتضمين أو استبعاد أي أنواع إعجاب موجودة ومخصصة",
+  "path_create_quote": "لا تتمثل الرحلة الاستكشافية الحقيقية في البحث عن مناظر طبيعية جديدة ، ولكن في الحصول على عيون جديدة.",
+  "path_create_quote_author": "مارسيل بروست",
+  "path_start_title": "التحميل: إنشاء مسارك الشخصي",
+  "path_start_subtitle": "افتح المزيد من الميزات وأنت في المستوى الأعلى!",
+  "settings_cat_customization": "التخصيص",
+  "settings_cat_graphics_performance": "الرسومات والأداء",
+  "settings_full_screen": "تكبير الشاشة",
+  "settings_page_mode": "وضع الصفحة",
+  "settings_skin": "اختر نموذجا",
+  "settings_alternative_flow_must_be_deselected": "يجب إلغاء تحديد التدفق البديل {flow}",
+  "settings_skin_default": "تقصير",
+  "settings_skin_inverse": "معكوس",
+  "settings_background": "حدد صورة الخلفية",
+  "settings_background_remove": "يزيل",
+  "settings_background_select": "اختر صورة",
+  "settings_high_quality_transitions": "انتقالات عالية الجودة",
+  "settings_high_quality_graphs": "رسوم بيانية عالية الجودة",
+  "settings_change_menu_left_right": "تغيير القائمة من اليسار إلى اليمين",
+  "settings_cat_other": "آخر",
+  "settings_see_licenses": "انظر التراخيص",
+  "settings_cat_general": "عام",
+  "settings_animations": "الرسوم المتحركة",
+  "settings_change_ui_mode": "تخطيط مربعات المحتوى",
+  "settings_performance_mode": "وضع الأداء",
+  "settings_different_user_path": "حدد مسار مستخدم مختلف",
+  "settings_restart_tutorial": "أعد تشغيل البرنامج التعليمي",
+  "settings_clear_user_library": "مسح مكتبة المستخدم",
+  "settings_hide_future_locked_content_on": "إظهار كافة الميزات المقفلة",
+  "settings_hide_future_locked_content_off": "إخفاء الميزات المقفلة في المستقبل",
+  "settings_language": "تغيير اللغة",
+  "settings_language_general": "لغة",
+  "settings_language_remove": "إزالة اللغة المخصصة",
+  "settings_exit": "منصة الخروج",
+  "settings_data":"بيانات",
+  "settings_backup_location": "مجلد النسخ الاحتياطي",
+  "settings_backups_on_startup": "النسخ الاحتياطي عند بدء التشغيل",
+  "settings_backups_at_frequency": "النسخ الاحتياطي كل X دقيقة أثناء التطبيق",
+  "settings_backups_overwrite_backup_on_any_change": "اكتب خلال النسخ الاحتياطي اليومي أي تغييرات",
+  "settings_enforce_node_details_layout" : "عدد علامات التبويب",
+  "settings_enforce_node_details_layout_default" : "يتم تحديدها حسب نوع الشاشة",
+  "settings_enforce_node_details_layout_one_tab" : "جميع نصوص وتفاصيل العقدة 1 علامة تبويب واحدة",
+  "settings_enforce_node_details_layout_two_tabs" : "نصوص العقدة والتفاصيل في علامتي تبويب منفصلتين",
+  "box_library": "مكتبة",
+  "box_settings": "الإعدادات وتفضيلات المستخدم",
+  "box_add_n": "عقدة جديدة",
+  "box_add_n_sub_title": "أي شيء يمكنك تسميته",
+  "box_add_nt": "نوع عقدة جديد",
+  "box_add_nt_sub_title": "مجموعات المفاهيم على سبيل المثال 'الكيانات' ، 'الأحداث'",
+  "box_add_l": "رابط جديد",
+  "box_add_l_sub_title": "ربط أي مفهومين",
+  "box_add_lt": "نوع ارتباط جديد",
+  "box_add_lt_sub_title": "أنواع الروابط على سبيل المثال 'الوالد / الطفل'",
+  "box_add_world": "عالم جديد",
+  "box_add_world_sub_title": "قسّم مكتبتك",
+  "box_student": "طالب",
+  "box_student_sub_title": "افتح الأصل المطلق والحزم والتركيز وسلسلة العقدة",
+  "box_teacher": "مدرس",
+  "box_teacher_sub_title": "فتح المفضلة ، الجديدة / القديمة لي ، الصورة الكبيرة ، البحث عن الرابط وهل هو حقيقي؟",
+  "box_800_teachers": "800 معلم",
+  "box_800_teachers_sub_title": "افتح المهام ، والنماذج الوصفية ، وجميع تدفقات الذكاء الاصطناعي ، والمجموعات ، والتحقق من الصحة ، وتجاوز ، والتدريب على الحدس ، والعوالم ، والمزيد",
+  "box_return_to_bliss": "العودة إلى النعيم",
+  "box_return_to_bliss_sub_title": "ابحث عن التحديات ، والتقدم المتدرج ، وفتح المكافآت ، والحصريات الموقوتة",
+  "box_direct_links": "رابط مباشر",
+  "box_direct_links_sub_title": "اربط بسهولة عقدتين من داخل أي عقدة",
+  "box_tasks": "لوحة المهام",
+  "box_tasks_sub_title": "تتبع ما يجب القيام به",
+  "box_tasks_filter": "عامل تصفية المهام",
+  "box_tasks_filter_sub_title": "تصفية المهام من الصفحة الرئيسية الخاصة بك",
+  "box_me": "أنا",
+  "box_me_sub_title": "تم إنشاؤه تلقائيًا من حالات العقدة الحالية / القديمة",
+  "box_absolute_origin": "أصل مطلق",
+  "box_absolute_origin_sub_title": "تعتمد وظيفة AI على روابط 'الإثبات' ، في تفاصيل العقدة",
+  "box_bundles": "حزم",
+  "box_bundles_sub_title": "تتبع ما يجب القيام به",
+  "box_backups": "استيراد و تصدير",
+  "box_backups_sub_title": "من وإلى ملف ونص + دعم النسخ الاحتياطية IAI Classic",
+  "box_backups_import": "استيراد ملف",
+  "box_backups_import_sub_title": "استعادة ملفات AI 2 و 3 غير المادية",
+  "box_backups_import_text": "نص الاستيراد",
+  "box_backups_import_text_sub_title": "الصق النص هنا",
+  "box_backups_export": "ملف التصدير",
+  "box_backups_export_include_preferences": "قم بتضمين التفضيلات",
+  "box_backups_export_sub_title": "احفظ جميع بياناتك في ملف",
+  "box_backups_export_text": "نص تصدير",
+  "box_backups_export_text_sub_title": "انسخ النص الناتج وقم بتخزينه أينما تريد",
+  "box_tree_view": "عرض الشجرة",
+  "box_tree_view_sub_title": "انظر إلى العقد الخاصة بك كأشجار قابلة للتكوين",
+  "box_big_picture": "الصورة الكبيرة",
+  "box_big_picture_sub_title": "استكشاف المفاهيم كشبكات مترابطة",
+  "box_is_it_real": "انها حقيقية؟",
+  "box_is_it_real_sub_title": "تعتمد وظيفة AI على روابط 'الإثبات' ، في تفاصيل العقدة",
+  "box_dependency_tree": "الرسم البياني التبعية",
+  "box_dependency_tree_sub_title": "تعتمد وظيفة AI على روابط 'تعتمد على' ، في تفاصيل العقدة",
+  "box_rich_text": "النص الغني",
+  "box_check_for_link": "تحقق من وجود ارتباط",
+  "box_check_for_link_sub_title": "بين أي عقدتين",
+  "box_rich_text_sub_title": "قم بتنسيق أوصاف العقد الخاصة بك باستخدام Markdown",
+  "box_ancestry_filter": "مرشح النسب",
+  "box_ancestry_filter_sub_title": "شاهد جميع العقد الجذرية والوالدية والفرعية",
+  "box_clusters": "عناقيد المجموعات",
+  "box_clusters_sub_title": "كيف يتم تنظيم عقلك",
+  "box_sanity_check": "الاختيار التعقل",
+  "box_sanity_check_sub_title": "تحقق من وجود مشكلات في مكتبتك ، وصلاحية ما قبل الذكاء الاصطناعي وما بعده ، وتوزيع الصلاحية والمزيد",
+  "box_quantum_field": "مجال الكم",
+  "box_quantum_field_sub_title": "انظر كله",
+  "box_train_intuition": "تدريب حدسك",
+  "box_train_intuition_sub_title": "3 صعوبات مع الإحصائيات (معدل النجاح المتتالي ومتوسط)",
+  "box_presentation_mode": "وضع العرض",
+  "box_presentation_mode_sub_title": "إخفاء البيانات الشخصية عند استخدام النظام الأساسي",
+  "box_quantum_noise": "ضوضاء الكم",
+  "box_quantum_noise_sub_title": "احصل على توصيات مدعومة بالتشابك ، تتطلب الإنترنت للحصول على البيانات من المختبر في أستراليا",
+  "box_sugar_pills": "حبوب السكر",
+  "box_sugar_pills_sub_title": "استحث على الدواء الوهمي عن طيب خاطر",
+  "box_focus": "ركز",
+  "box_focus_sub_title": "الوصول إلى المفاهيم المركزة من المنزل",
+  "box_node_ancestry": "أصل العقدة",
+  "box_node_ancestry_sub_title": "تعتمد وظيفة AI على الروابط 'الأصل' ، في تفاصيل العقدة",
+  "box_worlds_filter": "عوالم",
+  "box_worlds_filter_sub_title": "قم بتعيين عوالم محددة للعقد الخاصة بك واعرض التطبيق من منظور عالم واحد فقط",
+  "box_favorites": "المفضلة",
+  "box_fav_sub_title": "في تفاصيل العقدة",
+  "box_old_me": "جديد / قديم لي",
+  "default_data_cant_delete": "البيانات الافتراضية ، لا يمكن حذفها",
+  "default_nt_internal_all": "الجميعالجميع",
+  "default_nt_internal_journey": "طريقطريق",
+  "default_nt_internal_system": "داخليداخلي",
+  "default_nt_concept": "مفهوممفهوم",
+  "default_nt_system": "نظامنظام",
+  "default_nt_feeling": "إحساسإحساس",
+  "default_nt_thought": "معتقدمعتقد",
+  "default_nt_effect": "تأثيرتأثير",
+  "default_nt_event": "حدثحدث",
+  "default_nt_quote": "يقتبسيقتبس",
+  "default_nt_entity": "كيانكيان",
+  "default_nt_study": "يذاكريذاكر",
+  "default_nt_note": "ملحوظةملحوظة",
+  "default_nt_insight": "بصيرةبصيرة",
+  "default_nt_fear": "يخافيخاف",
+  "default_nt_process": "عمليةعملية",
+  "default_nt_location": "موقعموقع",
+  "default_n_nothing": "لا شئلا شئ",
+  "default_n_known_unknown": "معروف غير معروفمعروف غير معروف",
+  "default_n_unknown_unknown": "غير معروف غير معروفغير معروف غير معروف",
+  "default_n_unknown_general": "مجهولمجهول",
+  "default_n_everything": "كل شئكل شئ",
+  "default_lt_favorite": "مفضلمفضل",
+  "default_lt_favorite_src_text": "تم وضع علامة 'مفضل'تم وضع علامة 'مفضل'",
+  "default_lt_focus": "ركزركز",
+  "default_lt_focus_src_text": "تم وضع علامة على أنها مركزةتم وضع علامة على أنها مركزة",
+  "default_lt_old_me": "انا القديمانا القديم",
+  "default_lt_old_me_src_text": "تم وضع علامة 'قديم لي'تم وضع علامة 'قديم لي'",
+  "default_lt_tasks": "مهاممهام",
+  "default_lt_tasks_src_text": "موجود في قائمة المهامموجود في قائمة المهام",
+  "default_lt_public_data": "تشغيل / إيقاف تشغيل البيانات العامةتشغيل / إيقاف تشغيل البيانات العامة",
+  "default_lt_public_data_src_text": "هي بيانات عامةهي بيانات عامة",
+  "default_lt_public_data_tar_text": "--",
+  "default_lt_parent": "الوالد / الطفلالوالد / الطفل",
+  "default_lt_parent_src_text": "هو والدهو والد",
+  "default_lt_parent_tar_text": "هو ابنهو ابن",
+  "default_lt_proof": "دليلدليل",
+  "default_lt_proof_src_text": "ثبت من قبلثبت من قبل",
+  "default_lt_proof_tar_text": "يثبتيثبت",
+  "default_lt_source": "مصدرمصدر",
+  "default_lt_source_src_text": "هو مصدرهو مصدر",
+  "default_lt_source_tar_text": "له مصدرله مصدر",
+  "default_lt_cause_effect": "سبب تأثيرسبب تأثير",
+  "default_lt_cause_effect_src_text": "الأسبابالأسباب",
+  "default_lt_cause_effect_tar_text": "حدث بسببحدث بسبب",
+  "default_lt_related": "متعلق بمتعلق ب",
+  "default_lt_related_src_tar_text": "متعلق بمتعلق ب",
+  "default_lt_equality": "يكونيكون",
+  "default_lt_equality_src_tar_text": "يكونيكون",
+  "default_lt_parallel": "موازيموازي",
+  "default_lt_parallel_src_tar_text": "له موازيةله موازية",
+  "default_lt_analog": "التناظريةالتناظرية",
+  "default_lt_analog_desc": "شيء له تشبيه بشيء آخرشيء له تشبيه بشيء آخر",
+  "default_lt_analog_src_tar_text": "هو مشابه لهو مشابه ل",
+  "default_lt_dependency": "التبعياتالتبعيات",
+  "default_lt_dependency_src_text": "هو تبعيةهو تبعية",
+  "default_lt_dependency_tar_text": "يعتمد علىيعتمد على",
+  "default_lt_location": "في الموقعفي الموقع",
+  "default_lt_location_src_text": "له / له موقعله / له موقع",
+  "default_lt_location_tar_text": "هو / كان موقعهو / كان موقع",
+  "n_add_name": "اسم المفهوماسم المفهوم",
+  "n_add_name_plus": "اسم المفهوم ، استخدم الفاصلة لإنشاء عدة عقداسم المفهوم ، استخدم الفاصلة لإنشاء عدة عقد",
+  "n_quick_add_add_link_type" : "حدد نوع الارتباطحدد نوع الارتباط",
+  "n_add_select_node_type": "حدد نوع العقدةحدد نوع العقدة",
+  "n_plus_editor_hint": "اكتب في Markdown",
+  "n_tab_details": "تفاصيلتفاصيل",
+  "n_tab_ai": "منظمة العفو الدوليةمنظمة العفو الدولية",
+  "n_tab_text": "نصنص",
+  "n_tab_tree": "شجرةشجرة",
+  "n_tab_big_picture": "الصورة الكبيرةالصورة الكبيرة",
+  "n_hint_name": "اسماسم",
+  "n_hint_subtitle": "العنوان الفرعيالعنوان الفرعي",
+  "n_hint_desc": "وصفوصف",
+  "n_direct_links" : "روابط مباشرة للعقدروابط مباشرة للعقد",
+  "n_mentions" : "ذكر فيذكر في",
+  "n_mentions_worlds_selected" : "(ضمن عوالم مختارة)(ضمن عوالم مختارة)",
+  "n_hint_plus_view": "منظرمنظر",
+  "n_hint_plus_edit": "يحرريحرر",
+  "n_deleting": "عقدة حذفعقدة حذف",
+  "n_focus_general": "ركزركز",
+  "n_focus_off": "ركزركز",
+  "n_focus_on": "مركزةمركزة",
+  "n_save": "يحفظيحفظ",
+  "n_delete": "يمسحيمسح",
+  "n_copy": "ينسخينسخ",
+  "n_copy_adjacent_nodes_on": "مع العقد المجاورةمع العقد المجاورة",
+  "n_copy_adjacent_nodes_off": "بدونبدون",
+  "markdown_editor_title": "عنوانعنوان",
+  "markdown_editor_bold": "عريضعريض",
+  "markdown_editor_italic": "مائلمائل",
+  "markdown_editor_strikethrough": "يتوسطه خطيتوسطه خط",
+  "markdown_editor_link": "وصلةوصلة",
+  "markdown_editor_iai_link": "رابط عقدة رابط عقدة IAI",
+  "markdown_editor_list": "قائمةقائمة",
+  "markdown_editor_code": "شفرةشفرة",
+  "markdown_editor_quote": "يقتبسيقتبس",
+  "markdown_editor_separator": "فاصلفاصل",
+  "markdown_editor_image": "صورةصورة",
+  "markdown_editor_image_file": "ملف الصورةملف الصورة",
+  "markdown_editor_iai_node": "عقدة عقدة IAI",
+  "markdown_editor_table": "طاولةطاولة",
+  "l_node_a": "العقدة أالعقدة أ",
+  "l_node_b": "عقدة بعقدة ب",
+  "l_link_type": "نوع الارتباطنوع الارتباط",
+  "nt_name": "اسم نوع العقدةاسم نوع العقدة",
+  "nt_description" : "وصفوصف",
+  "nt_parent" : "الأبوينالأبوين",
+  "lt_name": "اسم نوع الارتباطاسم نوع الارتباط",
+  "lt_desc" : "كل علاقة في ImmaterialAI تقع بين مفهومين ، A و B. \n يمكنك تكوين نوع الارتباط الخاص بك لتقييد أي نوع من أنواع المفاهيم يمكن أن يكون A و B ، \n أو ترك أي منها فارغًا للسماح لجميع أنواع المفاهيم على أي منهما نهايةكل علاقة في ImmaterialAI تقع بين مفهومين ، A و B. \n يمكنك تكوين نوع الارتباط الخاص بك لتقييد أي نوع من أنواع المفاهيم يمكن أن يكون A و B ، \n أو ترك أي منها فارغًا للسماح لجميع أنواع المفاهيم على أي منهما نهاية",
+  "lt_add_node_type" : "أضف نوع العقدةأضف نوع العقدة",
+  "lt_add_node_type_a" : "أنواع أأنواع أ",
+  "lt_add_node_type_b" : "أنواع بأنواع ب",
+  "lt_add_node_type_dialog_search": "ابحث أو أدخل اسم نوع العقدة الجديدةابحث أو أدخل اسم نوع العقدة الجديدة",
+  "lt_a" : "مصدر)مصدر)",
+  "lt_a_b" : "A & B (المصدر والهدف)",
+  "lt_b" : "ب (الهدف)ب (الهدف)",
+  "lt_direction_matters" : "الاتجاه مهم:الاتجاه مهم:",
+  "lt_direction_info" : "إذا كانت خاطئة ، يمكن استخدام A-> B و B-> A بالتبادل (مفيد للعلاقات المعممة)",
+  "lt_multiple_sources" : "يمكن أن يكون للأهداف مصادر متعددة:",
+  "lt_save_warning_name": "أدخل اسم نوع الارتباط قبل أن تتمكن من الحفظ",
+  "lt_save_warning_a_b": "أدخل اسمًا لـ A-> B",
+  "lt_save_warning_a_b_vice_versa": "أدخل اسمًا لـ A-> B و B-> A",
+  "home_tasks_disabled": "انقر لإظهار المهام",
+  "tasks_general": "مهام",
+  "tasks_create_task": "إنشاء مهمة",
+  "tasks_todo": "لكى يفعل",
+  "tasks_in_progress": "في تَقَدم",
+  "tasks_done": "منتهي",
+  "tasks_all": "كل المهام",
+  "me_current_me": "(الحالي) أنا",
+  "me_old_me": "انا القديم",
+  "n_public_general": "البيانات العامة",
+  "n_public_data_on": "عام",
+  "n_public_data_off": "خاص",
+  "n_favorite_general": "المفضلة",
+  "n_favorite_off": "المفضلة",
+  "n_favorite_on": "مفضل",
+  "n_old_me_general": "أنا",
+  "n_old_me_create": "أنا الوضع",
+  "n_old_me_current": "الحالي لي",
+  "n_old_me_old": "انا القديم",
+  "n_ancestry_src": "توجيه الأطفال",
+  "n_ancestry_tar": "الوالدين المباشرين",
+  "n_dependency_title": "التبعيات المباشرة",
+  "n_dependency_desc": "العناصر الموجودة على اليمين تعتمد على العناصر الموجودة على اليسار",
+  "n_dependency_src": "يعتمد عليها",
+  "n_dependency_tar": "يعتمد على",
+  "n_is_it_real_no_hierarcy": "\n مفهوم غير حاسم يفتقد رابط 'الإثبات'",
+  "n_is_it_real_self_ref": "المرجع الذاتي",
+  "n_is_it_real_nothing": "غير حقيقي \n تم العثور على دليل \n 'لا شيء \n'",
+  "n_is_it_real_known_unknown": "معروف غير معروف \n تم العثور على دليل 'غير معروف حاليًا'",
+  "n_is_it_real_incomplete": "مفاهيم غير حاسمة مرتبطة تفتقد رابط 'الإثبات'",
+  "general_search": "يبحث",
+  "general_types": "أنواع الارتباط",
+  "general_node": "العقدة",
+  "general_nodes": "العقد",
+  "general_link": "وصلة",
+  "general_links": "الروابط",
+  "general_users": "المستخدمون",
+  "general_node_types": "أنواع العقدة",
+  "general_link_types": "أنواع الارتباط",
+  "general_link_types_requirement": "متطلبات نوع الارتباط",
+  "general_worlds": "عوالم",
+  "general_preferences": "التفضيلات",
+  "general_copy_to_clipboard": "نسخ إلى الحافظة",
+  "general_export": "يصدّر",
+  "general_change_from_settings": "التغيير من الإعدادات",
+  "general_yes": "نعم",
+  "general_no": "لا",
+  "general_button_on": "على",
+  "general_button_off": "عن",
+  "general_button_next": "التالي",
+  "general_button_done": "منتهي",
+  "general_button_create": "يخلق",
+  "general_button_select": "يختار",
+  "general_button_change": "يتغير",
+  "general_button_confirm": "يتأكد",
+  "general_button_add": "يضيف",
+  "general_button_delete": "يمسح",
+  "general_button_remove": "يزيل",
+  "general_button_update": "تحديث",
+  "general_button_prev": "السابق",
+  "general_button_back": "خلف",
+  "general_button_start": "يبدأ",
+  "general_button_more": "شاهد المزيد",
+  "general_button_tap_to_change" : "اضغط للتغيير",
+  "general_coming_soon": "قريباً",
+  "general_coming_soon_plus": "بالإضافة إلى ذلك ، قريبًا",
+  "general_coming_soon_plus_or_lite": "PLUS & PLUS LITE ، قريبًا",
+  "general_coming_soon_plus_alt": "بالإضافة إلى ذلك ، قريبًا",
+  "general_coming_soon_plus_alt_or_lite": "PLUS & PLUS LITE ، قريبًا",
+  "general_unlocks_at_level_plus": "PLUS ، {level} المستوى",
+  "general_unlocks_at_level_plus_or_lite": "PLUS & PLUS LITE ، {level} المستوى",
+  "general_plus_only": "زائد فقط",
+  "general_plus_or_lite_only": "Plus أو Plus Lite",
+  "general_are_you_sure": "هل أنت متأكد؟",
+  "general_unlocks_at_level": "فتح على المستوى {level}",
+  "general_unlocks_at_level_short": "فتح على {level}",
+  "general_unlocks_at_level_2line": "فتح على \n المستوى {level}",
+  "general_level": "لمستوى {level}",
+  "general_icon": "يقونة",
+  "general_color": "ون",
+  "general_true": "قيقي",
+  "general_false": "طأ شنيع",
+  "general_node_search_or_new": "بحث أو أدخل اسمًا جديدًا للعقدة",
+  "general_node_node_to_inline": "قدة مضمنة",
+  "general_time_created": "خلوق",
+  "general_time_updated": "حدث",
+  "general_moments_ago": "نذ لحظات",
+  "general__time__one_second": "بل ثانية واحدة",
+  "general__time__seconds": "بل {seconds} ثانية",
+  "general__time__one_minute": "نذ 1 دقيقة",
+  "general__time__minutes": "قائق",
+  "general__time__minute": "بل {minutes} دقيقة",
+  "general__time__one_hour": "نذ 1 ساعة",
+  "general__time__hour": "بل {hours} ساعة",
+  "general__time__one_day": " منذ يوم",
+  "general__time__day": "بل {days} يوم",
+  "general__time__one_week": " قبل أسبوع",
+  "general__time__week": "بل {weeks} أسبوع",
+  "general__time__one_month": " قبل شهر",
+  "general__time__month": "بل {months} شهر",
+  "general__time__one_year": "نذ سنة 1",
+  "general__time__year": "بل {years} عام",
+  "ur_unravel_save": "حفظ",
+  "ur_unravel_restart": "عادة تشغيل",
+  "ur_unravel_back_home": "لف",
+  "ur_unravel_restart_first_item": "ن العنصر الأول",
+  "ur_unravel_answer_selected": "لعنصر \"{item}\"",
+  "ur_deconstruct_card_title": "فكيك",
+  "ur_deconstruct_card_sub": "فكيك المفاهيم",
+  "ur_deconstruct_card_desc": "نتقل إلى مصادر وأصول الدول الحالية",
+  "ur_deconstruct_card_title_skeptic": "لمتشكك",
+  "ur_deconstruct_card_sub_skeptic": "ساعدك على رؤية ما وراء ذلك",
+  "ur_deconstruct_card_desc_skeptic": "ساعدك على رؤية ما وراء ذلك",
+  "ur_reshape_card_title": "عادة تشكيل",
+  "ur_reshape_v2_card_title": "عادة تشكيل +",
+  "ur_reshape_v2_card_sub": "غيير رد فعلك (الآن مع تمييز مطلق / نسبي)",
+  "ur_reshape_card_sub": "عادة تشكيل الاستجابات العاطفية",
+  "ur_reshape_card_desc": "ير رد فعلك",
+  "ur_iam_card_title": "نا أكون …",
+  "ur_iam_card_sub": "ن يقول لك عقلك؟",
+  "ur_iam_card_desc": "نظر إلى ما وراء المفاهيم",
+  "ur_iam_card_title_alt": "لارج الأورك",
+  "ur_iam_card_sub_alt": "خبر Blarg بما يدور في ذهنك",
+  "ur_iam_card_desc_alt": "خبر Blarg بما يدور في ذهنك",
+  "ur_iam_card_title_csb": "صة رائعة يا أخي",
+  "ur_iam_card_sub_csb": "عال يا رجل ، لن أخبرك أنه ليس حقيقي",
+  "ur_iam_card_desc_csb": "عال يا رجل ، لن أخبرك أنه ليس حقيقي",
+  "ur_transcend_card_title": "جاوز",
+  "ur_transcend_card_sub": "خطي كل الخطوات",
+  "ur_transcend_card_desc": "ا مزيد من الدول السلبية",
+  "ur_fearless_card_title": "ا يعرف الخوف",
+  "ur_fearless_card_sub": "ا مزيد من المخاوف",
+  "ur_fearless_card_desc": "ا مزيد من المخاوف",
+  "ur_deconstruct_title": "اذا تريد تفكيك؟",
+  "ur_deconstruct_desc": "بحث عن العقدة أو أدخل اسمًا لعقدة جديدة",
+  "ur_deconstruct_cont_title": "ا هو مصدرها / ما الذي يجعلها حقيقية؟",
+  "ur_deconstruct_cont_desc": "ل هي مجرد قصة؟ هل يمكن أن يتغير؟",
+  "ur_deconstruct_title_skeptic": "ذا قل لي ، ما رأيك هو الصحيح؟",
+  "ur_deconstruct_desc_skeptic": "بحث عن العقدة أو أدخل اسمًا لعقدة جديدة",
+  "ur_deconstruct_cont_title_skeptic": "ماذا؟",
+  "ur_deconstruct_cont_desc_skeptic": "كي تكون حقيقية ، يجب أن يكون لها بعض الأدلة",
+  "ur_deconstruct_action_select": "ختار",
+  "ur_deconstruct_action_existing": "وجود",
+  "ur_deconstruct_action_existing_pattern": "({item})",
+  "ur_deconstruct_action_nothing": "ا شئ",
+  "ur_deconstruct_action_dontknow": "جهول",
+  "ur_deconstruct_answer_dontknow": "ير مؤكد من المصدر",
+  "ur_deconstruct_answer_nothing": "ا يوجد مصدر للوجود",
+  "ur_deconstruct_answer_circular": "لتبعية الدائرية",
+  "ur_deconstruct_answer_selfref": "لمرجع الذاتي",
+  "ur_reshape_action_next_select": "ختار",
+  "ur_reshape_action_next_end": "هاية",
+  "ur_reshape_start_title": "دخل شعورًا سلبيًا ناتجًا عن موقف سابق أو موجود",
+  "ur_reshape_start_description": "بحث عن شعور موجود أو أدخل اسمًا لشعور جديد",
+  "ur_reshape_situation_title": "ما هو الوضع الذي جلب \"{feeling}\"؟",
+  "ur_reshape_situation_description": "ا هو الوضع الذي أتى بك إلى هناك؟",
+  "ur_reshape_cause_effect_title": "ِف الزاوية على \" {situation} \" التي أوصلتك إلى \" {feeling} \"",
+  "ur_reshape_cause_effect_description": "ذه ليست القصة الكاملة",
+  "ur_reshape_cause_title": "ا الذي أتى بك \" {feeling} \" من \" {situation} \"؟",
+  "ur_reshape_resolution_title": "\" {situation} \" لا يجب أن يجعلك تشعر \" {feeling} \" ، مما يعني أن مشكلتك تأتي منك على وجه التحديد",
+  "ur_reshape_resolution_description": "الإضافة إلى هذه المعرفة التي يتم تقديمها لك الآن ، فإننا نقدم حلين محتملين ، كلاهما متميز في مجالهما واستخدامهما",
+  "ur_reshape_resolution_action_monad": "لمجال المطلق",
+  "ur_reshape_resolution_action_dyad": "لمجال النسبي",
+  "ur_reshape_new_effect_title": "ا ينبغي أن يشعرك هذا بالضرورة بـ \" {feeling} \" ، لا تفعل ذلك بنفسك. هل من طرق أفضل يمكنك النظر إليها؟",
+  "ur_reshape_new_effect_description": "نظر إلى الموقف من مكان أكثر إشراقًا. ابحث أو اخلق الشعور",
+  "ur_reshape_new_effect_v2_title": "ل من طريقة أفضل لإلقاء نظرة على \" {situation} \"؟",
+  "ur_reshape_new_effect_dialog": "ا هي أفضل طريقة للشعور حيال \" {situation} \"؟",
+  "ur_reshape_new_effect_cause_title": "ا الذي يجعلك تشعر \" {feeling} \" حيال ذلك؟",
+  "ur_reshape_new_effect_cause_description": "ِف الزاوية على \" {situation} \" التي أوصلتك إلى \" {feeling} \"",
+  "ur_reshape_end_action": "نهي",
+  "ur_reshape_end_title": "قد غيرت شعورك تجاه \" {situation} \"!",
+  "ur_reshape_end_subtitle": "{feel1} -> {feel2}",
+  "ur_reshape_end_description": "يمكنك تحديد الفكرة التي جلبت لك \" {feeling} \" خارج \" {situation} \" ، أو انقر على \" إنهاء \" لإنهاء التدفق.",
+  "ur_reshape_result_changed_title": "إعادة تشكيل",
+  "ur_reshape_result_changed_desc": "لقد غيرت ما تشعر به حيال \" {situation} \" ، من \" {oldFeeling} \" إلى \" {newFeeling} \". \n \n يمكنك متابعة هذه العملية متى شئت تواجه السلبية في تصورك",
+  "ur_reshape_result_changed_optional_desc": "لقد غيرت ما تشعر به حيال \" {situation} \" من \" {oldFeeling} \" إلى \" {newFeeling} \" ، وكشف أيضًا انطباعك عن الموقف الذي أدى إلى الحالة السلبية ( {interpretation}). \n \n يمكنك متابعة هذه العملية مرة أخرى كلما واجهت سلبية في إدراكك.",
+  "ur_reshape_result_changed_absolute_title": "من الآن فصاعدًا ، تأكد من أنك لا تقفز من \n - ما هو ('{situation}') إلى \n - كيف تختار إدراك ذلك ('{feeling}' بسبب '{interpretation}').",
+  "ur_reshape_result_changed_absolute_desc": "إذا كانت مشكلة شر ، فهم أن الحياة ليست عادلة دائمًا ، والإجابة على ذلك هي كيف نعيش الحياة بمعرفة ذلك.",
+  "ur_iam_answer_end": "أنت لست تلك المفاهيم",
+  "ur_iam_answer_end_flow": "انتهى",
+  "ur_iam_action_select": "يختار",
+  "ur_iam_action_next_select": "يختار",
+  "ur_iam_action_next_end": "نهاية",
+  "ur_iam_title": "ما أنت؟",
+  "ur_iam_desc": "أي شيء تعتبره سلبيًا وصحيحًا عن نفسك",
+  "ur_iam_cont_title": "أنت لست '{concept}'",
+  "ur_iam_cont_desc": "'{concept}' مجرد مفهوم ، أنت أبعد من ذلك. حدد شيئًا آخر أو انقر على 'إنهاء' لإنهاء التدفق",
+  "ur_iam_result__iam_end": "أنت والعالم ليسوا أيًا من المفاهيم التي أدخلتها ، فالقصة الحقيقية تتجاوز أي تعريف! \n \n نحن لا نقول أن كل الأفكار ليس لها عناصر متزامنة في الواقع ، فقط يجب أن تنتقل من التجربة أولاً بدلا من الكلمات أولا.",
+  "ur_iam_title_alt": "ما مشكلتك ، أخبر بلارج",
+  "ur_iam_cont_title_alt": "{concept}؟",
+  "ur_iam_cont_desc_alt": "لا يعرف Blarg أي شيء عن '{concept}' ، فهو يعتقد أنه ليس لديك مشكلة. حدد شيئًا آخر أو انقر على 'إنهاء' لإنهاء التدفق",
+  "ur_iam_result__iam_end_alt": "لا يفهم Blarg شيئًا واحدًا مما قلته ، فالقصة الحقيقية تتجاوز أي تعريف! \n \n نحن لا نقول إن كل الأفكار لا تحتوي على عوامل في الواقع ، فقط يجب أن تنتقل من التجربة أولاً بدلاً من ذلك من الكلمات أولا.",
+  "ur_iam_title_csb": "قل لي ، ما الذي تمر به؟",
+  "ur_iam_cont_title_csb": "{concept}؟",
+  "ur_iam_cont_desc_csb": "كنت أمزح - قصة رائعة يا أخي! هل حصلت على المزيد من تلك القصص الخيالية؟",
+  "ur_iam_result__iam_end_csb": "هناك حالات حقيقية يجب أن نمر بها ، لكن لا تضيع في التعريفات. هناك ظلم حيث يجب أن ينشأ الغضب ، والحب والسلام عندما يكون ذلك مناسبًا ، وما إلى ذلك \n \n نحن لا نقول أن كل الأفكار لا تحتوي على عوامل في الواقع ، فقط يجب أن تنتقل من التجربة أولاً بدلاً من الكلمات أولاً.",
+  "ur_deconstruct_result__dontknow": "نظرًا لأنه لا يمكنك العثور على مصدر أساسي لـ \" {concept} \" ، يمكنك فصله عنه. قد يكون وضعك مختلفًا ، أو عكس ذلك ، أو قد لا يكون موجودًا كما كنت تعرفه. \n \n احفر بعمق لمعرفة ما حدث بالفعل",
+  "ur_deconstruct_result__nothing": "كل ما كان مطلوبًا هو بضع خطوات لكي ينهار \" {concept} \"",
+  "ur_deconstruct_result__circular": "تحذير: تم استخدام مصدر سابق في شرحك كعنصر أخير في الشرح",
+  "ur_deconstruct_result__selfref": "تحذير: آخر عنصر قمت بإضافته هو مصدر نفسه.",
+  "home_unlocks_at": "يفتح على المستوى {level}",
+  "ur_transcend_title": "ما الحالة السلبية الحالية التي تتعامل معها حاليا ؟؟",
+  "ur_transcend_desc": "أدخل شعورًا موجودًا أو قم بإنشاء شعور جديد أثناء التنقل.",
+  "ur_transcend_cont_desc": "يمكنك محاولة إثبات وجودها بنفسك مع Deconstruct.",
+  "ur_transcend_action_select": "يختار",
+  "ur_transcend_action_end": "نهاية",
+  "ur_transcend_answer_result__end": "أنت لست {feeling}",
+  "ur_transcend_answer_result__end_desc": "\" بالنسبة لأي عاطفة سلبية ، الجواب هو أنه ليس عليك أن تشعر بهذه الطريقة ، بغض النظر عما حدث لك وللآخرين وللعالم في الماضي. لا يمكن إثبات أن أي موقف / حالة / فكرة واحدة يجب أن تؤدي إلى {feeling} 'ب' أو أن {feeling} صحيح ، عليك أن تدرك أن القفزات التي تقوم بها من أ إلى ب هي تمامًا مما أنت عليه التعامل مع الواقع على أنه حقيقي ، على سبيل المثال إذا كنت لا تؤمن بـ 'الاكتئاب' من النوع B ، فلن ترى المواقف على أنها 'اكتئابية' ولا من المحتمل أن تتعايش معها \"",
+  "ur_fearless_title": "ما هو الخوف الذي تتعامل معه؟",
+  "ur_fearless_desc": "أدخل خوفًا موجودًا أو اخلق خوفًا جديدًا بسرعة.",
+  "ur_fearless_cont_desc": "جميع المخاوف لها شرط مسبق للاعتقاد بأن 'الخوف' هو جانب حقيقي حقيقي للواقع",
+  "ur_fearless_action_select": "يختار",
+  "ur_fearless_action_end": "نهاية",
+  "ur_fearless_answer_result__end": "ليس لديك {fear} ، لأنها مجرد فكرة.",
+  "ur_fearless_answer_result__end_desc": "مهما كان الخوف (على سبيل المثال {fear}) ، بينما يمكنك معالجة كل مخاوف من خلال تبريرها واحدًا تلو الآخر ، هناك حل واحد يزيل كل المخاوف. \n \n كل هذه المخاوف لديها نتيجة داخلية لحلها عليهم على مستوى أصغر ، لكن الاستنتاج الحقيقي الذي سوف يتفوق على كل المخاوف هو الانفصال عن فكرة أن \" الخوف \" نفسه كفكرة حقيقية ، تمامًا كما هو الحال مع التوتر. بدون الخوف في عقليتك ، لن تشعر بالخوف من الأحداث والأفكار وما إلى ذلك. '",
+  "bundles_blueprints_name": "المخططات",
+  "bundles_blueprints_subtitle": "مفاهيم المبتدئين",
+  "bundles_blueprints_description": "مفاهيم تأسيسية يمكنك البناء عليها بسهولة. تتعلق بمصدر المعلومات وعلاقتها به وأنواع المعلومات المختلفة",
+  "bundles_blueprints_facts": "حقائق",
+  "bundles_blueprints_knowledge": "معرفة",
+  "bundles_blueprints_beliefs": "المعتقدات",
+  "bundles_blueprints_observations": "ملاحظات",
+  "bundles_blueprints_positive": "إيجابي",
+  "bundles_blueprints_negative": "سلبي",
+  "bundles_blueprints_duality": "الازدواجية",
+  "bundles_blueprints_nonduality": "اللامبالاة",
+  "bundles_letgo_name": "اتركه",
+  "bundles_letgo_subtitle": "لا تتردد في الانفصال",
+  "bundles_letgo_description": "المعتقدات الافتراضية التي لا أساس لها ، والنظريات حولت الحقائق والافتراضات وأكثر من ذلك. ابحث عن الزاوية الذاتية الخاصة بهم ، ودعهم يذهبون وينظروا إلى ما وراء ذلك.",
+  "bundles_letgo_brain_mind": "نظرية هوية العقل",
+  "bundles_letgo_brain_mind_sub": "النظرية المتعلقة بأن الدماغ يساوي العقل والوعي. تشير التجارب البشرية الحقيقية والدراسات المتعددة إلى أن الحالة غير ذلك",
+  "bundles_letgo_meaninglessness": "اللامعنى",
+  "bundles_letgo_meaninglessness_sub": "لا يؤدي الافتقار الواضح للمعنى إلى اليقين من اللامعنى",
+  "bundles_letgo_class": "أنت ولدت في فئة معينة",
+  "bundles_letgo_class_sub": "النظرية القائلة بأنك ولدت في فئة / فريق تم تعريفه بشكل تعسفي لا يمكنك تجاوزه.",
+  "bundles_letgo_suffering": "المعاناة حقيقية",
+  "bundles_letgo_suffering_sub": "لماذا يكون هذا هو الحال؟",
+  "bundles_letgo_need": "عليك أن تفعل / تكون / لديك المزيد لـ X",
+  "bundles_letgo_need_sub": "الفكرة الأساسية لعدم الاكتمال الحالي",
+  "bundles_dig_name": "أحفر أكثر عمقا",
+  "bundles_dig_subtitle": "ما وراء الآفاق الحالية",
+  "bundles_dig_description": "علامات الاحتمالات الجديدة والنظريات غير المكتملة ونقاط الانعكاس. ضع في اعتبارك ما تعنيه للمعرفة التي لديك حتى الآن والأبواب التي تفتحها",
+  "bundles_dig_perception": "تقلب الإدراك",
+  "bundles_dig_perception_sub": "قد يتغير رأيك غدًا بشأن شيء أنت متأكد منه اليوم",
+  "bundles_dig_semantics": "تقلب دلالات الكلمات",
+  "bundles_dig_semantics_sub": "غالبًا ما يكون معنى الكلمات شخصيًا. تتغير معاني الكلمات أيضًا عبر الزمن واللغات والثقافات.",
+  "bundles_dig_incomplete": "الإجابات غير المكتملة تعني القفز إلى الاستنتاجات",
+  "bundles_dig_unexplained": "لا تزال العديد من الظواهر في العالم غير مفسرة",
+  "bundles_dig_unexplained_sub": "ماذا يقول ذلك عن العلم الحديث ويقينه عن العالم؟",
+  "bundles_dig_study_trance": "الدراسة: التصوير العصبي أثناء حالات النشوة",
+  "bundles_dig_study_trance_sub": "الرابط: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3500298/",
+  "bundles_dig_study_unified_pathway": "دراسة: الصحوة الروحية والاكتئاب: مسار موحد",
+  "bundles_dig_study_unified_pathway_sub": "الرابط: https://pubmed.ncbi.nlm.nih.gov/24354605/",
+  "bundles_dig_study_stress_perception": "دراسة: كيف تدرك أن الإجهاد يمكن أن يقتلك",
+  "bundles_dig_study_stress_perception_sub": "الرابط: https://pubmed.ncbi.nlm.nih.gov/24354605/",
+  "bundles_fearless_name": "مخاوف",
+  "bundles_fearless_subtitle": "لا مزيد من المخاوف",
+  "bundles_fearless_description": "المخاوف الأكثر شيوعًا ، تتميز بطريقة تجريبية للتغلب على كل منها في وصف كل خوف. قم باستيراد أي منها خلال Steam Scream Fest لفتح بشرة حصرية بشكل دائم",
+  "bundles_fearless_time": "الخوف من الوقت",
+  "bundles_fearless_time_desc": "الوقت وهم",
+  "bundles_fearless_imperfection": "الخوف من النقص",
+  "bundles_fearless_imperfection_desc": "نحن جميعًا غير كاملين تمامًا",
+  "bundles_fearless_change": "الخوف من التغيير",
+  "bundles_fearless_change_desc": "التغيير أمر طبيعي ومتوقع",
+  "bundles_fearless_rejection": "الخوف من الرفض",
+  "bundles_fearless_rejection_desc": "لن يكون كل شخص هو كوب الشاي الخاص بك ، لا بأس ، لا يوجد معيار",
+  "bundles_fearless_loneliness": "الخوف من الوحدة",
+  "bundles_fearless_loneliness_desc": "لا بأس أن تكون وحيدًا ، هذا هو عدد الحكماء الذين وصلوا إلى التنوير",
+  "bundles_fearless_failure": "الخوف من الفشل",
+  "bundles_fearless_failure_desc": "لا بأس أن تفشل ، إنه جزء من التعلم",
+  "bundles_fearless_success": "الخوف من النجاح",
+  "bundles_fearless_success_desc": "لمجرد أن بيئتك تتوقع منك البقاء منخفضًا أو تعتقد أنك لا تستحق النجاح ، فسوف تفاجئ نفسك بالمضي قدمًا",
+  "bundles_fearless_loss": "الخوف من الخسارة",
+  "bundles_fearless_loss_desc": "بدلاً من الخوف من الخسارة ، قدّرهم في الوقت الحاضر واستفد منهم إلى أقصى حد",
+  "bundles_fearless_judgement": "الخوف من الحكم",
+  "bundles_fearless_judgement_desc": "دعهم يحكمون عليك ، كل شخص لديه تجارب مختلفة ، لست بحاجة إلى قبول أي شخص",
+  "bundles_fearless_losing_control": "الخوف من فقدان السيطرة",
+  "bundles_fearless_losing_control_desc": "ليس لديك سيطرة على كل شيء ، والتحكم في ما يمكنك والتغلب عليه",
+  "bundles_fearless_who_you_are": "الخوف من هويتك",
+  "bundles_fearless_who_you_are_desc": "يمكننا جميعًا أن يكون لدينا جانب مظلم ، بالنظر إليه ومن أين أتى سيقودك إليه",
+  "bundles_fearless_unknown": "الخوف من المجهول",
+  "bundles_fearless_unknown_desc": "حقًا ، بينما لا نعرف كل شيء قد لا نعرفه شيئًا ، فأنت دائمًا في المجهول ، ولا بأس ، لا شيء تخاف منه",
+  "bundles_fearless_whats_next": "الخوف مما هو قادم",
+  "bundles_fearless_whats_next_desc": "لماذا تخاف من الاحتمالات الجديدة ، وتقبلها وتمضي قدمًا",
+  "bundles_fearless_vulnerability": "الخوف من الضعف",
+  "bundles_fearless_vulnerability_desc": "إذا كنت بالقرب من الأشخاص الخطأ ، فهذا ما هو عليه ، فلا شيء يمكنك فعله حيال ذلك من العثور على أشخاص أفضل ، فأنت تتعلم كما أنت",
+  "bundles_fearless_public_speaking": "الخوف من الكلام العام",
+  "bundles_fearless_public_speaking_desc": "لأن شيئا ما قد يحدث خطأ؟ قد يحدث خطأ ما في أي لحظة ، احتضن عدم اليقين",
+  "bundles_fearless_losing_identity": "الخوف من فقدان هويتك",
+  "bundles_fearless_losing_identity_desc": "تتغير هويتك باستمرار ، فأنت لست صورة ثابتة ، واحتضن التغيير",
+  "bundles_fearless_being_yourself": "الخوف من أن تكون على طبيعتك",
+  "bundles_fearless_being_yourself_desc": "لن يقبلك الجميع (بما في ذلك العائلة) ، وهذا أمر مفهوم أيضًا - لا يحق لأي شخص أن يعجبك أو يعتبر الحقيقة التي أوردتها صحيحة",
+  "rtb_intro_to_import": "نعم",
+  "rtb_intro_to_ignore": "تتجاهل",
+  "rtb_intro_already_imported": "مستوردة بالفعل",
+  "rtb_title": "السعي الرئيسي",
+  "rtb_subtitle": "تجربة الذكاء الاصطناعي غير المادية",
+  "rtb_intro_desc": "الغرض من هذه التجربة هو مساعدتك في التغلب على جميع التشوهات الحالية ، على سبيل المثال الحقائق غير الصحيحة ، والمعتقدات السلبية ، والقفز إلى الاستنتاجات ، والحدود المفروضة على الذات ، وتدمير العقليات. \n \n قم بتنفيذ جميع المهام على Diamond ولن تترك أي جهد دون أن تقلبه.",
+  "rtb_intro_warning": "؟ إنهاء كل مهمة على Diamond دفعة واحدة. \n",
+  "rtb_missions_title": "البعثات",
+  "rtb_missions_desc": "سيوفر لك إكمال المستوى الماسي لجميع المهام منظورًا للتغلب على جميع التشوهات الحالية والألم - كل ذلك ينبع من حقائق غير صحيحة ، ومعتقدات سلبية ، والقفز إلى الاستنتاجات ، والحدود المفروضة ذاتيًا ، وما شابه ذلك من المخاطر التي قد تدمر العقليات في النهاية.",
+  "rtb_missions_reminder": "تذكير: لا تترك بياناتك جهازك أبدًا ، فهي تبقى معك فقط",
+  "rtb_incomplete": "غير مكتمل",
+  "rtb_mark_as_done": "اعتبره منته",
+  "rtb_mark_as_done_general": "وضع علامة بعد تغطية كل الأرض",
+  "rtb_done": "منتهي",
+  "rtb_back_to_disclaimer" : "العودة إلى إخلاء المسؤولية",
+  "rtb_diamond_disclaimer": "ضع علامة على المهام في الطبقة الماسية الخاصة بهم على أنها 'تم' فقط بعد أن لا تدخر جهداً دون أن تقلبه.",
+  "rtb_insights": "أفكار",
+  "rtb_insights_desc": "اربح رؤى في كل مرة تكمل فيها فئة مهمة ، 28 في المجموع",
+  "rtb_timed_awards_title": "يفتح في الوقت المناسب (الموسم 2)",
+  "rtb_timed_awards_desc": "أنهِ جميع المهام قبل مارس 2023 لفتحها",
+  "rtb_blarg": "بلارج الأورك",
+  "rtb_cool_story": "قصة رائعة يا أخي",
+  "rtb_skeptic": "المتشكك",
+  "rtb_alternative_i_am_desc": "البديل 'أنا' تدفق الذكاء الاصطناعي",
+  "rtb_alternative_desconstruct": "بديل 'تفكيك' تدفق الذكاء الاصطناعي",
+  "rtb_free_awards": "وضع واجهة المستخدم الجديد",
+  "rtb_skin": "4 جلود واجهة المستخدم",
+  "rtb_skin_desc": "و اكثر",
+  "rtb_blarg_enable": "تمكين تدفق الذكاء الاصطناعي البديل Blarg 'أنا'",
+  "rtb_blarg_disable": "تعطيل Blarg",
+  "rtb_cool_story_enable": "تمكين قصة رائعة يا أخي 'أنا' تدفق الذكاء الاصطناعي البديل",
+  "rtb_skeptic_enable": "تمكين المتشكك 'تفكيك' تدفق الذكاء الاصطناعي البديل",
+  "rtb_cool_story_disable": "تعطيل قصة رائعة وإخوانه",
+  "rtb_skeptic_disable": "تعطيل المتشكك",
+  "rtb_new_insight": "رؤية جديدة!",
+  "rtb_new_insight_node_sub": "مفتوح في 'العودة إلى النعيم'",
+  "rtb_bronze": "برونزية",
+  "rtb_silver": "فضة",
+  "rtb_gold": "ذهب",
+  "rtb_diamond": "الماس",
+  "rtb_quest_believe": "أعتقد",
+  "rtb_quest_believe_desc": "قم بتحويل جميع المعتقدات والحقائق والافتراضات إلى عقد وروابط",
+  "rtb_quest_believe_hint": "إنشاء العقد والروابط المناسبة",
+  "rtb_quest_organized": "منظم",
+  "rtb_quest_organized_desc": "ركز على ما هو مهم حقًا",
+  "rtb_quest_organized_hint": "أضف التركيز والحالات المفضلة إلى العقد الموجودة",
+  "rtb_quest_s2_entangled": "متشابك (زائد)",
+  "rtb_quest_s2_entangled_desc": "احصل على توصيات مدعومة من التشابك لنقاط الاهتمام الحالية.",
+  "rtb_quest_s2_entangled_hint": "استخدم وظيفة الضوضاء الكمومية",
+  "rtb_quest_s2_transcendent": "متسامي (زائد)",
+  "rtb_quest_s2_transcendent_desc": "تجاوز الحالات غير المرغوب فيها التي كنت تحملها.",
+  "rtb_quest_s2_transcendent_hint": "استخدم تدفق الذكاء الاصطناعي",
+  "rtb_quest_derive": "العقل في العمل",
+  "rtb_quest_derive_desc": "اشتق الميكانيكا من التجربة: ما الذي نجح حتى الآن ، وما الذي لم ينجح",
+  "rtb_quest_derive_hint": "إنشاء العقد المناسبة من نوع 'note' و 'البصيرة'",
+  "rtb_quest_deconstruct": "البديل",
+  "rtb_quest_deconstruct_desc": "حفر في جميع الافتراضات للوصول إلى المعرفة المطلقة",
+  "rtb_quest_deconstruct_hint": "استخدم تدفق الذكاء الاصطناعي 'التفكيك'",
+  "rtb_quest_iam": "انتظر ، لا نعرف القصة كاملة",
+  "rtb_quest_iam_desc": "امسح نفسك من كل التسميات السلبية والثقيلة والمحدودة",
+  "rtb_quest_iam_hint": "استخدم تدفق الذكاء الاصطناعي 'أنا'",
+  "rtb_quest_reshape": "تقليب النص",
+  "rtb_quest_reshape_desc": "أعد كتابة جميع متواليات السبب والنتيجة السلبية",
+  "rtb_quest_reshape_hint": "استخدم تدفق الذكاء الاصطناعي 'إعادة تشكيل'",
+  "rtb_quest_old_me": "هذا ليس أنا",
+  "rtb_quest_old_me_desc": "الابتعاد عن كل التعريفات الذاتية السلبية القديمة",
+  "rtb_quest_old_me_hint": "ضع علامة على العقد ذات الصلة على أنها 'قديمة'",
+  "rtb_insight_1": "الواقع يتجاوز الكلمات",
+  "rtb_insight_2": "أنت فوق الكلمات",
+  "rtb_insight_3": "ما عليك سوى الدفع حتى تتمكن من العيش على بستانك",
+  "rtb_insight_4": "تتألم بعض الثقافات عندما يموت أحد أفراد أسرته ، ويحتفل البعض الآخر بإرثهم",
+  "rtb_insight_5": "إنه ليس نفس الشيء أبدًا",
+  "rtb_insight_6": "غالبًا ما نحصل على الحل الخاطئ لأننا نرى المشكلة خاطئة",
+  "rtb_insight_7": "بدون توقعات لن تشعر بخيبة أمل",
+  "rtb_insight_8": "كم عدد الأشياء التي فسرتها على أنها جيدة أو سيئة عندما تكون كذلك؟",
+  "rtb_insight_9": "الحاضر يتغير باستمرار",
+  "rtb_insight_10": "الحاضر ليس دائمًا مثل الماضي",
+  "rtb_insight_11": "عليك أن تتحقق من اللغات التي نشأت بها",
+  "rtb_insight_12": "ليس عليك فعل أي شيء للوصول إلى النعيم ، ما عليك سوى التخلص من الضوضاء",
+  "rtb_insight_13": "القبيح موجود فقط في عقول بعض الناس",
+  "rtb_insight_14": "تحصل باستمرار على فرص في الوقت الحاضر من أجل مستقبل أفضل",
+  "rtb_insight_15": "بعض الأشياء التي لا يمكنك السيطرة عليها ، ركز على ما تستطيع",
+  "rtb_insight_16": "أنت بالضبط حيث يجب أن تكون",
+  "rtb_insight_17": "كل شيء يحدث كما ينبغي",
+  "rtb_insight_18": "لا فائدة من القلق بشأن المستقبل",
+  "rtb_insight_19": "الحقيقة فوق أي نظام",
+  "rtb_insight_20": "تحقق من آثار المعتقدات الموجودة على أفعالك",
+  "rtb_insight_21": "تنهار جميع الأنظمة الحصرية عند إجراء تحقيق شامل",
+  "rtb_insight_22": "يمكن أن تكون المعتقدات خاطئة",
+  "rtb_insight_23": "العديد من الحقائق غير صحيحة بداهة",
+  "rtb_insight_24": "الإجهاد مجرد فكرة",
+  "rtb_insight_25": "كل القيود خادعة",
+  "rtb_insight_26": "لا يوجد شيء طبيعي",
+  "rtb_insight_27": "عليك أن تسامح نفسك والآخرين على أخطائك في الماضي والمستقبل",
+  "rtb_insight_28": "نخطو في الظلام في كل مرة حتى نمتلك كل المعرفة",
+  "rtb_insight_29": "المعرفة أفضل من الإيمان",
+  "rtb_insight_30": "المعرفة المطلقة يمكن الوصول إليها من قبل الجميع",
+  "rtb_insight_31": "الأخطاء في الطبيعة البشرية",
+  "rtb_insight_32": "توقع ما هو غير متوقع",
+  "clusters_cluster_name": "الكتلة {nr}",
+  "clusters_cluster_nodes": "({nr} {nodeString})",
+  "intuition_answer_left": "غادر",
+  "intuition_answer_right": "يمين",
+  "intuition_description": "تم تحديد الإجابة بالفعل ، اكتشفها باستخدام الحدس",
+  "intuition_last_correct_answer": "آخر إجابة صحيحة: {answer}",
+  "intuition_correct_in_a_row": "صحيح في صف واحد {correct}",
+  "intuition_difficulty_easy": "سهل",
+  "intuition_difficulty_medium": "واسطة",
+  "intuition_difficulty_hard": "صعب",
+  "intuition_chart_average": "متوسط التوقعات الصحيحة",
+  "intuition_chart_consecutive": "تنبؤات صحيحة متتالية",
+  "sanity_check_validity_distribution_headline": "توزيع الصلاحية عبر المكتبة",
+  "sanity_check_validity_distribution_description": "باستخدام روابط 'الإثبات'",
+  "sanity_check_validity_distribution_raw_data": "مسودة بيانات",
+  "sanity_check_validity_distribution_ai": "AI- معالج",
+  "sanity_check_validity_distribution_diff": "اختلاف",
+  "sanity_check_validity_nothing": "لا شئ",
+  "sanity_check_validity_knownUnknown": "غير مؤكد (معروف غير معروف)z",
+  "sanity_check_validity_holistic": "كل شئ",
+  "sanity_check_validity_missingData": "غير مؤكد (بيانات مفقودة)",
+  "sanity_check_validity_selfRef": "المرجع الذاتي",
+  "sanity_check_validity_circularRef": "مرجع دائري",
+  "sanity_check_validity_ref": "مرجع",
+  "sanity_check_validity_multiRef": "مراجع متعددة",
+  "sanity_check_dialog_validity_nodes_raw": "العقد مع الصلاحية",
+  "sanity_check_dialog_validity_nodes_raw_desc": "لم تتم معالجة {percentString} من مكتبة المستخدم",
+  "sanity_check_dialog_validity_nodes_ai": "العقد مع الصلاحية",
+  "sanity_check_dialog_validity_nodes_ai_desc": "{percentString} من مكتبة المستخدم بعد معالجة AI ، {percentageDiffString}",
+  "sanity_check_dialog_validity": "الصلاحية '{title}'",
+  "sanity_check_dialog_diff_removed": "عمليات الإزالة بواسطة منظمة العفو الدولية",
+  "sanity_check_dialog_diff_added": "إضافات منظمة العفو الدولية",
+  "sanity_check_dialog_diff_desc": "الفرق بين مكتبة المستخدم والمكتبة المعالجة بالذكاء الاصطناعي",
+  "sanity_check_clusters_holistic": "مجموعات شاملة",
+  "sanity_check_clusters_largest": "أكبر",
+  "sanity_check_clusters_single_nodes": "عقد مفردة",
+  "sanity_check_clusters_proof": "مجموعات إثبات",
+  "sanity_check_clusters_validity_nothing": "بدون شيء'",
+  "sanity_check_clusters_validity_known_unknown": "مع 'معروف غير معروف'",
+  "sanity_check_clusters_validity_everything": "مع كل شيء'",
+  "sanity_check_me_all": "بيانات عني",
+  "sanity_check_me_old": "انا القديم",
+  "sanity_check_me_new": "جديد لي",
+  "sanity_check_me_none": "لا جديد ولا قديم لي",
+  "quantum_noise_get_api_key": "احصل على مفتاح API من ANU أولاً",
+  "quantum_noise_get_api_key_link": "(وصلة)",
+  "quantum_noise_enter_api_key":"مفتاح API هنا",
+  "quantum_noise_forbidden": "مفتاح API غير صحيح أو أنك وصلت إلى الحد الشهري",
+  "quantum_noise_selected": "تجمع نوع العقدة",
+  "quantum_noise_unselected": "أنواع العقد التي تم تجاهلها",
+  "quantum_noise_no_duplicates" : "إزالة التوصيات المختارة مسبقًا (لا توجد تكرارات)",
+  "quantum_noise_number_of_nodes" : "حدد عدد العقد لاختيار",
+  "sugar_pills_intro": "كما تعلم ، فإن إدراكك للواقع يؤثر على واقعك الذي تعيشه والعكس صحيح. \n \n يمكنك اختيار كيف تشعر ، بغض النظر عن مقدار ما يتم وضعه على الناس كما لو أنه ليس لديهم خيار ، على سبيل المثال حدث X ، لذلك يجب أن تشعر بـ Y ، مما دفع الكثيرين إلى عدم التساؤل عما إذا كان بإمكانهم الاختيار ، بدلاً من اختيار قبول الإجابات المقدمة مسبقًا ، على سبيل المثال هذا الحدث يؤدي إلى صدمة.",
+  "sugar_pills_study": "الارتباط بالدراسة",
+  "sugar_pills_study_desc": "تُظهر لنا دراسات مثل هذه أن إدراكنا مهم حقًا لرفاهيتنا. يمكنك أدناه إدخال مفاهيم جديدة تمامًا (مثل عكس الإجهاد) أو تأثيرات جديدة للمفاهيم الحالية ، والعمل من خلال نفس الآليات التي تسبب المرض من المعتقدات المريضة. \n \n لتجذيرها في الواقع ، آثار تأتي حبوب السكر في كل مرة تتنفس فيها",
+  "sugar_pills_sugar_pills": "حبوب السكر",
+  "worlds_name": "أدخل نوع العالم",
+  "worlds_sub": "العنوان الفرعي",
+  "worlds_dialog_all_worlds": "كل العوالم",
+  "worlds_dialog_nodes_without_world": "عقد بدون عالم {number}",
+  "worlds_dialog_nodes_in_world": "{number} من العقد",
+  "worlds_node_world": "عالم",
+  "worlds_excluded_cat": "محظور",
+  "worlds_excluded_cat_sub": "(لا شيء محظور إذا لم تكن هناك قيود)",
+  "worlds_excluded_item": "يستبعد",
+  "worlds_allowed_cat": "مباح",
+  "worlds_allowed_cat_sub": "(الكل مسموح به إذا لم يكن هناك قيود)",
+  "worlds_allowed_item": "يسمح",
+  "general_leaving_iai": "ترك المواد غير المادية",
+  "general_leaving_iai_message": "هل أنت متأكد؟",
+
+  "@settings_alternative_flow_must_be_deselected": {
+    "description": "Blarg",
+    "placeholders": {
+      "flow": {
+        "type": "String",
+        "example": "2"
+      }
+    }
+  },
+  "@general_unlocks_at_level_plus": {
+    "description": "level",
+    "placeholders": {
+      "level": {
+        "type": "int",
+        "example": "2"
+      }
+    }
+  },
+  "@general_unlocks_at_level_plus_or_lite": {
+    "description": "level",
+    "placeholders": {
+      "level": {
+        "type": "int",
+        "example": "2"
+      }
+    }
+  },
+  "@general_unlocks_at_level": {
+    "description": "level",
+    "placeholders": {
+      "level": {
+        "type": "int",
+        "example": "2"
+      }
+    }
+  },
+  "@general_unlocks_at_level_short": {
+    "description": "level",
+    "placeholders": {
+      "level": {
+        "type": "int",
+        "example": "2"
+      }
+    }
+  },
+  "@general_unlocks_at_level_2line": {
+    "description": "level",
+    "placeholders": {
+      "level": {
+        "type": "int",
+        "example": "2"
+      }
+    }
+  },
+  "@general_level": {
+    "description": "level",
+    "placeholders": {
+      "level": {
+        "type": "int",
+        "example": "2"
+      }
+    }
+  },
+  "@general__time__seconds": {
+    "description": "Distance in seconds",
+    "placeholders": {
+      "seconds": {
+        "type": "int",
+        "example": "2"
+      }
+    }
+  },
+  "@general__time__minute": {
+    "description": "Distance in minutes",
+    "placeholders": {
+      "minutes": {
+        "type": "int",
+        "example": "2"
+      }
+    }
+  },
+  "@general__time__hour": {
+    "description": "Distance in hours",
+    "placeholders": {
+      "hours": {
+        "type": "int",
+        "example": "2"
+      }
+    }
+  },
+  "@general__time__day": {
+    "description": "Distance in days",
+    "placeholders": {
+      "days": {
+        "type": "int",
+        "example": "2"
+      }
+    }
+  },
+  "@general__time__week": {
+    "description": "Distance in weeks",
+    "placeholders": {
+      "weeks": {
+        "type": "int",
+        "example": "2"
+      }
+    }
+  },
+  "@general__time__month": {
+    "description": "Distance in months",
+    "placeholders": {
+      "months": {
+        "type": "int",
+        "example": "2"
+      }
+    }
+  },
+  "@general__time__year": {
+    "description": "Distance in years",
+    "placeholders": {
+      "years": {
+        "type": "int",
+        "example": "2"
+      }
+    }
+  },
+  "@ur_unravel_answer_selected": {
+    "placeholders": {
+      "item": {
+        "type": "String",
+        "example": "idea"
+      }
+    }
+  },
+  "@ur_deconstruct_action_existing_pattern": {
+    "placeholders": {
+      "item": {
+        "type": "String",
+        "example": "idea"
+      }
+    }
+  },
+  "@ur_reshape_situation_title": {
+    "placeholders": {
+      "feeling": {
+        "type": "String",
+        "example": "feels"
+      }
+    }
+  },
+  "@ur_reshape_cause_effect_title": {
+    "placeholders": {
+      "situation": {
+        "type": "String",
+        "example": "Some event"
+      },
+      "feeling": {
+        "type": "String",
+        "example": "feels"
+      }
+    }
+  },
+  "@ur_reshape_cause_title": {
+    "placeholders": {
+      "feeling": {
+        "type": "String",
+        "example": "simți"
+      },
+      "situation": {
+        "type": "String",
+        "example": "Simte"
+      }
+    }
+  },
+  "@ur_reshape_resolution_title": {
+    "placeholders": {
+      "situation": {
+        "type": "String",
+        "example": "Some event"
+      },
+      "feeling": {
+        "type": "String",
+        "example": "feels"
+      }
+    }
+  },
+  "@ur_reshape_new_effect_title": {
+    "placeholders": {
+      "feeling": {
+        "type": "String",
+        "example": "Feels"
+      }
+    }
+  },
+  "@ur_reshape_new_effect_v2_title": {
+    "placeholders": {
+      "situation": {
+        "type": "String",
+        "example": "Simte"
+      }
+    }
+  },
+  "@ur_reshape_new_effect_dialog": {
+    "placeholders": {
+      "situation": {
+        "type": "String",
+        "example": "Feels"
+      }
+    }
+  },
+  "@ur_reshape_new_effect_cause_title": {
+    "placeholders": {
+      "feeling": {
+        "type": "String",
+        "example": "Feels"
+      }
+    }
+  },
+  "@ur_reshape_new_effect_cause_description": {
+    "placeholders": {
+      "situation": {
+        "type": "String",
+        "example": "Some event"
+      },
+      "feeling": {
+        "type": "String",
+        "example": "feels"
+      }
+    }
+  },
+  "@ur_reshape_end_title": {
+    "placeholders": {
+      "situation": {
+        "type": "String",
+        "example": "Some event"
+      }
+    }
+  },
+  "@ur_reshape_end_subtitle": {
+    "placeholders": {
+      "feel1": {
+        "type": "String",
+        "example": "Old feel"
+      },
+      "feel2": {
+        "type": "String",
+        "example": "New feel"
+      }
+    }
+  },
+  "@ur_reshape_end_description": {
+    "placeholders": {
+      "feeling": {
+        "type": "String",
+        "example": "feels"
+      },
+      "situation": {
+        "type": "String",
+        "example": "Some event"
+      }
+    }
+  },
+  "@ur_reshape_result_changed_desc": {
+    "placeholders": {
+      "situation": {
+        "type": "String",
+        "example": "feels"
+      },
+      "oldFeeling": {
+        "type": "String",
+        "example": "feels"
+      },
+      "newFeeling": {
+        "type": "String",
+        "example": "feels"
+      }
+    }
+  },
+  "@ur_reshape_result_changed_optional_desc": {
+    "placeholders": {
+      "situation": {
+        "type": "String",
+        "example": "feels"
+      },
+      "oldFeeling": {
+        "type": "String",
+        "example": "feels"
+      },
+      "newFeeling": {
+        "type": "String",
+        "example": "feels"
+      },
+      "interpretation": {
+        "type": "String",
+        "example": "feels"
+      }
+    }
+  },
+  "@ur_reshape_result_changed_absolute_title": {
+    "placeholders": {
+      "situation": {
+        "type": "String",
+        "example": "feels"
+      },
+      "feeling": {
+        "type": "String",
+        "example": "feels"
+      },
+      "interpretation": {
+        "type": "String",
+        "example": "feels"
+      }
+    }
+  },
+  "@ur_iam_cont_title": {
+    "placeholders": {
+      "concept": {
+        "type": "String",
+        "example": "Memes"
+      }
+    }
+  },
+  "@ur_iam_cont_desc": {
+    "placeholders": {
+      "concept": {
+        "type": "String",
+        "example": "Memes"
+      }
+    }
+  },
+  "@ur_iam_cont_title_alt": {
+    "placeholders": {
+      "concept": {
+        "type": "String",
+        "example": "Memes"
+      }
+    }
+  },
+  "@ur_iam_cont_desc_alt": {
+    "placeholders": {
+      "concept": {
+        "type": "String",
+        "example": "Memes"
+      }
+    }
+  },
+  "@ur_iam_cont_title_csb": {
+    "placeholders": {
+      "concept": {
+        "type": "String",
+        "example": "Memes"
+      }
+    }
+  },
+  "@ur_deconstruct_result__dontknow": {
+    "placeholders": {
+      "concept": {
+        "type": "String",
+        "example": "some idea"
+      }
+    }
+  },
+  "@ur_deconstruct_result__nothing": {
+    "placeholders": {
+      "concept": {
+        "type": "String",
+        "example": "Memes"
+      }
+    }
+  },
+  "@home_unlocks_at": {
+    "placeholders": {
+      "level": {
+        "type": "String",
+        "example": "20"
+      }
+    }
+  },
+  "@ur_transcend_answer_result__end": {
+    "placeholders": {
+      "feeling": {
+        "type": "String",
+        "example": "sad"
+      }
+    }
+  },
+  "@ur_transcend_answer_result__end_desc": {
+    "placeholders": {
+      "feeling": {
+        "type": "String",
+        "example": "sad"
+      }
+    }
+  },
+  "@ur_fearless_answer_result__end": {
+    "placeholders": {
+      "fear": {
+        "type": "String",
+        "example": "sad"
+      }
+    }
+  },
+  "@ur_fearless_answer_result__end_desc": {
+    "placeholders": {
+      "fear": {
+        "type": "String",
+        "example": "sad"
+      }
+    }
+  },
+  "@clusters_cluster_name": {
+    "description": "nr",
+    "placeholders": {
+      "nr": {
+        "type": "int",
+        "example": "2"
+      }
+    }
+  },
+  "@clusters_cluster_nodes": {
+    "description": "nr",
+    "placeholders": {
+      "nr": {
+        "type": "int",
+        "example": "2"
+      },
+      "nodeString": {
+        "type": "String",
+        "example": "nodes"
+      }
+    }
+  },
+  "@intuition_last_correct_answer": {
+    "placeholders": {
+      "answer": {
+        "type": "String",
+        "example": "20"
+      }
+    }
+  },
+  "@intuition_correct_in_a_row": {
+    "placeholders": {
+      "correct": {
+        "type": "String",
+        "example": "20"
+      }
+    }
+  },
+  "@sanity_check_dialog_validity_nodes_raw_desc": {
+    "placeholders": {
+      "percentString": {
+        "type": "String",
+        "example": "20"
+      }
+    }
+  },
+  "@sanity_check_dialog_validity_nodes_ai_desc": {
+    "placeholders": {
+      "percentString": {
+        "type": "String",
+        "example": "20"
+      },
+      "percentageDiffString": {
+        "type": "String",
+        "example": "20"
+      }
+    }
+  },
+  "@sanity_check_dialog_validity": {
+    "placeholders": {
+      "title": {
+        "type": "String",
+        "example": "20"
+      }
+    }
+  },
+  "@worlds_dialog_nodes_without_world": {
+    "placeholders": {
+      "number": {
+        "type": "int",
+        "example": "20"
+      }
+    }
+  },
+  "@worlds_dialog_nodes_in_world": {
+    "placeholders": {
+      "number": {
+        "type": "int",
+        "example": "20"
+      }
+    }
+  },
+  "@home_focus_unlocks_at": {
+    "description": "level",
+    "placeholders": {
+      "level": {
+        "type": "int",
+        "example": "2"
+      }
+    }
+  },
+
+  "graph_poi_main_nucleus": "النواة الرئيسية",
+  "graph_poi_main_nucleus_2": "نواة ثانوية",
+  "graph_poi_main_nucleus_3": "نواة من الدرجة الثالثة",
+  "graph_poi_center": "أنت هنا",
+  "graph_poi_source": "مصدر",
+  "graph_poi_target": "هدف",
+  "sorting_general": "Sorting",
+  "sort_type_vanilla": "افتراضي" ,
+  "sort_type_latest": "الأحدث أولاً",
+  "sort_type_oldest": "الأقدم أولاً",
+  "sort_type_alphabetical": "أبجديًا",
+  "sort_type_alphabetical_reverse": "أبجديًا ، معكوس" ,
+
+  "box_add_tag": "علامة جديدة",
+  "box_add_tag_sub_title": "تطبيق في كل مكان",
+  "general_tags": "العلامات",
+  "settings_skin_night": "الوضع الليلي" ,
+
+  "settings_debug_data_mode": "وضع تصحيح البيانات" ,
+  "settings_persist_sorting": "الاستمرار في اختيار الفرز" ,
+  "settings_shared_database": "وضع قاعدة البيانات المشتركة" ,
+  "settings_shared_database_sub": "استخدم قاعدة بيانات تطبيق Mesh آخر في مثيل IAI هذا" ,
+  "settings_shared_database_shared_false": "عدم استخدام قاعدة بيانات مخصصة" ,
+  "settings_shared_database_shared_true": "موقع قاعدة البيانات المخصصة: {db}",
+  "@settings_shared_database_shared_true": {
+    "description": "Shrek.com",
+    "placeholders": {
+      "db": {
+        "type": "String",
+        "example": "2"
+      }
+    }
+  },
+
+  "settings_shared_database_dialog_sub": "عند تحديد قاعدة بيانات مخصصة ، اختر ملف db.sqlite لتطبيق Mesh الآخر (الموجود في مجلد تثبيت هذا التطبيق)" ,
+  "settings_shared_database_dialog_action_copy_current_path": "نسخ مسار قاعدة البيانات الحالي" ,
+  "settings_shared_database_dialog_hint": "أعد تشغيل ImmaterialAI بعد أي تحديث موقع قاعدة بيانات مشترك" ,
+  "settings_shared_database_database_changed": "تم تغيير قاعدة بيانات الشبكة" ,
+
+  "tags_name": "اسم العلامة",
+  "tags_reference_add": "علامة عنصر",
+  "tags_reference_all": "بهذه العلامة",
+  "tags_select_item_title": "عنصر المراد وضع علامة عليه" ,
+  "general_restart_now_to_apply_changes": "أعد التشغيل لتطبيق التغييرات بالكامل" ,
+
+  "main_menu_launch": "الإطلاق الآن",
+
+  "settings_back_to_main_menu": "الرجوع إلى القائمة الرئيسية",
+  "box_backups_export_include_changes": "تضمين معلومات التغيير" ,
+  "settings_track_data_changes": "تتبع تغييرات البيانات محليًا" ,
+  "settings_track_data_changes_sub": "مفيد عند تحديد استراتيجيات دمج بين قواعد بيانات متعددة (قريبًا)" ,
+  "main_menu_mode_user_new": "وضع مستخدم جديد \n انقر للتبديل",
+  "main_menu_mode_user_existing": "وضع المستخدم الحالي \n انقر للتبديل",
+  "main_menu_launch_new_user": "تحديد المسار" ,
+  "main_menu_view_new_user": "عرض مستخدم جديد" ,
+  "main_menu_view_existing_user": "عرض المستخدم الحالي" ,
+  "main_menu_more": "المزيد",
+  "main_menu_version_web": "إصدار الويب",
+  "main_menu_version_web_desc": "يعمل في أي متصفح" ,
+  "main_menu_windows_drm_free": "Windows" ,
+  "main_menu_mac_drm_free": "MacOS" ,
+  "main_menu_steam_drm_free": "Steam" ,
+  "main_menu_store": "ترقية",
+  "main_menu_store_steam": "Steam Store" ,
+  "main_menu_latest_update": "آخر تحديث",
+  "rtb_s3_free_diamond": "4 أشكال جديدة - أزرق فاتح وأخضر وأحمر وأرجواني" ,
+  "rtb_s3_plus_gold": "مظهر جديد",
+  "rtb_s3_plus_gold_extra": "مطابقة لوحة ألوان ImmaterialAI Classic" ,
+  "rtb_s3_plus_diamond": "مظهر جديد ، وضع واجهة مستخدم جديد"
+
+}
