@@ -58,6 +58,7 @@
   "home_worlds_selected_worlds": "Ausgewählte Welten:",
   "path_title": "ImmaterialAI",
   "path_sub_title": "Wählen Sie Ihren Weg",
+  "path_starting_features": "Beginn des Weges",
   "path_overcome_name": "Überwinden",
   "path_overcome_sub_title": "verstehen und transzendieren",
   "path_overcome_description_header": "Psychische Probleme überwinden",
@@ -82,6 +83,8 @@
   "path_create_description": "Im Gegensatz zu allen anderen Benutzerdaten-Tools, die Daten in Listen, Tabellen oder Dokumenten organisieren, ähneln Ihre ImmaterialAI-Daten organisch der Struktur des Gehirns und des Universums, so dass Sie Daten in mehr als unendlich vielen Dimensionen abbilden können.\n\nIn ImmaterialAI funktioniert jeder Informationsknoten wie ein Neuron, während die Verbindungen zwischen ihnen wie Synapsen funktionieren. Verbinden Sie sie und sehen Sie, wie tief sie direkt und indirekt miteinander verbunden sind.\n\nExklusiv für ImmaterialAI Plus-Benutzer - und die ersten Freischaltungen nur für Create-Benutzer - können Sie von Beginn Ihrer IAI-Reise an neue Arten von Neuronen und Synapsen erstellen, die es Ihnen effektiv ermöglichen, Ihre Daten in mehr als unendlich vielen Dimensionen zu beschreiben. Sie können Ihre Bibliothek auch ganz einfach nach mehreren Knotentypen in Verbindung mit vorhandenen Filtern filtern (z. B. ToDo, altes/neues Ich, Fokus usw.) und die Diagrammerstellung so konfigurieren, dass alle vorhandenen und benutzerdefinierten Lik-Typen einbezogen oder ausgeschlossen werden",
   "path_create_quote": "Die wahre Entdeckungsreise besteht nicht darin, neue Landschaften zu suchen, sondern neue Augen zu haben.",
   "path_create_quote_author": "Marcel Proust",
+  "path_start_title": "Laden: Erstellen Sie Ihren persönlichen Pfad",
+  "path_start_subtitle": "Schalte mehr Funktionen frei, wenn du aufsteigst!",
   "settings_cat_customization": "Anpassung",
   "settings_cat_graphics_performance": "Grafik & Leistung",
   "settings_full_screen": "Vollbild",
@@ -120,6 +123,11 @@
   "settings_language_general": "Sprache",
   "settings_language_remove": "Benutzerdefinierte Sprache entfernen",
   "settings_exit": "Plattform verlassen",
+  "settings_data": "Daten",
+  "settings_backup_location": "Speicherort der Sicherungsdatei",
+  "settings_backups_on_startup": "Sicherung beim Starten der Anwendung",
+  "settings_backups_at_frequency": "Sicherung alle X Minuten, solange die Anwendung läuft",
+  "settings_backups_overwrite_backup_on_any_change": "Tägliches Backup bei jeder Änderung überschreiben",
   "box_library": "Bibliothek",
   "box_settings": "Einstellungen & Benutzerpräferenzen",
   "box_add_n": "Neuer Knoten",
@@ -152,13 +160,14 @@
   "box_absolute_origin_sub_title": "KI-Funktion, die sich auf 'Beweis'-Verknüpfungen stützt, in Knoten-Details",
   "box_bundles": "Bündel",
   "box_bundles_sub_title": "Den Überblick behalten, was zu tun ist",
-  "box_backups": "Backups",
-  "box_backups_sub_title": "Import/Export",
+  "box_backups": "Import/Export",
+  "box_backups_sub_title": "Von und zu Datei und Text + IAI Classic Unterstützung",
   "box_backups_import": "Datei importieren",
   "box_backups_import_sub_title": "ImmaterialAI 2 & 3 Dateien wiederherstellen",
   "box_backups_import_text": "Text importieren",
   "box_backups_import_text_sub_title": "Text hier einfügen",
   "box_backups_export": "Datei exportieren",
+  "box_backups_export_include_preferences": "Einstellungen einbeziehen",
   "box_backups_export_sub_title": "Speichern Sie alle Ihre Daten in einer Datei",
   "box_backups_export_text": "Text exportieren",
   "box_backups_export_text_sub_title": "Kopieren Sie den resultierenden Text und speichern Sie ihn, wo immer Sie wollen",
@@ -197,6 +206,7 @@
   "box_favorites": "Favoriten",
   "box_fav_sub_title": "Details im Knoten",
   "box_old_me": "Neues/Altes Ich",
+  "default_data_cant_delete": "Standarddaten, können nicht gelöscht werden",
   "default_nt_internal_all": "Alle",
   "default_nt_internal_journey": "Pfad",
   "default_nt_internal_system": "Intern",
@@ -275,6 +285,9 @@
   "n_focus_on": "Fokussiert",
   "n_save": "Speichern",
   "n_delete": "Löschen",
+  "n_copy": "Kopieren",
+  "n_copy_adjacent_nodes_on": "Mit benachbarten Knoten",
+  "n_copy_adjacent_nodes_off": "Ohne",
   "markdown_editor_title": "title",
   "markdown_editor_bold": "fett",
   "markdown_editor_italic": "kursiv",
@@ -343,9 +356,14 @@
   "general_types": "Verknüpfungstypen",
   "general_node": "Knoten",
   "general_nodes": "Knoten",
-  "general_link": "Link",
-  "general_links": "Links",
-
+  "general_link": "Verbindung",
+  "general_links": "Verbindungen",
+  "general_users": "Benutzer",
+  "general_node_types": "Knotentypen",
+  "general_link_types": "Verknüpfungstypen",
+  "general_link_types_requirement": "Link-Typ-Anforderungen",
+  "general_worlds": "Welten",
+  "general_preferences": "Vorlieben",
   "general_copy_to_clipboard": "In die Zwischenablage kopieren",
   "general_export": "Exportieren",
   "general_change_from_settings": "Ändern von Einstellungen",
@@ -456,6 +474,7 @@
     }
   },
   "general__time__one_minute": "vor 1 Minute",
+  "general__time__minutes": "Minuten",
   "general__time__minute": "vor {minutes} Minuten",
   "@general__time__minute": {
     "description": "Entfernung in Minuten",
@@ -557,6 +576,11 @@
   "ur_transcend_card_title": "Transcend",
   "ur_transcend_card_sub": "alle Schritte überspringen",
   "ur_transcend_card_desc": "Keine negativen Zustände mehr",
+
+  "ur_fearless_card_title": "Furchtlos",
+  "ur_fearless_card_sub": "Keine Ängste mehr",
+  "ur_fearless_card_desc": "Keine Ängste mehr",
+
   "ur_deconstruct_title": "Was wollen Sie dekonstruieren?",
   "ur_deconstruct_desc": "Suchen Sie nach dem Knoten oder geben Sie den Namen für einen neuen Knoten ein",
   "ur_deconstruct_cont_title": "Was ist die Quelle davon/ was macht es real?",
@@ -623,7 +647,7 @@
       }
     }
   },
-  "ur_reshape_resolution_title": "Die Situation sollte nicht zwangsläufig zu Gefühlen führen, was bedeutet, dass Ihr Problem daher rührt, dass Sie die beiden spezifisch miteinander in Verbindung bringen",
+  "ur_reshape_resolution_title": "\"{situation}\" sollte nicht von sich aus das Gefühl \"{feeling}\" hervorrufen, was bedeutet, dass Ihr Problem daher rührt, dass Sie die beiden spezifisch miteinander in Beziehung setzen",
   "@ur_reshape_resolution_title": {
     "placeholders": {
       "situation": {
@@ -658,7 +682,7 @@
       }
     }
   },
-  "ur_reshape_new_effect_dialog": "Wie kann man sich besser fühlen, wenn man sich in einer Situation befindet?",
+  "ur_reshape_new_effect_dialog": "Wie kann man sich in der \"{situation}\" besser fühlen?",
   "@ur_reshape_new_effect_dialog": {
     "placeholders": {
       "situation": {
@@ -764,7 +788,7 @@
       }
     }
   },
-  "ur_reshape_result_changed_absolute_title": "Achten Sie in Zukunft darauf, dass Sie nicht von dem, was ist ('{situation}'), zu dem, wie Sie es wahrnehmen wollen ('{feeling}' aufgrund von '{Interpretation}'), springen.",
+  "ur_reshape_result_changed_absolute_title": "Achten Sie in Zukunft darauf, dass Sie nicht von dem, was ist ('{situation}'), zu dem, wie Sie es wahrnehmen wollen ('{feeling}' aufgrund von '{interpretation}'), springen.",
   "@ur_reshape_result_changed_absolute_title": {
     "placeholders": {
       "situation": {
@@ -830,7 +854,7 @@
   "ur_iam_result__iam_end_alt": "Blarg versteht nichts von dem, was du gesagt hast, die wahre Geschichte ist jenseits jeder Definition! \n\nWir sagen nicht, dass alle Ideen in der Realität keine Koeffizienten haben, sondern nur, dass man zuerst von der Erfahrung ausgehen sollte und nicht von den Worten.",
   "ur_iam_title_csb": "Sag mir, was du durchmachst?",
   "ur_iam_cont_title_csb": "{concept}?",
-  "@ur_iam_cont_title_casb": {
+  "@ur_iam_cont_title_csb": {
     "placeholders": {
       "concept": {
         "type": "String",
@@ -872,14 +896,7 @@
   "ur_transcend_title": "Mit welchem negativen Zustand sind Sie derzeit konfrontiert?",
   "ur_transcend_desc": "Geben Sie ein bestehendes Gefühl ein oder erstellen Sie spontan ein neues Gefühl.",
   "ur_transcend_cont_desc": "Sie können versuchen, mit Deconstruct selbst zu beweisen, dass es existiert.",
-  "@ur_transcend_cont_desc": {
-    "placeholders": {
-      "feeling": {
-        "type": "String",
-        "example": "traurig"
-      }
-    }
-  },
+
   "ur_transcend_action_select": "Auswählen",
   "ur_transcend_action_end": "Ende",
   "ur_transcend_answer_result__end": "Sie sind nicht {feeling}",
@@ -900,6 +917,31 @@
       }
     }
   },
+
+  "ur_fearless_title": "Mit welcher Angst haben Sie zu tun?",
+  "ur_fearless_desc": "Gib eine bestehende Angst ein oder erstelle spontan eine neue Angst.",
+  "ur_fearless_cont_desc": "Alle Ängste haben als Voraussetzung den Glauben, dass 'Angst' ein gültiger, realer Aspekt der Realität ist",
+  "ur_fearless_action_select": "Auswählen",
+  "ur_fearless_action_end": "Ende",
+  "ur_fearless_answer_result__end": "Du hast keine {fear}, weil es nur eine Idee ist.",
+  "@ur_fearless_answer_result__end": {
+    "placeholders": {
+      "fear": {
+        "type": "String",
+        "example": "sad"
+      }
+    }
+  },
+  "ur_fearless_answer_result__end_desc": "Was auch immer die Angst ist (z.B. {fear}), während man jede Angst durch Rationalisierung einer nach der anderen angehen kann, gibt es eine Lösung, die alle Ängste beseitigt.\n\nAlle diese Ängste haben eine innere Schlussfolgerung, um sie auf einer kleineren Ebene aufzulösen, aber die wirkliche Schlussfolgerung, die alle Ängste übertrumpfen wird, ist die Loslösung von der Vorstellung, dass die Angst selbst als Idee real ist, genau wie bei Stress. Ohne Angst in der eigenen Mentalität zu haben, wird man keine Angst vor Ereignissen, Ideen usw. haben.",
+  "@ur_fearless_answer_result__end_desc": {
+    "placeholders": {
+      "fear": {
+        "type": "String",
+        "example": "sad"
+      }
+    }
+  },
+
   "bundles_blueprints_name": "Blaupausen",
   "bundles_blueprints_subtitle": "Starter-Konzepte",
   "bundles_blueprints_description": "Grundlegende Konzepte, auf denen man leicht aufbauen kann. Bezogen auf die Quelle der Information, die Beziehung zu ihr und die verschiedenen Arten von Informationen",
@@ -915,7 +957,7 @@
   "bundles_letgo_subtitle": "Fühl dich frei, dich zu lösen",
   "bundles_letgo_description": "Unbegründete Standardüberzeugungen, Theorien, die zu Tatsachen werden, Annahmen und mehr. Finden Sie ihren subjektiven Blickwinkel, lassen Sie sie los und schauen Sie darüber hinaus.",
   "bundles_letgo_brain_mind": "Gehirn-Geist-Identitätstheorie",
-  "bundles_letgo_brain_mind_sub": "Die Theorie besagt, dass das Gehirn mit dem Geist, dem Bewusstsein gleichzusetzen ist. Verschiedene Studien und Ausreißer in normalen Studien deuten darauf hin, dass dies nicht der Fall ist",
+  "bundles_letgo_brain_mind_sub": "Die Theorie besagt, dass das Gehirn mit dem Geist, dem Bewusstsein gleichzusetzen ist. Reale menschliche Erfahrungen und zahlreiche Studien zeigen, dass dies nicht der Fall ist",
   "bundles_letgo_meaninglessness": "Bedeutungslosigkeit",
   "bundles_letgo_meaninglessness_sub": "Rein scheinbare Bedeutungslosigkeit führt nicht zur Gewissheit der Bedeutungslosigkeit",
   "bundles_letgo_class": "Du bist in eine bestimmte Klasse hineingeboren",
@@ -941,7 +983,7 @@
   "bundles_dig_study_stress_perception": "Study: Wie Sie Stress wahrnehmen, kann Sie töten",
   "bundles_dig_study_stress_perception_sub": "Link: https://pubmed.ncbi.nlm.nih.gov/24354605/",
 
-  "bundles_fearless_name":"Furchtfrei",
+  "bundles_fearless_name":"Ängste",
   "bundles_fearless_subtitle":"Keine Ängste mehr",
   "bundles_fearless_description":"Die beliebtesten Ängste, mit einer empirischen Methode, um sie zu überwinden, in der Beschreibung jeder Angst. Importiere eine davon während des Steam Scream Festes, um dauerhaft einen exklusiven Skin freizuschalten",
 
@@ -977,13 +1019,15 @@
   "bundles_fearless_public_speaking_desc": "weil etwas schief gehen könnte? es könnte jeden Moment etwas schief gehen, umarmen Sie die Unsicherheit",
   "bundles_fearless_losing_identity": "Furcht vor dem Verlust der eigenen Identität",
   "bundles_fearless_losing_identity_desc": "Ihre Identität verändert sich ständig, Sie sind kein statisches Bild, nehmen Sie den Wandel an",
+  "bundles_fearless_being_yourself": "Die Angst, man selbst zu sein",
+  "bundles_fearless_being_yourself_desc": "Nicht jeder wird dich akzeptieren (einschließlich der Familie), und das ist auch verständlich - niemand hat ein Recht darauf, dich zu mögen oder die Wahrheit, die du sagst, für wahr zu halten",
 
 
 
   "rtb_intro_to_import": "Zum Importieren",
   "rtb_intro_to_ignore": "Zu ignorieren",
   "rtb_intro_already_imported": "Bereits importiert",
-  "rtb_title": "Rückkehr zur Glückseligkeit",
+  "rtb_title": "Hauptaufgabe",
   "rtb_subtitle": "ein ImmaterialAI-Experiment",
   "rtb_intro_desc": "Das Ziel dieses Experiments ist es, Ihnen dabei zu helfen, alle gegenwärtigen Verzerrungen zu überwinden, z. B. falsche Fakten, negative Glaubenssätze, voreilige Schlüsse, selbst auferlegte Grenzen und schädliche Mentalitäten. \n\nWenn Sie alle Missionen auf Platin durchlaufen, werden Sie nichts unversucht gelassen haben.",
   "rtb_intro_warning": "\n\n\nWarnung, dies könnte Ihre Sichtweise verändern,\n es gibt kein Rückgängigmachen, wenn Sie diesen Prozess starten,\n\n\nWenn Sie einmal angefangen haben, empfehlen wir, sich ein paar Stunden Zeit zu nehmen und jede Mission auf Diamond in einem Rutsch zu beenden. \n",
@@ -995,9 +1039,9 @@
   "rtb_done": "FERTIG",
   "rtb_diamond_disclaimer": "Markieren Sie Quests der Stufe 'Diamant' nur dann als 'erledigt', wenn Sie nichts unversucht gelassen haben.",
   "rtb_insights": "Einblicke",
-  "rtb_insights_desc": "Gewinnen Sie jedes Mal Einblicke, wenn Sie eine Missionsstufe abschließen, insgesamt 24",
+  "rtb_insights_desc": "Gewinnen Sie jedes Mal Einblicke, wenn Sie eine Missionsstufe abschließen, insgesamt 28",
   "rtb_timed_awards_title": "Zeitlich begrenzte Freischaltungen (Saison 2)",
-  "rtb_timed_awards_desc": "Beende alle Missionen vor dem Ende des Jahres 2022, um sie freizuschalten",
+  "rtb_timed_awards_desc": "Schließe alle Missionen vor März 2023 ab, um Folgendes freizuschalten",
   "rtb_blarg": "Blarg der Ork",
   "rtb_cool_story": "Coole Geschichte, Bruder",
   "rtb_skeptic": "Der Skeptiker",
@@ -1021,6 +1065,9 @@
   "rtb_quest_believe": "Ich glaube",
   "rtb_quest_believe_desc": "Alle Überzeugungen, Fakten und Annahmen in Knoten und Verknüpfungen umwandeln",
   "rtb_quest_believe_hint": "Geeignete Knoten und Links erstellen",
+  "rtb_quest_organized": "Organisiert",
+  "rtb_quest_organized_desc": "Konzentrieren Sie sich auf das, was wirklich wichtig ist",
+  "rtb_quest_organized_hint": "Fokus und Favoritenstatus zu bestehenden Knoten hinzufügen",
   "rtb_quest_s2_entangled": "Entangled (Plus)",
   "rtb_quest_s2_entangled_desc": "Verschränkungsgestützte Empfehlungen der aktuellen Points of Interest abrufen",
   "rtb_quest_s2_entangled_hint": "Verwenden Sie die Funktion Quantenrauschen",
@@ -1068,6 +1115,14 @@
   "rtb_insight_24": "Stress ist nur eine Idee",
   "rtb_insight_25": "Alle Grenzen sind illusorisch",
   "rtb_insight_26": "Es gibt keine Normalität",
+
+  "rtb_insight_27": "Du musst dir und anderen für deine vergangenen und zukünftigen Fehler vergeben",
+  "rtb_insight_28": "Wir treten jedes Mal in die Dunkelheit, bis wir alles Wissen haben",
+  "rtb_insight_29": "Wissen ist besser als glauben",
+  "rtb_insight_30": "Absolutes Wissen ist für jeden erreichbar",
+  "rtb_insight_31": "Irrtümer liegen in der menschlichen Natur",
+  "rtb_insight_32": "Erwarte das Unerwartete",
+
   "clusters_cluster_name": "Cluster {nr}",
   "@clusters_cluster_name": {
     "description": "nr",
@@ -1184,6 +1239,7 @@
   "quantum_noise_forbidden": "API-Schlüssel falsch oder Sie haben Ihr monatliches Limit erreicht",
   "quantum_noise_selected": "Node type pool",
   "quantum_noise_unselected": "Ignorierte Knotentypen",
+  "quantum_noise_no_duplicates" : "Entfernen Sie bereits gewählte Empfehlungen (Ohne Duplikate)",
   "quantum_noise_number_of_nodes": "Anzahl der zu wählenden Knoten auswählen",
   "sugar_pills_intro": "Wie Sie vielleicht wissen, beeinflusst Ihre Wahrnehmung der Realität Ihre gelebte Realität und umgekehrt.\n\nMan kann sich aussuchen, wie man sich fühlt, allerdings wird den Menschen viel aufgedrängt, als hätten sie keine Wahl, z. B. X ist passiert, also muss man Y fühlen, was dazu führt, dass viele sich nicht fragen, ob sie wählen können, sondern sich stattdessen entscheiden, bereits gegebene Antworten zu akzeptieren, z. B. dass dieses Ereignis zu einem Trauma führt.",
   "sugar_pills_study": "Link zur Studie",
@@ -1191,6 +1247,7 @@
   "sugar_pills_sugar_pills": "Zuckertabletten",
   "worlds_name": "Welttyp eingeben",
   "worlds_sub": "Untertitel",
+  "worlds_dialog_all_worlds": "alle Welten",
   "worlds_dialog_nodes_without_world": "Knoten ohne Welt {number}",
   "@worlds_dialog_nodes_without_world": {
     "placeholders": {
@@ -1211,6 +1268,101 @@
   },
   "worlds_node_world": "Welt",
   "general_leaving_iai": "Verlassen von ImmaterialAI",
-  "general_leaving_iai_message": "Sind Sie sicher?"
+  "general_leaving_iai_message": "Sind Sie sicher?",
+  "settings_enforce_node_details_layout" : "Anzahl der Registerkarten",
+  "settings_enforce_node_details_layout_default" : "Wird vom Bildschirmtyp bestimmt",
+  "settings_enforce_node_details_layout_one_tab" : "Alle Knotentexte und Details auf einer Registerkarte",  "settings_enforce_node_details_layout_two_tabs" : "Knotentexte und Details auf 2 separaten Tabs",
+  "box_tree_view": "Baumansicht",
+  "box_tree_view_sub_title": "Sehen Sie Ihre Knoten als konfigurierbare Bäume",
+  "default_nt_process": "Prozess",
+  "default_nt_location": "Standort",
+  "default_lt_location_src_text": "hat/hatte Standort",
+  "default_lt_location_tar_text": "ist/war Standort von",
+  "n_tab_text": "Text",
+  "n_tab_tree": "Baum",
+  "nt_parent" : "Elternteil",
+  "general_button_tap_to_change" : "zum Ändern antippen",
+  "rtb_mark_as_done_general": "ALS ERLEDIGT MARKIEREN, NACHDEM DAS GESAMTE GEBIET ABGEDECKT WURDE",
+  "rtb_back_to_disclaimer" : "Zurück zum Haftungsausschluss",
+  "worlds_excluded_cat": "Verboten",
+  "worlds_excluded_cat_sub": "(keine verboten, wenn keine Beschränkungen)",
+  "worlds_excluded_item": "Ausgeschlossen",
+  "worlds_allowed_cat": "Erlaubt",
+  "worlds_allowed_cat_sub": "(alle erlaubt, wenn keine Beschränkungen)",
+  "worlds_allowed_item": "Erlaubt",
+  "default_lt_location": "Am Standort",
+
+
+  "graph_poi_main_nucleus": "Hauptkern",
+  "graph_poi_main_nucleus_2": "Nebenkern",
+  "graph_poi_main_nucleus_3": "tertiärer Nukleus",
+  "graph_poi_center": "Sie sind hier",
+  "graph_poi_source": "Quelle",
+  "graph_poi_target": "Ziel",
+
+  "sorting_general": "Sortierung",
+  "sort_type_vanilla": "Standard",
+  "sort_type_latest": "Neuestes zuerst",
+  "sort_type_oldest": "Älteste zuerst",
+  "sort_type_alphabetical": "Alphabetisch",
+  "sort_type_alphabetical_reverse": "Alphabetisch, umgekehrt",
+
+  "box_add_tag": "Neues Tag",
+  "box_add_tag_sub_title": "Überall anwenden",
+  "general_tags": "Tags",
+  "settings_skin_night": "Nachtmodus",
+
+  "settings_debug_data_mode": "Debug-Datenmodus",
+  "settings_persist_sorting": "Sortierauswahl beibehalten",
+  "settings_shared_database": "Geteilter Datenbankmodus",
+  "settings_shared_database_sub": "Datenbank einer anderen Mesh-App in dieser IAI-Instanz verwenden",
+  "settings_shared_database_shared_false": "Keine benutzerdefinierte Datenbank verwenden",
+  "settings_shared_database_shared_true": "Speicherort der benutzerdefinierten Datenbank: {db}",
+  "@settings_shared_database_shared_true": {
+    "description": "Shrek.com",
+    "placeholders": {
+      "db": {
+        "type": "String",
+        "example": "2"
+      }
+    }
+  },
+  "settings_shared_database_dialog_sub": "Wenn Sie eine benutzerdefinierte Datenbank auswählen, wählen Sie die db.sqlite-Datei Ihrer anderen Mesh-App (im Installationsordner dieser App)",
+  "settings_shared_database_dialog_action_copy_current_path": "Aktuellen Datenbankpfad kopieren",
+  "settings_shared_database_dialog_hint": "Starten Sie ImmaterialAI nach jeder Aktualisierung des Standorts der gemeinsam genutzten Datenbank neu",
+  "settings_shared_database_database_changed": "Mesh-Datenbank geändert",
+
+  "tags_name": "Name des Tags",
+  "tags_reference_add": "Element markieren",
+  "tags_reference_all": "Mit diesem Tag",
+  "tags_select_item_title": "Zu markierender Artikel",
+  "general_restart_now_to_apply_changes": "Neu starten, um die Änderungen vollständig zu übernehmen",
+
+  "main_menu_launch": "Jetzt starten",
+
+  "settings_back_to_main_menu": "Zurück zum Hauptmenü",
+  "box_backups_export_include_changes": "Änderungsinformationen einschließen",
+  "settings_track_data_changes": "Datenänderungen lokal verfolgen",
+  "settings_track_data_changes_sub": "Nützlich bei der Entscheidung über Zusammenführungsstrategien zwischen mehreren Datenbanken (bald verfügbar)",
+  "main_menu_mode_user_new": "Neuer Benutzermodus\n zum Wechseln tippen",
+  "main_menu_mode_user_existing": "Vorhandener Benutzermodus\n zum Wechseln tippen",
+  "main_menu_launch_new_user": "Pfad auswählen",
+  "main_menu_view_new_user": "Neue Benutzeransicht",
+  "main_menu_view_existing_user": "Vorhandene Benutzeransicht",
+
+  "main_menu_more": "Mehr",
+  "main_menu_version_web": "Webversion",
+  "main_menu_version_web_desc": "Funktioniert in jedem Browser",
+  "main_menu_windows_drm_free": "Windows",
+  "main_menu_mac_drm_free": "MacOS",
+  "main_menu_steam_drm_free": "Dampf",
+  "main_menu_store": "Upgrade",
+  "main_menu_store_steam": "Steam-Shop",
+  "main_menu_latest_update": "Neuestes Update",
+
+  "rtb_s3_free_diamond": "4 neue Skins - hellblau, grün, rot und lila",
+  "rtb_s3_plus_gold": "neue Haut",
+  "rtb_s3_plus_gold_extra": "passend zur Farbpalette von ImmaterialAI Classic",
+  "rtb_s3_plus_diamond": "neuer Skin, neuer UI-Modus"
 }
 

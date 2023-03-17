@@ -26,7 +26,7 @@
 
   "home_go_back": "Mergi înapoi",
   "home_go_forward": "Mergi înainte",
-  "home_focus_unlocks_at": "Afișează elementele focalizate, se deblochează la nivelul {nivel}",
+  "home_focus_unlocks_at": "Afișează elementele focalizate, se deblochează la nivelul {level}",
   "@home_focus_unlocks_at": {
     "description": "level",
     "placeholders": {
@@ -58,8 +58,9 @@
   "home_ancestry_child": "Noduri copil",
   "home_worlds_no_worlds" : "Nicio lume selectată",
   "home_worlds_selected_worlds" : "Lumi selectate:",
-  "path_title": "ImmaterialAI poate fi folosit în mai multe feluri",
-  "path_sub_title": "Alege-ți o cale",
+  "path_title": "ImmaterialAI",
+  "path_sub_title": "Alege o cale",
+  "path_starting_features": "Începutul căii",
   "path_overcome_name": "Depășiți",
   "path_overcome_sub_title": "înțelegeți și transcendeți",
   "path_overcome_description_header": "Depășiți problemele mentale",
@@ -84,11 +85,23 @@
   "path_create_description": "Spre deosebire de orice alte instrumente de date ale utilizatorului care organizează datele în liste, tabele sau documente, datele dvs. ImmaterialAI seamănă organic cu structura creierului și a universului, permițându-vă să mapați datele în mai mult decât dimensiuni infinite.\n\nÎn ImmaterialAI fiecare nod de informație funcționează ca un neuron, în timp ce legăturile dintre ele ca niște sinapse. Conectați-le și vedeți cât de profund se conectează direct și indirect unul cu celălalt.",
   "path_create_quote": "Adevărata călătorie de descoperire constă nu în căutarea unor noi peisaje, ci în a avea ochi noi.",
   "path_create_quote_author": "Marcel Proust",
+  "path_start_title": "Încărcare: crearea căii tale personale",
+  "path_start_subtitle": "Deblocați mai multe caracteristici pe măsură ce creșteți în nivel!",
   "settings_cat_customization": "Personalizare",
   "settings_cat_graphics_performance": "Grafică și performanță",
   "settings_full_screen": "Ecran complet",
   "settings_page_mode": "Modul pagină",
   "settings_skin": "Selectați pielea",
+  "settings_alternative_flow_must_be_deselected": "Flow alternativ {flow} trebuie deselectat",
+  "@settings_alternative_flow_must_be_deselected": {
+    "description": "Blarg",
+    "placeholders": {
+      "flow": {
+        "type": "String",
+        "example": "2"
+      }
+    }
+  },
   "settings_skin_default": "Implicit",
   "settings_skin_inverse": "Invers",
   "settings_background": "Selectați imaginea de fundal",
@@ -112,6 +125,11 @@
   "settings_language_general": "Limba",
   "settings_language_remove": "Elimină limba personalizată",
   "settings_exit": "Ieșiți din platformă",
+  "settings_data": "Date",
+  "settings_backup_location": "Fișier pt copii",
+  "settings_backups_on_startup": "Copiaza când pornești aplicația",
+  "settings_backups_at_frequency": "Copie de rezervă la fiecare X minute în timp ce ești în aplicație",
+  "settings_backups_overwrite_backup_on_any_change": "Scrieți peste copia de rezervă zilnică la orice modificare",
   "box_library": "Bibliotecă",
   "box_settings": "Setări și preferințe",
   "box_add_n": "Nod nou",
@@ -144,13 +162,14 @@
   "box_absolute_origin_sub_title": "Funcția AI care se bazează pe relații „dovadă”, în detaliile nodului",
   "box_bundles": "Pachete",
   "box_bundles_sub_title": "Păstrați evidența a ceea ce trebuie făcut",
-  "box_backups": "Backup-uri",
-  "box_backups_sub_title": "Import / Export",
+  "box_backups": "Import/Export",
+  "box_backups_sub_title": "Din și în fișiere și text + suport IAI Classic",
   "box_backups_import": "Importați fișierul",
   "box_backups_import_sub_title": "Restaurează fișierele ImmaterialAI 2 și 3",
   "box_backups_import_text": "Importați text",
   "box_backups_import_text_sub_title": "Inserați textul aici",
   "box_backups_export": "Exportați fișierul",
+  "box_backups_export_include_preferences": "Include preferințe",
   "box_backups_export_sub_title": "Salvați toate date într-un fișier",
   "box_backups_export_text": "Exportați text",
   "box_backups_export_text_sub_title": "Copiați textul rezultat și stocați-l oriunde doriți",
@@ -189,6 +208,7 @@
   "box_favorites": "Preferate",
   "box_fav_sub_title": "În detaliile nodului",
   "box_old_me": "Eu nou/vechi",
+  "default_data_cant_delete": "date implicite, nu pot fi șterse",
   "default_nt_internal_all": "Toate",
   "default_nt_internal_journey": "Cale",
   "default_nt_internal_system": "Intern",
@@ -266,6 +286,9 @@
   "n_focus_on": "Focalizat",
   "n_save": "Salveaza",
   "n_delete": "Șterge",
+  "n_copy": "Copiați",
+  "n_copy_adjacent_nodes_on": "Cu noduri adiacente",
+  "n_copy_adjacent_nodes_off": "Fără",
   "markdown_editor_title": "titlu",
   "markdown_editor_bold": "îngroșat",
   "markdown_editor_italic": "cursiv",
@@ -288,9 +311,9 @@
   "lt_name": "Numele tipului de legătură",
   "lt_desc" : "Fiecare relație din ImmaterialAI este între două concepte, A și B.\nPuteți configura tipul de legătură pentru a restricționa tipurile de concepte pe care le pot avea A și B sau puteți lăsa oricare dintre ele goale pentru a permite toate tipurile de concepte la oricare dintre cele două capete",
   "lt_add_node_type" : "Adaugă tipul de nod",
-  "lt_add_add_node_type_a" : "Tipuri pentru A",
-  "lt_add_node_type_node_b" : "Tipuri pentru B",
-  "lt_add_add_node_type_dialog_search": "Căutați sau introduceți numele pentru noul tip de nod",
+  "lt_add_node_type_a" : "Tipuri pentru A",
+  "lt_add_node_type_b" : "Tipuri pentru B",
+  "lt_add_node_type_dialog_search": "Căutați sau introduceți numele pentru noul tip de nod",
   "lt_a" : "A (sursă)",
   "lt_a_b" : "A & B (sursă și țintă)",
   "lt_b" : "B (țintă)",
@@ -337,6 +360,14 @@
   "general_types": "Tipuri de relații",
   "general_node": "nod",
   "general_nodes": "noduri",
+  "general_link": "conexiune",
+  "general_links": "Conexiuni",
+  "general_users": "Utilizatori",
+  "general_node_types": "Tipuri de noduri",
+  "general_link_types": "Tipuri de conexiuni",
+  "general_link_types_requirement": "Cerințe privind tipurile de legături",
+  "general_worlds": "Worlds",
+  "general_preferences": "Preferințe",
   "general_copy_to_clipboard": "Copiați în clipboard",
   "general_change_from_settings": "Schimbă din Setări",
   "general_export": "Exportează",
@@ -346,6 +377,9 @@
   "general_button_off": "OPRIT",
   "general_button_next": "CONTINUĂ",
   "general_button_done": "TERMINAT",
+  "general_button_create": "CREAZĂ",
+  "general_button_select": "ALEGE",
+  "general_button_change": "SCHIMBĂ",
   "general_button_confirm": "CONFIRMĂ",
   "general_button_add": "ADAUGĂ",
   "general_button_delete": "ȘTERGE",
@@ -357,11 +391,23 @@
   "general_button_more": "VEZI MAI MULT",
   "general_coming_soon": "VINE ÎN CURÂND",
   "general_coming_soon_plus": "ÎN CURÂND, DOAR CU Plus",
+  "general_coming_soon_plus_or_lite": "Plus și Plus lite, curând",
   "general_coming_soon_plus_alt": "VINE ÎN CURÂND, PLUS",
+  "general_coming_soon_plus_alt_or_lite": "VINE ÎN CURÂND, Plus și Plus Lite",
   "general_unlocks_at_level_plus": "DOAR CU PLUS, NIVEL {level}",
+  "general_unlocks_at_level_plus_or_lite": "Plus și Plus Lite, NIVEL {level}",
   "@general_unlocks_at_level_plus": {
     "descriere": "level",
-    "substituenți": {
+    "placeholders": {
+      "level": {
+        "type": "int",
+        "example": "2"
+      }
+    }
+  },
+  "@general_unlocks_at_level_plus_or_lite": {
+    "descriere": "level",
+    "placeholders": {
       "level": {
         "type": "int",
         "example": "2"
@@ -369,11 +415,12 @@
     }
   },
   "general_plus_only": "Numai cu Plus",
+  "general_plus_or_lite_only": "Numai cu Plus și Plus Lite",
   "general_are_you_sure": "Ești sigur?",
   "general_unlocks_at_level": "Se deblochează la nivelul {level}",
   "@general_unlocks_at_level": {
     "descriere": "level",
-    "substituenți": {
+    "placeholders": {
       "level": {
         "type": "int",
         "example": "2"
@@ -383,7 +430,7 @@
   "general_unlocks_at_level_short": "Se deblochează la {level}",
   "@general_unlocks_at_level_short": {
     "descriere": "level",
-    "placeholder": {
+    "placeholders": {
       "level": {
         "type": "int",
         "example": "2"
@@ -393,7 +440,7 @@
   "general_unlocks_at_level_2line": "Se deblochează la\nnivelul {level}",
   "@general_unlocks_at_level_2line": {
     "descriere": "level",
-    "placeholder": {
+    "placeholders": {
       "level": {
         "type": "int",
         "example": "2"
@@ -403,7 +450,7 @@
   "general_level": "NIVEL {level}",
   "@general_level": {
     "descriere": "level",
-    "placeholder": {
+    "placeholders": {
       "level": {
         "type": "int",
         "example": "2"
@@ -424,7 +471,7 @@
   "general__time__seconds": "acum {seconds} secunde",
   "@general__time__seconds": {
     "description": "Distanța în secunde",
-    "placeholder": {
+    "placeholders": {
       "seconds": {
         "type": "int",
         "example": "2"
@@ -432,10 +479,11 @@
     }
   },
   "general__time__one_minute": "acum 1 minut",
+  "general__time__minutes": "minute",
   "general__time__minute": "acum {minutes} minute",
   "@general__time__minute": {
     "description": "Distanța în minute",
-    "placeholder": {
+    "placeholders": {
       "minutes": {
         "type": "int",
         "example": "2"
@@ -446,7 +494,7 @@
   "general__time__hour": "acum {hours} ore",
   "@general__time__hour": {
     "description": "Distanța în ore",
-    "placeholder": {
+    "placeholders": {
       "hours": {
         "type": "int",
         "example": "2"
@@ -457,7 +505,7 @@
   "general__time__day": "acum {days} zile",
   "@general__time__day": {
     "description": "Distanța în zile",
-    "placeholder": {
+    "placeholders": {
       "days": {
         "type": "int",
         "example": "2"
@@ -468,7 +516,7 @@
   "general__time__week": "acum {weeks} saptamani",
   "@general__time__week": {
     "description": "Distanța în săptămâni",
-    "placeholder": {
+    "placeholders": {
       "weeks": {
         "type": "int",
         "example": "2"
@@ -479,7 +527,7 @@
   "general__time__month": "acum {months} luni",
   "@general__time__month": {
     "description": "Distanța în luni",
-    "placeholder": {
+    "placeholders": {
       "months": {
         "type": "int",
         "example": "2"
@@ -490,7 +538,7 @@
   "general__time__year": "acum {years} ani",
   "@general__time__year": {
     "description": "Distanța în ani",
-    "placeholder": {
+    "placeholders": {
       "years": {
         "type": "int",
         "example": "2"
@@ -503,7 +551,7 @@
   "ur_unravel_restart_first_item": "De la primul articol",
   "ur_unravel_answer_selected": "Selectat \"{item}\"",
   "@ur_unravel_answer_selected": {
-    "placeholder": {
+    "placeholders": {
       "item": {
         "type": "String",
         "example": "idee"
@@ -537,6 +585,11 @@
   "ur_transcend_card_title":  "Transcede",
   "ur_transcend_card_sub": "sari peste toate etapele",
   "ur_transcend_card_desc": "Gata cu stările negative",
+
+  "ur_fearless_card_title": "Neînfricat",
+  "ur_fearless_card_sub": "Fără frică",
+  "ur_fearless_card_desc": "Fără frică",
+
   "ur_deconstruct_title": "Ce doriți să deconstruiți?",
   "ur_deconstruct_desc": "Căutați nodul sau introduceți un nou nume de nod",
   "ur_deconstruct_cont_title": "Care este sursa / ce o face real?",
@@ -550,7 +603,7 @@
   "ur_deconstruct_action_existing": "Existent",
   "ur_deconstruct_action_existing_pattern": "({item})",
   "@ur_deconstruct_action_existing_pattern": {
-    "placeholder": {
+    "placeholders": {
       "item": {
         "type": "String",
         "example": "idee"
@@ -559,6 +612,7 @@
   },
   "ur_deconstruct_action_nothing": "Nimic",
   "ur_deconstruct_action_dontknow": "Necunoscut",
+  "ur_deconstruct_answer_dontknow": "Sursa incertă",
   "ur_deconstruct_answer_nothing": "Nici o sursă de existență",
   "ur_deconstruct_answer_circular": "Dependență circulară",
   "ur_deconstruct_answer_selfref": "Autoreferință",
@@ -578,7 +632,7 @@
   "ur_reshape_situation_description": "Ce situație te-a adus acolo?",
   "ur_reshape_cause_effect_title": "Ce te-a adus la \"{feeling}\" de la \"{situation}\"?",
   "@ur_reshape_cause_effect_title": {
-    "placeholder": {
+    "placeholders": {
       "feeling": {
         "type": "String",
         "example": "simți"
@@ -590,9 +644,22 @@
     }
   },
   "ur_reshape_cause_effect_description": "Niște piese lipsesc",
+  "ur_reshape_cause_title": "Ce ți-a adus \"{feeling}\" din \"{situation}\"?",
+  "@ur_reshape_cause_title": {
+    "placeholders": {
+      "feeling": {
+        "type": "String",
+        "example": "simți"
+      },
+      "situation": {
+        "type": "String",
+        "example": "Simte"
+      }
+    }
+  },
   "ur_reshape_resolution_title": "\"{situation}\" nu este \"{feeling}\" în particular, însemnâmd ca problema ta vine în totalitate de la interpretările tale, sărind de la una la alta",
   "@ur_reshape_resolution_title": {
-    "placeholder": {
+    "placeholders": {
       "feeling": {
         "type": "String",
         "example": "simți"
@@ -608,7 +675,7 @@
   "ur_reshape_resolution_action_dyad": "Domeniul relativ",
   "ur_reshape_new_effect_title": "Asta nu ar trebui să te facă neapărat să te simți \"{feeling}\", nu-ți face asta singur. Vreo modalitate mai bună de a te simți legat la asta?",
   "@ur_reshape_new_effect_title": {
-    "placeholder": {
+    "placeholders": {
       "feeling": {
         "type": "String",
         "example": "Simte"
@@ -617,7 +684,7 @@
   },
   "ur_reshape_new_effect_v2_title": "Vreun alt fel mai bun de a te simți legat de \"{situation}\"?",
   "@ur_reshape_new_effect_v2_title": {
-    "placeholder": {
+    "placeholders": {
       "situation": {
         "type": "String",
         "example": "Simte"
@@ -627,7 +694,7 @@
   "ur_reshape_new_effect_description": "Priviți situația dintr-un loc mai prosper. Căutați sau creați o stare mai bună.",
   "ur_reshape_new_effect_dialog": "Care este un mod mai bun de a te simți despre \"{situation}\"?",
   "@ur_reshape_new_effect_dialog": {
-    "placeholder": {
+    "placeholders": {
       "situation": {
         "type": "String",
         "example": "Simte"
@@ -636,7 +703,7 @@
   },
   "ur_reshape_new_effect_cause_title": "Ce te face să simți \"{feeling}\" despre asta?",
   "@ur_reshape_new_effect_cause_title": {
-    "placeholder": {
+    "placeholders": {
       "feeling": {
         "type": "String",
         "example": "Simte"
@@ -645,7 +712,7 @@
   },
   "ur_reshape_new_effect_cause_description": "Descrieți perspectiva asupra \"{situation}\" care v-a adus la \"{feeling}\"",
   "@ur_reshape_new_effect_cause_description": {
-    "placeholder": {
+    "placeholders": {
       "situation": {
         "type": "String",
         "example": "Un eveniment"
@@ -658,7 +725,7 @@
   },
   "ur_reshape_end_title": "Ați schimbat părerea despre \"{situation}\"!",
   "@ur_reshape_end_title": {
-    "placeholder": {
+    "placeholders": {
       "situation": {
         "type": "String",
         "example": "Un eveniment"
@@ -667,7 +734,7 @@
   },
   "ur_reshape_end_subtitle": "{feel1} -> {feel2}",
   "@ur_reshape_end_subtitle": {
-    "placeholder": {
+    "placeholders": {
       "feel1": {
         "type": "String",
         "example": "Simt vechi"
@@ -680,7 +747,7 @@
   },
   "ur_reshape_end_description": "Puteți selecta ce idee v-a scos \"{feeling}\" din \"{situation}\", sau puteți atinge \"termină\" pentru a încheia conversația.",
   "@ur_reshape_end_description": {
-    "placeholder": {
+    "placeholders": {
       "feeling": {
         "type": "String",
         "example": "simți"
@@ -695,7 +762,7 @@
   "ur_reshape_result_changed_title": "Reformat",
   "ur_reshape_result_changed_desc": "Ai schimbat modul în care te simți în legătură cu \"{situation}\", de la \"{oldFeeling}\" la \"{newFeeling}\"\n\nPuteți urma acest proces ori de câte ori întâlniți negativitate în percepția dvs.",
   "@ur_reshape_result_changed_desc": {
-    "placeholder": {
+    "placeholders": {
       "situation": {
         "type": "String",
         "example": "simți"
@@ -712,7 +779,7 @@
   },
   "ur_reshape_result_changed_optional_desc": "Ați schimbat felul în care vă simțiți despre \"{situation}\"- de la \"{oldFeeling}\" la \"{newFeeling}, dezvăluind și interpretarea care va dus la starea negativă ({interpretation}). \n\nPuteți urma acest proces ori de câte ori întâmpinați negativitate în percepția dvs.",
   "@ur_reshape_result_changed_optional_desc": {
-    "placeholder": {
+    "placeholders": {
       "situation": {
         "type": "String",
         "example": "simți"
@@ -756,7 +823,7 @@
   "ur_iam_desc": "Orice consideri a fi negativ și adevărat despre tine",
   "ur_iam_cont_title": "Nu sunteți „{concept}”",
   "@ur_iam_cont_title": {
-    "placeholder": {
+    "placeholders": {
       "concept": {
         "type": "String",
         "example": "Meme"
@@ -765,7 +832,7 @@
   },
   "ur_iam_cont_desc": "„{concept}” este doar un concept, ești dincolo de asta. Selectați altceva sau atingeți „termină” pentru a încheia conversația",
   "@ur_iam_cont_desc": {
-    "placeholder": {
+    "placeholders": {
       "concept": {
         "type": "String",
         "example": "Meme"
@@ -778,7 +845,7 @@
   "ur_iam_title_alt": "Care-i problema ta, spune-i lui Blarg",
   "ur_iam_cont_title_alt": "„{concept}”?",
   "@ur_iam_cont_title_alt": {
-    "placeholder": {
+    "placeholders": {
       "concept": {
         "type": "String",
         "example": "Meme"
@@ -787,7 +854,7 @@
   },
   "ur_iam_cont_desc_alt": "Blarg nu știe nimic despre '{concept}', el zice că n-ai nicio problemă. Selectați altceva sau atingeți „termină” pentru a încheia conversația",
   "@ur_iam_cont_desc_alt": {
-    "placeholder": {
+    "placeholders": {
       "concept": {
         "type": "String",
         "example": "Meme"
@@ -798,7 +865,7 @@
 
   "ur_iam_title_csb": "Ia zi, prin ce treci?",
   "ur_iam_cont_title_csb": "{concept}?",
-  "@ur_iam_cont_title_casb": {
+  "@ur_iam_cont_title_csb": {
     "placeholders": {
       "concept": {
         "type": "String",
@@ -811,7 +878,7 @@
 
   "ur_deconstruct_result__dontknow": "Deoarece nu puteți găsi sursa fundamentală a \"{concept}\", vă puteți detașa de ea. Situația dvs. poate fi diferită, dimpotrivă sau ar putea să nu existe așa cum o știați.\n\nSăpați mai profund pentru ceea ce sa întâmplat de fapt",
   "@ur_deconstruct_result__dontknow": {
-    "placeholder": {
+    "placeholders": {
       "concept": {
         "type": "String",
         "example": "o idee"
@@ -820,7 +887,7 @@
   },
   "ur_deconstruct_result__nothing": "Cativa pași au fost tot ce a fost necesar pentru ca \"{concept}\" să se destrame",
   "@ur_deconstruct_result__nothing": {
-    "placeholder": {
+    "placeholders": {
       "concept": {
         "type": "String",
         "example": "Meme"
@@ -834,14 +901,7 @@
   "ur_transcend_title": "Ce stare neplăcuta ai în prezent?",
   "ur_transcend_desc": "Introduceți o stare existentă sau creați o stare nouă acum.",
   "ur_transcend_cont_desc": "Poți încerca să dovedești că există chiar tu cu Deconstruct.",
-  "@ur_transcend_cont_desc": {
-    "placeholders": {
-      "feeling": {
-        "type": "String",
-        "example": "trist"
-      }
-    }
-  },
+
   "ur_transcend_action_select": "Select",
   "ur_transcend_action_end": "End",
   "ur_transcend_answer_result__end": "Nu ești {feeling}",
@@ -863,13 +923,37 @@
     }
   },
 
+  "ur_fearless_title": "Cu ce frică te confrunți?",
+  "ur_fearless_desc": "Introduceți o frică existentă sau creați o nouă frică.",
+  "ur_fearless_cont_desc": "Toate fricile au ca și condiție prealabilă credința în faptul că 'frica' este un aspect real valabil al realității",
+  "ur_fearless_action_select": "Select",
+  "ur_fearless_action_end": "End",
+  "ur_fearless_answer_result__end": "Nu ai {fear}, pentru că este doar o idee.",
+  "@ur_fearless_answer_result__end": {
+    "placeholders": {
+      "fear": {
+        "type": "String",
+        "example": "trist"
+      }
+    }
+  },
+  "ur_fearless_answer_result__end_desc": "Oricare ar fi frica (de exemplu, {fear}), deși poți aborda fiecare frică prin raționalizarea ei una câte una, există o soluție care înlătură toate fricile.\n\nToate aceste frici au o concluzie interioară pentru a le rezolva la un nivel mai mic, dar adevărata concluzie care va învinge toate fricile este detașarea de ideea că frica în sine, ca idee, este reală, la fel ca în cazul stresului. Fără a avea frică în propria mentalitate, nu vei obține frică din evenimente, idei etc.",
+  "@_desc": {
+    "placeholders": {
+      "fear": {
+        "type": "String",
+        "example": "trist"
+      }
+    }
+  },
+
   "bundles_blueprints_name": "Șabloane",
   "bundles_blueprints_subtitle": "Concepte de pornire",
   "bundles_blueprints_description": "Concepte de bază pe care vă puteți baza cu ușurință. Legate de sursa de informații, de relația cu aceasta și de diferite arome de informații",
   "bundles_blueprints_facts": "Idei",
   "bundles_blueprints_knowledge": "Cunoștință",
   "bundles_blueprints_beliefs": "Credințe",
-  "bundles_blueprints_observații": "Observații",
+  "bundles_blueprints_observations": "Observații",
   "bundles_blueprints_positive": "Pozitiv",
   "bundles_blueprints_negative": "Negativ",
   "bundles_blueprints_duality": "Dualitate",
@@ -878,8 +962,8 @@
   "bundles_letgo_name": "Detașează-te",
   "bundles_letgo_subtitle": "Simte-te liber să te detașezi",
   "bundles_letgo_description": "Credințe implicite neîntemeiate, teorii transformate în fapte, presupuneri și multe altele. Găsește-le unghiul subiectiv, lasă-le să plece și privește dincolo.",
-  "bundles_letgo_letgo_brain_mind": "Teoria identității creier-minte",
-  "bundles_letgo_letgo_brain_mind_sub": "Teorie care susține că creierul este egal cu mintea,conștiința. Diferite studii și valori aberante în studiile normale indică faptul că lucrurile stau altfel",
+  "bundles_letgo_brain_mind": "Teoria identității creier-minte",
+  "bundles_letgo_brain_mind_sub": "Teoria care susține că creierul este egal cu mintea, conștiința. Experiențele umane reale și multiple studii arată că lucrurile stau altfel",
   "bundles_letgo_meaninglessness": "Lipsă de sens",
   "bundles_letgo_meaninglessness_sub": "Lipsa pur aparentă de sens nu duce la certitudinea lipsei de sens",
   "bundles_letgo_class": "Te-ai născut într-o anumită clasă",
@@ -905,7 +989,7 @@
   "bundles_dig_study_unified_pathway_sub":"Link: https://pubmed.ncbi.nlm.nih.gov/24354605/",
   "bundles_dig_study_stress_perception": "Studiu: Modul în care percepeți stresul vă poate ucide",
   "bundles_dig_study_stress_perception_sub": "Link: https://pubmed.ncbi.nlm.nih.gov/24354605/",
-  "bundles_fearless_name":"Fără frică",
+  "bundles_fearless_name":"Frici",
   "bundles_fearless_subtitle":"Gata cu fricile",
   "bundles_fearless_description":"Cele mai populare frici, prezentând o modalitate empirică de a le depăși pe fiecare dintre ele în descrierea fiecărei frici. Importă oricare dintre ele în pe durata Steam Scream Fest pentru a debloca permanent un skin exclusiv",
 
@@ -941,10 +1025,12 @@
   "bundles_fearless_public_speaking_desc": "pentru că ceva ar putea merge prost? ceva ar putea merge prost în orice moment, îmbrățișează incertitudinea",
   "bundles_fearless_losing_identity": "Frica de a-ți pierde identitatea",
   "bundles_fearless_losing_identity_desc": "identitatea ta se schimbă constant, nu ești o imagine statică, îmbrățișează schimbarea",
+  "bundles_fearless_being_yourself": "Frica de a fi tu însuți",
+  "bundles_fearless_being_yourself_desc": "Nu toată lumea te va accepta (inclusiv familia), iar acest lucru este, de asemenea, de înțeles - nimeni nu este îndreptățit să te placă sau să ia drept adevărat adevărul pe care îl expui",
 
   "home_unlocks_at": "Se deblochează la nivelul {level}",
   "@home_unlocks_at": {
-    "placeholder": {
+    "placeholders": {
       "level": {
         "type": "String",
         "example": "20"
@@ -955,7 +1041,7 @@
   "rtb_intro_to_import": "Pentru a importa",
   "rtb_intro_to_ignore": "Pentru a ignora",
   "rtb_intro_already_imported": "Deja importat",
-  "rtb_title": "Întoarcere la fericire",
+  "rtb_title": "Misiunea principală",
   "rtb_subtitle": "un experiment ImmaterialAI",
   "rtb_intro_desc": "Scopul acestui experiment este să vă ajute să vă depășiți toate distorsiunile mentale, de exemplu adevăruri greșite, convingeri negative, săriți la concluzii, limite autoimpuse și mentalități dăunătoare. \n\nTerminați toate misiunile la nivelul Platină și veți trece peste toate problemele aparente.",
   "rtb_intro_warning": "\n\n\nAtenție, acest proces s-ar putea să schimbe modul în care vedeți totul.\n\n\nOdată început, vă recomandăm să rezervați câteva ore și să terminați fiecare misiune pe Diamond dintr-o singură mișcare.\n",
@@ -967,9 +1053,9 @@
   "rtb_done": "GATA ȘEFU",
   "rtb_diamond_disclaimer": "Marcați misiunile din nivelul lor Diamant ca „terminate” numai după ce nu ați lăsat nicio piatră neîntorsă.",
   "rtb_insights": "Pilde",
-  "rtb_insights_desc": "Deblochează pilde de fiecare dată când finalizați un nivel dintr-o misiune, 24 în total",
+  "rtb_insights_desc": "Deblochează pilde de fiecare dată când finalizați un nivel dintr-o misiune, 28 în total",
   "rtb_timed_awards_title": "Exclusiv",
-  "rtb_timed_awards_desc": "Terminați toate misiunile înainte de 2023 pentru a debloca",
+  "rtb_timed_awards_desc": "Termină toate misiunile înainte de martie 2023 pentru a debloca",
   "rtb_blarg": "Blarg orcu'",
   "rtb_cool_story": "Mișto poveste frătiorule",
   "rtb_skeptic": "Suspicilă",
@@ -994,6 +1080,9 @@
   "rtb_quest_believe": "Eu cred",
   "rtb_quest_believe_desc": "Convertiți toate credințele, faptele și presupunerile în noduri și legături",
   "rtb_quest_believe_hint": "Creați noduri și link-uri adecvate",
+  "rtb_quest_organized": "Organizat",
+  "rtb_quest_organized_desc": "Concentrează-te pe ceea ce este cu adevărat important",
+  "rtb_quest_organized_hint": "Adăugați stări de concentrare și favorite la nodurile existente",
   "rtb_quest_s2_entangled": "Entanglement (Plus)",
   "rtb_quest_s2_entangled_desc": "Obțineți recomandări de puncte de interes din bibliotecă susținute de entanglement cuantic",
   "rtb_quest_s2_entangled_hint": "Utilizați funcția Quantum Noise",
@@ -1048,6 +1137,13 @@
   "rtb_insight_24": "Stressul este doar o idee",
   "rtb_insight_25": "Toate limitările sunt iluzorii",
   "rtb_insight_26": "Nu exista normal",
+
+  "rtb_insight_27": "Trebuie să te ierți pe tine însuți și pe ceilalți pentru greșelile tale din trecut și din viitor",
+  "rtb_insight_28": "Pășim în întuneric de fiecare dată până când avem toate cunoștințele",
+  "rtb_insight_29": "Să știi este mai bine decât să crezi",
+  "rtb_insight_30": "Cunoașterea absolută poate fi obținută de oricine",
+  "rtb_insight_31": "Greșelile fac parte din natura umană",
+  "rtb_insight_32": "Așteaptă-te la neașteptat",
 
   "clusters_cluster_name": "Mulțimea {nr}",
   "@clusters_name": {
@@ -1175,6 +1271,7 @@
   "quantum_noise_forbidden": "cheia API este incorecta sau ți-ai atins limita lunară",
   "quantum_noise_selected": "Tipuri de noduri permise",
   "quantum_noise_unselected": "Tipuri de noduri ignorate",
+  "quantum_noise_no_duplicates" : "Eliminați recomandările deja alese (Fără dubluri)",
   "quantum_noise_number_of_nodes" : "Numărul de noduri de recomandat",
 
   "sugar_pills_intro": "După cum probabil știi, percepția ta asupra realității îți afectează realitatea trăită și viceversa.\n\nPoți alege cum să te simți, cu toate acestea, oamenilor li se impun multe ca și cum nu ar avea de ales, de exemplu, X s-a întâmplat deci trebuie să mă simt Y, ceea ce îi determină pe mulți să nu se întrebe dacă pot alege și, în schimb, aleg să accepte răspunsurile date anterior, ex acest eveniment a dat in traumă.",
@@ -1184,6 +1281,7 @@
 
   "worlds_name": "Scrie numele lumii",
   "worlds_sub": "subtitlu",
+  "worlds_dialog_all_worlds": "toate lumile",
   "worlds_dialog_nodes_without_world": "Noduri fără lume {number}",
   "@worlds_dialog_nodes_without_world": {
     "placeholders": {
@@ -1205,6 +1303,101 @@
   "worlds_node_world": "Lume",
 
   "general_leaving_iai": "Părăsești ImmaterialAI",
-  "general_leaving_iai_message": "Ești sigur?"
+  "general_leaving_iai_message": "Ești sigur?",
+
+  "settings_enforce_node_details_layout" : "Tabul detalii nod",
+  "settings_enforce_node_details_layout_default" : "Determinat de tipul de ecran",
+  "settings_enforce_node_details_layout_one_tab" : "Toate textele și detaliile nodului pe o singură filă",
+  "settings_enforce_node_details_layout_two_tabs" : "Textele și detaliile nodului pe 2 file separate",
+  "box_tree_view": "Tree view",
+  "box_tree_view_sub_title": "Vedeți nodurile dvs. ca arbori configurabili",
+  "default_nt_process": "Process",
+  "default_nt_location": "Location",
+  "nt_parent" : "Parent",
+  "general_button_tap_to_change" : "TAP TO CHANGE",
+  "rtb_mark_as_done_general": "MARCHEAZĂ CA TERMINAT DUPĂ CE A ACOPERIT TOT TERENUL",
+  "rtb_back_to_disclaimer" : "Back to disclaimer",
+  "worlds_excluded_cat": " Excluse",
+  "worlds_excluded_cat_sub": "(niciunul interzis dacă nu există restrictii)",
+  "worlds_excluded_item": "Exclude",
+  "worlds_allowed_cat": "Permise",
+  "worlds_allowed_cat_sub": "(toate permise dacă nu există restrictii)",
+  "worlds_allowed_item": "Permite",
+  "default_lt_location_src_text": "are locatie",
+  "default_lt_location_tar_text": "este locatia la",
+  "n_tab_text": "Text",
+  "n_tab_tree": "Ramuri",
+  "default_lt_location": "La locația",
+
+  "graph_poi_main_nucleus": "nucleu principal",
+  "graph_poi_main_nucleus_2": "nucleu secundar",
+  "graph_poi_main_nucleus_3": "nucleu terțiar",
+  "graph_poi_center": "sunteți aici",
+  "graph_poi_source": "sursă",
+  "graph_poi_target": "țintă",
+
+  "box_add_tag": "Etichetă nouă",
+  "box_add_tag_sub_title": "Aplicați peste tot",
+  "general_tags": "Etichete",
+  "settings_skin_night" : "Modul de noapte",
+
+  "sorting_general": "Se sortează",
+  "sort_type_vanilla": "Implicit",
+  "sort_type_latest": "Cel mai recent, mai întâi",
+  "sort_type_oldest": "Cel mai vechi mai întâi",
+  "sort_type_alphabetical": "În ordine alfabetică",
+  "sort_type_alphabetical_reverse": "Alfabetic, inversat",
+
+  "settings_debug_data_mode": "Depanați modul de date",
+  "settings_persist_sorting": "Persista alegerea sortării",
+  "settings_shared_database": "Modul bazei de date partajate",
+  "settings_shared_database_sub": "Utilizați baza de date a unei alte aplicații Mesh în această instanță IAI",
+  "settings_shared_database_shared_false": "Nu se utilizează o bază de date personalizată",
+  "settings_shared_database_shared_true": "Locație personalizată a bazei de date: {db}",
+  "@settings_shared_database_shared_true": {
+    "description": "Shrek.com",
+    "placeholders": {
+      "db": {
+        "type": "String",
+        "example": "2"
+      }
+    }
+  },
+  "settings_shared_database_dialog_sub": "Când selectați o bază de date personalizată, alegeți fișierul „db.sqlite” al celeilalte aplicații Mesh (care se găsește în folderul de instalare al aplicației respective)",
+  "settings_shared_database_dialog_action_copy_current_path": "Copiați calea curentă a bazei de date",
+  "settings_shared_database_dialog_hint": "Reporniți ImmaterialAI după orice actualizare a locației bazei de date partajate",
+  "settings_shared_database_database_changed": "Baza de date mesh a fost schimbată",
+
+  "tags_name": "Numele etichetei",
+  "tags_reference_add": "Etichetați elementul",
+  "tags_reference_all": "Cu această etichetă",
+  "tags_select_item_title": "Articol de etichetat",
+  "general_restart_now_to_apply_changes": "Reporniți pentru a aplica complet modificările",
+
+  "main_menu_launch": "Lansează acum",
+  "settings_back_to_main_menu": "Înapoi la meniul principal",
+  "box_backups_export_include_changes": "Includeți informații despre modificare",
+  "settings_track_data_changes": "Urmăriți modificările datelor la nivel local",
+  "settings_track_data_changes_sub": "Util atunci când decideți strategiile de îmbinare între mai multe baze de date (în curând)",
+  "main_menu_mode_user_new": "Mod utilizator nou\natingeți pentru a comuta",
+  "main_menu_mode_user_existing": "Modul utilizator existent\natingeți pentru a comuta",
+  "main_menu_launch_new_user": "Selectați calea",
+  "main_menu_view_new_user": "Vizualizare utilizator nou",
+  "main_menu_view_existing_user": "Vizualizarea utilizatorului existent",
+
+  "main_menu_more" : "Mai multe",
+  "main_menu_version_web": "Versiune web",
+  "main_menu_version_web_desc": "Funcționează în orice browser",
+  "main_menu_windows_drm_free": "Windows",
+  "main_menu_mac_drm_free": "MacOS",
+  "main_menu_steam_drm_free": "Abur",
+  "main_menu_store": "Faceți upgrade",
+  "main_menu_store_steam": "Magazin Steam",
+  "main_menu_latest_update": "Cel mai recentă actualizare",
+
+  "rtb_s3_free_diamond": "4 skin-uri noi - albastru deschis, verde, roșu și violet",
+  "rtb_s3_plus_gold": "piele noua",
+  "rtb_s3_plus_gold_extra": "potrivire cu paleta de culori a lui ImmaterialAI Classic",
+  "rtb_s3_plus_diamond": "Aspect nou, mod nou UI"
 
 }
