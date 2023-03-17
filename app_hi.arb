@@ -1,0 +1,1356 @@
+{
+  "iai_name": "ImmaterialAI",
+  "iai_headline": "नए में आपका स्वागत है",
+  "appbar_search_all": "डेटा और सामग्री के माध्यम से खोजें",
+  "appbar_search_data": "डेटा के माध्यम से खोजें",
+  "tutorial_health_page1_headline": "ट्यूटोरियल",
+  "tutorial_health_page1_title": "ImmaterialAI में आपका स्वागत है",
+  "tutorial_health_page1_description": "आज सब कुछ नकारात्मक पर काबू पाएं",
+  "tutorial_health_page1_more": "कोई ट्रैकिंग नहीं, डेटा आपके डिवाइस को कभी नहीं छोड़ता है, सभी एआई तर्क स्थानीय रूप से चलते हैं",
+  "tutorial_health_page2_headline": "नोड्स",
+  "tutorial_health_page2_title": "ट्रैक करें जो आपको प्रभावित करता है",
+  "tutorial_health_page2_description": "यादों, विश्वासों, भावनाओं, विचारों, अपेक्षाओं, भय और अधिक को अलग-अलग नोड्स में मैप करें",
+  "tutorial_health_page2_more": "अपने स्वयं के नोड प्रकार बनाकर नए वर्गीकरण बनाएँ",
+  "tutorial_health_page3_headline": "लिंक्स",
+  "tutorial_health_page3_title": "कारण से प्रभाव",
+  "tutorial_health_page3_description": "किसी भी दो नोड्स के बीच एक या अधिक लिंक जोड़कर कनेक्ट करें।",
+  "tutorial_health_page3_more": "अपने स्वयं के नियमों के साथ अपने प्रकार के लिंक बनाकर नए शब्दार्थों को लागू करें",
+  "tutorial_health_page4_headline": "ऐ",
+  "tutorial_health_page4_title": "कहानी बदलें",
+  "tutorial_health_page4_description": "वर्तमान हानिकारक मानसिकता से परे देखें, नई संभावनाओं का पता लगाएं और राय से परे सच्चाई का अनुभव करें",
+  "tutorial_health_page4_more": "यही कारण है कि हमारे उपयोगकर्ता ImmaterialAI की प्रशंसा करते हैं: हमारे AI और टूल आपके पहले सत्र से कई स्तरों पर जीवन बदलने वाली अंतर्दृष्टि प्राप्त करने में आपकी मदद करने के लिए विभिन्न तरीकों से आपके नोड्स और लिंक का लाभ उठाते हैं",
+  "tutorial_health_page5_headline": "होम पेज",
+  "tutorial_health_page5_title": "सब कुछ एक ही स्थान पर खोजें",
+  "tutorial_health_page5_description": "प्लेटफ़ॉर्म का उपयोग करते हुए अपने पथ में अधिक उन्नत सुविधाओं को अनलॉक करें",
+  "tutorial_health_page5_more": "हम पोर्ट्रेट और लैंडस्केप का समर्थन करते हैं, इसे आज़माएं!",
+  "home_go_back": "वापस जाओ",
+  "home_go_forward": "आगे बढ़ो",
+  "home_focus_unlocks_at": "केंद्रित आइटम दिखाएं, स्तर {level} पर अनलॉक करें",
+  "home_focus_on_off": "फोकस ऑन/ऑफ",
+  "home_focus_on": "ध्यान केंद्रित करना",
+  "home_focus_off": "ध्यान केंद्रित करें",
+  "home_favorites_on": "पसंदीदा चालू",
+  "home_favorites_off": "पसंदीदा बंद",
+  "home_favorites_tooltip": "पसंदीदा चालू/बंद",
+  "steam_free_live_on_plus": "ImmaterialAI Plus\nस्टीम पर लाइव" ,
+  "steam_free_soon_on_plus": "जल्द ही ImmaterialAI Plus\nस्टीम पर लाइव",
+  "app_free_live_on_plus": "ImmaterialAI Plus\nकेवल",
+  "app_free_soon_on_plus": "ImmaterialAI Plus\nमें जल्द ही आ रहा है",
+  "home_old_me_disabled": "डेटा दृश्य",
+  "home_old_me_lib": "पूर्ण पुस्तकालय (माइनस 'ओल्ड मी' डेटा)",
+  "home_old_me_new": "'करंट मी' लाइब्रेरी",
+  "home_old_me_old": "ओल्ड मी' लाइब्रेरी",
+  "home_old_me_all": "'वर्तमान' और 'पुरानी' मी लाइब्रेरी",
+  "home_ancestry_disabled": "वंश फ़िल्टर",
+  "home_ancestry_root": "रूट नोड्स",
+  "home_ancestry_parent": "जनक नोड्स",
+  "home_ancestry_child": "चाइल्ड नोड्स",
+  "home_worlds_no_worlds" : "कोई दुनिया नहीं चुनी गई",
+  "home_worlds_selected_worlds" : "चयनित दुनिया:",
+  "path_title": "अभौतिक एआई",
+  "path_sub_title": "अपना तरीका चुनें",
+  "path_starting_features": "पथ की शुरुआत",
+  "path_overcome_name": "काबू पाना",
+  "path_overcome_sub_title": "समझो और पार करो",
+  "path_overcome_description_header": "मानसिक समस्याओं पर काबू पाएं",
+  "path_overcome_description": "शुरुआती उम्र से हमें सिखाया जाता है कि हमें विभिन्न स्थितियों में कैसे कार्य करना चाहिए और प्रतिक्रिया करनी चाहिए या कौन सी भावनाएँ और अवस्थाएँ मान्य हैं। यह बचपन में सकारात्मक और नकारात्मक सुदृढीकरण के साथ शुरू होता है, और पूर्वाभासों की शब्दावली बढ़ती रहती है, चाहे वह हमारे आसपास के जीवन को देखने से हो , हमारा समुदाय, भागीदार, मीडिया, विज्ञापन, आप इसे नाम दें। सभी मामलों में एक घटना या विचार को एक नकारात्मक स्थिति की ओर ले जाने की ज़रूरत नहीं है, और वही है जो आपको समझने में मदद करने के लिए यहाँ पर काबू पाया गया है। \n\nइसमें दर्दनाक घटनाएँ शामिल हैं, मानसिक बीमारियाँ, अधिक सोचना, चिंताएँ, भय और बहुत कुछ।\n\nउन अंतर्निहित कारण और प्रभाव श्रृंखलाओं की अव्यवस्था, और सामान्य तौर पर, इस विचार के बारे में कि किसी एक चीज को एक विशिष्ट दूसरे की ओर ले जाना चाहिए, नकारात्मक या सीमित विचारों पर नियंत्रण का एक पूर्व-अज्ञात स्तर प्रदान करता है। आप उन्हें संसाधित करने के बाद खुद को उसी चक्र से गुजरते हुए भी देख सकते हैं, कहानी अब अलग हो रही है - विचार उत्पन्न होते हैं, अब इस जागरूकता के भीतर कि हानिकारक विचार उन धारणाओं का एक नकारात्मक मार्ग थे जिनका आपने पहले अनुसरण किया था और तब से बदल गए हैं। पुनरावृत्ति के साथ नए निष्कर्ष मजबूत होते हैं और आप किसी विषय पर कहां खड़े हैं, इस पर कोई आंतरिक लड़ाई नहीं होगी।",
+  "path_overcome_quote": "कोई भी जो पक्का रास्ता अपनाता है वह मरा हुआ है",
+  "path_overcome_quote_author": "कार्ल जंग",
+  "path_beyond_name": "आगे",
+  "path_beyond_sub_title": "नई संभावनाएं तलाशें",
+  "path_beyond_description_header": "पुरानी धारणा से परे जाओ",
+  "path_beyond_description": "परे इस बात पर जोर दिया जाता है कि हम खुद को प्रतीकात्मक अवधारणाओं, अवधारणाओं को सौंपने में कितनी तेजी से हो सकते हैं, जो उनके साथ अस्पष्टता, ताकत और कमजोरियों, निश्चितताओं और असंभवताओं को ले जाते हैं। विचारों से खुद को अलग करना - अस्पष्ट या ठोस - हमें दुनिया को देखने और खुद को हर बार स्पष्ट करने की अनुमति देता है .\n\nकई स्रोत ख़ुशी से आपको बताएंगे कि वे आपके बारे में क्या सोचते हैं या उन्हें लगता है कि आपको क्या चाहिए, बियॉन्ड के साथ आप आसानी से शोर और निहित सत्य से परे देख सकते हैं ताकि आप अपना सर्वश्रेष्ठ जीवन जी सकें।\n\nप्राचीन और राज्य के आधार पर कला की नई शिक्षाओं के अलावा, परे आपको अवधारणाओं से परे दुनिया में झाँकने में सक्षम बनाता है, प्रभावी रूप से इसकी वास्तविक प्रकृति को उजागर करके अवांछित को आसानी से दूर करने में आपकी मदद करता है।",
+  "path_beyond_quote": "आप एक लाख जवाब नहीं चाहते हैं जितना आप हमेशा के लिए कुछ सवाल चाहते हैं। प्रश्न हीरे हैं जिन्हें आप प्रकाश में रखते हैं। जीवन भर अध्ययन करें और आप एक ही गहना से अलग-अलग रंग देखते हैं। वही प्रश्न, फिर से पूछे गए, लाओ आप केवल उन उत्तरों को देखते हैं जिनकी आपको आवश्यकता होती है बस उसी क्षण आपको उनकी आवश्यकता होती है",
+  "path_beyond_quote_author": "रिचर्ड बाख",
+  "path_breakthrough_name": "सफलता",
+  "path_breakthrough_sub_title": "वास्तविकता और प्रणालियों का विखंडन",
+  "path_breakthrough_description_header": "एक खुर्दबीन के नीचे वास्तविकता",
+  "path_breakthrough_description": "लोकप्रिय संस्कृति में प्रचलित कई विचार अक्सर अधूरी कहानियों में लिपटे विचारों के समुच्चय मात्र हैं। सफलता \"क्यों\" और \"क्यों नहीं\" की आश्चर्यजनक लौ को फिर से प्रज्वलित करती है ताकि तथ्यों के रूप में बताए गए मौलिक रूप से अधूरे सिद्धांतों को स्पष्ट रूप से ध्वस्त किया जा सके। एक बार जब हम उनके तर्क की प्रारंभिक परतों से परे देखते हैं। \n\nब्रेकथ्रू हमें उन अवधारणाओं की कहानियों से परे देखने के लिए कहता है जिन्हें हम एक नई स्पष्ट रोशनी में देखने के लिए पकड़ते हैं। पहली सूचना पर, स्वयं या स्वयं के बारे में कई अवधारणाएँ दुनिया क्रूर, अक्षम्य है, फिर भी गहरी खुदाई करती है और कहानी बदल जाती है। उनसे छुटकारा पाएं और नई संभावनाएं और विकल्प खोजें",
+  "path_breakthrough_quote": "अपने आनंद का पालन करें और ब्रह्मांड उन दरवाजों को खोल देगा जहां केवल दीवारें थीं।",
+  "path_breakthrough_quote_author": "जोसेफ कैंपबेल",
+  "path_create_name": "सृजन करना",
+  "path_create_sub_title": "अनंत आयामों में मानचित्र डेटा",
+  "path_create_description_header": "अवधारणाओं के ब्रह्मांड बनाएँ",
+  "path_create_description": "किसी भी अन्य उपयोगकर्ता डेटा उपकरण के विपरीत, जो सूचियों, तालिकाओं या दस्तावेज़ों में डेटा को व्यवस्थित करता है, आपका इम्मटेरियलएआई डेटा व्यवस्थित रूप से मस्तिष्क और ब्रह्मांड की संरचना जैसा दिखता है, जिससे आप डेटा को अनंत आयामों से अधिक में मैप कर सकते हैं।\n\nImmaterialAI में सूचना का प्रत्येक नोड एक न्यूरॉन की तरह काम करता है, जबकि उनके बीच के लिंक सिनैप्स की तरह होते हैं। उन्हें कनेक्ट करें और देखें कि वे प्रत्यक्ष और अप्रत्यक्ष रूप से कितनी गहराई से एक दूसरे से जुड़ते हैं।\n\nImmaterialAI Plus उपयोगकर्ताओं के लिए विशेष - और केवल Create उपयोगकर्ताओं के लिए पहला अनलॉक - आप अपनी IAI यात्रा की शुरुआत से नए प्रकार के न्यूरॉन्स और सिनैप्स बना सकते हैं, जिससे आप प्रभावी रूप से अनंत घन आयामों से अधिक में अपने डेटा का वर्णन करने में सक्षम हो जाते हैं। आप अपनी लाइब्रेरी को मौजूदा फिल्टर (जैसे टूडू, ओल्ड/न्यू मी, फोकस आदि) के संयोजन के साथ-साथ कई नोड प्रकारों द्वारा आसानी से फ़िल्टर कर सकते हैं, साथ ही किसी मौजूदा और कस्टम पसंद प्रकारों को शामिल करने या बाहर करने के लिए ग्राफ़ जनरेशन को कॉन्फ़िगर कर सकते हैं",
+  "path_create_quote": "खोज की वास्तविक यात्रा नए परिदृश्यों की तलाश में नहीं है, बल्कि नई आँखें पाने में है।",
+  "path_create_quote_author": "मार्सेल प्राउस्ट",
+  "path_start_title": "लोड हो रहा है: अपना व्यक्तिगत पथ बनाना",
+  "path_start_subtitle": "जैसा कि आप स्तर ऊपर करते हैं, और अधिक सुविधाओं को अनलॉक करें!",
+  "settings_cat_customization": "अनुकूलन",
+  "settings_cat_graphics_performance": "ग्राफिक्स और प्रदर्शन",
+  "settings_full_screen": "पूर्ण स्क्रीन",
+  "settings_page_mode": "पेज मोड",
+  "settings_skin": "त्वचा का चयन करें",
+  "settings_alternative_flow_must_be_deselected": "वैकल्पिक प्रवाह {flow} अचयनित होना चाहिए",
+  "settings_skin_default": "चूक",
+  "settings_skin_inverse": "श्लोक में",
+  "settings_background": "पृष्ठभूमि छवि चुनें",
+  "settings_background_remove": "हटाना",
+  "settings_background_select": "छवि चुने",
+  "settings_high_quality_transitions": "उच्च गुणवत्ता संक्रमण",
+  "settings_high_quality_graphs": "उच्च गुणवत्ता वाले रेखांकन",
+  "settings_change_menu_left_right": "मेनू को बाएं से दाएं बदलें",
+  "settings_cat_other": "अन्य",
+  "settings_see_licenses": "लाइसेंस देखें",
+  "settings_cat_general": "सामान्य",
+  "settings_animations": "एनिमेशन",
+  "settings_change_ui_mode": "सामग्री बॉक्स का लेआउट",
+  "settings_performance_mode": "प्रदर्शन के मोड",
+  "settings_different_user_path": "अलग उपयोगकर्ता पथ का चयन करें",
+  "settings_restart_tutorial": "ट्यूटोरियल पुनरारंभ करें",
+  "settings_clear_user_library": "उपयोगकर्ता पुस्तकालय साफ़ करें",
+  "settings_hide_future_locked_content_on": "सभी लॉक की गई सुविधाएं दिखाएं",
+  "settings_hide_future_locked_content_off": "भविष्य की लॉक की गई सुविधाओं को छुपाएं",
+  "settings_language": "भाषा बदलें",
+  "settings_language_general": "भाषा",
+  "settings_language_remove": "कस्टम भाषा हटाएं",
+  "settings_exit": "प्लेटफ़ॉर्म से बाहर निकलें",
+  "settings_data":"आंकड़े",
+  "settings_backup_location": "बैकअप फ़ोल्डर",
+  "settings_backups_on_startup": "स्टार्टअप पर बैकअप",
+  "settings_backups_at_frequency": "इन-ऐप रहते हुए हर X मिनट में बैकअप लें",
+  "settings_backups_overwrite_backup_on_any_change": "दैनिक बैकअप पर कोई परिवर्तन लिखें",
+  "box_library": "पुस्तकालय",
+  "box_settings": "सेटिंग्स और उपयोगकर्ता वरीयताएँ",
+  "box_add_n": "नया नोड",
+  "box_add_n_sub_title": "कुछ भी आप नाम कर सकते हैं",
+  "box_add_nt": "नया नोड प्रकार",
+  "box_add_nt_sub_title": "संकल्पना समूह जैसे 'संस्थाएं', 'घटनाक्रम'",
+  "box_add_l": "नया लिंक",
+  "box_add_l_sub_title": "कोई भी दो अवधारणाओं को जोड़ें",
+  "box_add_lt": "नया लिंक प्रकार",
+  "box_add_lt_sub_title": "लिंक के प्रकार जैसे 'अभिभावक/बच्चे'",
+  "box_add_world": "नया संसार",
+  "box_add_world_sub_title": "अपनी लाइब्रेरी को कंपार्टमेंटलाइज़ करें",
+  "box_student": "विद्यार्थी",
+  "box_student_sub_title": "एब्सोल्यूट ओरिजिन, बंडल्स, फोकस और नोड एनेस्ट्री को अनलॉक करें",
+  "box_teacher": "अध्यापक",
+  "box_teacher_sub_title": "अनलॉक फेवरिट्स, न्यू/ओल्ड मी, बिग पिक्चर, फाइंड लिंक एंड इज़ इट रियल?",
+  "box_800_teachers": "800 शिक्षक",
+  "box_800_teachers_sub_title": "अनलॉक टास्क, मेटा मॉडल, सभी एआई फ्लो, क्लस्टर, विवेक जांच, ट्रांसेंड, इंट्यूशन ट्रेनिंग, वर्ल्ड्स, और बहुत कुछ",
+  "box_return_to_bliss": "आनंद पर लौटें",
+  "box_return_to_bliss_sub_title": "चुनौतियों के साथ खोज, स्तरीय प्रगति, बोनस अनलॉक, और समयबद्ध विशिष्टताएं",
+  "box_direct_links": "डायरेक्ट लिंक्स",
+  "box_direct_links_sub_title": "आसानी से किसी भी नोड के अंदर से दो नोड्स लिंक करें",
+  "box_tasks": "टास्क बोर्ड",
+  "box_tasks_sub_title": "क्या किया जाना चाहिए इसका ट्रैक रखें",
+  "box_tasks_filter": "कार्य फ़िल्टर",
+  "box_tasks_filter_sub_title": "अपने होम पेज से कार्यों को फ़िल्टर करें",
+  "box_me": "मैं",
+  "box_me_sub_title": "वर्तमान/पुराने मी नोड राज्यों से स्वतः उत्पन्न",
+  "box_absolute_origin": "पूर्ण उत्पत्ति",
+  "box_absolute_origin_sub_title": "नोड विवरण में 'प्रमाण' लिंक पर निर्भर एआई फ़ंक्शन",
+  "box_bundles": "बंडल",
+  "box_bundles_sub_title": "क्या किया जाना चाहिए इसका ट्रैक रखें",
+  "box_backups": "आयात निर्यात",
+  "box_backups_sub_title": "से और फ़ाइल और पाठ + IAI क्लासिक बैकअप समर्थन",
+  "box_backups_import": "फ़ाइल आयात करें",
+  "box_backups_import_sub_title": "ImmaterialAI 2 और 3 फ़ाइलों को पुनर्स्थापित करें",
+  "box_backups_import_text": "पाठ आयात करें",
+  "box_backups_import_text_sub_title": "यहाँ टेक्स्ट पेस्ट करें",
+  "box_backups_export": "फ़ाइल निर्यात करें",
+  "box_backups_export_include_preferences": "वरीयताएँ शामिल करें",
+  "box_backups_export_sub_title": "अपना सारा डेटा फ़ाइल में सहेजें",
+  "box_backups_export_text": "पाठ निर्यात करें",
+  "box_backups_export_text_sub_title": "परिणामी पाठ की प्रतिलिपि बनाएँ और इसे जहाँ चाहें वहाँ संग्रहीत करें",
+  "box_big_picture": "बड़ी तस्वीर",
+  "box_big_picture_sub_title": "अवधारणाओं के ब्रह्मांडों का अन्वेषण करें",
+  "box_is_it_real": "यह असली है?",
+  "box_is_it_real_sub_title": "नोड विवरण में 'प्रमाण' लिंक पर निर्भर एआई फ़ंक्शन",
+  "box_dependency_tree": "निर्भरता ग्राफ",
+  "box_dependency_tree_sub_title": "एआई फ़ंक्शन नोड विवरण में 'लिंक पर निर्भर करता है' पर निर्भर करता है",
+  "box_rich_text": "रिच पाठ",
+  "box_check_for_link": "लिंक की जाँच करें",
+  "box_check_for_link_sub_title": "किसी भी 2 नोड्स के बीच",
+  "box_rich_text_sub_title": "मार्कडाउन के साथ अपने नोड्स के विवरण को प्रारूपित करें",
+  "box_ancestry_filter": "वंश फ़िल्टर",
+  "box_ancestry_filter_sub_title": "सभी रूट, पैरेंट और चाइल्ड नोड देखें",
+  "box_clusters": "क्लस्टर",
+  "box_clusters_sub_title": "आपका दिमाग कैसे संरचित है",
+  "box_sanity_check": "मानसिक स्वास्थ्य की जांच",
+  "box_sanity_check_sub_title": "अपनी लाइब्रेरी में मुद्दों की जांच करें, पूर्व और बाद की एआई वैधता, वैधता वितरण और अधिक",
+  "box_quantum_field": "क्वांटम क्षेत्र",
+  "box_quantum_field_sub_title": "पूरा देखें",
+  "box_train_intuition": "अपने अंतर्ज्ञान को प्रशिक्षित करें",
+  "box_train_intuition_sub_title": "आँकड़ों के साथ 3 कठिनाइयाँ (लगातार और औसत सफलता दर)",
+  "box_presentation_mode": "प्रस्तुति मोड",
+  "box_presentation_mode_sub_title": "प्लेटफ़ॉर्म का उपयोग करते समय व्यक्तिगत डेटा छुपाएं",
+  "box_quantum_noise": "क्वांटम शोर",
+  "box_quantum_noise_sub_title": "उलझन से समर्थित सिफारिशें प्राप्त करें, ऑस्ट्रेलिया में लैब से डेटा प्राप्त करने के लिए इंटरनेट की आवश्यकता है",
+  "box_sugar_pills": "चीनी की गोलियाँ",
+  "box_sugar_pills_sub_title": "स्वेच्छा से प्लेसबो को प्रेरित करें",
+  "box_focus": "ध्यान केंद्रित करना",
+  "box_focus_sub_title": "घर से केंद्रित अवधारणाओं तक पहुंचें",
+  "box_node_ancestry": "नोड वंश",
+  "box_node_ancestry_sub_title": "नोड विवरण में 'पैरेंट' लिंक पर निर्भर एआई फ़ंक्शन",
+  "box_worlds_filter": "दुनिया",
+  "box_worlds_filter_sub_title": "अपने नोड विशिष्ट दुनिया असाइन करें और केवल एक दुनिया के परिप्रेक्ष्य से ऐप दिखाएं",
+  "box_favorites": "पसंदीदा",
+  "box_fav_sub_title": "नोड विवरण में",
+  "box_old_me": "नया/पुराना मैं",
+  "default_data_cant_delete": "डिफ़ॉल्ट डेटा, हटाया नहीं जा सकता",
+  "default_nt_internal_all": "सभी",
+  "default_nt_internal_journey": "पथ",
+  "default_nt_internal_system": "आंतरिक",
+  "default_nt_concept": "संकल्पना",
+  "default_nt_system": "प्रणाली",
+  "default_nt_feeling": "भावना",
+  "default_nt_thought": "विचार",
+  "default_nt_effect": "प्रभाव",
+  "default_nt_event": "आयोजन",
+  "default_nt_quote": "उद्धरण",
+  "default_nt_entity": "इकाई",
+  "default_nt_study": "पढाई करना",
+  "default_nt_note": "टिप्पणी",
+  "default_nt_insight": "अंतर्दृष्टि",
+  "default_nt_fear": "डर",
+  "default_n_nothing": "कुछ नहीं",
+  "default_n_known_unknown": "ज्ञात अज्ञात",
+  "default_n_unknown_unknown": "अज्ञात अज्ञात",
+  "default_n_unknown_general": "अनजान",
+  "default_n_everything": "सब कुछ",
+  "default_lt_favorite": "पसंदीदा",
+  "default_lt_favorite_src_text": "पसंदीदा चिह्नित है",
+  "default_lt_focus": "ध्यान केंद्रित करना",
+  "default_lt_focus_src_text": "केंद्रित के रूप में चिह्नित किया गया है",
+  "default_lt_old_me": "पुराना मैं",
+  "default_lt_old_me_src_text": "'ओल्ड मी' के रूप में चिह्नित है",
+  "default_lt_tasks": "कार्य",
+  "default_lt_tasks_src_text": "कार्य सूची में है",
+  "default_lt_public_data": "सार्वजनिक डेटा चालू/बंद",
+  "default_lt_public_data_src_text": "सार्वजनिक डेटा है",
+  "default_lt_public_data_tar_text": "-",
+  "default_lt_parent": "माता-पिता/बच्चे",
+  "default_lt_parent_src_text": "के माता पिता है",
+  "default_lt_parent_tar_text": "का बच्चा है",
+  "default_lt_proof": "सबूत",
+  "default_lt_proof_src_text": "द्वारा सिद्ध",
+  "default_lt_proof_tar_text": "साबित",
+  "default_lt_source": "स्रोत",
+  "default_lt_source_src_text": "का स्रोत है",
+  "default_lt_source_tar_text": "स्रोत है",
+  "default_lt_cause_effect": "कारण प्रभाव",
+  "default_lt_cause_effect_src_text": "कारण",
+  "default_lt_cause_effect_tar_text": "के कारण",
+  "default_lt_related": "से संबंधित",
+  "default_lt_related_src_tar_text": "संदर्भ के",
+  "default_lt_equality": "है",
+  "default_lt_equality_src_tar_text": "है",
+  "default_lt_parallel": "समानांतर",
+  "default_lt_parallel_src_tar_text": "समानांतर है",
+  "default_lt_analog": "एनालॉग",
+  "default_lt_analog_desc": "कुछ ऐसा जो किसी और चीज के अनुरूप हो",
+  "default_lt_analog_src_tar_text": "के समान है",
+  "default_lt_dependency": "निर्भरता",
+  "default_lt_dependency_src_text": "की निर्भरता है",
+  "default_lt_dependency_tar_text": "पर निर्भर करता है",
+  "n_add_name": "अवधारणा का नाम",
+  "n_add_name_plus": "अवधारणा का नाम, एकाधिक नोड बनाने के लिए अल्पविराम का उपयोग करें",
+  "n_quick_add_add_link_type" : "लिंक प्रकार चुनें",
+  "n_add_select_node_type": "नोड प्रकार का चयन करें",
+  "n_plus_editor_hint": "मार्कडाउन में लिखें",
+  "n_tab_details": "विवरण",
+  "n_tab_ai": "ऐ",
+  "n_tab_big_picture": "बड़ी तस्वीर",
+  "n_hint_name": "नाम",
+  "n_hint_subtitle": "उपशीर्षक",
+  "n_hint_desc": "विवरण",
+  "n_direct_links" : "नोड्स के लिए सीधा लिंक",
+  "n_mentions" : "में वर्णित",
+  "n_mentions_worlds_selected" : "(चयनित दुनिया के भीतर)",
+  "n_hint_plus_view": "देखना",
+  "n_hint_plus_edit": "संपादन करना",
+  "n_deleting": "नोड हटाना",
+  "n_focus_general": "ध्यान केंद्रित करना",
+  "n_focus_off": "ध्यान केंद्रित करना",
+  "n_focus_on": "केंद्रित",
+  "n_save": "सहेजें",
+  "n_delete": "मिटाना",
+  "n_copy": "कॉपी",
+  "n_copy_adjacent_nodes_on": "आसन्न नोड्स के साथ",
+  "n_copy_adjacent_nodes_off": "के बग़ैर",
+  "markdown_editor_title": "शीर्षक",
+  "markdown_editor_bold": "निडर",
+  "markdown_editor_italic": "इटैलिक",
+  "markdown_editor_strikethrough": "स्ट्राइकथ्रू",
+  "markdown_editor_link": "संपर्क",
+  "markdown_editor_iai_link": "आईएआई नोड लिंक",
+  "markdown_editor_list": "सूची",
+  "markdown_editor_code": "कोड",
+  "markdown_editor_quote": "उद्धरण",
+  "markdown_editor_separator": "विभाजक",
+  "markdown_editor_image": "छवि",
+  "markdown_editor_image_file": "छवि फ़ाइल",
+  "markdown_editor_iai_node": "आईएआई नोड",
+  "markdown_editor_table": "मेज़",
+  "l_node_a": "नोड ए",
+  "l_node_b": "नोड बी",
+  "l_link_type": "लिंक प्रकार",
+  "nt_name": "नोड प्रकार का नाम",
+  "nt_description" : "विवरण",
+  "lt_name": "लिंक प्रकार का नाम",
+  "lt_desc" : "इमटेरियलएआई में प्रत्येक संबंध दो अवधारणाओं, ए और बी के बीच है।",
+  "lt_add_node_type" : "नोड प्रकार जोड़ें",
+  "lt_add_node_type_a" : "ए के लिए प्रकार",
+  "lt_add_node_type_b" : "बी के लिए प्रकार",
+  "lt_add_node_type_dialog_search": "नए नोड प्रकार के लिए खोज या इनपुट नाम",
+  "lt_a" : "एक स्रोत)",
+  "lt_a_b" : "ए और बी (स्रोत और लक्ष्य)",
+  "lt_b" : "बी (लक्ष्य)",
+  "lt_direction_matters" : "दिशा मायने रखती है:",
+  "lt_direction_info" : "यदि असत्य है, तो A->B और B->A का परस्पर उपयोग किया जा सकता है (सामान्यीकृत संबंधों के लिए उपयोगी)",
+  "lt_multiple_sources" : "लक्ष्यों के कई स्रोत हो सकते हैं:",
+  "lt_save_warning_name": "सहेजने से पहले लिंक प्रकार का नाम दर्ज करें",
+  "lt_save_warning_a_b": "A->B के लिए नाम दर्ज करें",
+  "lt_save_warning_a_b_vice_versa": "A->B और B->A के लिए नाम दर्ज करें",
+  "home_tasks_disabled": "कार्य दिखाने के लिए टैप करें",
+  "tasks_general": "कार्य",
+  "tasks_create_task": "कार्य बनाएँ",
+  "tasks_todo": "करने के लिए",
+  "tasks_in_progress": "चालू",
+  "tasks_done": "पूर्ण",
+  "tasks_all": "सभी कार्य",
+  "me_current_me": "(वर्तमान) मुझे",
+  "me_old_me": "पुराना मैं",
+  "n_public_general": "सार्वजनिक डेटा",
+  "n_public_data_on": "जनता",
+  "n_public_data_off": "निजी",
+  "n_favorite_general": "पसंदीदा",
+  "n_favorite_off": "पसंदीदा",
+  "n_favorite_on": "पसंदीदा",
+  "n_old_me_general": "मैं",
+  "n_old_me_create": "मुझे स्थिति",
+  "n_old_me_current": "वर्तमान मुझे",
+  "n_old_me_old": "पुराना मैं",
+  "n_ancestry_src": "प्रत्यक्ष बच्चे",
+  "n_ancestry_tar": "प्रत्यक्ष माता-पिता",
+  "n_dependency_title": "प्रत्यक्ष निर्भरता",
+  "n_dependency_desc": "दाईं ओर की वस्तुएं बाईं ओर की वस्तुओं पर निर्भर हैं",
+  "n_dependency_src": "पर निर्भर",
+  "n_dependency_tar": "पर निर्भर करता है",
+  "n_is_it_real_no_hierarcy": "अनिर्णायक\nअवधारणा में 'प्रमाण' लिंक नहीं है",
+  "n_is_it_real_self_ref": "आत्म-संदर्भ",
+  "n_is_it_real_nothing": "असली\nप्रमाण नहीं मिला \n'कुछ नहीं\n'",
+  "n_is_it_real_known_unknown": "ज्ञात अज्ञात\nमिला प्रमाण 'वर्तमान में अज्ञात'",
+  "n_is_it_real_incomplete": "अनिर्णायक\nकनेक्टेड कॉन्सेप्ट में 'प्रूफ़' लिंक नहीं है",
+  "general_search": "खोज",
+  "general_types": "लिंक प्रकार",
+  "general_node": "नोड",
+  "general_nodes": "नोड्स",
+  "general_link": "संपर्क",
+  "general_links": "लिंक्स",
+  "general_users": "उपयोगकर्ता",
+  "general_node_types": "नोड प्रकार",
+  "general_link_types": "लिंक प्रकार",
+  "general_link_types_requirement": "लिंक प्रकार की आवश्यकताएं",
+  "general_worlds": "दुनिया",
+  "general_preferences": "पसंद",
+  "general_copy_to_clipboard": "क्लिपबोर्ड पर कॉपी करें",
+  "general_export": "निर्यात",
+  "general_change_from_settings": "सेटिंग से बदलें",
+  "general_yes": "हां",
+  "general_no": "नहीं",
+  "general_button_on": "पर",
+  "general_button_off": "बंद",
+  "general_button_next": "अगला",
+  "general_button_done": "किया हुआ",
+  "general_button_create": "सृजन करना",
+  "general_button_select": "चुनते हैं",
+  "general_button_change": "परिवर्तन",
+  "general_button_confirm": "पुष्टि करें",
+  "general_button_add": "जोड़ना",
+  "general_button_delete": "मिटाना",
+  "general_button_remove": "हटाना",
+  "general_button_update": "अपडेट करें",
+  "general_button_prev": "पिछला",
+  "general_button_back": "पीछे",
+  "general_button_start": "प्रारंभ",
+  "general_button_more": "और देखें",
+  "general_coming_soon": "जल्द आ रहा है",
+  "general_coming_soon_plus": "प्लस, जल्द ही",
+  "general_coming_soon_plus_or_lite": "प्लस एंड प्लस लाइट, जल्द ही",
+  "general_coming_soon_plus_alt": "इसके अलावा, जल्द ही आ रहा है",
+  "general_coming_soon_plus_alt_or_lite": "प्लस एंड प्लस लाइट, जल्द ही आ रहा है",
+  "general_unlocks_at_level_plus": "प्लस, स्तर {level}",
+  "general_unlocks_at_level_plus_or_lite": "प्लस और प्लस लाइट, स्तर {level}",
+  "general_plus_only": "केवल प्लस",
+  "general_plus_or_lite_only": "प्लस या प्लस लाइट",
+  "general_are_you_sure": "क्या आपको यकीन है?",
+  "general_unlocks_at_level": "स्तर {level} पर अनलॉक",
+  "general_unlocks_at_level_short": "{level} पर अनलॉक होता है",
+  "general_unlocks_at_level_2line": "पर अनलॉक करता है \nस्तर {level}",
+  "general_level": "स्तर {level}",
+  "general_icon": "आइकन",
+  "general_color": "रंग",
+  "general_true": "सच",
+  "general_false": "गलत",
+  "general_node_search_or_new": "नोड के लिए नया नाम खोजें या दर्ज करें",
+  "general_node_node_to_inline": "नोड टू इनलाइन",
+  "general_time_created": "बनाया था",
+  "general_time_updated": "अद्यतन",
+  "general_moments_ago": "क्षण भर पहले",
+  "general__time__one_second": "एक सेकंड पहले",
+  "general__time__seconds": "{seconds} सेकंड पहले",
+  "general__time__one_minute": "1 मिनट पहले",
+  "general__time__minutes": "मिनट",
+  "general__time__minute": "{minutes} मिनट पहले",
+  "general__time__one_hour": "एक घंटे पहले",
+  "general__time__hour": "{hours} घंटे पहले",
+  "general__time__one_day": "1 दिन पहले",
+  "general__time__day": "{days} दिन पहले",
+  "general__time__one_week": "1 सप्ताह पहले",
+  "general__time__week": "{weeks} सप्ताह पहले",
+  "general__time__one_month": "1 महीने पहले",
+  "general__time__month": "{months} महीने पहले",
+  "general__time__one_year": "1 साल पहले",
+  "general__time__year": "{years} साल पहले",
+  "ur_unravel_save": "सहेजें",
+  "ur_unravel_restart": "पुनर्प्रारंभ करें",
+  "ur_unravel_back_home": "पीछे",
+  "ur_unravel_restart_first_item": "पहले आइटम से",
+  "ur_unravel_answer_selected": "चयनित \"{item}\"",
+  "ur_deconstruct_card_title": "डीकंस्ट्रक्ट",
+  "ur_deconstruct_card_sub": "अवधारणाओं का पुनर्निर्माण",
+  "ur_deconstruct_card_desc": "वर्तमान राज्यों के स्रोतों और उत्पत्ति को नेविगेट करें",
+  "ur_deconstruct_card_title_skeptic": "संशयवादी",
+  "ur_deconstruct_card_sub_skeptic": "आपको परे देखने में मदद करता है",
+  "ur_deconstruct_card_desc_skeptic": "आपको परे देखने में मदद करता है",
+  "ur_reshape_card_title": "नया आकार देना",
+  "ur_reshape_v2_card_title": "नया आकार देना+",
+  "ur_reshape_v2_card_sub": "अपनी प्रतिक्रिया बदलें (अब पूर्ण/सापेक्ष भेद के साथ)",
+  "ur_reshape_card_sub": "भावनात्मक प्रतिक्रियाओं को नयी आकृति प्रदान करें",
+  "ur_reshape_card_desc": "अपनी प्रतिक्रिया बदलें",
+  "ur_iam_card_title": "मैं हूं …",
+  "ur_iam_card_sub": "आपका दिमाग आपको कौन कहता है?",
+  "ur_iam_card_desc": "अवधारणाओं से परे देखें",
+  "ur_iam_card_title_alt": "ब्लार्ग द ऑर्क",
+  "ur_iam_card_sub_alt": "ब्लार्ग को बताएं कि आपके मन में क्या है",
+  "ur_iam_card_desc_alt": "ब्लार्ग को बताएं कि आपके मन में क्या है",
+  "ur_iam_card_title_csb": "मजेदार कहानी है भाई",
+  "ur_iam_card_sub_csb": "चलो यार, मैं तुम्हें यह नहीं बताऊंगा कि यह वास्तविक नहीं है",
+  "ur_iam_card_desc_csb": "चलो यार, मैं तुम्हें यह नहीं बताऊंगा कि यह वास्तविक नहीं है",
+  "ur_transcend_card_title": "पार",
+  "ur_transcend_card_sub": "सभी चरण छोड़ें",
+  "ur_transcend_card_desc": "कोई और नकारात्मक स्थिति नहीं",
+  "ur_fearless_card_title": "निडर",
+  "ur_fearless_card_sub": "कोई और डर नहीं",
+  "ur_fearless_card_desc": "कोई और डर नहीं",
+  "ur_deconstruct_title": "आप क्या बनाना चाहते हैं?",
+  "ur_deconstruct_desc": "नोड के लिए खोजें या एक नए नोड के लिए नाम दर्ज करें",
+  "ur_deconstruct_cont_title": "इसका स्रोत क्या है/क्या इसे वास्तविक बनाता है?",
+  "ur_deconstruct_cont_desc": "क्या यह सिर्फ एक कहानी है? क्या यह बदल सकती है?",
+  "ur_deconstruct_title_skeptic": "तो मुझे बताओ, तुम्हें क्या लगता है कि सच है?",
+  "ur_deconstruct_desc_skeptic": "नोड के लिए खोजें या एक नए नोड के लिए नाम दर्ज करें",
+  "ur_deconstruct_cont_title_skeptic": "क्यों?",
+  "ur_deconstruct_cont_desc_skeptic": "इसके वास्तविक होने के लिए, इसके पास कुछ प्रमाण होना चाहिए",
+  "ur_deconstruct_action_select": "चुनना",
+  "ur_deconstruct_action_existing": "मौजूदा",
+  "ur_deconstruct_action_existing_pattern": "({item})",
+  "ur_deconstruct_action_nothing": "कुछ नहीं",
+  "ur_deconstruct_action_dontknow": "अनजान",
+  "ur_deconstruct_answer_dontknow": "स्रोत का अनिश्चित",
+  "ur_deconstruct_answer_nothing": "अस्तित्व का कोई स्रोत नहीं",
+  "ur_deconstruct_answer_circular": "परिपत्र निर्भरता",
+  "ur_deconstruct_answer_selfref": "स्वयं संदर्भ",
+  "ur_reshape_action_next_select": "चुनना",
+  "ur_reshape_action_next_end": "अंत",
+  "ur_reshape_start_title": "पिछली या मौजूदा स्थिति से उत्पन्न एक नकारात्मक भावना इनपुट करें",
+  "ur_reshape_start_description": "एक मौजूदा भावना के लिए खोजें या एक नए के लिए नाम दर्ज करें",
+  "ur_reshape_situation_title": "क्या स्थिति ‘{feeling}’ लेकर आई?",
+  "ur_reshape_situation_description": "क्या स्थिति आपको वहाँ ले आई?",
+  "ur_reshape_cause_effect_title": "\"{situation}\" पर उस कोण का वर्णन करें जो आपको \"{feeling}\" तक ले आया",
+  "ur_reshape_cause_effect_description": "यह पूरी कहानी नहीं है",
+  "ur_reshape_cause_title": "आपको \"{situation}\" से \"{feeling}\" करने के लिए क्या लाया?",
+  "ur_reshape_resolution_title": "\"{situation}\" को स्वाभाविक रूप से आपको \"{feeling}\" महसूस नहीं कराना चाहिए, जिसका अर्थ है कि आपकी समस्या आपके द्वारा विशेष रूप से दोनों को सहसंबंधित करने से आती है",
+  "ur_reshape_resolution_description": "इस ज्ञान से परे अब आपके सामने प्रस्तुत किया जा रहा है, हम दो संभावित संकल्प प्रदान करते हैं, दोनों अपने डोमेन और उपयोग में भिन्न हैं",
+  "ur_reshape_resolution_action_monad": "पूर्ण डोमेन",
+  "ur_reshape_resolution_action_dyad": "सापेक्ष डोमेन",
+  "ur_reshape_new_effect_title": "यह आवश्यक रूप से आपको \"{feeling}\" महसूस नहीं कराना चाहिए, अपने आप से ऐसा न करें। आप इसे बेहतर तरीके से देख सकते हैं?",
+  "ur_reshape_new_effect_description": "स्थिति को एक उज्जवल स्थान से देखें। खोजें या महसूस करें",
+  "ur_reshape_new_effect_v2_title": "कोई बेहतर तरीका जिससे आप \"{situation}\" को देख सकते हैं?",
+  "ur_reshape_new_effect_dialog": "\"{situation}\" के बारे में महसूस करने का एक बेहतर तरीका क्या है?",
+  "ur_reshape_new_effect_cause_title": "आपको इसके बारे में \"{feeling}\" क्या महसूस होता है?",
+  "ur_reshape_new_effect_cause_description": "\"{situation}\" पर उस कोण का वर्णन करें जो आपको \"{feeling}\" तक ले आया",
+  "ur_reshape_end_action": "खत्म करना",
+  "ur_reshape_end_title": "आप \"{situation}\" के बारे में कैसा महसूस करते हैं, इसे बदल दिया है!",
+  "ur_reshape_end_subtitle": "{feel1} -> {feel2}",
+  "ur_reshape_end_description": "आप चुन सकते हैं कि कौन सा विचार आपको \"{situation}\" से \"{feeling}\" लेकर आया, या प्रवाह को समाप्त करने के लिए \"खत्म\" पर टैप करें।",
+  "ur_reshape_result_changed_title": "फिर से आकार दिया",
+  "ur_reshape_result_changed_desc": "आपने \"{situation}\" के बारे में महसूस करने के तरीके को \"{oldFeeling}\" से \"{newFeeling}\" में बदल दिया है।",
+  "ur_reshape_result_changed_optional_desc": "आपने \"{situation}\" के बारे में महसूस करने के तरीके को \"{oldFeeling}\" से बदलकर \"{newFeeling}\" कर दिया, साथ ही उस स्थिति पर आपके प्रभाव को उजागर किया जो नकारात्मक स्थिति ({interpretation}) की ओर ले जाती है। \n\nजब भी आप अपनी धारणा में नकारात्मकता का सामना करते हैं तो आप इस प्रक्रिया का फिर से पालन कर सकते हैं।",
+  "ur_reshape_result_changed_absolute_title": "आगे बढ़ते हुए, सुनिश्चित करें कि आप \n- ('{situation}') क्या है से \n- ‘{interpretation}’) के कारण इसे ('{feeling}') समझने के लिए नहीं जा रहे हैं।",
+  "ur_reshape_result_changed_absolute_desc": "यदि यह बुराई की समस्या है, तो समझें कि जीवन हमेशा निष्पक्ष नहीं होता है, इसका उत्तर यह है कि हम यह जानते हुए जीवन कैसे जीते हैं।",
+  "ur_iam_answer_end": "आप वे अवधारणाएँ नहीं हैं",
+  "ur_iam_answer_end_flow": "समाप्त",
+  "ur_iam_action_select": "चुनना",
+  "ur_iam_action_next_select": "चुनना",
+  "ur_iam_action_next_end": "अंत",
+  "ur_iam_title": "आप क्या हैं?",
+  "ur_iam_desc": "जो कुछ भी आप अपने बारे में नकारात्मक और सत्य मानते हैं",
+  "ur_iam_cont_title": "आप '{concept}' नहीं हैं",
+  "ur_iam_cont_desc": "'{concept}' केवल एक अवधारणा है, आप उससे परे हैं। कुछ और चुनें या प्रवाह को समाप्त करने के लिए 'अंत' पर टैप करें",
+  "ur_iam_result__iam_end": "आप और दुनिया आपके द्वारा दर्ज की गई अवधारणाओं में से कोई नहीं हैं, वास्तविक कहानी किसी भी परिभाषा से परे है! \n\nहम यह नहीं कह रहे हैं कि सभी विचारों का वास्तविकता में गुणांक नहीं होता है, बस आपको पहले शब्दों के बजाय पहले अनुभव से जाना चाहिए।",
+  "ur_iam_title_alt": "तुम्हारी समस्या क्या है, ब्लार्ग बताओ",
+  "ur_iam_cont_title_alt": "{concept}?",
+  "ur_iam_cont_desc_alt": "ब्लार्ग को '{concept}' के बारे में कुछ भी पता नहीं है, उन्हें लगता है कि आपको कोई समस्या नहीं है। कुछ और चुनें या प्रवाह को समाप्त करने के लिए 'अंत' पर टैप करें",
+  "ur_iam_result__iam_end_alt": "ब्लार्ग ने जो कहा उसकी एक बात समझ में नहीं आई, वास्तविक कहानी किसी भी परिभाषा से परे है!\n\nहम यह नहीं कह रहे हैं कि सभी विचारों का वास्तविकता में गुणांक नहीं होता है, बस आपको शब्दों के बजाय पहले अनुभव से जाना चाहिए पहला।",
+  "ur_iam_title_csb": "मुझे बताओ, तुम क्या कर रहे हो?",
+  "ur_iam_cont_title_csb": "{concept}?",
+  "ur_iam_cont_desc_csb": "मैं मज़ाक कर रहा था - मस्त कहानी भाई! उन परियों की कहानियों में से कुछ और मिला?",
+  "ur_iam_result__iam_end_csb": "यहाँ जाने के लिए वास्तविक अवस्थाएँ हैं, लेकिन परिभाषाओं में खो जाना नहीं है। वहाँ अन्याय है जहाँ क्रोध उत्पन्न होना चाहिए, प्यार और शांति जब उपयुक्त हो, आदि। \n\nहम यह नहीं कह रहे हैं कि सभी विचारों में वास्तविकता में गुणक नहीं होते हैं , बस आपको शब्दों के बजाय पहले अनुभव से जाना चाहिए।",
+  "ur_deconstruct_result__dontknow": "जैसा कि आप \"{concept}\" का मूल स्रोत नहीं ढूंढ सकते हैं, आप इससे अलग हो सकते हैं। आपकी स्थिति अलग, विपरीत हो सकती है, या हो सकता है कि जैसा आप जानते थे वैसा मौजूद न हो।\n\nगहराई से देखें कि वास्तव में क्या है हो गई",
+  "ur_deconstruct_result__nothing": "\"{concept}\" को अलग करने के लिए बस कुछ ही कदमों की ज़रूरत थी",
+  "ur_deconstruct_result__circular": "चेतावनी: आपके स्पष्टीकरण में पहले के स्रोत का उपयोग स्पष्टीकरण में अंतिम आइटम के रूप में किया जाता है",
+  "ur_deconstruct_result__selfref": "चेतावनी: आपके द्वारा जोड़ा गया अंतिम आइटम स्वयं का स्रोत है।",
+  "home_unlocks_at": "स्तर {level} पर अनलॉक",
+  "ur_transcend_title": "वर्तमान में आप किस नकारात्मक स्थिति से निपट रहे हैं ??",
+  "ur_transcend_desc": "मौजूदा भावना दर्ज करें या फ्लाई पर एक नई भावना बनाएं।",
+  "ur_transcend_cont_desc": "आप Deconstruct के साथ यह साबित करने की कोशिश कर सकते हैं कि यह खुद मौजूद है।",
+  "ur_transcend_action_select": "चुनना",
+  "ur_transcend_action_end": "अंत",
+  "ur_transcend_answer_result__end": "तुम {feeling} नहीं हो",
+  "ur_transcend_answer_result__end_desc": "\"किसी भी नकारात्मक भावना के लिए, उत्तर यह है कि आपको ऐसा महसूस करने की ज़रूरत नहीं है, भले ही आपके साथ, दूसरों के साथ और दुनिया के साथ अतीत में क्या हुआ हो। यह असाध्य है कि किसी एक स्थिति/राज्य/विचार 'ए' को {feeling} 'बी' की ओर ले जाने की आवश्यकता है या वह {feeling} सत्य है, आपको यह महसूस करने की आवश्यकता है कि आप किसी भी ए से बी तक जो छलांग लगाते हैं, वह पूरी तरह से आप से हैं वास्तविकता के बारे में सत्य के रूप में लें उदा। यदि आप बी 'डिप्रेशन' में विश्वास नहीं करते हैं तो आप स्थितियों को 'डिप्रेसिव' के रूप में नहीं देखेंगे और न ही संभवतः इसे पहचान पाएंगे\"",
+  "ur_fearless_title": "आप किस डर से निपट रहे हैं?",
+  "ur_fearless_desc": "मौजूदा डर दर्ज करें या फ्लाई पर एक नया डर बनाएं।",
+  "ur_fearless_cont_desc": "सभी भय 'डर' को वास्तविकता का एक वैध वास्तविक पहलू मानते हुए पूर्वापेक्षा के रूप में हैं",
+  "ur_fearless_action_select": "चुनना",
+  "ur_fearless_action_end": "अंत",
+  "ur_fearless_answer_result__end": "आपके पास {fear} नहीं है, क्योंकि यह सिर्फ एक विचार है।",
+  "ur_fearless_answer_result__end_desc": "भय जो भी हो (जैसे {fear}), जबकि आप प्रत्येक भय को एक-एक करके तर्कसंगत बनाकर संबोधित कर सकते हैं, एक समाधान है जो सभी भय को दूर करता है। एक छोटे स्तर पर, लेकिन वास्तविक निष्कर्ष जो सभी आशंकाओं को दूर कर देगा, वह इस विचार से अलग होना है कि \"डर\" स्वयं एक विचार के रूप में वास्तविक है, ठीक तनाव की तरह। अपनी मानसिकता में भय के बिना, आपको भय नहीं मिलेगा घटनाओं, विचारों आदि से बाहर।",
+  "bundles_blueprints_name": "ब्लूप्रिंट",
+  "bundles_blueprints_subtitle": "प्रारंभिक अवधारणाओं",
+  "bundles_blueprints_description": "आधारभूत अवधारणाएँ आप आसानी से बना सकते हैं। सूचना के स्रोत से संबंधित, उससे संबंध, और सूचना के विभिन्न प्रकार",
+  "bundles_blueprints_facts": "तथ्य",
+  "bundles_blueprints_knowledge": "ज्ञान",
+  "bundles_blueprints_beliefs": "विश्वास",
+  "bundles_blueprints_observations": "अवलोकन",
+  "bundles_blueprints_positive": "सकारात्मक",
+  "bundles_blueprints_negative": "नकारात्मक",
+  "bundles_blueprints_duality": "द्वैत",
+  "bundles_blueprints_nonduality": "अद्वैत",
+  "bundles_letgo_name": "जाने दो",
+  "bundles_letgo_subtitle": "अलग करने के लिए स्वतंत्र महसूस करें",
+  "bundles_letgo_description": "निराधार डिफ़ॉल्ट विश्वासों, सिद्धांतों ने तथ्यों, धारणाओं और अधिक को बदल दिया। उनके व्यक्तिपरक कोण को खोजें, उन्हें जाने दें और परे देखें।",
+  "bundles_letgo_brain_mind": "ब्रेन-माइंड आइडेंटिटी थ्योरी",
+  "bundles_letgo_brain_mind_sub": "सिद्धांत से संबंधित है कि मस्तिष्क मन, चेतना के बराबर है। वास्तविक मानव अनुभव और कई अध्ययन मामले को अन्यथा होने की ओर इशारा करते हैं",
+  "bundles_letgo_meaninglessness": "अर्थहीनता",
+  "bundles_letgo_meaninglessness_sub": "अर्थ की विशुद्ध रूप से स्पष्ट कमी अर्थहीनता की निश्चितता में परिणत नहीं होती है",
+  "bundles_letgo_class": "आप एक विशिष्ट वर्ग में पैदा हुए हैं",
+  "bundles_letgo_class_sub": "सिद्धांत है कि आप एक मनमाने ढंग से परिभाषित वर्ग/कास्ट में पैदा हुए हैं जिसे आप पार नहीं कर सकते।",
+  "bundles_letgo_suffering": "पीड़ा वास्तविक है",
+  "bundles_letgo_suffering_sub": "ऐसा क्यों होगा?",
+  "bundles_letgo_need": "आपको X के लिए और अधिक करने/होने/होने की आवश्यकता है",
+  "bundles_letgo_need_sub": "वर्तमान अपूर्णता का अंतर्निहित विचार",
+  "bundles_dig_name": "गहरी खुदाई",
+  "bundles_dig_subtitle": "वर्तमान क्षितिज से परे",
+  "bundles_dig_description": "नई संभावनाओं के संकेत, अधूरे सिद्धांत, और चिंतन बिंदु। विचार करें कि आपके पास अब तक के ज्ञान के लिए उनका क्या मतलब है और वे कौन से दरवाजे खोलते हैं",
+  "bundles_dig_perception": "धारणा की अस्थिरता",
+  "bundles_dig_perception_sub": "आज के बारे में आप जिस चीज के बारे में निश्चित हैं, उसके बारे में आपका मन कल बदल सकता है",
+  "bundles_dig_semantics": "शब्द शब्दार्थ की अस्थिरता",
+  "bundles_dig_semantics_sub": "शब्दों का अर्थ अक्सर व्यक्तिगत होता है। शब्दों के अर्थ भी समय, भाषाओं और संस्कृतियों में बदलते रहते हैं।",
+  "bundles_dig_incomplete": "अधूरे उत्तर का अर्थ है सीधे निष्कर्ष पर पहुँच जाना",
+  "bundles_dig_unexplained": "दुनिया में कई घटनाएं अभी भी अस्पष्ट हैं",
+  "bundles_dig_unexplained_sub": "यह आधुनिक विज्ञान और दुनिया के बारे में इसकी निश्चितताओं के बारे में क्या कहता है?",
+  "bundles_dig_study_trance": "अध्ययन: ट्रान्स स्टेट्स के दौरान न्यूरोइमेजिंग",
+  "bundles_dig_study_trance_sub": "लिंक: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3500298/",
+  "bundles_dig_study_unified_pathway": "अध्ययन: आध्यात्मिक जागृति और अवसाद: एक एकीकृत मार्ग",
+  "bundles_dig_study_unified_pathway_sub": "लिंक: https://pubmed.ncbi.nlm.nih.gov/24354605/",
+  "bundles_dig_study_stress_perception": "अध्ययन: आप कैसे अनुभव करते हैं कि तनाव आपको मार सकता है",
+  "bundles_dig_study_stress_perception_sub": "लिंक: https://pubmed.ncbi.nlm.nih.gov/24354605/",
+  "bundles_fearless_name": "भय",
+  "bundles_fearless_subtitle": "कोई और डर नहीं",
+  "bundles_fearless_description": "सबसे लोकप्रिय भय, प्रत्येक भय के विवरण में उनमें से प्रत्येक को दूर करने के लिए एक अनुभवजन्य तरीके की विशेषता है। स्टीम स्क्रीम फेस्ट के दौरान उनमें से किसी को आयात करें ताकि एक विशेष त्वचा को स्थायी रूप से अनलॉक किया जा सके",
+  "bundles_fearless_time": "समय का डर",
+  "bundles_fearless_time_desc": "समय एक भ्रम है",
+  "bundles_fearless_imperfection": "अपूर्णता का डर",
+  "bundles_fearless_imperfection_desc": "हम सब पूरी तरह से अपूर्ण हैं",
+  "bundles_fearless_change": "परिवर्तन का डर",
+  "bundles_fearless_change_desc": "परिवर्तन सामान्य है और अपेक्षित है",
+  "bundles_fearless_rejection": "अस्वीकृति का डर",
+  "bundles_fearless_rejection_desc": "हर कोई आपकी चाय का प्याला नहीं होगा, ठीक है, कोई मानक नहीं है",
+  "bundles_fearless_loneliness": "अकेलेपन का डर",
+  "bundles_fearless_loneliness_desc": "अकेले रहना ठीक है, कि कितने संत ज्ञान तक पहुँचे",
+  "bundles_fearless_failure": "असफलता का डर",
+  "bundles_fearless_failure_desc": "असफल होना ठीक है, यह सीखने का हिस्सा है",
+  "bundles_fearless_success": "सफलता का डर",
+  "bundles_fearless_success_desc": "सिर्फ इसलिए कि आपका वातावरण आपसे नीचे रहने की उम्मीद करता है या आपको लगता है कि आप सफलता के लायक नहीं हैं, आप आगे बढ़कर खुद को आश्चर्यचकित कर देंगे",
+  "bundles_fearless_loss": "नुकसान का डर",
+  "bundles_fearless_loss_desc": "नुकसान से डरने के बजाय, वर्तमान में उनकी सराहना करें और इसका अधिकतम लाभ उठाएं",
+  "bundles_fearless_judgement": "निर्णय का डर",
+  "bundles_fearless_judgement_desc": "उन्हें आपको जज करने दें, हर किसी के अलग-अलग अनुभव होते हैं, आपको किसी की स्वीकृति की आवश्यकता नहीं है",
+  "bundles_fearless_losing_control": "नियंत्रण खोने का डर",
+  "bundles_fearless_losing_control_desc": "आपका हर चीज पर नियंत्रण नहीं है, आप जो कर सकते हैं उसे नियंत्रित करें और इससे बाहर निकलें",
+  "bundles_fearless_who_you_are": "आप कौन हैं इसका डर",
+  "bundles_fearless_who_you_are_desc": "हम सभी का एक अंधेरा पक्ष हो सकता है, इसे देखते हुए और यह कहाँ से आता है आपको ले जाएगा",
+  "bundles_fearless_unknown": "अज्ञात का डर",
+  "bundles_fearless_unknown_desc": "वास्तव में, जबकि हम सब कुछ नहीं जानते हैं, हम कुछ भी नहीं जान सकते हैं, आप हमेशा अज्ञात में रहते हैं, और यह ठीक है, डरने की कोई बात नहीं है",
+  "bundles_fearless_whats_next": "आगे क्या है का डर",
+  "bundles_fearless_whats_next_desc": "नई संभावनाओं से क्यों डरोगे, उन्हें गले लगाओ और आगे बढ़ो",
+  "bundles_fearless_vulnerability": "भेद्यता का डर",
+  "bundles_fearless_vulnerability_desc": "यदि आप गलत लोगों के आसपास हैं तो यह क्या है, बेहतर लोगों को खोजने के अलावा आप इसके बारे में कुछ नहीं कर सकते, आप जैसे सीखते हैं",
+  "bundles_fearless_public_speaking": "सार्वजनिक बोलने का डर",
+  "bundles_fearless_public_speaking_desc": "क्योंकि कुछ गलत हो सकता है? किसी भी क्षण कुछ गलत हो सकता है, अनिश्चितता को गले लगाओ",
+  "bundles_fearless_losing_identity": "अपनी पहचान खोने का डर",
+  "bundles_fearless_losing_identity_desc": "आपकी पहचान लगातार बदलती है, आप एक स्थिर छवि नहीं हैं, परिवर्तन को अपनाएं",
+  "bundles_fearless_being_yourself": "खुद होने का डर",
+  "bundles_fearless_being_yourself_desc": "हर कोई आपको (परिवार सहित) स्वीकार नहीं करेगा, और यह भी समझ में आता है - कोई भी आपको पसंद करने या आपके द्वारा सामने रखी गई सच्चाई को सच मानने का हकदार नहीं है",
+  "rtb_intro_to_import": "आयात करने के लिए",
+  "rtb_intro_to_ignore": "अनदेखी करने के लिए",
+  "rtb_intro_already_imported": "पहले से ही आयात किया गया",
+  "rtb_title": "मुख्य सवाल",
+  "rtb_subtitle": "एक इम्मटेरियलएआई प्रयोग",
+  "rtb_intro_desc": "इस प्रयोग का उद्देश्य सभी मौजूदा विकृतियों को दूर करने में आपकी सहायता करना है, जैसे गलत तथ्य, नकारात्मक विश्वास, निष्कर्ष पर कूदना, स्वयं द्वारा थोपी गई सीमाएं और हानिकारक मानसिकताएं। \n\nप्लेटिनम पर सभी मिशनों के माध्यम से जाएं और आप कोई कसर नहीं छोड़ेंगे ",
+  "rtb_intro_warning": "\n\nचेतावनी, यह बदल सकता है कि आप सब कुछ कैसे देखते हैं, इस प्रक्रिया को शुरू करने में कोई पूर्ववत नहीं है, \n\nएक बार शुरू करने के बाद, हम अनुशंसा करते हैं कि कुछ घंटे अलग रखें और डायमंड पर प्रत्येक मिशन को एक ही बार में पूरा करें।\n",
+  "rtb_missions_title": "मिशन",
+  "rtb_missions_desc": "सभी मिशनों के डायमंड टियर को पूरा करने से आपको सभी मौजूदा विकृतियों और दर्द को दूर करने के लिए परिप्रेक्ष्य मिलेगा - सभी गलत तथ्यों, नकारात्मक विश्वासों, निष्कर्ष पर कूदना, स्व-लगाई गई सीमाओं और इसी तरह की त्रुटि-प्रवणता अंततः हानिकारक मानसिकताओं से उपजी है।",
+  "rtb_missions_reminder": "अनुस्मारक: आपका डेटा आपके उपकरण को कभी नहीं छोड़ता, यह केवल आपके पास रहता है",
+  "rtb_incomplete": "अपूर्ण",
+  "rtb_mark_as_done": "सभी जमीन को कवर करने के बाद हो गया के रूप में चिह्नित करें",
+  "rtb_done": "किया हुआ",
+  "rtb_diamond_disclaimer": "अपने डायमंड टीयर में खोज को 'पूर्ण' के रूप में तभी चिह्नित करें जब आपने कोई कसर नहीं छोड़ी हो।",
+  "rtb_insights": "अंतर्दृष्टि",
+  "rtb_insights_desc": "हर बार मिशन स्तर पूरा करने पर अंतर्दृष्टि जीतें, कुल मिलाकर 28",
+  "rtb_timed_awards_title": "समयबद्ध अनलॉक (सीजन 2)",
+  "rtb_timed_awards_desc": "अनलॉक करने के लिए मार्च 2023 से पहले सभी मिशन पूरे करें",
+  "rtb_blarg": "ब्लार्ग द ऑर्क",
+  "rtb_cool_story": "मजेदार कहानी है भाई",
+  "rtb_skeptic": "संशयवादी",
+  "rtb_alternative_i_am_desc": "वैकल्पिक 'आई एम' एआई प्रवाह",
+  "rtb_alternative_desconstruct": "वैकल्पिक 'डिकंस्ट्रक्ट' एआई प्रवाह",
+  "rtb_free_awards": "नया यूआई मोड",
+  "rtb_skin": "4 यूआई खाल",
+  "rtb_skin_desc": "और अधिक",
+  "rtb_blarg_enable": "ब्लार्ग सक्षम करें 'मैं' वैकल्पिक एआई प्रवाह",
+  "rtb_blarg_disable": "ब्लार्ग अक्षम करें",
+  "rtb_cool_story_enable": "कूल स्टोरी ब्रो 'आई एम' वैकल्पिक एआई प्रवाह सक्षम करें",
+  "rtb_skeptic_enable": "संशयवादी 'डीकंस्ट्रक्ट' वैकल्पिक एआई प्रवाह को सक्षम करें",
+  "rtb_cool_story_disable": "अक्षम कहानी भाई अक्षम करें",
+  "rtb_skeptic_disable": "संदेहवादी को अक्षम करें",
+  "rtb_new_insight": "नई अंतर्दृष्टि!",
+  "rtb_new_insight_node_sub": "'रिटर्न टू ब्लिस' में अनलॉक किया गया",
+  "rtb_bronze": "कांस्य",
+  "rtb_silver": "चाँदी",
+  "rtb_gold": "सोना",
+  "rtb_diamond": "हीरा",
+  "rtb_quest_believe": "मेरा मानना ​​है",
+  "rtb_quest_believe_desc": "सभी विश्वासों, तथ्यों और धारणाओं को नोड्स और लिंक में बदलें",
+  "rtb_quest_believe_hint": "उपयुक्त नोड और लिंक बनाएं",
+  "rtb_quest_organized": "का आयोजन किया",
+  "rtb_quest_organized_desc": "जो वास्तव में महत्वपूर्ण है उस पर ध्यान केंद्रित करें",
+  "rtb_quest_organized_hint": "मौजूदा नोड्स में फोकस और पसंदीदा राज्य जोड़ें",
+  "rtb_quest_s2_entangled": "उलझा हुआ (प्लस)",
+  "rtb_quest_s2_entangled_desc": "रुचि के वर्तमान बिंदुओं की उलझाव-समर्थित सिफारिशें प्राप्त करें।",
+  "rtb_quest_s2_entangled_hint": "क्वांटम शोर समारोह का प्रयोग करें",
+  "rtb_quest_s2_transcendent": "उत्कृष्ट (प्लस)",
+  "rtb_quest_s2_transcendent_desc": "अवांछित अवस्थाओं को पार करें जो आप ले रहे हैं।",
+  "rtb_quest_s2_transcendent_hint": "ट्रान्सेंड एआई प्रवाह का उपयोग करें",
+  "rtb_quest_derive": "कार्रवाई में मन",
+  "rtb_quest_derive_desc": "अनुभव से व्युत्पन्न यांत्रिकी: अब तक क्या काम किया, क्या नहीं",
+  "rtb_quest_derive_hint": "प्रकार 'नोट' और 'अंतर्दृष्टि' के उपयुक्त नोड बनाएँ",
+  "rtb_quest_deconstruct": "बदला लेने वाला",
+  "rtb_quest_deconstruct_desc": "पूर्ण ज्ञान तक पहुँचने के लिए सभी धारणाओं में खोदो",
+  "rtb_quest_deconstruct_hint": "'डीकंस्ट्रक्ट' एआई प्रवाह का उपयोग करें",
+  "rtb_quest_iam": "रुको, हम पूरी कहानी नहीं जानते",
+  "rtb_quest_iam_desc": "अपने आप को सभी नकारात्मक, भारी, सीमित लेबलों से साफ़ करें",
+  "rtb_quest_iam_hint": "'I Am' AI प्रवाह का उपयोग करें",
+  "rtb_quest_reshape": "स्क्रिप्ट फ़्लिप करना",
+  "rtb_quest_reshape_desc": "सभी नकारात्मक कारण और प्रभाव अनुक्रमों को फिर से लिखें",
+  "rtb_quest_reshape_hint": "'रीशेप' एआई प्रवाह का उपयोग करें",
+  "rtb_quest_old_me": "वह मैं नहीं हूं",
+  "rtb_quest_old_me_desc": "सभी पुरानी नकारात्मक आत्म-पहचान से अलग करें",
+  "rtb_quest_old_me_hint": "रिलायंट नोड्स को 'ओल्ड मी' के रूप में चिह्नित करें",
+  "rtb_insight_1": "वास्तविकता शब्दों से परे है",
+  "rtb_insight_2": "आप शब्दों से परे हैं",
+  "rtb_insight_3": "आपको केवल तब तक धक्का देना है जब तक आप अपने बाग से दूर नहीं रह सकते",
+  "rtb_insight_4": "कुछ संस्कृतियाँ दर्द में होती हैं जब किसी प्रियजन की मृत्यु हो जाती है, अन्य उनकी विरासत का जश्न मनाते हैं",
+  "rtb_insight_5": "यह कभी भी एक जैसा नहीं होता",
+  "rtb_insight_6": "हमें अक्सर गलत समाधान मिल जाता है क्योंकि हम समस्या को गलत देखते हैं",
+  "rtb_insight_7": "उम्मीदों के बिना आप निराश नहीं होंगे",
+  "rtb_insight_8": "आपने कितनी चीजों को अच्छे या बुरे के रूप में व्याख्यायित किया जबकि वे अभी हैं?",
+  "rtb_insight_9": "वर्तमान बदलता रहता है",
+  "rtb_insight_10": "वर्तमान हमेशा अतीत की तरह नहीं होता है",
+  "rtb_insight_11": "आपको उन भाषाओं की जांच करनी होगी जिनमें आप पैदा हुए थे",
+  "rtb_insight_12": "आनंद तक पहुँचने के लिए आपको कुछ करने की ज़रूरत नहीं है, आपको केवल शोर को छोड़ने की ज़रूरत है",
+  "rtb_insight_13": "बदसूरत सिर्फ कुछ लोगों के दिमाग में होती है",
+  "rtb_insight_14": "बेहतर भविष्य के लिए आपको लगातार वर्तमान में अवसर मिलते हैं",
+  "rtb_insight_15": "कुछ चीजें आप नियंत्रित नहीं कर सकते, आप जो कर सकते हैं उस पर ध्यान केंद्रित करें",
+  "rtb_insight_16": "आप ठीक वहीं हैं जहाँ आपको होना चाहिए",
+  "rtb_insight_17": "सब कुछ वैसा ही होता है जैसा होना चाहिए",
+  "rtb_insight_18": "भविष्य के बारे में चिंता करने का कोई मतलब नहीं है",
+  "rtb_insight_19": "सत्य किसी भी व्यवस्था से ऊपर है",
+  "rtb_insight_20": "अपने कार्यों पर मौजूदा विश्वासों के प्रभावों की जाँच करें",
+  "rtb_insight_21": "पूरी तरह से जांच करने पर सभी अनन्य प्रणालियां ध्वस्त हो जाती हैं",
+  "rtb_insight_22": "विश्वास गलत हो सकते हैं",
+  "rtb_insight_23": "कई तथ्यों में गलत प्राथमिकता है",
+  "rtb_insight_24": "तनाव सिर्फ एक विचार है",
+  "rtb_insight_25": "सभी सीमाएं भ्रामक हैं",
+  "rtb_insight_26": "कोई सामान्य नहीं है",
+  "rtb_insight_27": "आपको अपने अतीत और भविष्य की गलतियों के लिए खुद को और दूसरों को माफ़ करना होगा",
+  "rtb_insight_28": "हम हर बार अंधेरे में कदम रखते हैं जब तक हमारे पास सारा ज्ञान नहीं होता",
+  "rtb_insight_29": "जानना विश्वास से बेहतर है",
+  "rtb_insight_30": "पूर्ण ज्ञान हर किसी के द्वारा प्राप्य है",
+  "rtb_insight_31": "गलतियाँ मानव स्वभाव में हैं",
+  "rtb_insight_32": "अप्रत्याशित की उम्मीद",
+  "clusters_cluster_name": "क्लस्टर {nr}",
+  "clusters_cluster_nodes": "({nr} {nodeString})",
+  "intuition_answer_left": "बाएं",
+  "intuition_answer_right": "अधिकार",
+  "intuition_description": "उत्तर पहले से ही चुना गया है, अंतर्ज्ञान का उपयोग करके इसे समझें",
+  "intuition_last_correct_answer": "अंतिम सही उत्तर: {answer}",
+  "intuition_correct_in_a_row": "एक पंक्ति में सही {correct}",
+  "intuition_difficulty_easy": "आसान",
+  "intuition_difficulty_medium": "मध्यम",
+  "intuition_difficulty_hard": "मुश्किल",
+  "intuition_chart_average": "कुल मिलाकर औसत सही भविष्यवाणियां",
+  "intuition_chart_consecutive": "लगातार सही भविष्यवाणी",
+  "sanity_check_validity_distribution_headline": "पुस्तकालय भर में वैधता वितरण",
+  "sanity_check_validity_distribution_description": "'सबूत' लिंक का उपयोग करना",
+  "sanity_check_validity_distribution_raw_data": "कच्चा डेटा",
+  "sanity_check_validity_distribution_ai": "एआई-संसाधित",
+  "sanity_check_validity_distribution_diff": "अंतर",
+  "sanity_check_validity_nothing": "कुछ नहीं",
+  "sanity_check_validity_knownUnknown": "अनिश्चित (ज्ञात अज्ञात पाया गया)",
+  "sanity_check_validity_holistic": "सब कुछ",
+  "sanity_check_validity_missingData": "अनिश्चित (अनुपलब्ध डेटा)",
+  "sanity_check_validity_selfRef": "आत्म संदर्भ",
+  "sanity_check_validity_circularRef": "वृत्तीय संदर्भ",
+  "sanity_check_validity_ref": "संदर्भ",
+  "sanity_check_validity_multiRef": "कई संदर्भ",
+  "sanity_check_dialog_validity_nodes_raw": "वैधता के साथ नोड्स",
+  "sanity_check_dialog_validity_nodes_raw_desc": "उपयोगकर्ता लाइब्रेरी का {percentString}, असंसाधित",
+  "sanity_check_dialog_validity_nodes_ai": "वैधता के साथ नोड्स",
+  "sanity_check_dialog_validity_nodes_ai_desc": "एआई प्रोसेसिंग के बाद यूजर लाइब्रेरी का {percentString}, {percentageDiffString}",
+  "sanity_check_dialog_validity": "वैधता '{title}'",
+  "sanity_check_dialog_diff_removed": "एआई द्वारा निष्कासन",
+  "sanity_check_dialog_diff_added": "एआई द्वारा परिवर्धन",
+  "sanity_check_dialog_diff_desc": "उपयोगकर्ता पुस्तकालय और एआई-संसाधित पुस्तकालय के बीच अंतर",
+  "sanity_check_clusters_holistic": "समग्र क्लस्टर",
+  "sanity_check_clusters_largest": "विशालतम",
+  "sanity_check_clusters_single_nodes": "एकल नोड",
+  "sanity_check_clusters_proof": "सबूत क्लस्टर",
+  "sanity_check_clusters_validity_nothing": "किसी के साथ नहीं'",
+  "sanity_check_clusters_validity_known_unknown": "'ज्ञात अज्ञात' के साथ",
+  "sanity_check_clusters_validity_everything": "सब चीज़ से'",
+  "sanity_check_me_all": "मी डेटा",
+  "sanity_check_me_old": "पुराना मैं",
+  "sanity_check_me_new": "मैं नई",
+  "sanity_check_me_none": "मैं नया या पुराना नहीं",
+  "quantum_noise_get_api_key": "पहले ANU से API कुंजी प्राप्त करें",
+  "quantum_noise_get_api_key_link": "(संपर्क)",
+  "quantum_noise_enter_api_key":"एपीआई key here",
+  "quantum_noise_forbidden": "API कुंजी गलत है या आप अपनी मासिक सीमा तक पहुँच चुके हैं",
+  "quantum_noise_selected": "नोड प्रकार पूल",
+  "quantum_noise_unselected": "उपेक्षित नोड प्रकार",
+  "quantum_noise_no_duplicates" : "पहले से चुनी गई अनुशंसाओं को हटाएं (कोई डुप्लिकेट नहीं)",
+  "quantum_noise_number_of_nodes" : "चुनने के लिए नोड्स की संख्या चुनें",
+  "sugar_pills_intro": "जैसा कि आप जानते होंगे, वास्तविकता पर आपकी धारणा आपके जीवित वास्तविकता को प्रभावित करती है और इसके विपरीत। , कई लोगों को इस बात पर आश्चर्य न करने के लिए प्रेरित करता है कि क्या वे चुन सकते हैं, इसके बजाय पहले दिए गए उत्तरों को स्वीकार करना पसंद करते हैं जैसे यह घटना आघात की ओर ले जाती है।",
+  "sugar_pills_study": "अध्ययन के लिए लिंक",
+  "sugar_pills_study_desc": "इस तरह के अध्ययन हमें दिखाते हैं कि हमारी धारणा वास्तव में हमारी भलाई के लिए मायने रखती है। नीचे आप पूरी तरह से नई अवधारणाओं (जैसे तनाव के विपरीत) या मौजूदा अवधारणाओं के नए प्रभावों को इनपुट कर सकते हैं, उसी यांत्रिकी के माध्यम से काम कर रहे हैं जो बीमार विश्वासों से बीमारी लाते हैं। \n\nवास्तव में उन्हें जड़ से खत्म करने के लिए, चीनी की गोलियों का प्रभाव हर बार जब आप सांस लेते हैं तब दिखाई देते हैं",
+  "sugar_pills_sugar_pills": "चीनी की गोलियाँ",
+  "worlds_name": "विश्व प्रकार दर्ज करें",
+  "worlds_sub": "उपशीर्षक",
+  "worlds_dialog_all_worlds": "सारी दुनिया",
+  "worlds_dialog_nodes_without_world": "दुनिया के बिना नोड्स {number}",
+  "worlds_dialog_nodes_in_world": "{number} नोड्स",
+  "worlds_node_world": "दुनिया",
+  "general_leaving_iai": "अभौतिक एआई छोड़ना",
+  "general_leaving_iai_message": "क्या आपको यकीन है?",
+
+  "@settings_alternative_flow_must_be_deselected": {
+    "description": "Blarg",
+    "placeholders": {
+      "flow": {
+        "type": "String",
+        "example": "2"
+      }
+    }
+  },
+  "@general_unlocks_at_level_plus": {
+    "description": "level",
+    "placeholders": {
+      "level": {
+        "type": "int",
+        "example": "2"
+      }
+    }
+  },
+  "@general_unlocks_at_level_plus_or_lite": {
+    "description": "level",
+    "placeholders": {
+      "level": {
+        "type": "int",
+        "example": "2"
+      }
+    }
+  },
+  "@general_unlocks_at_level": {
+    "description": "level",
+    "placeholders": {
+      "level": {
+        "type": "int",
+        "example": "2"
+      }
+    }
+  },
+  "@general_unlocks_at_level_short": {
+    "description": "level",
+    "placeholders": {
+      "level": {
+        "type": "int",
+        "example": "2"
+      }
+    }
+  },
+  "@general_unlocks_at_level_2line": {
+    "description": "level",
+    "placeholders": {
+      "level": {
+        "type": "int",
+        "example": "2"
+      }
+    }
+  },
+  "@general_level": {
+    "description": "level",
+    "placeholders": {
+      "level": {
+        "type": "int",
+        "example": "2"
+      }
+    }
+  },
+  "@general__time__seconds": {
+    "description": "Distance in seconds",
+    "placeholders": {
+      "seconds": {
+        "type": "int",
+        "example": "2"
+      }
+    }
+  },
+  "@general__time__minute": {
+    "description": "Distance in minutes",
+    "placeholders": {
+      "minutes": {
+        "type": "int",
+        "example": "2"
+      }
+    }
+  },
+  "@general__time__hour": {
+    "description": "Distance in hours",
+    "placeholders": {
+      "hours": {
+        "type": "int",
+        "example": "2"
+      }
+    }
+  },
+  "@general__time__day": {
+    "description": "Distance in days",
+    "placeholders": {
+      "days": {
+        "type": "int",
+        "example": "2"
+      }
+    }
+  },
+  "@general__time__week": {
+    "description": "Distance in weeks",
+    "placeholders": {
+      "weeks": {
+        "type": "int",
+        "example": "2"
+      }
+    }
+  },
+  "@general__time__month": {
+    "description": "Distance in months",
+    "placeholders": {
+      "months": {
+        "type": "int",
+        "example": "2"
+      }
+    }
+  },
+  "@general__time__year": {
+    "description": "Distance in years",
+    "placeholders": {
+      "years": {
+        "type": "int",
+        "example": "2"
+      }
+    }
+  },
+  "@ur_unravel_answer_selected": {
+    "placeholders": {
+      "item": {
+        "type": "String",
+        "example": "idea"
+      }
+    }
+  },
+  "@ur_deconstruct_action_existing_pattern": {
+    "placeholders": {
+      "item": {
+        "type": "String",
+        "example": "idea"
+      }
+    }
+  },
+  "@ur_reshape_situation_title": {
+    "placeholders": {
+      "feeling": {
+        "type": "String",
+        "example": "feels"
+      }
+    }
+  },
+  "@ur_reshape_cause_effect_title": {
+    "placeholders": {
+      "situation": {
+        "type": "String",
+        "example": "Some event"
+      },
+      "feeling": {
+        "type": "String",
+        "example": "feels"
+      }
+    }
+  },
+  "@ur_reshape_cause_title": {
+    "placeholders": {
+      "feeling": {
+        "type": "String",
+        "example": "simți"
+      },
+      "situation": {
+        "type": "String",
+        "example": "Simte"
+      }
+    }
+  },
+  "@ur_reshape_resolution_title": {
+    "placeholders": {
+      "situation": {
+        "type": "String",
+        "example": "Some event"
+      },
+      "feeling": {
+        "type": "String",
+        "example": "feels"
+      }
+    }
+  },
+  "@ur_reshape_new_effect_title": {
+    "placeholders": {
+      "feeling": {
+        "type": "String",
+        "example": "Feels"
+      }
+    }
+  },
+  "@ur_reshape_new_effect_v2_title": {
+    "placeholders": {
+      "situation": {
+        "type": "String",
+        "example": "Simte"
+      }
+    }
+  },
+  "@ur_reshape_new_effect_dialog": {
+    "placeholders": {
+      "situation": {
+        "type": "String",
+        "example": "Feels"
+      }
+    }
+  },
+  "@ur_reshape_new_effect_cause_title": {
+    "placeholders": {
+      "feeling": {
+        "type": "String",
+        "example": "Feels"
+      }
+    }
+  },
+  "@ur_reshape_new_effect_cause_description": {
+    "placeholders": {
+      "situation": {
+        "type": "String",
+        "example": "Some event"
+      },
+      "feeling": {
+        "type": "String",
+        "example": "feels"
+      }
+    }
+  },
+  "@ur_reshape_end_title": {
+    "placeholders": {
+      "situation": {
+        "type": "String",
+        "example": "Some event"
+      }
+    }
+  },
+  "@ur_reshape_end_subtitle": {
+    "placeholders": {
+      "feel1": {
+        "type": "String",
+        "example": "Old feel"
+      },
+      "feel2": {
+        "type": "String",
+        "example": "New feel"
+      }
+    }
+  },
+  "@ur_reshape_end_description": {
+    "placeholders": {
+      "feeling": {
+        "type": "String",
+        "example": "feels"
+      },
+      "situation": {
+        "type": "String",
+        "example": "Some event"
+      }
+    }
+  },
+  "@ur_reshape_result_changed_desc": {
+    "placeholders": {
+      "situation": {
+        "type": "String",
+        "example": "feels"
+      },
+      "oldFeeling": {
+        "type": "String",
+        "example": "feels"
+      },
+      "newFeeling": {
+        "type": "String",
+        "example": "feels"
+      }
+    }
+  },
+  "@ur_reshape_result_changed_optional_desc": {
+    "placeholders": {
+      "situation": {
+        "type": "String",
+        "example": "feels"
+      },
+      "oldFeeling": {
+        "type": "String",
+        "example": "feels"
+      },
+      "newFeeling": {
+        "type": "String",
+        "example": "feels"
+      },
+      "interpretation": {
+        "type": "String",
+        "example": "feels"
+      }
+    }
+  },
+  "@ur_reshape_result_changed_absolute_title": {
+    "placeholders": {
+      "situation": {
+        "type": "String",
+        "example": "feels"
+      },
+      "feeling": {
+        "type": "String",
+        "example": "feels"
+      },
+      "interpretation": {
+        "type": "String",
+        "example": "feels"
+      }
+    }
+  },
+  "@ur_iam_cont_title": {
+    "placeholders": {
+      "concept": {
+        "type": "String",
+        "example": "Memes"
+      }
+    }
+  },
+  "@ur_iam_cont_desc": {
+    "placeholders": {
+      "concept": {
+        "type": "String",
+        "example": "Memes"
+      }
+    }
+  },
+  "@ur_iam_cont_title_alt": {
+    "placeholders": {
+      "concept": {
+        "type": "String",
+        "example": "Memes"
+      }
+    }
+  },
+  "@ur_iam_cont_desc_alt": {
+    "placeholders": {
+      "concept": {
+        "type": "String",
+        "example": "Memes"
+      }
+    }
+  },
+  "@ur_iam_cont_title_csb": {
+    "placeholders": {
+      "concept": {
+        "type": "String",
+        "example": "Memes"
+      }
+    }
+  },
+  "@ur_deconstruct_result__dontknow": {
+    "placeholders": {
+      "concept": {
+        "type": "String",
+        "example": "some idea"
+      }
+    }
+  },
+  "@ur_deconstruct_result__nothing": {
+    "placeholders": {
+      "concept": {
+        "type": "String",
+        "example": "Memes"
+      }
+    }
+  },
+  "@home_unlocks_at": {
+    "placeholders": {
+      "level": {
+        "type": "String",
+        "example": "20"
+      }
+    }
+  },
+  "@ur_transcend_answer_result__end": {
+    "placeholders": {
+      "feeling": {
+        "type": "String",
+        "example": "sad"
+      }
+    }
+  },
+  "@ur_transcend_answer_result__end_desc": {
+    "placeholders": {
+      "feeling": {
+        "type": "String",
+        "example": "sad"
+      }
+    }
+  },
+  "@ur_fearless_answer_result__end": {
+    "placeholders": {
+      "fear": {
+        "type": "String",
+        "example": "sad"
+      }
+    }
+  },
+  "@ur_fearless_answer_result__end_desc": {
+    "placeholders": {
+      "fear": {
+        "type": "String",
+        "example": "sad"
+      }
+    }
+  },
+  "@clusters_cluster_name": {
+    "description": "nr",
+    "placeholders": {
+      "nr": {
+        "type": "int",
+        "example": "2"
+      }
+    }
+  },
+  "@clusters_cluster_nodes": {
+    "description": "nr",
+    "placeholders": {
+      "nr": {
+        "type": "int",
+        "example": "2"
+      },
+      "nodeString": {
+        "type": "String",
+        "example": "nodes"
+      }
+    }
+  },
+  "@intuition_last_correct_answer": {
+    "placeholders": {
+      "answer": {
+        "type": "String",
+        "example": "20"
+      }
+    }
+  },
+  "@intuition_correct_in_a_row": {
+    "placeholders": {
+      "correct": {
+        "type": "String",
+        "example": "20"
+      }
+    }
+  },
+  "@sanity_check_dialog_validity_nodes_raw_desc": {
+    "placeholders": {
+      "percentString": {
+        "type": "String",
+        "example": "20"
+      }
+    }
+  },
+  "@sanity_check_dialog_validity_nodes_ai_desc": {
+    "placeholders": {
+      "percentString": {
+        "type": "String",
+        "example": "20"
+      },
+      "percentageDiffString": {
+        "type": "String",
+        "example": "20"
+      }
+    }
+  },
+  "@sanity_check_dialog_validity": {
+    "placeholders": {
+      "title": {
+        "type": "String",
+        "example": "20"
+      }
+    }
+  },
+  "@worlds_dialog_nodes_without_world": {
+    "placeholders": {
+      "number": {
+        "type": "int",
+        "example": "20"
+      }
+    }
+  },
+  "@worlds_dialog_nodes_in_world": {
+    "placeholders": {
+      "number": {
+        "type": "int",
+        "example": "20"
+      }
+    }
+  },
+  "@home_focus_unlocks_at": {
+    "description": "level",
+    "placeholders": {
+      "level": {
+        "type": "int",
+        "example": "2"
+      }
+    }
+  },
+
+  "settings_enforce_node_details_layout" : "नोड विवरण टैब",
+  "settings_enforce_node_details_layout_default" : "स्क्रीन प्रकार द्वारा निर्धारित",
+  "settings_enforce_node_details_layout_one_tab" : "एक टैब पर सभी पाठ और नोड विवरण",
+  "settings_enforce_node_details_layout_two_tabs" : "2 अलग-अलग टैब पर नोड पाठ और विवरण",
+  "box_tree_view": "वृक्ष दृश्य",
+  "box_tree_view_sub_title": "अपने नोड्स को विन्यास योग्य पेड़ के रूप में देखें",
+  "default_nt_process": "प्रक्रिया",
+  "default_nt_location": "स्थान",
+  "nt_parent" : "जनक",
+  "general_button_tap_to_change" : "टैप टू चेंज",
+  "rtb_mark_as_done_general": "पूरी जमीन को कवर करने के बाद हो गया के रूप में चिन्हित करें",
+  "rtb_back_to_disclaimer": "अस्वीकरण पर वापस",
+  "worlds_excluded_cat": "बहिष्कृत",
+  "worlds_excluded_cat_sub": "(यदि कोई प्रतिबंध नहीं है तो कोई प्रतिबंधित नहीं है)",
+  "worlds_excluded_item": "निकालें",
+  "worlds_allowed_cat": "अनुमति है",
+  "worlds_allowed_cat_sub": "(यदि कोई प्रतिबंध नहीं है तो सभी की अनुमति है)",
+  "worlds_allowed_item": "अनुमति दें",
+  "default_lt_location_src_text": "स्थान है",
+  "default_lt_location_tar_text": "यह स्थान यहाँ है",
+  "n_tab_text": "लेख",
+  "n_tab_tree": "शाखाएँ",
+  "default_lt_location": "स्थान पर",
+
+  "graph_poi_main_nucleus": "मुख्य केंद्रक",
+  "graph_poi_main_nucleus_2": "द्वितीयक नाभिक",
+  "graph_poi_main_nucleus_3": "तृतीयक नाभिक",
+  "graph_poi_center": "आप यहाँ हैं",
+  "graph_poi_source": "स्रोत",
+  "graph_poi_target": "लक्ष्य",
+
+  "sorting_general": "छँटाई",
+  "sort_type_vanilla": "डिफ़ॉल्ट",
+  "sort_type_latest": "नवीनतम पहले",
+  "sort_type_oldest": "सबसे पुराना",
+  "sort_type_alphabetical": "वर्णानुक्रम में",
+  "sort_type_alphabetical_reverse": "वर्णानुक्रम में, उल्टा",
+
+  "box_add_tag": "नया टैग",
+  "box_add_tag_sub_title": "हर जगह लागू करें",
+  "general_tags": "टैग",
+  "settings_skin_night" : "नाइट मोड",
+
+  "settings_debug_data_mode": "डीबग डेटा मोड",
+  "settings_persist_sorting": "सॉर्टिंग छँटाई विकल्प",
+  "settings_shared_database": "साझा डेटाबेस मोड",
+  "settings_shared_database_sub": "इस IAI उदाहरण में अन्य मेश ऐप के डेटाबेस का उपयोग करें",
+  "settings_shared_database_shared_false": "कस्टम डेटाबेस का उपयोग नहीं कर रहा",
+  "settings_shared_database_shared_true": "कस्टम डेटाबेस स्थान: {db}",
+  "@settings_shared_database_shared_true": {
+    "description": "Shrek.com",
+    "placeholders": {
+      "db": {
+        "type": "String",
+        "example": "2"
+      }
+    }
+  },
+  "settings_shared_database_dialog_sub": "कस्टम डेटाबेस का चयन करते समय, अपने अन्य मेश ऐप की db.sqlite फ़ाइल चुनें (जो उस ऐप के इंस्टॉल फ़ोल्डर में पाई जाती है)",
+  "settings_shared_database_dialog_action_copy_current_path": "वर्तमान डेटाबेस पथ कॉपी करें",
+  "settings_shared_database_dialog_hint": "किसी भी साझा डेटाबेस स्थान अद्यतन के बाद ImmaterialAI को पुनः प्रारंभ करें",
+  "settings_shared_database_database_changed": "मेश डेटाबेस बदल गया",
+
+  "tags_name": "टैग का नाम",
+  "tags_reference_add": "आइटम टैग करें",
+  "tags_reference_all": "इस टैग के साथ",
+  "tags_select_item_title": "टैग किया जाने वाला आइटम",
+  "general_restart_now_to_apply_changes": "बदलावों को पूरी तरह से लागू करने के लिए फिर से शुरू करें",
+
+  "main_menu_launch": "अभी लॉन्च करें",
+
+  "settings_back_to_main_menu": "मुख्य मेनू पर वापस",
+  "box_backups_export_include_changes": "बदलाव की जानकारी शामिल करें",
+  "settings_track_data_changes": "स्थानीय रूप से डेटा परिवर्तनों को ट्रैक करें",
+  "settings_track_data_changes_sub": "कई डेटाबेसों के बीच विलय की रणनीति तय करते समय उपयोगी (जल्द आ रहा है)",
+  "main_menu_mode_user_new": "नया उपयोक्ता मोड\nबदलने के लिए टैप करें",
+  "main_menu_mode_user_existing": "मौजूदा उपयोक्ता मोड\nस्विच करने के लिए टैप करें",
+  "main_menu_launch_new_user": "पथ चुनें",
+  "main_menu_view_new_user": "नया उपयोक्ता दृश्य",
+  "main_menu_view_existing_user": "मौजूदा सदस्य दृश्य",
+
+  "main_menu_more" : "अधिक",
+  "main_menu_version_web" : "वेब संस्करण",
+  "main_menu_version_web_desc" : "किसी भी ब्राउज़र में काम करता है",
+  "main_menu_windows_drm_free" : "विंडोज़",
+  "main_menu_mac_drm_free" : "MacOS",
+  "main_menu_steam_drm_free" : "Steam",
+  "main_menu_store": "अपग्रेड",
+  "main_menu_store_steam": "भाप भंडार",
+  "main_menu_latest_update": "ताज़ा अपडेट",
+
+  "rtb_s3_free_diamond": "4 नई खालें - हल्का नीला, हरा, लाल और बैंगनी",
+  "rtb_s3_plus_gold": "नई त्वचा",
+  "rtb_s3_plus_gold_extra": "ImmaterialAI Classic के रंग पटल से मेल खाता हुआ",
+  "rtb_s3_plus_diamond": "नई त्वचा, नया UI मोड"
+}
