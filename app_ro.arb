@@ -1,6 +1,6 @@
 {
-  "iai_name": "ImmaterialAI",
-  "iai_headline": "Bine ai venit la noul TU",
+  "app__iai__name": "ImmaterialAI",
+  "app__iai__headline": "Bine ai venit la noul TU",
   "appbar_search_all": "Caută prin date și unelte",
   "appbar_search_data": "Caută prin date",
   "tutorial_health_page1_headline": "Tutorial",
@@ -23,7 +23,6 @@
   "tutorial_health_page5_title": "Găsiți totul într-un singur loc",
   "tutorial_health_page5_description": "Deblocați mai multe funcții avansate în calea dvs. pe măsură ce utilizați platforma",
   "tutorial_health_page5_more": "suportăm portret și peisaj, încercați-l!",
-
   "home_go_back": "Mergi înapoi",
   "home_go_forward": "Mergi înainte",
   "home_focus_unlocks_at": "Afișează elementele focalizate, se deblochează la nivelul {level}",
@@ -42,7 +41,6 @@
   "home_favorites_on": "Favorite pornită",
   "home_favorites_off": "Favorite oprită",
   "home_favorites_tooltip": "Favorite pornit/oprit",
-
   "steam_free_live_on_plus": "ImmaterialAI Plus\nlive pe Steam",
   "steam_free_soon_on_plus": "În curând pe ImmaterialAI Plus\nlive pe Steam",
   "app_free_live_on_plus": "ImmaterialAI Plus\nu numai",
@@ -56,8 +54,8 @@
   "home_ancestry_root": "Noduri de bază",
   "home_ancestry_parent": "Noduri părinte",
   "home_ancestry_child": "Noduri copil",
-  "home_worlds_no_worlds" : "Nicio lume selectată",
-  "home_worlds_selected_worlds" : "Lumi selectate:",
+  "home_worlds_no_worlds": "Nicio lume selectată",
+  "home_worlds_selected_worlds": "Lumi selectate:",
   "path_title": "ImmaterialAI",
   "path_sub_title": "Alege o cale",
   "path_starting_features": "Începutul căii",
@@ -266,7 +264,7 @@
   "default_lt_dependency_tar_text": "depinde de",
   "n_add_name": "Numele conceptului",
   "n_add_name_plus": "Numele conceptului, folosește virgulă pentru a crea mai multe noduri",
-  "n_quick_add_add_link_type" : "Caută tipul de relație",
+  "n_quick_add_add_link_type": "Caută tipul de relație",
   "n_plus_editor_hint": "Scrie în Markdown",
   "n_add_select_node_type": "Alege tipul de nod",
   "n_tab_details": "Detalii",
@@ -275,9 +273,9 @@
   "n_hint_name": "Nume",
   "n_hint_subtitle": "Subtitrare",
   "n_hint_desc": "Descriere",
-  "n_direct_links" : "Linkuri directe la noduri",
-  "n_mentions" : "Menționat de",
-  "n_mentions_worlds_selected" : "(în lumile selectate)",
+  "n_direct_links": "Linkuri directe la noduri",
+  "n_mentions": "Menționat de",
+  "n_mentions_worlds_selected": "(în lumile selectate)",
   "n_hint_plus_view": "Vizualizare",
   "n_hint_plus_edit": "Editați",
   "n_deleting": "Se șterge nodul",
@@ -307,24 +305,22 @@
   "l_node_b": "nodul b",
   "l_link_type": "tipul de relație",
   "nt_name": "Numele tipului de nod",
-  "nt_description" : "Descriere",
+  "nt_description": "Descriere",
   "lt_name": "Numele tipului de legătură",
-  "lt_desc" : "Fiecare relație din ImmaterialAI este între două concepte, A și B.\nPuteți configura tipul de legătură pentru a restricționa tipurile de concepte pe care le pot avea A și B sau puteți lăsa oricare dintre ele goale pentru a permite toate tipurile de concepte la oricare dintre cele două capete",
-  "lt_add_node_type" : "Adaugă tipul de nod",
-  "lt_add_node_type_a" : "Tipuri pentru A",
-  "lt_add_node_type_b" : "Tipuri pentru B",
+  "lt_desc": "Fiecare relație din ImmaterialAI este între două concepte, A și B.\nPuteți configura tipul de legătură pentru a restricționa tipurile de concepte pe care le pot avea A și B sau puteți lăsa oricare dintre ele goale pentru a permite toate tipurile de concepte la oricare dintre cele două capete",
+  "lt_add_node_type": "Adaugă tipul de nod",
+  "lt_add_node_type_a": "Tipuri pentru A",
+  "lt_add_node_type_b": "Tipuri pentru B",
   "lt_add_node_type_dialog_search": "Căutați sau introduceți numele pentru noul tip de nod",
-  "lt_a" : "A (sursă)",
-  "lt_a_b" : "A & B (sursă și țintă)",
-  "lt_b" : "B (țintă)",
-
-  "lt_direction_matters" : "Direcția contează: ",
-  "lt_direction_info" : "dacă este falsă, A->B și B->A pot fi utilizate în mod interschimbabil (util pentru relațiile generalizate)",
-  "lt_multiple_sources" : "Țintele pot avea mai multe surse: ",
+  "lt_a": "A (sursă)",
+  "lt_a_b": "A & B (sursă și țintă)",
+  "lt_b": "B (țintă)",
+  "lt_direction_matters": "Direcția contează: ",
+  "lt_direction_info": "dacă este falsă, A->B și B->A pot fi utilizate în mod interschimbabil (util pentru relațiile generalizate)",
+  "lt_multiple_sources": "Țintele pot avea mai multe surse: ",
   "lt_save_warning_name": "Introduceți numele tipului de legătură înainte de a putea salva",
   "lt_save_warning_a_b": "Introduceți numele pentru A->B",
   "lt_save_warning_a_b_vice_versa": "Introduceți numele pentru A->B și B->A",
-
   "home_tasks_disabled": "Atingeți pentru a afișa sarcinile",
   "tasks_general": "Sarcini",
   "tasks_create_task": "Creează o sarcină",
@@ -355,7 +351,6 @@
   "n_is_it_real_nothing": "Irreal\ngăsit dovada „Nimic”\n",
   "n_is_it_real_known_unknown": "Cunoscut necunoscut\ngăsit dovada „Necunoscut”",
   "n_is_it_real_incomplete": "Neconcludent\nnodurile conexe lipsesc relația „dovadă”",
-
   "general_search": "Caută",
   "general_types": "Tipuri de relații",
   "general_node": "nod",
@@ -461,7 +456,6 @@
   "general_color": "culoare",
   "general_true": "adevărat",
   "general_false": "fals",
-
   "general_node_search_or_new": "Caută sau introduce numele pentru un nod nou",
   "general_node_node_to_inline": "Nod de adăugat ca link",
   "general_time_created": "creat",
@@ -564,7 +558,6 @@
   "ur_deconstruct_card_title_skeptic": "Scepticul",
   "ur_deconstruct_card_sub_skeptic": "Te ajută să vezi mai departe",
   "ur_deconstruct_card_desc_skeptic": "Te ajută să vezi mai departe",
-
   "ur_reshape_card_title": "Remodelează",
   "ur_reshape_v2_card_title": "Remodelează+",
   "ur_reshape_card_sub": "Modificați răspunsurile emoționale",
@@ -577,19 +570,15 @@
   "ur_iam_card_sub_alt": "Spune-i lui Blarg ce ai pe suflet :*",
   "ur_iam_card_desc": "Vezi dincolo de concepte",
   "ur_iam_card_desc_alt": "Spune-i lui Blarg ce ai pe suflet :*",
-
   "ur_iam_card_title_csb": "Interesantă poveste frățiorule",
   "ur_iam_card_sub_csb": "Haide frate, nu o să-ți zic că nu e adevarat",
   "ur_iam_card_desc_csb": "Haide frate, nu o să-ți zic că nu e adevarat",
-
-  "ur_transcend_card_title":  "Transcede",
+  "ur_transcend_card_title": "Transcede",
   "ur_transcend_card_sub": "sari peste toate etapele",
   "ur_transcend_card_desc": "Gata cu stările negative",
-
   "ur_fearless_card_title": "Neînfricat",
   "ur_fearless_card_sub": "Fără frică",
   "ur_fearless_card_desc": "Fără frică",
-
   "ur_deconstruct_title": "Ce doriți să deconstruiți?",
   "ur_deconstruct_desc": "Căutați nodul sau introduceți un nou nume de nod",
   "ur_deconstruct_cont_title": "Care este sursa / ce o face real?",
@@ -598,7 +587,6 @@
   "ur_deconstruct_desc_skeptic": "Search for the node or enter the name for a new node",
   "ur_deconstruct_cont_title_skeptic": "De ce?",
   "ur_deconstruct_cont_desc_skeptic": "Ca să fie adevărat ce zici, trebuie sa ai o dovadă",
-
   "ur_deconstruct_action_select": "Selectați",
   "ur_deconstruct_action_existing": "Existent",
   "ur_deconstruct_action_existing_pattern": "({item})",
@@ -812,13 +800,11 @@
     }
   },
   "ur_reshape_result_changed_absolute_desc": "Dacă e o problema legată de rău, înțelege ca viața nu pare mereu cinstita, ce conteaza fiind cum reacționam noi la ce se întâmplă.",
-
   "ur_iam_answer_end": "Nu sunteți acele concepte",
   "ur_iam_answer_end_flow": "Încheiat",
   "ur_iam_action_select": "Selectați",
   "ur_iam_action_next_select": "Selectați",
   "ur_iam_action_next_end": "Termină",
-
   "ur_iam_title": "Ce esti?",
   "ur_iam_desc": "Orice consideri a fi negativ și adevărat despre tine",
   "ur_iam_cont_title": "Nu sunteți „{concept}”",
@@ -840,8 +826,6 @@
     }
   },
   "ur_iam_result__iam_end": "Tu și lumea nu sunteți niciunul dintre conceptele pe care le-ați introdus, adevărata poveste este dincolo de orice definiție!",
-
-
   "ur_iam_title_alt": "Care-i problema ta, spune-i lui Blarg",
   "ur_iam_cont_title_alt": "„{concept}”?",
   "@ur_iam_cont_title_alt": {
@@ -862,7 +846,6 @@
     }
   },
   "ur_iam_result__iam_end_alt": "Blarg nu înțtelege nimic din ce ai zis, adevărata poveste este dincolo de orice definiție!",
-
   "ur_iam_title_csb": "Ia zi, prin ce treci?",
   "ur_iam_cont_title_csb": "{concept}?",
   "@ur_iam_cont_title_csb": {
@@ -875,7 +858,6 @@
   },
   "ur_iam_cont_desc_csb": "Glumeam - intersantă poveste frățiorule! Mai ai povești de genu?",
   "ur_iam_result__iam_end_csb": "Sunt stări reale prin care treci, dar nu te pierde in definiții. Există nedreptate, și acolo ar trebui să apară furia, dragoste și pace atunci când este cazul etc.\n\nNu spunem că toate ideile nu au coeficienți în realitate, ci doar că ar trebui să porniți mai întâi de la experiență și nu de la cuvinte.",
-
   "ur_deconstruct_result__dontknow": "Deoarece nu puteți găsi sursa fundamentală a \"{concept}\", vă puteți detașa de ea. Situația dvs. poate fi diferită, dimpotrivă sau ar putea să nu existe așa cum o știați.\n\nSăpați mai profund pentru ceea ce sa întâmplat de fapt",
   "@ur_deconstruct_result__dontknow": {
     "placeholders": {
@@ -896,12 +878,9 @@
   },
   "ur_deconstruct_result__circular": "Avertisment: O sursă de mai devreme în explicația dvs. este folosită ca ultimul element din explicație",
   "ur_deconstruct_result__selfref": "Avertisment: Ultimul articol pe care l-ați adăugat este sursa proprie.",
-
-
   "ur_transcend_title": "Ce stare neplăcuta ai în prezent?",
   "ur_transcend_desc": "Introduceți o stare existentă sau creați o stare nouă acum.",
   "ur_transcend_cont_desc": "Poți încerca să dovedești că există chiar tu cu Deconstruct.",
-
   "ur_transcend_action_select": "Select",
   "ur_transcend_action_end": "End",
   "ur_transcend_answer_result__end": "Nu ești {feeling}",
@@ -922,7 +901,6 @@
       }
     }
   },
-
   "ur_fearless_title": "Cu ce frică te confrunți?",
   "ur_fearless_desc": "Introduceți o frică existentă sau creați o nouă frică.",
   "ur_fearless_cont_desc": "Toate fricile au ca și condiție prealabilă credința în faptul că 'frica' este un aspect real valabil al realității",
@@ -946,7 +924,6 @@
       }
     }
   },
-
   "bundles_blueprints_name": "Șabloane",
   "bundles_blueprints_subtitle": "Concepte de pornire",
   "bundles_blueprints_description": "Concepte de bază pe care vă puteți baza cu ușurință. Legate de sursa de informații, de relația cu aceasta și de diferite arome de informații",
@@ -958,7 +935,6 @@
   "bundles_blueprints_negative": "Negativ",
   "bundles_blueprints_duality": "Dualitate",
   "bundles_blueprints_nonduality": "Nondualitate",
-
   "bundles_letgo_name": "Detașează-te",
   "bundles_letgo_subtitle": "Simte-te liber să te detașezi",
   "bundles_letgo_description": "Credințe implicite neîntemeiate, teorii transformate în fapte, presupuneri și multe altele. Găsește-le unghiul subiectiv, lasă-le să plece și privește dincolo.",
@@ -972,7 +948,6 @@
   "bundles_letgo_suffering_sub": "De ce ar fi așa?",
   "bundles_letgo_need": "Ai nevoie să faci/să fii/ai mai mult pentru X",
   "bundles_letgo_need_sub": "Ideea subiacentă a incompletitudinii actuale",
-
   "bundles_dig_name": "Sapă mai adânc",
   "bundles_dig_subtitle": "Dincolo de orizonturile actuale",
   "bundles_dig_description": "Semne de noi posibilități, teorii incomplete și puncte de reflecție. Luați în considerare ce înseamnă acestea pentru cunoștințele pe care le aveți până acum și ce uși deschid",
@@ -986,13 +961,12 @@
   "bundles_dig_study_trance": "Studiu: Neuroimagistica în timpul stărilor de transă",
   "bundles_dig_study_trance_sub": "Link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3500298/",
   "bundles_dig_study_unified_pathway": "Studiu: Trezirea spirituală și depresia: O cale unificată",
-  "bundles_dig_study_unified_pathway_sub":"Link: https://pubmed.ncbi.nlm.nih.gov/24354605/",
+  "bundles_dig_study_unified_pathway_sub": "Link: https://pubmed.ncbi.nlm.nih.gov/24354605/",
   "bundles_dig_study_stress_perception": "Studiu: Modul în care percepeți stresul vă poate ucide",
   "bundles_dig_study_stress_perception_sub": "Link: https://pubmed.ncbi.nlm.nih.gov/24354605/",
-  "bundles_fearless_name":"Frici",
-  "bundles_fearless_subtitle":"Gata cu fricile",
-  "bundles_fearless_description":"Cele mai populare frici, prezentând o modalitate empirică de a le depăși pe fiecare dintre ele în descrierea fiecărei frici. Importă oricare dintre ele în pe durata Steam Scream Fest pentru a debloca permanent un skin exclusiv",
-
+  "bundles_fearless_name": "Frici",
+  "bundles_fearless_subtitle": "Gata cu fricile",
+  "bundles_fearless_description": "Cele mai populare frici, prezentând o modalitate empirică de a le depăși pe fiecare dintre ele în descrierea fiecărei frici. Importă oricare dintre ele în pe durata Steam Scream Fest pentru a debloca permanent un skin exclusiv",
   "bundles_fearless_time": "Frica de timp",
   "bundles_fearless_time_desc": "timpul este o iluzie",
   "bundles_fearless_imperfection": "Frica de imperfecțiune",
@@ -1027,7 +1001,6 @@
   "bundles_fearless_losing_identity_desc": "identitatea ta se schimbă constant, nu ești o imagine statică, îmbrățișează schimbarea",
   "bundles_fearless_being_yourself": "Frica de a fi tu însuți",
   "bundles_fearless_being_yourself_desc": "Nu toată lumea te va accepta (inclusiv familia), iar acest lucru este, de asemenea, de înțeles - nimeni nu este îndreptățit să te placă sau să ia drept adevărat adevărul pe care îl expui",
-
   "home_unlocks_at": "Se deblochează la nivelul {level}",
   "@home_unlocks_at": {
     "placeholders": {
@@ -1037,7 +1010,6 @@
       }
     }
   },
-
   "rtb_intro_to_import": "Pentru a importa",
   "rtb_intro_to_ignore": "Pentru a ignora",
   "rtb_intro_already_imported": "Deja importat",
@@ -1076,7 +1048,6 @@
   "rtb_silver": "Argint",
   "rtb_gold": "Aur",
   "rtb_diamond": "Diamant",
-
   "rtb_quest_believe": "Eu cred",
   "rtb_quest_believe_desc": "Convertiți toate credințele, faptele și presupunerile în noduri și legături",
   "rtb_quest_believe_hint": "Creați noduri și link-uri adecvate",
@@ -1104,47 +1075,38 @@
   "rtb_quest_old_me": "Nu sunt eu",
   "rtb_quest_old_me_desc": "Detașează-te de toate vechile autoidentificări negative",
   "rtb_quest_old_me_hint": "Marchează nodurile releavant ca 'vechiul eu'",
-
-
   "rtb_insight_1": "Realitatea este peste cuvinte",
   "rtb_insight_2": "Tu ești mai mult decat cuvinte",
   "rtb_insight_3": "Trebuie sa te strofoci doar până poți trăi din propria livada",
   "rtb_insight_4": "Unele culturi sunt îndurerate cand o persoana iubită moare, altele le celebrează viața",
-
   "rtb_insight_5": "Nu este niciodată la fel",
   "rtb_insight_6": "De multe ori ajungem la soluția greșită pt ca vedem problema greșit",
   "rtb_insight_7": "Fără așteptări nu poți fi dezamagit",
   "rtb_insight_8": "Câte chestii ai interpretat ca bune sau rele cand ele doar sunt?",
   "rtb_insight_9": "Prezentul se schimbă constant",
   "rtb_insight_10": "Prezentul nu este mereu ca trecutul",
-
   "rtb_insight_11": "Trebuie să investighezi limbile cu care ai fost crescut pentru a vedea ce cuvinte sunt adevarate",
   "rtb_insight_12": "Nu trebuie să faci nimic să ajungi la extaz, trebuie doar sa lași în urmă zgomotul",
   "rtb_insight_13": "Urât exista doar in mințile unora",
-
   "rtb_insight_14": "Mereu primești oportunități în prezent pentru un viitor mai bun",
   "rtb_insight_15": "Unele chestii nu le poți schimba, concentrează-te pee ce poți",
   "rtb_insight_16": "Ești exact unde ar trebui sa fi",
   "rtb_insight_17": "Totul se întâmplă cum trebuie să se întâmple",
   "rtb_insight_18": "Nu are rost să-ți faci griji de viitor",
-
   "rtb_insight_19": "Adevărul e mai presus de orice sistem",
   "rtb_insight_20": "Investighează efectele credințelor actuale asupra acțiunilor tale",
   "rtb_insight_21": "Toate sistemele care exclud cad dupa o investigare amănunțită",
-
   "rtb_insight_22": "Credințele pot fi greșite",
   "rtb_insight_23": "Multe idei au dependențe incorecte",
   "rtb_insight_24": "Stressul este doar o idee",
   "rtb_insight_25": "Toate limitările sunt iluzorii",
   "rtb_insight_26": "Nu exista normal",
-
   "rtb_insight_27": "Trebuie să te ierți pe tine însuți și pe ceilalți pentru greșelile tale din trecut și din viitor",
   "rtb_insight_28": "Pășim în întuneric de fiecare dată până când avem toate cunoștințele",
   "rtb_insight_29": "Să știi este mai bine decât să crezi",
   "rtb_insight_30": "Cunoașterea absolută poate fi obținută de oricine",
   "rtb_insight_31": "Greșelile fac parte din natura umană",
   "rtb_insight_32": "Așteaptă-te la neașteptat",
-
   "clusters_cluster_name": "Mulțimea {nr}",
   "@clusters_name": {
     "description": "nr",
@@ -1169,7 +1131,6 @@
       }
     }
   },
-
   "intuition_answer_left": "STÂNGA",
   "intuition_answer_right": "DREAPTA",
   "intuition_description": "Raspunsul este deja selectat, dă-ți seama care e prin intuiție",
@@ -1196,13 +1157,11 @@
   "intuition_difficulty_hard": "Greu",
   "intuition_chart_average": "Previziuni corecte (medie)",
   "intuition_chart_consecutive": "Previziuni consecutive corecte",
-
   "sanity_check_validity_distribution_headline": "Distribuția validității",
   "sanity_check_validity_distribution_description": "folosind relații de tip 'dovadă'",
   "sanity_check_validity_distribution_raw_data": "date neprocesate",
   "sanity_check_validity_distribution_ai": "procesat de AI",
   "sanity_check_validity_distribution_diff": "diferență",
-
   "sanity_check_validity_nothing": "nimic",
   "sanity_check_validity_knownUnknown": "incert (găsit știut neștiut)",
   "sanity_check_validity_holistic": "totul",
@@ -1211,7 +1170,6 @@
   "sanity_check_validity_circularRef": "referință circulară",
   "sanity_check_validity_ref": "referimță",
   "sanity_check_validity_multiRef": "multiple referințe",
-
   "sanity_check_dialog_validity_nodes_raw": "noduri cu validitatea",
   "sanity_check_dialog_validity_nodes_raw_desc": "{percentString} din libraria ta, neprocesată",
   "@sanity_check_dialog_validity_nodes_raw_desc": {
@@ -1222,7 +1180,6 @@
       }
     }
   },
-
   "sanity_check_dialog_validity_nodes_ai": "noduri with validitatea",
   "sanity_check_dialog_validity_nodes_ai_desc": "{percentString} din libraria ta, procesată de AI, {percentageDiffString}",
   "@sanity_check_dialog_validity_nodes_ai_desc": {
@@ -1237,7 +1194,6 @@
       }
     }
   },
-
   "sanity_check_dialog_validity": "validitate '{title}'",
   "@sanity_check_dialog_validity": {
     "placeholders": {
@@ -1250,7 +1206,6 @@
   "sanity_check_dialog_diff_removed": "scos de AI",
   "sanity_check_dialog_diff_added": "adaugat de AI",
   "sanity_check_dialog_diff_desc": "Diferența îintre libraria neprocesată si procesată de AI",
-
   "sanity_check_clusters_holistic": "Mulțimi holistice",
   "sanity_check_clusters_largest": "cea mai mare",
   "sanity_check_clusters_single_nodes": "noduri separate",
@@ -1258,27 +1213,22 @@
   "sanity_check_clusters_validity_nothing": "cu 'Nimic'",
   "sanity_check_clusters_validity_known_unknown": "cu 'Știut neștiut'",
   "sanity_check_clusters_validity_everything": "cu 'Totul'",
-
   "sanity_check_me_all": "Eu",
   "sanity_check_me_old": "vechiul eu",
   "sanity_check_me_new": "noul eu",
   "sanity_check_me_none": "nici vechiul nici noul eu",
-
-
   "quantum_noise_get_api_key": "Ia o cheie API de la ANU main întâi",
   "quantum_noise_get_api_key_link": "(link)",
-  "quantum_noise_enter_api_key":"cheie API aici",
+  "quantum_noise_enter_api_key": "cheie API aici",
   "quantum_noise_forbidden": "cheia API este incorecta sau ți-ai atins limita lunară",
   "quantum_noise_selected": "Tipuri de noduri permise",
   "quantum_noise_unselected": "Tipuri de noduri ignorate",
-  "quantum_noise_no_duplicates" : "Eliminați recomandările deja alese (Fără dubluri)",
-  "quantum_noise_number_of_nodes" : "Numărul de noduri de recomandat",
-
+  "quantum_noise_no_duplicates": "Eliminați recomandările deja alese (Fără dubluri)",
+  "quantum_noise_number_of_nodes": "Numărul de noduri de recomandat",
   "sugar_pills_intro": "După cum probabil știi, percepția ta asupra realității îți afectează realitatea trăită și viceversa.\n\nPoți alege cum să te simți, cu toate acestea, oamenilor li se impun multe ca și cum nu ar avea de ales, de exemplu, X s-a întâmplat deci trebuie să mă simt Y, ceea ce îi determină pe mulți să nu se întrebe dacă pot alege și, în schimb, aleg să accepte răspunsurile date anterior, ex acest eveniment a dat in traumă.",
   "sugar_pills_study": "link către studiu",
   "sugar_pills_study_desc": "Studii ca acesta ne arată că percepția noastră contează cu adevărat pentru bunăstarea noastră. Mai jos puteți introduce concepte complet noi (cum ar fi opusul stresului) sau efecte noi pentru conceptele existente, lucrând prin aceleași mecanisme care aduc boli din convingerile bolnave.\n\nPentru a le fixa în realitate, efectele pastilelor de zahăr se manifestă de fiecare dată când inhalezi.",
   "sugar_pills_sugar_pills": "Pastile de zahăr",
-
   "worlds_name": "Scrie numele lumii",
   "worlds_sub": "subtitlu",
   "worlds_dialog_all_worlds": "toate lumile",
@@ -1301,22 +1251,20 @@
     }
   },
   "worlds_node_world": "Lume",
-
   "general_leaving_iai": "Părăsești ImmaterialAI",
   "general_leaving_iai_message": "Ești sigur?",
-
-  "settings_enforce_node_details_layout" : "Tabul detalii nod",
-  "settings_enforce_node_details_layout_default" : "Determinat de tipul de ecran",
-  "settings_enforce_node_details_layout_one_tab" : "Toate textele și detaliile nodului pe o singură filă",
-  "settings_enforce_node_details_layout_two_tabs" : "Textele și detaliile nodului pe 2 file separate",
+  "settings_enforce_node_details_layout": "Tabul detalii nod",
+  "settings_enforce_node_details_layout_default": "Determinat de tipul de ecran",
+  "settings_enforce_node_details_layout_one_tab": "Toate textele și detaliile nodului pe o singură filă",
+  "settings_enforce_node_details_layout_two_tabs": "Textele și detaliile nodului pe 2 file separate",
   "box_tree_view": "Tree view",
   "box_tree_view_sub_title": "Vedeți nodurile dvs. ca arbori configurabili",
   "default_nt_process": "Process",
   "default_nt_location": "Location",
-  "nt_parent" : "Parent",
-  "general_button_tap_to_change" : "TAP TO CHANGE",
+  "nt_parent": "Parent",
+  "general_button_tap_to_change": "TAP TO CHANGE",
   "rtb_mark_as_done_general": "MARCHEAZĂ CA TERMINAT DUPĂ CE A ACOPERIT TOT TERENUL",
-  "rtb_back_to_disclaimer" : "Back to disclaimer",
+  "rtb_back_to_disclaimer": "Back to disclaimer",
   "worlds_excluded_cat": " Excluse",
   "worlds_excluded_cat_sub": "(niciunul interzis dacă nu există restrictii)",
   "worlds_excluded_item": "Exclude",
@@ -1328,26 +1276,22 @@
   "n_tab_text": "Text",
   "n_tab_tree": "Ramuri",
   "default_lt_location": "La locația",
-
   "graph_poi_main_nucleus": "nucleu principal",
   "graph_poi_main_nucleus_2": "nucleu secundar",
   "graph_poi_main_nucleus_3": "nucleu terțiar",
   "graph_poi_center": "sunteți aici",
   "graph_poi_source": "sursă",
   "graph_poi_target": "țintă",
-
   "box_add_tag": "Etichetă nouă",
   "box_add_tag_sub_title": "Aplicați peste tot",
   "general_tags": "Etichete",
-  "settings_skin_night" : "Modul de noapte",
-
+  "settings_skin_night": "Modul de noapte",
   "sorting_general": "Se sortează",
   "sort_type_vanilla": "Implicit",
   "sort_type_latest": "Cel mai recent, mai întâi",
   "sort_type_oldest": "Cel mai vechi mai întâi",
   "sort_type_alphabetical": "În ordine alfabetică",
   "sort_type_alphabetical_reverse": "Alfabetic, inversat",
-
   "settings_debug_data_mode": "Depanați modul de date",
   "settings_persist_sorting": "Persista alegerea sortării",
   "settings_shared_database": "Modul bazei de date partajate",
@@ -1367,13 +1311,11 @@
   "settings_shared_database_dialog_action_copy_current_path": "Copiați calea curentă a bazei de date",
   "settings_shared_database_dialog_hint": "Reporniți ImmaterialAI după orice actualizare a locației bazei de date partajate",
   "settings_shared_database_database_changed": "Baza de date mesh a fost schimbată",
-
   "tags_name": "Numele etichetei",
   "tags_reference_add": "Etichetați elementul",
   "tags_reference_all": "Cu această etichetă",
   "tags_select_item_title": "Articol de etichetat",
   "general_restart_now_to_apply_changes": "Reporniți pentru a aplica complet modificările",
-
   "main_menu_launch": "Lansează acum",
   "settings_back_to_main_menu": "Înapoi la meniul principal",
   "box_backups_export_include_changes": "Includeți informații despre modificare",
@@ -1384,8 +1326,7 @@
   "main_menu_launch_new_user": "Selectați calea",
   "main_menu_view_new_user": "Vizualizare utilizator nou",
   "main_menu_view_existing_user": "Vizualizarea utilizatorului existent",
-
-  "main_menu_more" : "Mai multe",
+  "main_menu_more": "Mai multe",
   "main_menu_version_web": "Versiune web",
   "main_menu_version_web_desc": "Funcționează în orice browser",
   "main_menu_windows_drm_free": "Windows",
@@ -1394,10 +1335,8 @@
   "main_menu_store": "Faceți upgrade",
   "main_menu_store_steam": "Magazin Steam",
   "main_menu_latest_update": "Cel mai recentă actualizare",
-
   "rtb_s3_free_diamond": "4 skin-uri noi - albastru deschis, verde, roșu și violet",
   "rtb_s3_plus_gold": "piele noua",
   "rtb_s3_plus_gold_extra": "potrivire cu paleta de culori a lui ImmaterialAI Classic",
   "rtb_s3_plus_diamond": "Aspect nou, mod nou UI"
-
 }

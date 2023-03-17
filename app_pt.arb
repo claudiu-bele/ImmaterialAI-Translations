@@ -1,6 +1,6 @@
 {
-  "iai_name": "ImmaterialAI",
-  "iai_headline": "Bem-vindo ao novo tu",
+  "app__iai__name": "ImmaterialAI",
+  "app__iai__headline": "Bem-vindo ao novo tu",
   "appbar_search_all": "Pesquisa de dados e conteúdos",
   "appbar_search_data": "Pesquisa de dados",
   "tutorial_health_page1_headline": "Tutorial",
@@ -893,7 +893,6 @@
   "ur_transcend_title": "Com que estado negativo está actualmente a lidar?",
   "ur_transcend_desc": "Introduza um sentimento existente ou crie um novo sentimento na mosca",
   "ur_transcend_cont_desc": "Pode tentar provar a sua própria existência com Deconstruct",
-
   "ur_transcend_action_select": "Seleccionar",
   "ur_transcend_action_end": "Fim",
   "ur_transcend_answer_result__end": "Você não está {feeling}",
@@ -1161,7 +1160,6 @@
   "intuition_difficulty_hard": "Difícil",
   "intuition_chart_average": "Média geral das previsões correctas",
   "intuition_chart_consecutive": "Previsões consecutivas correctas",
-
   "sanity_check_validity_distribution_headline": "distribuição de validade através da biblioteca",
   "sanity_check_validity_distribution_description": "utilizando ligações de 'prova'",
   "sanity_check_validity_distribution_raw_data": "dados brutos",
@@ -1211,7 +1209,6 @@
   "sanity_check_dialog_diff_removed": "remoções por IA",
   "sanity_check_dialog_diff_added": "adições por AI",
   "sanity_check_dialog_diff_desc": "Diff entre a biblioteca do utilizador e a biblioteca processada por IA",
-
   "sanity_check_clusters_holistic": "Holistic clusters",
   "sanity_check_clusters_largest": "o maior",
   "sanity_check_clusters_single_nodes": "nós_únicos",
@@ -1259,19 +1256,18 @@
   "worlds_node_world": "Mundo",
   "general_leaving_iai": "Saindo da ImmaterialAI",
   "general_leaving_iai_message": "Tens a certeza?",
-
-  "settings_enforce_node_details_layout" : "Página de detalhes do nó de divisão",
-  "settings_enforce_node_details_layout_default" : "Determinado por tipo de ecrã",
-  "settings_enforce_node_details_layout_one_tab" : "Todos os textos e detalhes dos nós num só separador",
-  "settings_enforce_node_details_layout_two_tabs" : "Node texts and details on 2 separate tabs",
+  "settings_enforce_node_details_layout": "Página de detalhes do nó de divisão",
+  "settings_enforce_node_details_layout_default": "Determinado por tipo de ecrã",
+  "settings_enforce_node_details_layout_one_tab": "Todos os textos e detalhes dos nós num só separador",
+  "settings_enforce_node_details_layout_two_tabs": "Node texts and details on 2 separate tabs",
   "box_tree_view": "Vista_da_árvore",
   "box_tree_view_sub_title": "Veja os seus nós como árvores configuráveis",
   "default_nt_process": "Processo",
   "default_nt_location": "Localização",
-  "nt_parent" : "Pai",
-  "general_button_tap_to_change" : "TAP TO CHANGE",
+  "nt_parent": "Pai",
+  "general_button_tap_to_change": "TAP TO CHANGE",
   "rtb_mark_as_done_general": "MARCAR COMO FEITO DEPOIS DE COBRIR TODO O TERRENO",
-  "rtb_back_to_disclaimer" : "Back to disclaimer",
+  "rtb_back_to_disclaimer": "Back to disclaimer",
   "worlds_excluded_cat": "Excluídos",
   "worlds_excluded_cat_sub": "(nenhum proibido se não houver restrições)",
   "worlds_excluded_item": "Exclui",
@@ -1283,26 +1279,22 @@
   "n_tab_text": "Texto",
   "n_tab_tree": "Árvore",
   "default_lt_location": "No local",
-
   "graph_poi_main_nucleus": "núcleo_principal",
   "graph_poi_main_nucleus_2": "núcleo secundário",
   "graph_poi_main_nucleus_3": "núcleo_terciário",
   "graph_poi_center": "você está aqui",
   "graph_poi_source": "fonte",
   "graph_poi_target": "alvo",
-
   "sorting_general": "Ordenando",
   "sort_type_vanilla": "Padrão",
   "sort_type_latest": "Mais recente primeiro",
   "sort_type_oldest": "Mais antigo primeiro",
   "sort_type_alphabetical": "Alfabeticamente",
   "sort_type_alphabetical_reverse": "Alfabeticamente, invertido",
-
   "box_add_tag": "Nova etiqueta",
   "box_add_tag_sub_title": "Aplicar em qualquer lugar",
   "general_tags": "Etiquetas",
   "settings_skin_night": "Modo noturno",
-
   "settings_debug_data_mode": "Modo de dados de depuração",
   "settings_persist_sorting": "Persistir escolha de classificação",
   "settings_shared_database": "Modo de banco de dados compartilhado",
@@ -1318,20 +1310,16 @@
       }
     }
   },
-
   "settings_shared_database_dialog_sub": "Ao selecionar um banco de dados personalizado, escolha o arquivo db.sqlite de seu outro aplicativo Mesh (encontrado na pasta de instalação desse aplicativo)",
   "settings_shared_database_dialog_action_copy_current_path": "Copiar caminho atual do banco de dados",
   "settings_shared_database_dialog_hint": "Reiniciar ImmaterialAI após qualquer atualização de local de banco de dados compartilhado",
   "settings_shared_database_database_changed": "Banco de dados de malha alterado",
-
   "tags_name": "Nome da etiqueta",
   "tags_reference_add": "Tag item",
   "tags_reference_all": "Com esta tag",
   "tags_select_item_title": "Item a marcar",
   "general_restart_now_to_apply_changes": "Reinicie para aplicar totalmente as alterações",
-
   "main_menu_launch": "Iniciar agora",
-
   "settings_back_to_main_menu": "Voltar ao menu principal",
   "box_backups_export_include_changes": "Incluir informações de alteração",
   "settings_track_data_changes": "Acompanhar alterações de dados localmente",
@@ -1341,7 +1329,6 @@
   "main_menu_launch_new_user": "Selecione o caminho",
   "main_menu_view_new_user": "Nova visualização do usuário",
   "main_menu_view_existing_user": "Exibição de usuário existente",
-
   "main_menu_more": "Mais",
   "main_menu_version_web": "Versão da Web",
   "main_menu_version_web_desc": "Funciona em qualquer navegador",
@@ -1351,7 +1338,6 @@
   "main_menu_store": "Atualizar",
   "main_menu_store_steam": "Loja do Steam",
   "main_menu_latest_update": "Última atualização",
-
   "rtb_s3_free_diamond": "4 novas skins - azul claro, verde, vermelho e roxo",
   "rtb_s3_plus_gold": "nova capa",
   "rtb_s3_plus_gold_extra": "combinando com a paleta de cores do ImmaterialAI Classic",
